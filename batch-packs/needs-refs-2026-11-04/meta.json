@@ -1,21 +1,14 @@
 {
   "pack_id": "needs-refs-2026-11-04",
   "created": "2026-11-04",
-  "description": "补充此前未覆盖、需要参考图/@图片/角色锁定的提示词；内置 GenerateImage 生成角色参考，便于批量 I2V。不含 cn-under-30s 已覆盖的 5 条。",
+  "description": "补充此前未覆盖、需要参考图/@图片/角色锁定的提示词；内置 GenerateImage 生成角色参考，便于批量 I2V。现共 17 条、28 张图（含 cn-under-30s 未覆盖条目）。",
   "image_generator": "Grok Bot built-in GenerateImage (not OpenAI)",
-  "count": 8,
-  "image_count": 12,
+  "count": 17,
+  "image_count": 28,
   "skipped_pure_t2v_approx": 30,
   "remaining_needs_refs_not_in_this_pack": [
-    "丧尸都市最后一战 (@image1/2/3)",
-    "午夜血脉：最后一战 (@image1/2/3)",
-    "二战梦境战场 (@image1/2/3)",
-    "雨夜胶囊通勤悬崖 (Image1/2/3)",
-    "翡翠黄昏獠牙之战 (@image1 human + @image2 werewolf)",
-    "西班牙阳光与阴影旅行日记 (@image1)",
-    "REVISION 护肤广告 (image1/image2)",
-    "球场大乱斗：熊猫拳手戏耍鲨鱼恶霸 (character sheet)",
-    "永不抵达的列车 (consistent face, no explicit @image)"
+    "二战梦境战场 — 仍缺 @image3 战场/地堡环境",
+    "雨夜胶囊通勤悬崖 — 仍缺 Image 2（胶囊内景）与 Image 3（中段连续帧）"
   ],
   "items": [
     {
@@ -215,6 +208,248 @@
           "role": "女主（UGC）",
           "attach_as": "MAIN CHARACTER / 角色参考",
           "notes": "略显困倦的晨间居家造型；产品外观仍以提示词描述为准"
+        }
+      ]
+    },
+    {
+      "id": "09-sangshi-dushi",
+      "title": "丧尸都市最后一战",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "动作",
+      "author": "@Xaroon_x",
+      "post_date": "2026-10-30",
+      "collection_date": "2026-10-30",
+      "source": "https://x.com/Xaroon_x/status/2116043962465079357",
+      "summary": "约 30 秒好莱坞丧尸动作：废墟都市幸存者突围。",
+      "prompt_path": "by-date/2026-10-30.md",
+      "folder": "09-sangshi-dushi",
+      "images": [
+        {
+          "file": "hero.png",
+          "role": "幸存者主角",
+          "attach_as": "@image1",
+          "notes": "橄榄绿野战夹克+砍刀"
+        },
+        {
+          "file": "zombies.png",
+          "role": "丧尸设计（A/B）",
+          "attach_as": "@image2",
+          "notes": "两只感染者造型参考"
+        },
+        {
+          "file": "city.png",
+          "role": "废墟都市",
+          "attach_as": "@image3",
+          "notes": "废墟街道环境锁定"
+        }
+      ]
+    },
+    {
+      "id": "10-wuye-xuemai",
+      "title": "午夜血脉：最后一战",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "动作",
+      "author": "@Xaroon_x",
+      "post_date": "2026-10-31",
+      "collection_date": "2026-11-01",
+      "source": "https://x.com/Xaroon_x/status/2116538406482129400",
+      "summary": "30 秒好莱坞动作：午夜豪宅内一对五近身与枪战。",
+      "prompt_path": "by-date/2026-11-01.md",
+      "folder": "10-wuye-xuemai",
+      "images": [
+        {
+          "file": "hero.png",
+          "role": "男主",
+          "attach_as": "@image1",
+          "notes": "黑衣+手枪"
+        },
+        {
+          "file": "attackers.png",
+          "role": "五名入侵者",
+          "attach_as": "@image2",
+          "notes": "五人造型合集"
+        },
+        {
+          "file": "house.png",
+          "role": "午夜豪宅",
+          "attach_as": "@image3",
+          "notes": "外观环境锁定"
+        }
+      ]
+    },
+    {
+      "id": "11-erzhan-mengjing",
+      "title": "二战梦境战场",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "动作",
+      "author": "@Xaroon_x",
+      "post_date": "2026-11-02",
+      "collection_date": "2026-11-03",
+      "source": "https://x.com/Xaroon_x/status/2117263157005558210",
+      "summary": "30 秒好莱坞战争片：现代卧室坠入泥泞战场，爆炸后猛然惊醒。",
+      "prompt_path": "by-date/2026-11-03.md",
+      "folder": "11-erzhan-mengjing",
+      "images": [
+        {
+          "file": "hero.png",
+          "role": "盟军士兵主角",
+          "attach_as": "@image1",
+          "notes": "1944 盟军制服+M1"
+        },
+        {
+          "file": "german.png",
+          "role": "德军士兵",
+          "attach_as": "@image2",
+          "notes": "Kar98k；无战场环境图 @image3（本轮未出）"
+        }
+      ],
+      "notes": "本轮未生成 @image3 战场/地堡环境图"
+    },
+    {
+      "id": "12-yuye-jiaonang",
+      "title": "雨夜胶囊通勤悬崖",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "科幻奇幻",
+      "author": "@TrixiHQ",
+      "post_date": "2026-10-31",
+      "collection_date": "2026-11-01",
+      "source": "https://x.com/TrixiHQ/status/2116617607784653292",
+      "summary": "30 秒未来通勤：胶囊车遇泥浆失明，滚落河岸悬停瀑布前。",
+      "prompt_path": "by-date/2026-11-01.md",
+      "folder": "12-yuye-jiaonang",
+      "images": [
+        {
+          "file": "woman.png",
+          "role": "女主",
+          "attach_as": "Image 1",
+          "notes": "粉色西装+黑包"
+        }
+      ],
+      "notes": "本轮未生成 Image 2 胶囊内景 / Image 3 中段连续帧"
+    },
+    {
+      "id": "13-feicui-huanghun",
+      "title": "翡翠黄昏獠牙之战",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "动作",
+      "author": "@Xaroon_x",
+      "post_date": "2026-11-01",
+      "collection_date": "2026-11-02",
+      "source": "https://x.com/Xaroon_x/status/2116895635114717388",
+      "summary": "30 秒雨林生物动作：英雄狼人化身对战苔藓巨兽。",
+      "prompt_path": "by-date/2026-11-02.md",
+      "folder": "13-feicui-huanghun",
+      "images": [
+        {
+          "file": "human.png",
+          "role": "人类英雄",
+          "attach_as": "@image1",
+          "notes": "黑衣丛林英雄"
+        },
+        {
+          "file": "werewolf.png",
+          "role": "狼人形态",
+          "attach_as": "@image2",
+          "notes": "变身后生物锁定"
+        }
+      ]
+    },
+    {
+      "id": "14-xibanya-lixing",
+      "title": "西班牙阳光与阴影旅行日记",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "纪实公益",
+      "author": "@Xaroon_x",
+      "post_date": "2026-10-29",
+      "collection_date": "2026-10-29",
+      "source": "https://x.com/Xaroon_x/status/2115753208802955334",
+      "summary": "30 秒塞维利亚到格拉纳达：瓷砖、拱廊、咖啡与日落。",
+      "prompt_path": "by-date/2026-10-29.md",
+      "folder": "14-xibanya-lixing",
+      "images": [
+        {
+          "file": "hero.png",
+          "role": "旅行男主",
+          "attach_as": "@image1",
+          "notes": "亚麻衬衫+挂脖相机"
+        }
+      ]
+    },
+    {
+      "id": "15-revision-hufu",
+      "title": "REVISION 护肤广告",
+      "duration": "30 秒",
+      "tool": "Kling 4.0",
+      "category": "广告带货",
+      "author": "@Diplomeme",
+      "post_date": "2026-11-01",
+      "collection_date": "2026-11-03",
+      "source": "https://x.com/Diplomeme/status/2116791374829998231",
+      "summary": "30 秒竖屏护肤广告：同一张脸四种造型，粉系浴室走完护肤节奏。",
+      "prompt_path": "by-date/2026-11-03.md",
+      "folder": "15-revision-hufu",
+      "images": [
+        {
+          "file": "woman.png",
+          "role": "女演员身份锁定",
+          "attach_as": "image1",
+          "notes": "暖棕肤色+长直黑发+金耳环"
+        },
+        {
+          "file": "bottle.png",
+          "role": "产品包装",
+          "attach_as": "image2",
+          "notes": "黑瓶+螺纹盖包装权威"
+        }
+      ]
+    },
+    {
+      "id": "16-qiuchang-luan",
+      "title": "球场大乱斗：熊猫拳手戏耍鲨鱼恶霸",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "动漫",
+      "author": "@HeyAbhishek",
+      "post_date": "2026-11-03",
+      "collection_date": "2026-11-04",
+      "source": "https://x.com/HeyAbhishek/status/2117591927361339728",
+      "summary": "30秒三渲二动画动作喜剧：街头熊猫拳手用篮球花式羞辱挥锤鲨鱼恶霸，时间轴分秒写死。",
+      "prompt_path": "by-date/2026-11-04.md",
+      "folder": "16-qiuchang-luan",
+      "images": [
+        {
+          "file": "sheet.png",
+          "role": "双人角色设定图",
+          "attach_as": "uploaded character sheet",
+          "notes": "Panda Flip + Brute Jaw 合集"
+        }
+      ]
+    },
+    {
+      "id": "17-yongbu-die",
+      "title": "永不抵达的列车",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "科幻奇幻",
+      "author": "@Hope_Ai01",
+      "post_date": "2026-11-02",
+      "collection_date": "2026-11-03",
+      "source": "https://x.com/Hope_Ai01/status/2117300920866496661",
+      "summary": "30 秒韩式悬疑：雨夜月台，时刻表上不存在的火车停在他面前。",
+      "prompt_path": "by-date/2026-11-03.md",
+      "folder": "17-yongbu-die",
+      "images": [
+        {
+          "file": "man.png",
+          "role": "韩裔男主",
+          "attach_as": "角色参考 / @图片1",
+          "notes": "雨夜月台深色大衣"
         }
       ]
     }
