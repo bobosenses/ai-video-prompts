@@ -2,7 +2,7 @@
 
 从仓库筛出 **尚未被** [`cn-under-30s-2026-11-04`](../cn-under-30s-2026-11-04/) 覆盖、且明确依赖参考图 / `@image` / 角色锁定 / Main Subject 的提示词。
 
-当前：**17 条 + 28 张**参考图（分两批写入）。参考图由 Grok Bot 内置生图生成（**未使用、也未提交任何 API Key**）。
+当前：**17 条 + 31 张**参考图（分两批写入）。参考图由 Grok Bot 内置生图生成（**未使用、也未提交任何 API Key**）。
 
 ## 怎么用
 
@@ -25,8 +25,8 @@
 | 8 | [便携意式咖啡机晨间 UGC](../../by-date/2026-10-26.md) | 30 秒 | Seedance 2.5 | `character.png`→MAIN CHARACTER |
 | 9 | [丧尸都市最后一战](../../by-date/2026-10-30.md) | 30 秒 | Seedance 2.5 | `hero.png`→@image1, `zombies.png`→@image2, `city.png`→@image3 |
 | 10 | [午夜血脉：最后一战](../../by-date/2026-11-01.md) | 30 秒 | Seedance 2.5 | `hero.png`→@image1, `attackers.png`→@image2, `house.png`→@image3 |
-| 11 | [二战梦境战场](../../by-date/2026-11-03.md) | 30 秒 | Seedance 2.5 | `hero.png`→@image1, `german.png`→@image2（缺 @image3 环境） |
-| 12 | [雨夜胶囊通勤悬崖](../../by-date/2026-11-01.md) | 30 秒 | Seedance 2.5 | `woman.png`→Image 1（缺 Image 2/3） |
+| 11 | [二战梦境战场](../../by-date/2026-11-03.md) | 30 秒 | Seedance 2.5 | `hero.png`→@image1, `german.png`→@image2, `battlefield.png`→@image3 |
+| 12 | [雨夜胶囊通勤悬崖](../../by-date/2026-11-01.md) | 30 秒 | Seedance 2.5 | `woman.png`→Image 1, `capsule-interior.png`→Image 2, `midpoint.png`→Image 3 |
 | 13 | [翡翠黄昏獠牙之战](../../by-date/2026-11-02.md) | 30 秒 | Seedance 2.5 | `human.png`→@image1, `werewolf.png`→@image2 |
 | 14 | [西班牙阳光与阴影旅行日记](../../by-date/2026-10-29.md) | 30 秒 | Seedance 2.5 | `hero.png`→@image1 |
 | 15 | [REVISION 护肤广告](../../by-date/2026-11-03.md) | 30 秒 | Kling 4.0 | `woman.png`→image1, `bottle.png`→image2 |
@@ -48,11 +48,12 @@
 ### 11. 二战梦境战场 — `11-erzhan-mengjing/`
 - `hero.png` → **@image1**
 - `german.png` → **@image2**
-- ⚠️ 仍缺 **@image3** 战场/地堡环境
+- `battlefield.png` → **@image3**（泥泞战场 + 混凝土地堡）
 
 ### 12. 雨夜胶囊通勤悬崖 — `12-yuye-jiaonang/`
 - `woman.png` → **Image 1**
-- ⚠️ 仍缺 **Image 2**（胶囊内景）与 **Image 3**（中段连续帧）
+- `capsule-interior.png` → **Image 2**（透明球形胶囊内景）
+- `midpoint.png` → **Image 3**（约 14–15s 泥泞中段连续帧）
 
 ### 13. 翡翠黄昏獠牙之战 — `13-feicui-huanghun/`
 - `human.png` → **@image1**
@@ -71,12 +72,9 @@
 ### 17. 永不抵达的列车 — `17-yongbu-die/`
 - `man.png` → 角色参考
 
-## 仍缺（局部）
+## 缺口状态
 
-- 二战梦境战场 `@image3` 战场/地堡
-- 雨夜胶囊通勤悬崖 `Image 2` / `Image 3`
-
-纯文生视频（无明显挂图依赖）仍跳过。第一批 01–08 映射见上文清单与 git 历史。
+局部缺口已补齐（二战 `@image3`、胶囊 Image 2/3）。纯文生视频（无明显挂图依赖）仍跳过。
 
 ## 说明
 

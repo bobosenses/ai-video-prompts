@@ -1,15 +1,12 @@
 {
   "pack_id": "needs-refs-2026-11-04",
   "created": "2026-11-04",
-  "description": "补充此前未覆盖、需要参考图/@图片/角色锁定的提示词；内置 GenerateImage 生成角色参考，便于批量 I2V。现共 17 条、28 张图（含 cn-under-30s 未覆盖条目）。",
+  "description": "补充此前未覆盖、需要参考图/@图片/角色锁定的提示词；内置 GenerateImage 生成角色参考，便于批量 I2V。现共 17 条、31 张图；局部缺口已补齐。",
   "image_generator": "Grok Bot built-in GenerateImage (not OpenAI)",
   "count": 17,
-  "image_count": 28,
+  "image_count": 31,
   "skipped_pure_t2v_approx": 30,
-  "remaining_needs_refs_not_in_this_pack": [
-    "二战梦境战场 — 仍缺 @image3 战场/地堡环境",
-    "雨夜胶囊通勤悬崖 — 仍缺 Image 2（胶囊内景）与 Image 3（中段连续帧）"
-  ],
+  "remaining_needs_refs_not_in_this_pack": [],
   "items": [
     {
       "id": "01-hongdeng-lianren",
@@ -304,9 +301,14 @@
           "role": "德军士兵",
           "attach_as": "@image2",
           "notes": "Kar98k；无战场环境图 @image3（本轮未出）"
+        },
+        {
+          "file": "battlefield.png",
+          "role": "战场与地堡环境",
+          "attach_as": "@image3",
+          "notes": "泥泞战场 + 混凝土地堡入口"
         }
-      ],
-      "notes": "本轮未生成 @image3 战场/地堡环境图"
+      ]
     },
     {
       "id": "12-yuye-jiaonang",
@@ -327,9 +329,20 @@
           "role": "女主",
           "attach_as": "Image 1",
           "notes": "粉色西装+黑包"
+        },
+        {
+          "file": "capsule-interior.png",
+          "role": "女主在透明胶囊内",
+          "attach_as": "Image 2",
+          "notes": "球形胶囊、灰垫座、双脚完全在舱内"
+        },
+        {
+          "file": "midpoint.png",
+          "role": "中段连续帧（约 14–15s）",
+          "attach_as": "Image 3",
+          "notes": "泥泞路段、胶囊下部已有泥渍，即将到路口"
         }
-      ],
-      "notes": "本轮未生成 Image 2 胶囊内景 / Image 3 中段连续帧"
+      ]
     },
     {
       "id": "13-feicui-huanghun",
