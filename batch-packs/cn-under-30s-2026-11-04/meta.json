@@ -1,0 +1,132 @@
+{
+  "pack_id": "cn-under-30s-2026-11-04",
+  "created": "2026-11-04",
+  "description": "从仓库精选 5 条适合中文语境、时长 ≤30 秒的 AI 视频提示词，并附角色/穿搭参考图，便于 Seedance / Grok Imagine 等工具批量 I2V。",
+  "image_generator": "Grok Bot built-in GenerateImage (not OpenAI)",
+  "count": 5,
+  "items": [
+    {
+      "id": "01-ling-xiang-zhi-hou",
+      "title": "古风仙侠《铃响之后》",
+      "duration": "15 秒",
+      "tool": "Seedance 2.0 Mini",
+      "category": "动漫",
+      "author": "@Soranlan",
+      "post_date": "2026-10-29",
+      "source": "https://x.com/Soranlan/status/2115721251729908136",
+      "summary": "15 秒心理悬疑：镇魂铃每次响起，师姐才真正失控——反转在师父。",
+      "prompt_path": "by-date/2026-10-29.md",
+      "folder": "01-ling-xiang-zhi-hou",
+      "images": [
+        {
+          "file": "shijie.png",
+          "role": "师姐",
+          "attach_as": "@图片1",
+          "notes": "剑仙师姐角色锁定"
+        },
+        {
+          "file": "shimei.png",
+          "role": "小师妹",
+          "attach_as": "@图片2",
+          "notes": "小师妹角色锁定"
+        }
+      ]
+    },
+    {
+      "id": "02-cheinei-koubo",
+      "title": "车内哭笑口播：第一次去男友家",
+      "duration": "26 秒",
+      "tool": "Grok Imagine",
+      "category": "创意趣味",
+      "author": "@john87445528",
+      "post_date": "2026-10-27",
+      "source": "https://x.com/john87445528/status/2114862136715530559",
+      "summary": "24 秒竖屏两段口播：女主趴方向盘哭笑讲述第一次见男友爸，被叫「亲家」。",
+      "prompt_path": "by-date/2026-10-27.md",
+      "folder": "02-cheinei-koubo",
+      "images": [
+        {
+          "file": "nvzhu.png",
+          "role": "女主",
+          "attach_as": "@图片1 / 角色参考",
+          "notes": "车内口播女主角色锁定"
+        }
+      ]
+    },
+    {
+      "id": "03-dijiu-ci-gaobai",
+      "title": "第九次告白：时间暂停的雨棚恋曲",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "科幻奇幻",
+      "author": "@johnAGI168",
+      "post_date": "2026-11-02",
+      "source": "https://x.com/johnAGI168/status/2117249723467805015",
+      "summary": "30秒竖屏奇幻爱情短片：男主用响指暂停雨幕偷偷告白，女主揭穿她一直都能动，最后一吻算数。",
+      "prompt_path": "by-date/2026-11-04.md",
+      "folder": "03-dijiu-ci-gaobai",
+      "images": [
+        {
+          "file": "shiyan.png",
+          "role": "时言",
+          "attach_as": "@图片1",
+          "notes": "男主（黑框眼镜）"
+        },
+        {
+          "file": "zhixia.png",
+          "role": "知夏",
+          "attach_as": "@图片2",
+          "notes": "女主"
+        }
+      ]
+    },
+    {
+      "id": "04-grwm",
+      "title": "30秒固定机位 GRWM 穿搭成片",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5 / Ima Studio",
+      "category": "广告带货",
+      "author": "@ImaStudio_ai",
+      "post_date": "2026-11-03",
+      "source": "https://x.com/ImaStudio_ai/status/2117565623488356803",
+      "summary": "严格10镜硬切的竖屏时尚博主穿搭流程：展示单品、穿上毛衣与短裙，最终全身亮相。",
+      "prompt_path": "by-date/2026-11-04.md",
+      "folder": "04-grwm",
+      "images": [
+        {
+          "file": "character.png",
+          "role": "起始妆造/人物",
+          "attach_as": "@Image1",
+          "notes": "白背心+睡衣短裤起始造型"
+        },
+        {
+          "file": "wardrobe.png",
+          "role": "成片穿搭",
+          "attach_as": "@Image2",
+          "notes": "苔藓绿毛衣+橄榄绿缎面蕾丝短裙等单品"
+        }
+      ]
+    },
+    {
+      "id": "05-jiayong-dv",
+      "title": "2000年代初家用 DV：平凡一天",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "纪实公益",
+      "author": "@doctorwasif",
+      "post_date": "2026-11-01",
+      "source": "https://x.com/doctorwasif/status/2116866019184828867",
+      "summary": "刻意粗糙的早期 DV 手持纪实：洗脸煮咖啡洗衣打电话买菜收衣服点蚊香，纯环境声无配乐。",
+      "prompt_path": "by-date/2026-11-04.md",
+      "folder": "05-jiayong-dv",
+      "images": [
+        {
+          "file": "main.png",
+          "role": "主人物",
+          "attach_as": "Main Subject / @图片1",
+          "notes": "2000年代初家居日常人物锁定"
+        }
+      ]
+    }
+  ]
+}

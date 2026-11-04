@@ -15,6 +15,7 @@
 ```
 by-date/YYYY-MM-DD.md   # 按收录日归档
 by-category/            # 按分类归档（含完整提示词）
+batch-packs/            # 精选批量包（含参考图，便于 I2V）
 index.json              # 机器可读索引
 ```
 
@@ -44,6 +45,10 @@ index.json              # 机器可读索引
 - [广告带货](by-category/ads-commerce.md)（7）
 - [教程知识](by-category/tutorial.md)（0）
 - [纪实公益](by-category/documentary.md)（6）
+
+## 批量包
+
+- [中文语境 · 30 秒以内（2026-11-04）](batch-packs/cn-under-30s-2026-11-04/)：5 条 + 8 张角色/穿搭参考图，可直接按 `@图片1/@图片2` 使用。
 
 ## 使用建议
 
