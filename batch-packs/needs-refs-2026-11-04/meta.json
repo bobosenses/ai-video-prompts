@@ -1,0 +1,222 @@
+{
+  "pack_id": "needs-refs-2026-11-04",
+  "created": "2026-11-04",
+  "description": "补充此前未覆盖、需要参考图/@图片/角色锁定的提示词；内置 GenerateImage 生成角色参考，便于批量 I2V。不含 cn-under-30s 已覆盖的 5 条。",
+  "image_generator": "Grok Bot built-in GenerateImage (not OpenAI)",
+  "count": 8,
+  "image_count": 12,
+  "skipped_pure_t2v_approx": 30,
+  "remaining_needs_refs_not_in_this_pack": [
+    "丧尸都市最后一战 (@image1/2/3)",
+    "午夜血脉：最后一战 (@image1/2/3)",
+    "二战梦境战场 (@image1/2/3)",
+    "雨夜胶囊通勤悬崖 (Image1/2/3)",
+    "翡翠黄昏獠牙之战 (@image1 human + @image2 werewolf)",
+    "西班牙阳光与阴影旅行日记 (@image1)",
+    "REVISION 护肤广告 (image1/image2)",
+    "球场大乱斗：熊猫拳手戏耍鲨鱼恶霸 (character sheet)",
+    "永不抵达的列车 (consistent face, no explicit @image)"
+  ],
+  "items": [
+    {
+      "id": "01-hongdeng-lianren",
+      "title": "红灯恋人：我们曾是我们",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "创意趣味",
+      "author": "@Ziha_ai",
+      "post_date": "2026-10-29",
+      "collection_date": "2026-10-29",
+      "source": "https://x.com/Ziha_ai/status/2115773241314934884",
+      "summary": "30 秒情感短片：红灯下重逢，克制对白与目光。",
+      "prompt_path": "by-date/2026-10-29.md",
+      "folder": "01-hongdeng-lianren",
+      "images": [
+        {
+          "file": "male.png",
+          "role": "男主（前男友）",
+          "attach_as": "@image1",
+          "notes": "Identity lock for male protagonist"
+        },
+        {
+          "file": "female.png",
+          "role": "女主（前女友）",
+          "attach_as": "@image2",
+          "notes": "Identity lock for female protagonist"
+        }
+      ]
+    },
+    {
+      "id": "02-qingtongzhong",
+      "title": "青铜钟最后一响：寺院雨夜对决",
+      "duration": "28 秒",
+      "tool": "Seedance 2.5",
+      "category": "动作",
+      "author": "@Xaroon_x",
+      "post_date": "2026-10-27",
+      "collection_date": "2026-10-27",
+      "source": "https://x.com/Xaroon_x/status/2115077897249841337",
+      "summary": "30 秒写实武打：雨夜寺院英雄对锁镰对手，钟裂五连击收尾。",
+      "prompt_path": "by-date/2026-10-27.md",
+      "folder": "02-qingtongzhong",
+      "images": [
+        {
+          "file": "hero.png",
+          "role": "英雄",
+          "attach_as": "@image1",
+          "notes": "黑衣武打英雄 + 木杖；对手 Kaizo 由提示词文字描述"
+        }
+      ]
+    },
+    {
+      "id": "03-wushan-chayuan",
+      "title": "雾山茶园跑酷一打十",
+      "duration": "15 秒，16:9",
+      "tool": "Seedance 2.5，需人物参考图",
+      "category": "动作",
+      "author": "@Chaemate_",
+      "post_date": "2026-10-23",
+      "collection_date": "2026-10-24",
+      "source": "https://x.com/Chaemate_/status/2113558308514922850",
+      "summary": "雨后雾气梯田茶园里，女主角用跑酷连招连续击倒十名蒙面敌人；6 个镜头写清机位、焦段和动作。",
+      "prompt_path": "by-date/2026-10-24.md",
+      "folder": "03-wushan-chayuan",
+      "images": [
+        {
+          "file": "heroine.png",
+          "role": "女主跑酷战士",
+          "attach_as": "@image 1",
+          "notes": "玫粉挑染/侧辫 + 酒红上衣 + 米色工装裤"
+        }
+      ]
+    },
+    {
+      "id": "04-yuye-yuetai",
+      "title": "雨夜月台重逢",
+      "duration": "约 20 秒",
+      "tool": "Seedance 2.5",
+      "category": "创意趣味",
+      "author": "@auqibhabib",
+      "post_date": "2026-11-02",
+      "collection_date": "2026-11-03",
+      "source": "https://x.com/auqibhabib/status/2117299650801885305",
+      "summary": "雨夜火车月台：门将关上时他追着车窗跑，紧急刹车后她奔向他。",
+      "prompt_path": "by-date/2026-11-03.md",
+      "folder": "04-yuye-yuetai",
+      "images": [
+        {
+          "file": "girl.png",
+          "role": "女主",
+          "attach_as": "@图片1 / 角色锁定",
+          "notes": "奶油色风衣 + 小行李箱，雨夜月台"
+        },
+        {
+          "file": "boy.png",
+          "role": "男主",
+          "attach_as": "@图片2 / 角色锁定",
+          "notes": "深蓝外套，雨湿短发"
+        }
+      ]
+    },
+    {
+      "id": "05-shuangtu-mofa",
+      "title": "双图魔法少女变身",
+      "duration": "15 秒",
+      "tool": "Seedance 2.5",
+      "category": "动漫",
+      "author": "@um_moo_",
+      "post_date": "2026-10-31",
+      "collection_date": "2026-10-31",
+      "source": "https://x.com/um_moo_/status/2116503409360818648",
+      "summary": "15 秒竖屏：两张参考图驱动的魔法少女变身与抽卡高潮。",
+      "prompt_path": "by-date/2026-10-31.md",
+      "folder": "05-shuangtu-mofa",
+      "images": [
+        {
+          "file": "before.png",
+          "role": "变身前（日常校服）",
+          "attach_as": "[Image 1]",
+          "notes": "2D 动漫校服少女"
+        },
+        {
+          "file": "after.png",
+          "role": "变身后（魔装+杖）",
+          "attach_as": "[Image 2]",
+          "notes": "2D 粉白魔装与星杖最终姿势"
+        }
+      ]
+    },
+    {
+      "id": "06-yinni-xiangnong",
+      "title": "印尼巷弄日常家录",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "纪实公益",
+      "author": "@QAiStudio",
+      "post_date": "2026-10-31",
+      "collection_date": "2026-10-31",
+      "source": "https://x.com/QAiStudio/status/2116521370381332690",
+      "summary": "30 秒早期家录感：印尼窄巷、露台与日常动静。",
+      "prompt_path": "by-date/2026-10-31.md",
+      "folder": "06-yinni-xiangnong",
+      "images": [
+        {
+          "file": "main.png",
+          "role": "主人物",
+          "attach_as": "image = Main Subject",
+          "notes": "橄榄绿短上衣 + 浅蓝高腰牛仔裤"
+        }
+      ]
+    },
+    {
+      "id": "07-muqin-dengzi",
+      "title": "母亲等子归来（朝鲜时代）",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "纪实公益",
+      "author": "@Hope_Ai01",
+      "post_date": "2026-10-28",
+      "collection_date": "2026-10-28",
+      "source": "https://x.com/Hope_Ai01/status/2115442047692005764",
+      "summary": "30 秒写实历史剧：朝鲜村庄老母亲等待久别儿子归来的情感长镜。",
+      "prompt_path": "by-date/2026-10-28.md",
+      "folder": "07-muqin-dengzi",
+      "images": [
+        {
+          "file": "mother.png",
+          "role": "母亲",
+          "attach_as": "@图片1 / 角色参考",
+          "notes": "68 岁朝鲜母亲，米色 jeogori + 深褐 chima"
+        },
+        {
+          "file": "son.png",
+          "role": "儿子",
+          "attach_as": "@图片2 / 角色参考",
+          "notes": "28 岁归乡士兵，深蓝战袍"
+        }
+      ]
+    },
+    {
+      "id": "08-kafei-ugc",
+      "title": "便携意式咖啡机晨间 UGC",
+      "duration": "30 秒",
+      "tool": "Seedance 2.5",
+      "category": "广告带货",
+      "author": "@Just_sharon7",
+      "post_date": "2026-10-25",
+      "collection_date": "2026-10-26",
+      "source": "https://x.com/Just_sharon7/status/2114344359600566303",
+      "summary": "30 秒晨间 UGC：便携意式咖啡机从困倦开场到冲煮、品鉴、收尾，分镜到秒含对白。",
+      "prompt_path": "by-date/2026-10-26.md",
+      "folder": "08-kafei-ugc",
+      "images": [
+        {
+          "file": "character.png",
+          "role": "女主（UGC）",
+          "attach_as": "MAIN CHARACTER / 角色参考",
+          "notes": "略显困倦的晨间居家造型；产品外观仍以提示词描述为准"
+        }
+      ]
+    }
+  ]
+}
