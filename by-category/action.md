@@ -1,6 +1,6 @@
 # 动作
 
-共 9 条。
+共 10 条。
 
 ## 2026-10-24（1）
 
@@ -356,3 +356,57 @@
 > 25–30s | FINISH: Slow motion: werewolf leaps and smashes both fists onto the beast's skull, driving it into cracked mud. The beast collapses motionless. Werewolf breathes heavily; in close-up, fur recedes, muzzle shortens, and he becomes exactly @image1 with original outfit restored. He smiles calmly and walks into golden mist. Hard cut at 30 seconds.
 > 
 > AUDIO: Original tribal orchestral score, war drums, low strings, taiko percussion, choir swell during transformation, synchronized bone cracks, fabric tearing, claws, roars, splintering wood and heavy impacts. Brief silence before final blow, thunderous kill impact, then warm strings and rain fading at exactly 30 seconds.
+
+## 2026-11-03（1）
+
+### ⭐ 二战梦境战场
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2117263157005558210)
+- **按日归档**：[by-date/2026-11-03.md](../by-date/2026-11-03.md)
+- **概要**：30 秒好莱坞战争片：现代卧室坠入泥泞战场，爆炸后猛然惊醒。
+
+> Create an EXACTLY 30-second, 16:9 hyper-realistic Hollywood WWII cinematic video, 60 FPS target.
+> 
+> REFERENCES:
+> @image1 = Protagonist identity. Preserve exact face, beard, hairstyle and body.
+> @image2 = German WWII enemy soldier.
+> @image3 = WWII battlefield and bunker environment.
+> 
+> PROTAGONIST OUTFIT: Authentic olive-drab 1944 Allied uniform, khaki shirt, military trousers, brown leather belt, M1 steel helmet, muddy combat boots and M1 Garand rifle with wooden stock.
+> 
+> ENEMY: German infantry soldier wearing field-grey uniform, M40 steel helmet, leather equipment and carrying a Kar98k rifle.
+> 
+> 00:00–00:03 | THE DREAM
+> Protagonist sleeps in his modern bedroom wearing a black T-shirt. Cinematic close-up slowly zooms toward his completely CLOSED eyes. At 00:02.5, sudden jump cut into WWII. Eyes must remain closed until the cut.
+> 
+> 00:03–00:06 | BATTLEFIELD SHOCK
+> Protagonist stands confused in a devastated battlefield. Close-ups and POV shots show soldiers running, tanks advancing, gunfire, explosions and bomber planes flying overhead. He looks around in shock.
+> 
+> 00:06–00:09 | ENEMY ATTACK
+> German soldiers fire toward him. He ducks, aims his M1 Garand and shoots, visibly dropping 2–3 enemies. He runs toward his Allied squad.
+> 
+> 00:09–00:12 | SQUAD ADVANCE
+> Dynamic tracking shots show protagonist and Allied soldiers running through mud toward an enemy bunker. Explosions erupt nearby. A bomber flies overhead.
+> 
+> 00:12–00:15 | BOMBER EXPLOSION
+> A bomber releases a bomb that explodes beside the squad. Massive fireball and shockwave throw everyone into the air. Protagonist flies backward and crashes onto the ground.
+> 
+> 00:15–00:18 | AFTERMATH
+> Ground-level shot: protagonist lies face-down in mud. He sees fallen soldiers, some dead and others wounded. His face shows shock. Battlefield audio disappears, replaced by high-pitched tinnitus.
+> 
+> 00:18–00:21 | RECOVERY
+> Tinnitus fades. Soldiers' screams and gunfire suddenly return. Protagonist quickly stands, grabs his rifle and runs into the German bunker.
+> 
+> 00:21–00:24 | ENEMY ENCOUNTER
+> Handheld tracking shot inside a dark concrete bunker. The exact @image2 enemy suddenly appears, raises his Kar98k and aims at protagonist.
+> 
+> 00:24–00:27 | WAKE UP
+> Enemy fires. Muzzle flash fills the frame. Sudden jump cut: protagonist jolts awake in his bedroom.
+> 
+> 00:27–00:30 | IT WAS A DREAM
+> He checks his chest and stomach in panic, realizes he is unharmed, exhales with relief and lies back down.
+> 
+> AUDIO: Cinematic orchestral war music, authentic gunfire, artillery, aircraft, explosions, screaming soldiers, temporary tinnitus, sudden silence and soft ending piano.
+> 
+> STRICT RULES: Maintain @image1 identity, @image2 appearance and @image3 environment. Realistic physics, consistent wardrobe and weapons, cinematic camera movements, synchronized audio. No morphing, no teleportation, no subtitles or watermarks.

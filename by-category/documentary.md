@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 5 条。
+共 6 条。
 
 ## 2026-10-24（1）
 
@@ -172,3 +172,44 @@
 > AUDIO: No music, dialogue or artificial sound. Only natural ambience: morning birds, light breeze, distant motorcycles, neighborhood chatter, rustling leaves, hammock creaks, Nokia keypad clicks, splashing water and rag squeaking against leather.
 > 
 > STRICT: No posing, no fashion-commercial look, no perfect composition, no stabilization, no cinematic shots, no artificial lighting, no modern color grading. Maintain exact character consistency in every frame.
+
+## 2026-11-04（1）
+
+### 2000年代初家用 DV：平凡一天
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@doctorwasif · [原帖](https://x.com/doctorwasif/status/2116866019184828867)
+- **按日归档**：[by-date/2026-11-04.md](../by-date/2026-11-04.md)
+- **概要**：刻意粗糙的早期 DV 手持纪实：洗脸煮咖啡洗衣打电话买菜收衣服点蚊香，纯环境声无配乐。
+
+> image = Main Subject. Preserve her exact face, hairstyle, identity, facial features, skin tone, and body proportions from image throughout the entire video. Outfit as shown in reference photo, maintained consistently throughout.
+> Authentic Southeast Asian or Korean woman. Early-2000s atmosphere.
+> Location: ordinary residential neighborhood. Simple single-story house with a small front terrace. Outdoor water tap. Small kitchen with a basic stove. Narrow concrete alley. Potted plants. Tangled overhead electrical cables. Light shifts naturally from early morning to afternoon to dusk. No shops. No market. No street vendors. No commercial activity.
+> EXTREMELY RAW HANDHELD REALISM. Authentic early-2000s DV camcorder footage. Gritty documentary feeling. Heavy handheld movement. Organic micro-shakes. Natural operator mistakes. Frequent reframing. Subject often near frame edges. Never perfectly centered. Accidental framing. Partial face cropping. Momentary autofocus failures. Natural focus hunting. Lens breathing. Exposure fluctuations. Slight rolling shutter. Natural motion blur. Low contrast. Desaturated faded colors. Slightly washed-out image. Faded blacks. Slightly overexposed highlights. Digital video noise. Mild compression artifacts. Home-video imperfections. Recorded casually by a friend. Unplanned camera movement. Authentic nostalgic home-video aesthetic.
+> 00:00–00:03
+> Loose handheld shot at an outdoor tap in soft early morning light. She splashes water on her face, then shakes droplets from her hands, squinting. Camera sways, subject drifts off-center.
+> 00:03–00:06
+> Close handheld shot in the small kitchen. She boils water on a small stove and pours it into a glass of instant coffee, steam rising. Camera hunts for focus, slight exposure pumping.
+> 00:06–00:10
+> Handheld shot on the terrace. She crouches by a basin, hand-washing clothes, scrubbing the fabric and wringing it out, water dripping onto the concrete. Camera wanders around her hands and face.
+> 00:10–00:13
+> Close handheld shot in the kitchen. She lifts the lid off a small pot of rice and fans the steam away with her hand, smiling at the smell. Camera reacts a beat late.
+> 00:13–00:17
+> Medium handheld shot in the living room. She sits chatting on a corded landline phone, twirling the cord around her finger and laughing. Camera drifts, subject near frame edge.
+> 00:17–00:20
+> Handheld tracking shot in the alley in warm afternoon light. She walks home carrying a plastic bag of groceries, kicking a pebble along the concrete. Camera follows a beat behind, slightly unsteady.
+> 00:20–00:24
+> Wide handheld shot on the terrace. Clouds roll in as she hurries to bring in dry laundry from the line, arms full of clothes. Wind moves the fabric and her hair.
+> 00:24–00:27
+> Close handheld shot. She sits on the terrace folding the laundry into neat piles, glancing up at the darkening sky. Camera hunts for focus.
+> 00:27–00:30
+> Slightly close handheld shot at dusk. She lights a mosquito coil on the terrace and watches the smoke curl upward, then glances toward the camera with a soft, tired smile. Recording cuts to black abruptly like a real camcorder clip.
+> ABSOLUTELY NO MODEL POSING.
+> ABSOLUTELY NO FASHION COMMERCIAL LOOK.
+> ABSOLUTELY NO PERFECT COMPOSITION.
+> ABSOLUTELY NO STABILIZATION.
+> ABSOLUTELY NO CINEMATIC GLAMOUR.
+> ABSOLUTELY NO MODERN COLOR GRADING.
+> ABSOLUTELY NO MUSIC.
+> Only natural ambience. Morning birds. Water splashing from the tap. Kettle and stove sounds. Clothes scrubbing in a basin. Rice pot lid clinking. Corded phone chatter and laughter. Footsteps and pebble skipping on concrete. Wind rising before rain. Evening crickets. Distant motorcycles. Natural environmental sounds only.
+> 16:9.

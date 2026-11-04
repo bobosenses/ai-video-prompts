@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 8 条。
+共 10 条。
 
 ## 2026-10-24（1）
 
@@ -337,3 +337,304 @@
 > Consistency: Preserve the same mermaid face, turquoise hair, golden crown, lavender top, purple tail, and giant sea turtle throughout.
 > 
 > Avoid: Cartoon style, distorted faces, identity changes, extra limbs, flickering, inconsistent outfits, blurry details, text, logos, and watermarks.
+
+## 2026-11-03（1）
+
+### ⭐ 永不抵达的列车
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Hope_Ai01 · [原帖](https://x.com/Hope_Ai01/status/2117300920866496661)
+- **按日归档**：[by-date/2026-11-03.md](../by-date/2026-11-03.md)
+- **概要**：30 秒韩式悬疑：雨夜月台，时刻表上不存在的火车停在他面前。
+
+> Generate an exactly 30-second ultra-realistic Korean live-action cinematic thriller. Premium movie quality, vertical 16:9, 4K, 24 FPS, natural human expressions, realistic Korean railway architecture, physically accurate movement, atmospheric lighting, and professional sound mixing.
+> 
+> SCENE 1 — MYSTERIOUS ARRIVAL (0–5 SECONDS):
+> At 11:59 PM, a young Korean man stands alone on a deserted railway platform during heavy rain. The station announcement suddenly stops mid-sentence. A distant train headlight appears inside a dark tunnel, even though the electronic display says the last train departed hours ago.
+> 
+> SCENE 2 — SOMETHING IS WRONG (5–12 SECONDS):
+> The man steps closer to the yellow safety line. Wind rushes through the platform, moving his coat naturally. The approaching train produces a deep metallic rumble, but its headlights never seem to get closer. The station clock stops at exactly midnight.
+> 
+> SCENE 3 — THE IMPOSSIBLE TRAIN (12–21 SECONDS):
+> A vintage Korean passenger train slowly enters the station. Its windows are dark and covered with condensation. The train stops in front of him without making a sound. Through one window, he sees several passengers sitting completely still, all wearing old-fashioned clothing. One passenger suddenly turns and looks directly at him.
+> 
+> SCENE 4 — FINAL TWIST (21–30 SECONDS):
+> The doors open with a realistic pneumatic hiss. The man notices an empty seat beside a newspaper dated 30 years earlier. He looks up at the station clock, which starts moving again. The train doors suddenly close, and the train disappears into the tunnel in a single continuous shot. He looks down and finds an old ticket in his hand bearing his own name and the date of tomorrow. Cut to black.
+> 
+> CAMERA DIRECTION: Wide establishing shot, slow tracking shot behind the protagonist, macro close-up of the stopped clock, realistic reflections on wet concrete, natural lens behavior, and a slow final push-in on the ticket.
+> 
+> LIGHTING: Cold blue station lighting, warm vintage light inside the train, realistic shadows, subtle fog, wet reflective surfaces, and cinematic Korean noir color grading.
+> 
+> SOUND DESIGN: Heavy rain, distant rails vibrating, train brakes, electric hum, station ambience, a faint clock ticking, and a deep cinematic impact at the reveal.
+> 
+> REALISM RULES: Real actors, consistent wardrobe and facial features, realistic train physics, natural body movement, no cartoon effects, no excessive CGI, no distorted anatomy, no random transitions, no text overlays, no logos, and exactly 30 seconds. The result must look like real footage from a high-budget Korean mystery film.
+
+## 2026-11-04（1）
+
+### ⭐ 第九次告白：时间暂停的雨棚恋曲
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@johnAGI168 · [原帖](https://x.com/johnAGI168/status/2117249723467805015)
+- **按日归档**：[by-date/2026-11-04.md](../by-date/2026-11-04.md)
+- **概要**：30秒竖屏奇幻爱情短片：男主用响指暂停雨幕偷偷告白，女主揭穿她一直都能动，最后一吻算数。
+
+> SEEDANCE 2.5 /《第九次告白》双人奇幻爱情短片导演提示词
+> 
+> Duration：30秒
+> Aspect ratio：9:16竖屏
+> Overall style：真人爱情电影，细腻表演与轻喜剧节奏，奇幻效果融入真实摄影。自然皮肤纹理、轻微胶片颗粒、真实衣料与呼吸。人物始终正常速度活动，时间暂停只发生在指定环境中。开场直接进入事件，无片头。
+> 
+> SUBJECT / Reference / 角色绑定：
+> @图片1 命名为【时言】，成年男主，面容、发型、眼镜、体型与全套穿着严格依据角色卡。
+> @图片2 命名为【知夏】，成年女主，面容、发型、体型与全套穿着严格依据角色卡。
+> 以下正文一律使用中文名字指代。
+> 参考图是同一人物的造型展示，不是多人合照。每张图只生成一个完整人物，不复制三视图、不继承拼图分栏或灰色摄影棚背景。
+> 
+> ENVIRONMENT / GLOBAL CONTINUITY：
+> Setting：雨天街角的小咖啡店门廊。两人站在宽雨棚下面，衣服与头发基本干燥；雨棚外是距离两人约两米的雨幕，后方为深灰色街道。画右背景有一盏店内暖黄吊灯，门窗没有可读文字。
+> Main subject：只有时言与知夏两人。时言画左，知夏画右，面对面相距约八十厘米。两人之间没有桌子或障碍物。
+> Lighting：阴天天光从门廊外侧照入，店内吊灯给发丝和肩膀一层很淡的暖边。摄影机位于脸部阴影侧，眼睛与嘴唇保持可读。
+> Color：灰蓝雨幕、黑色衣料、自然肤色与少量暖黄灯光。
+> 
+> 奇幻规则：
+> 时言用左手打响指，能够暂停环境时间；再次打响指，环境恢复。
+> 暂停时，雨滴停在原来的空间位置，不继续下落、不变成冰、不发光。摄影机移动时，前后雨滴产生真实视差。
+> 这项能力始终对知夏无效。她过去一直配合他假装被暂停，等他真正向自己告白。
+> 本片只展示第九次，不插八段回忆。
+> 0.4—18.4秒环境暂停；18.4秒以后环境恢复，并持续到结尾。
+> 两人始终可以正常呼吸、说话和移动。知夏只在前五秒主动维持假装暂停的姿势。
+> 
+> CAMERA CONTINUITY：
+> 全片六个镜头，在5.0、9.0、12.0、17.0、24.0秒硬切（Hard cut）。
+> 始终保持时言在左、知夏在右的对话轴线，不越轴。
+> 镜头从交代奇幻现象的双人中景，进入眼神与嘴角的近景，最后回到可看见牵手和亲吻的双人构图。
+> 不插无人物空镜，不环绕炫技，不用数字变焦。
+> 
+> PERFORMANCE ENGINE：
+> 时言想告白，却害怕听见答案，所以一直躲进暂停的时间里练习。
+> 表演顺序：确认她“停住”→小声说出真心→被拆穿后短暂僵住→发现她在等待→主动恢复时间→再次告白。
+> 紧张表现为左手指尖摩擦、吞咽、视线躲开半拍；最后一次告白时，手安静下来，眼睛不再躲。
+> 
+> 知夏早就知道他的秘密，也喜欢他。
+> 前五秒忍住笑；拆穿时只有眼睛和单侧嘴角先动，不演成嘲笑。
+> 说“一直都能”时笑意收轻，让他看见认真；主动递出手，却把最后靠近的选择留给他。
+> 全片情绪高点只落在结尾的相互靠近，没有哭喊或夸张惊讶。
+> 
+> AUDIO / 声音与台词：
+> 普通话对白，声音自然，逐字口型同步（Lip-sync）；只有当前说话者做对应说话口型。
+> 
+> 0.0—0.4秒：清楚的落雨声。
+> 0.4秒：一次干脆的响指，落雨声骤然截断，只保留两人的呼吸与衣料声。
+> 2.2—3.8秒：时言轻声说：“我喜欢你。”
+> 5.8—8.2秒：知夏带一点忍住的笑意：“这句，我听了八遍。”
+> 9.8—11.0秒：时言脱口而出：“你能动？”
+> 12.8—14.3秒：知夏轻声回答：“一直都能。”
+> 14.5秒起：极轻的原创钢琴进入，稀疏单音，不抢对白。
+> 18.4秒：第二次响指，雨声瞬间接回，悬停的雨滴继续落下。
+> 21.0—22.6秒：时言直视她，清晰地说：“我喜欢你。”
+> 24.6—26.2秒：知夏回答：“这遍，算数。”
+> 26.2秒以后：不再说话，保留雨声、轻微呼吸与温暖的钢琴尾音。
+> 无旁白，无额外对白，无字幕。
+> 
+> ────────────────────
+> 
+> SHOT 1（0.0—5.0秒）｜他把世界按了暂停
+> 
+> Subject：时言、知夏。
+> 
+> Action：
+> 第一帧两人已经站在雨棚下，知夏正用左手把耳边一缕头发拨到耳后。
+> 0.4秒，时言在自己腰侧用左手打响指。
+> 雨棚边缘正在落下的水滴和后方雨幕立即悬停。知夏配合停住：左手指尖留在耳侧，头微微朝雨幕偏着。
+> 0.8—2.0秒，时言先看一眼悬停的雨，再看她的眼睛，悄悄吐出一口气。
+> 2.2—3.8秒，他对着“暂停”的知夏说：“我喜欢你。”
+> 说完轻轻抿住嘴，等了半拍，又因她“听不见”而垂下视线。
+> 
+> Environment：
+> 两人身后保留大片清楚可辨的静止雨滴；近处两三颗较大的檐口水滴帮助观众立即看懂时间被停止。
+> 
+> Camera：
+> 35mm双人腰部以上中景（Medium two-shot），从第一帧开始轻缓向前推进（Slow push-in），结束在两人胸部以上。响指、双方表情与背景雨滴都能看见。
+> 
+> Style：
+> 奇幻发生得干净、安静；响指后没有光圈或能量波。
+> 
+> Performance：
+> 时言说“喜欢”时目光短暂抬回她脸上，说“你”时声音放轻。
+> 知夏保持姿势，嘴角暂时不动，不能提前露出她能活动。
+> 
+> Constraints：
+> 必须在同一镜头里看见雨从下落到悬停。
+> 不能冻结整张视频；时言与摄影机持续正常运动。
+> 
+> ────────────────────
+> 
+> SHOT 2（5.0—9.0秒）｜她拆穿了
+> 
+> Subject：知夏，时言肩膀位于画左前景。
+> 
+> Action：
+> 5.0秒承接上一镜，知夏左手仍在耳侧。
+> 5.2秒，她先把视线转向时言，然后把左手自然放下，头跟着转回来。
+> 5.8—8.2秒，她看着他说：“这句，我听了八遍。”
+> 说到“八遍”时，单侧嘴角才慢慢抬起来。
+> 说完不移开视线，等他反应。
+> 
+> Environment：
+> 她身后的雨滴依旧悬停。人物开始活动与环境仍然暂停的反差必须同框可见。
+> 
+> Camera：
+> 65mm肩后近景（Over-the-shoulder close-up），知夏从头顶到上胸入画。
+> 固定机位（Locked-off camera），完整保留“眼睛先动、手放下、开口”的过程。
+> 
+> Style：
+> 靠正常的人体动作揭开反转，不用惊吓音效。
+> 
+> Performance：
+> 语气像终于忍不住提醒他，轻轻咬重“八遍”，不翻白眼、不讽刺。
+> 前景中的时言肩膀突然停住。
+> 
+> Constraints：
+> 知夏不能瞬移或突然换姿势。
+> 她动起来时，背景雨水不能恢复。
+> 
+> ────────────────────
+> 
+> SHOT 3（9.0—12.0秒）｜秘密当场失效
+> 
+> Subject：时言，知夏肩膀位于画右前景。
+> 
+> Action：
+> 时言先看知夏已经放下的左手，再迅速抬眼看她。
+> 9.8—11.0秒，他问：“你能动？”
+> 问完嘴唇仍微微分开，吞咽一次，眼睛往旁边躲开半拍，又回到她脸上。
+> 左手下意识抬起一点，随后停住。
+> 
+> Environment：
+> 时言身后的檐口水滴保持原位。
+> 
+> Camera：
+> 65mm反打近景（Reverse close-up），固定机位，眼镜后的双眼清楚，不让镜片反光遮住眼神。
+> 
+> Style：
+> 保留不到一秒的安静，让被抓包的反应自己形成笑点。
+> 
+> Performance：
+> 前半拍是意外，后半拍才意识到她听见了之前每次练习，耳根略微泛红。
+> 不张嘴瞪眼演成漫画反应。
+> 
+> Constraints：
+> 时言此时不能打响指，不能后退逃走。
+> 知夏不替他说话、不跟着动嘴。
+> 
+> ────────────────────
+> 
+> SHOT 4（12.0—17.0秒）｜原来她一直在等
+> 
+> Subject：知夏。
+> 
+> Action：
+> 知夏看见他躲闪，嘴角的逗弄慢慢收轻。
+> 12.8—14.3秒，她轻声说：“一直都能。”
+> 说完先看一眼他垂在身侧的右手，再抬眼看他。
+> 15.0—16.3秒，她把自己的左手伸到两人之间，掌心朝上，停在他伸手就能碰到的位置。
+> 16.3—17.0秒，她保持递手的姿势，安静等待。
+> 
+> Environment：
+> 悬停的雨滴围在两人身后的空间里，店内暖灯保持稳定。
+> 
+> Camera：
+> 50mm中近景（Medium close-up），从她的脸缓慢后移少许（Slow pull-back），让递出的左手自然进入画面下方，脸仍清楚。
+> 
+> Style：
+> 钢琴轻轻进入，光线不突然变暖、不出现梦幻光晕。
+> 
+> Performance：
+> “一直”说得平稳，“能”落得很轻。
+> 伸手后下唇轻轻抿住，眼睛始终看着他；她也在等一个可能让自己紧张的答案。
+> 
+> Constraints：
+> 伸手只做一次，不抓住或拖拽时言。
+> 不提前亲吻，不露出已经得到答案的灿烂笑容。
+> 
+> ────────────────────
+> 
+> SHOT 5（17.0—24.0秒）｜他终于不躲了
+> 
+> Subject：时言、知夏。
+> 
+> Action：
+> 承接知夏伸出的左手。
+> 17.0—18.0秒，时言低头看她掌心，轻轻吸气，随后重新看她。
+> 18.4秒，他用左手打响指。
+> 雨滴立即沿原方向继续落下，雨声同时回归。
+> 19.0—20.0秒，他用右手接住知夏的左手，掌心贴合，手指自然合拢。
+> 20.0—20.8秒，他朝她迈近半步，两人距离缩短到约四十厘米。
+> 21.0—22.6秒，他直视她，重新说：“我喜欢你。”
+> 这次说完不躲、不低头，握着她的手等回答。
+> 知夏先轻吸一口气，随后眼睛慢慢弯起来。
+> 
+> Environment：
+> 恢复运动的雨幕与两人处于同一画面；观众清楚看见他主动让世界恢复。
+> 
+> Camera：
+> 40mm双人中景（Medium two-shot），腰部以上入画，双手与脸同时可见。
+> 18.4秒恢复时间时保持机位稳定，不切走遮掩变化；随后极缓推进（Slow push-in）。
+> 
+> Style：
+> 雨声回归带来真实生活的重量，钢琴仍低于人声。
+> 
+> Performance：
+> 第二次“我喜欢你”比第一次更稳，音量只略大，不喊。
+> 知夏听完先松开肩膀，再露出笑意，不抢在台词结束前反应。
+> 
+> Constraints：
+> 响指使用左手；牵手使用时言右手与知夏左手，跨镜头不得换手。
+> 雨滴必须继续向下落，不能倒放、爆散或化成粒子。
+> 
+> ────────────────────
+> 
+> SHOT 6（24.0—30.0秒）｜这一次算数
+> 
+> Subject：时言、知夏。
+> 
+> Action：
+> 两人承接上一镜的位置和牵手状态。
+> 24.6—26.2秒，知夏仰脸看着他说：“这遍，算数。”
+> 她说完先靠近一点，视线短暂落向他的嘴唇，再回到他的眼睛。
+> 26.2—27.0秒，时言低下头，知夏微微抬起下巴，两人各自缩短剩下的距离。
+> 27.0—28.0秒，两人轻轻吻一下。
+> 28.0—30.0秒，嘴唇分开几厘米，知夏忍不住笑出来；时言这才放松肩膀，跟着笑。两人仍牵着手，额头轻轻靠近，停留在仍有呼吸和微笑的动态画面中。
+> 
+> Environment：
+> 身后的雨一直正常落下。结尾仍能看见雨棚边缘的水滴接连坠落。
+> 
+> Camera：
+> 50mm双人侧面中近景（Side-profile medium close-up），两张脸与相牵的手入画。
+> 缓慢推进约十厘米（Slow push-in），保持双方侧脸完整，不切嘴唇大特写。
+> 最后一秒稳定停留，人物仍然自然活动。
+> 
+> Style：
+> 真实、短暂的亲吻。以两人吻后的笑收尾，音乐轻轻落定。
+> 
+> Performance：
+> “这遍”带笑，“算数”认真。
+> 亲吻由双方共同靠近完成；时言不突然扑过去，知夏不突然僵住。
+> 吻后笑意从眼睛开始，再到嘴角。
+> 
+> Constraints：
+> 嘴唇接触前双方均已停止说话。
+> 不掐腰、不抓后脑、不遮挡脸。
+> 结尾不再暂停时间，不定格画面，不出现片名。
+> 
+> ────────────────────
+> 
+> NEGATIVE / 全片负面约束：
+> 角色换脸、发型漂移、眼镜消失、服装变化、三视图分屏、复制人物。
+> 把环境暂停做成整幅画面冻结；暂停期间雨滴漂浮移动；恢复时间后雨滴仍悬停。
+> 冰晶、发光雨滴、魔法阵、能量波、粒子爆炸、环境突然换景。
+> 提前微笑泄露反转、夸张瞪眼、全程傻笑、机械念白、无声说话。
+> 台词串角色、双方同时说话、口型不同步、增加解释超能力的旁白。
+> 牵手换边、手指融合、多余手臂、亲吻时脸部融合、肢体穿模。
+> 慢动作、速度渐变、突然越轴、无依据的焦点跳动、磨皮塑料感。
+> 字幕、屏幕文字、片头片尾标题、水印、品牌标志、黑边。

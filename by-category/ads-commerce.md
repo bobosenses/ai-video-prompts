@@ -1,6 +1,6 @@
 # 广告带货
 
-共 5 条。
+共 7 条。
 
 ## 2026-10-24（1）
 
@@ -418,3 +418,132 @@
 > Visual style: Ultra-realistic 4K, luxury fragrance advertising, photorealistic, cinematic lighting, teal and black color palette, premium fashion campaign, smooth camera movements, macro photography, slow motion, high contrast, elegant atmosphere, professional commercial production.
 > 
 > Aspect ratio 9:16, 30 seconds, 24 FPS. Maintain consistent perfume bottle design, logo, model appearance and dress throughout all scenes.
+
+## 2026-11-03（1）
+
+### ⭐ REVISION 护肤广告
+
+- **工具**：Kling 4.0 · **时长**：30 秒
+- **作者**：@Diplomeme · [原帖](https://x.com/Diplomeme/status/2116791374829998231)
+- **按日归档**：[by-date/2026-11-03.md](../by-date/2026-11-03.md)
+- **概要**：30 秒竖屏护肤广告：同一张脸四种造型，粉系浴室走完护肤节奏。
+
+> Create a video ad from image1, image2 30-second vertical 9:16 premium skincare commercial for brand name REVISION SKINCARE – SOOTHING FACIAL RINSE. Use the provided female portrait as strict identity authority: one actress only, same warm brown skin, long straight black hair, almond eyes, glossy lips, gold hoop earrings, elegant smile, slim build, and consistent face across all four versions. Use the provided bottle image as strict packaging authority for shape only: opaque glossy black bottle, rounded rectangular body, sloping shoulders, short black neck, large cylindrical ribbed black screw cap, original silver-bordered label. Preserve exact bottle geometry, proportions, cap and packaging.
+> 
+> The reference video controls only pacing, bathroom setting, ad grammar, and final group tableau. Do not copy its original brand, exact wording, or layout. Core idea: one woman in a bright pink bathroom moves through four skincare moments - refreshing skin after cleansing, removing remaining impurities, soothing and refreshing the complexion, and completing her everyday toner routine - then ends with a polished product hero shot and a four-version finale, all played by the same face with different styling.
+> 
+> Overall visual: a single pink bathroom set with glossy tiles, white counter, round mirror, soft blinds, and high-key diffused beauty light. Clean, bright, soft, slightly glossy, with subtle film grain and minimal camera movement. Use mostly static shots with tiny push-ins, neat product inserts, and one water-bubble hero shot. Music: light airy pop with soft whooshes, cotton-pad swipes, and faint water shimmer. No random readable text. The only brand text is brand name.
+> 
+> 0.0-2.8s: Intro. Persona 1 appears in sporty mint/teal activewear, hair clipped back, minimal makeup. She tidies her hair, turns to camera, and says softly: “My skin deserves a gentle refresh.” Keep the bathroom calm, pink, and bright.
+> 
+> 2.8-5.6s: Product reveal. The bottle slides into center on the counter, front-on then at a slight 3/4 angle. Show the opaque glossy black bottle, rounded rectangular body, ribbed black screw cap, original silver-bordered label, and clean brand name. Hold the shot steady and elegant.
+> 
+> 5.6-8.4s: Persona 2 appears in evening-glam styling, a black satin or off-shoulder top with slightly stronger eye makeup. She applies the toner to a cotton pad and gently wipes her face, then looks back with relief and says: “A refreshing finish, without the harsh feel.”
+> 
+> 8.4-11.2s: Persona 3 appears in a white robe, with naturally fresh skin and soft natural makeup. She gently pats her cheek after applying the toner and says: “My skin feels calm and refreshed.”
+> 
+> 11.2-14.0s: Persona 4 appears in a soft pink towel wrap or cream lounge top, very natural makeup, serene smile. She makes one final gentle application with a cotton pad and says: “A gentle step in my everyday routine.”
+> 
+> 14.0-16.8s: Quick matched cuts show the same actress as all four versions inside the same pink bathroom. Keep the face identical across looks, only wardrobe and makeup changing. Use bold white uppercase overlays: “ALCOHOL-FREE TONER”, “GENTLE DAILY REFRESH”, “SOOTHING SKINCARE”, “FOR ALL SKIN TYPES”. The bottle stays on the counter as the visual anchor.
+> 
+> 16.8-22.6s: Water-bubble hero shot. The REVISION SKINCARE Soothing Facial Rinse bottle becomes the central object inside a glossy clear water sphere with tiny ripples and reflections. Keep the bottle pristine, upright, legible, and unwarped. Preserve the original black packaging and silver-bordered label.
+> 
+> 22.6-30.0s: Final group tableau. All four versions of the same woman stand together in the pink bathroom, smiling calmly around the product on the counter. End on a clean premium packshot with the black bottle foregrounded and a minimal end card: “REVISION SKINCARE – SOOTHING FACIAL RINSE” and “Alcohol-free toner for all skin types.” Hold steady for the final beat.
+> 
+> Continuity rules: same face across all four looks, no face drift, same pink bathroom throughout, no change to bottle geometry, original black cap and label preserved, no extra brand names, no pink bottle, no pump dispenser, no black dramatic lighting, no clutter, no realism-breaking skin retouching, no excessive camera motion, no product redesign.
+> 
+> Negative prompt: other brands, wrong packaging, micellar cleansing water wording, body oil wording, extra bottle shapes, pump dispenser, screw cap removed, cap missing, random text, messy bathroom, dark moody lighting, overblown sparkle, cartoon style, broken hands, warped fingers, label errors, duplicated unwanted characters.
+
+## 2026-11-04（1）
+
+### 30秒固定机位 GRWM 穿搭成片
+
+- **工具**：Seedance 2.5 / Ima Studio · **时长**：30 秒
+- **作者**：@ImaStudio_ai · [原帖](https://x.com/ImaStudio_ai/status/2117565623488356803)
+- **按日归档**：[by-date/2026-11-04.md](../by-date/2026-11-04.md)
+- **概要**：严格10镜硬切的竖屏时尚博主穿搭流程：展示单品、穿上毛衣与短裙，最终全身亮相。
+
+> Create an exactly 30-second vertical 9:16 ultra-photorealistic fashion-blogger reel with exactly 10 shots.
+> Use @Image1 as the strict character reference:
+> same face, skin tone, body proportions, long dark chestnut-brown hair, and starting white cropped tank + white pajama shorts.
+> Use @Image2 as the strict wardrobe reference:
+> moss-olive oversized sweater, olive satin lace mini skirt, brown belt with gold buckle, chocolate knee-high boots, structured brown tote, and gold jewelry.
+> CAMERA LOCK:
+> One fixed vertical phone camera on a tripod for the entire 30 seconds.
+> Same doorway position, eye-level frontal angle, same framing, focus, exposure, and background geometry.
+> Every transition is an instant HARD CUT.
+> No camera movement.
+> No morphing.
+> No outfit change inside a shot.
+> STYLE:
+> Ultra-photorealistic fashion creator reel.
+> Warm elegant dressing room, beige walls, gold mirror, stone vanity, warm wall sconces.
+> Realistic skin, hair, knit texture, satin reflections, lace movement, weighted leather.
+> She treats the camera like a friend watching her get ready: relaxed, playful, natural, lightly energetic.
+> 0–3s | SHOT 1 — SKIRT
+> She holds the olive satin lace mini skirt against her waist, lightly shifts her hips, checks the fit, then smiles at the camera.
+> 3–6s | SHOT 2 — SWEATER
+> She holds the oversized moss-olive sweater against her torso, gives it a small bounce, looks down at it, then back to the viewer.
+> 6–9s | SHOT 3 — BELT
+> Closer framing.
+> She holds the brown leather belt horizontally with the gold buckle centered near the lens.
+> She looks over it with a playful half-smile.
+> 9–11s | SHOT 4 — HAIR
+> Back at presentation distance.
+> She gives one natural hair flip and lets the long chestnut waves settle over her shoulders.
+> 11–14s | SHOT 5 — BAG
+> Closer framing.
+> She holds the structured chocolate-brown tote in front of her chest, tilts her head slightly, smiles through the handles.
+> 14–18s | SHOT 6 — SWEATER ON
+> Hard cut.
+> She is already pulling the sweater over her head.
+> One continuous action:
+> head through neckline → arms through balloon sleeves → sweater drops into place → ribbed hem settles at upper hips → hair falls naturally back into shape.
+> She lightly shakes her hair free and smiles.
+> 18–20.5s | SHOT 7 — PERFUME
+> Closer framing.
+> Wearing the sweater, she sprays perfume once beside her neck.
+> Fine mist appears naturally.
+> She briefly closes her eyes, then looks back at the camera with a soft smile.
+> 20.5–24s | SHOT 8 — SKIRT ON
+> Hard cut.
+> She already wears the high-waisted olive satin lace mini skirt beneath the loose sweater.
+> The waistband sits high at the natural waist.
+> She adjusts both side seams once, shifts her weight to one hip, and checks the silhouette.
+> 24–26.5s | SHOT 9 — JEWELRY
+> Closer framing.
+> Gold necklace, ring, and bangle are already on.
+> She fastens one chunky gold hoop earring, lowers her hands, tilts her head, and gives a quick playful smile.
+> 26.5–30s | SHOT 10 — FINAL REVEAL
+> Hard cut to full-body framing.
+> She now wears the complete outfit:
+> oversized moss-olive sweater,
+> high-waisted olive satin lace mini skirt,
+> brown belt with centered gold buckle,
+> chocolate knee-high slouch boots,
+> gold jewelry,
+> structured brown tote.
+> The front center section of the sweater is tucked beneath the belt, while the sides and back remain loose and voluminous.
+> She takes one small step, gives a lively half-turn, lets the skirt, sweater, and hair move naturally, then settles into a confident final pose while looking into the camera.
+> Hold the finished full-body look for the final 0.8 seconds.
+> CONSISTENCY:
+> Keep the exact same character, face, hairstyle, body proportions, room, camera position, wardrobe colors, and materials throughout.
+> STRICTLY AVOID:
+> No second person.
+> No face drift.
+> No body proportion changes.
+> No extra limbs.
+> No clothing morph.
+> No random accessories.
+> No camera movement.
+> No zoom.
+> No outfit changes within a shot.
+> No subtitles.
+> No text.
+> No logo.
+> No watermark.
+> FINAL FEELING:
+> A realistic social-media GRWM fashion reel:
+> show the pieces → build the outfit through clean hard cuts → finish with a satisfying full-look reveal.
+> 
+> #Seedance25 #AIVideo #AIFashion #GRWM #OOTD #ImaStudio

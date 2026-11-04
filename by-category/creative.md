@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 17 条。
+共 20 条。
 
 ## 2026-10-24（1）
 
@@ -629,3 +629,52 @@
 > "THE HAUNTED CORNER"
 > This Halloween, take home something unforgettable.
 > Visual direction: Photorealistic live-action, premium horror-commercial cinematography, realistic skin and facial expressions, intricate Halloween decorations, orange and purple lighting, volumetric fog, smooth camera movements, eerie sound design, powerful cinematic music, and a shocking final reveal. No cartoon visuals, no anime, no comedy, no excessive gore.
+
+## 2026-11-03（2）
+
+### ⭐ 最后的观众
+
+- **工具**：Grok Imagine · **时长**：15 秒
+- **作者**：@aiproducers · [原帖](https://x.com/aiproducers/status/2117314996182904919)
+- **按日归档**：[by-date/2026-11-03.md](../by-date/2026-11-03.md)
+- **概要**：15 秒废墟剧场：锈蚀机器人胸腔里的雏鸟，看着音乐盒芭蕾不停旋转。
+
+> Generate this film now: ONE 15-second 16:9 720p video with native audio. Use the attached existing frame only for character identity. Do not generate extra images, retry, variants, extensions or upscales. Return one video result.
+> 
+> Use supplied image for robot/nest identity, not its outdoor setting. ONE 15-second 16:9 video: THREE locked shots, hard CUTS at 5s/10s. No dissolve, overlap, morph, text, logo or endcard.
+> 
+> Ruined theatre, cool roof light, wet wood, empty seats. Same three-metre rusted olive/charcoal robot, moss, dim amber visor slit, broken central chest recess, ONE straw nest, EXACTLY TWO brown nestlings.
+> 
+> Robot already sits onstage facing the auditorium. One open music box and porcelain ballerina rest on a fixed low plinth before it. Preserve positions and proportions.
+> 
+> 0–5s: side close-up, 85mm feel. Fingertips, key, box only; exclude chest. Two fingertips turn the side key once, release. Ballerina rotates by 4s; box stays planted.
+> 
+> 5–10s: hard CUT, rear wide, 35mm feel. Robot's back, turning ballerina and empty rows. Chest hidden by viewpoint; no standing.
+> 
+> 10–15s: hard CUT, frontal medium close, 65mm feel; headroom, entire chest recess visible. Reveal both chicks watching the ballerina at lower foreground. Robot slightly tilts its head by 12s; hold through 15s. Chicks stay in nest.
+> 
+> Native diegetic audio: a few delicate metallic winding clicks, then a short original music-box melody from sparse plucked-metal tines as the ballerina turns. Keep the melody continuous through the audience reveal, with faint gears underneath, distant rain and very soft nestling peeps. Let the final three seconds remain calm, without a musical swell. No known tune, extra score, speech, choir or transition whooshes.
+
+### ⭐ 雨夜月台重逢
+
+- **工具**：Seedance 2.5 · **时长**：约 20 秒
+- **作者**：@auqibhabib · [原帖](https://x.com/auqibhabib/status/2117299650801885305)
+- **按日归档**：[by-date/2026-11-03.md](../by-date/2026-11-03.md)
+- **概要**：雨夜火车月台：门将关上时他追着车窗跑，紧急刹车后她奔向他。
+
+> Photorealistic Hollywood-style romantic drama short film, emotional and intimate, opens with an instant hook, shot on 35mm with natural film grain, shallow depth of field and cinematic rain. Setting: a small railway platform at night in steady rain, warm yellow platform lamps, glowing train windows, wet reflective ground. CHARACTER LOCK: the girl is in her early 20s, long dark wavy hair, cream trench coat, holding a small suitcase. The boy is in his early 20s, short dark hair, navy jacket, soaked through from rain. Both keep identical faces, clothing and hair in every shot. Warm amber light against cool blue rain, natural diegetic sound, soft piano score from the first frame. Realistic skin texture and natural expressions, no over-acting. No text overlay, no subtitles, [0-1s] Hard cut: the train doors begin to close with the girl inside, and the boy slams his palm flat against the glass. [1-2s] Extreme close-up: her eyes widen, tears welling, as she turns toward him. [2-3s] Close-up: his hand on the wet glass, rain streaming down his face, breathing hard. [3-4s] Side-tracking shot: he runs along the platform beside the slowly moving train, keeping pace with her window. [4-5s] Through the glass: she presses her hand against the window opposite his, their palms aligned. [5-6s] Close-up: his lips form a single whisper she can only half hear through the glass: “Don’t go.” [6-7s] Extreme close-up: a tear rolls down her cheek, her expression breaking. [7-8s] Wide shot: the train’s emergency stop engages and it halts with a long hiss, steam rolling across the platform. [8-9s] Low-angle shot: the carriage doors slide open, light spilling onto the wet ground. [9-10s] Close-up on her shoes hesitating at the threshold, suitcase handle tight in her hand. [10-11s] Over-the-shoulder from the boy: she stands in the doorway, rain falling between them. [11-12s] Close-up: her fingers loosen and the suitcase handle slips from her hand. [12-13s] Slow tracking shot: she steps down onto the platform, the rain soaking her hair and coat. [13-14s] Two-shot: they stand a few feet apart, neither moving, rain falling between them. [14-15s] Close-up: his eyes shining, a tentative, disbelieving smile forming. [15-17s] SLOW MOTION: she runs the last steps and throws her arms around him, droplets exploding off her coat. [17-19s] SLOW MOTION orbit shot circling them as he lifts her slightly off the ground, her face buried in his shoulder. [19-20s] Extreme close-up: her eyes closed, a trembling smile through the tears. [20-21s] Close-up: he sets her down gently and their foreheads touch, breath fogging between them. [21-23s] Profile close-up: his hand rises to cradle her cheek and brush wet hair from her face. [23-25s] SLOW MOTION: a gentle, tender kiss, rain falling in the amber lamplight around them. [25-27s] Overhead crane shot pulling up and away: the two of them holding each other on the empty platform, the train glowing behind them. [27-28s] Low-angle ground shot: her abandoned suitcase upright in a shallow puddle as the train slowly pulls away without her. [28-30s] Final wide shot: the two of them walking away together under the platform lamps, her head against his shoulder, rain softening into a drizzle. Cut to black. Natural diegetic sound throughout: rain on metal and puddles, train hiss and brake squeal, soft breathing, footsteps, her faint sob and a quiet laugh, layered with a minimal, emotional piano and strings score that builds slowly and swells at the embrace, then settles into warmth at the end. Cinematography: handheld close-ups for intimacy, smooth tracking and orbit shots for movement, one overhead crane, slow motion only on the embrace and kiss. Realistic rain physics, warm and cool color contrast.
+
+## 2026-11-04（1）
+
+### ⭐ 吐司飞向月球：27秒太空史诗
+
+- **工具**：Seedance 2.5 · **时长**：27 秒
+- **作者**：@aragon_ai · [原帖](https://x.com/aragon_ai/status/2117774197770551659)
+- **按日归档**：[by-date/2026-11-04.md](../by-date/2026-11-04.md)
+- **概要**：可爱吐司从烤面包机一路撞穿屋顶冲出大气层，在月球插上叉子看地球升起。
+
+> Original stylized 3D animated short film, 27 seconds, no text, no subtitles, fast confident cutting. A slice of toast goes to space. Shot 1 (instant wow hook): extreme slow-motion close up, a cute slice of toast with big cartoon eyes and a tiny smile launches out of a chrome toaster with a burst of crumbs and steam, rocketing straight up past the camera. Shot 2: it smashes up through the kitchen ceiling, then the roof, shingles flying, into the sunrise sky. Shot 3: it soars past surprised birds and through fluffy pink clouds, a butter pat on top flapping like a cape. Shot 4: it breaks through the atmosphere in a fiery glow, toasting itself golden brown. Shot 5: in silent space it floats, eyes huge, looking back at the glowing blue planet. Shot 6: it drifts past a ringed planet and bounces off a tiny asteroid like a pinball. Shot 7: a friendly round little robot satellite waves at it with a tiny arm. Shot 8: the toast lands softly on the moon, kicking up a puff of moon dust. Shot 9: it plants a little fork in the ground like a flag. Shot 10: it sits on the edge of a crater watching Earth rise, a single crumb floating past, and it smiles. Sound: big epic orchestral score building to awe, toaster ding and spring launch, crash through roof, wind rush, then quiet space ambience and a soft triumphant swell, no dialogue.
+> 
+> Style: High-end stylized 3D animated feature film look, cute chunky toy-like characters with big expressive eyes, glossy textures, cozy kitchen at sunrise then deep space with glowing planets and nebulas, rich warm cinematic lighting, lens flares, vibrant saturated colors.
+> 
+> Genre: Epic · Tempo: Dynamic · Model: Seedance 2.5
