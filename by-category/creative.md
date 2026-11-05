@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 20 条。
+共 22 条。
 
 ## 2026-10-24（1）
 
@@ -678,3 +678,68 @@
 > Style: High-end stylized 3D animated feature film look, cute chunky toy-like characters with big expressive eyes, glossy textures, cozy kitchen at sunrise then deep space with glowing planets and nebulas, rich warm cinematic lighting, lens flares, vibrant saturated colors.
 > 
 > Genre: Epic · Tempo: Dynamic · Model: Seedance 2.5
+
+## 2026-11-05（2）
+
+### ⭐ 给你留了个位置：沙发一镜拥抱
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@johnAGI168 · [原帖](https://x.com/johnAGI168/status/2117968219231129688)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：20 秒固定机位横屏：女主挤进沙发空位，男主轻拍后背再举起手机，指尖点脸颊收尾。
+
+> SEEDANCE 2.5｜《给你留了个位置》
+> 时长 20 秒｜横幅｜真人情侣居家生活片段｜固定机位，一镜到底
+> 
+> 【角色绑定】
+> @图片1 为男主。面部轮廓、五官比例、发际线与发型以男主角色卡为准。穿奶白色宽松圆领长袖家居上衣，面料柔软、略有绒感，配灰褐色细格纹直筒睡裤。靠镜头一侧的手握一部黑色手机，靠沙发背一侧的手负责揽她。
+> @图片2 为女主。面部轮廓、五官比例与发型以女主角色卡为准。穿象牙白成套睡衣，长袖小翻领开襟上衣配同色宽松长裤，布面有细小分散的深色碎花，灯下有一点柔软的光泽。保留两张卡各自的脸部特征，侧脸、低头和局部遮挡时也能辨认是同一个人。
+> 
+> 【房间与机位】
+> 夜里的小客厅，奶油色布沙发横贯画面。画左的边柜上亮着一盏台灯，大棕色泰迪熊靠在左后方，画右的沙发靠背上有一只黑白格抱枕。台灯是主要光源，靠灯的脸颊、睡衣袖口和扶手泛着蜂蜜色，远离灯的一侧保留柔软暗部。白衣与沙发仍能看出各自的纹理。
+> 镜头架在沙发正前方略高处，轻微向下看。用双人中全景同时容纳画左的头肩、画右蜷起的膝盖，以及沙发前缘拿手机的手。全片锁定这个构图。画面略软，有一点家用相机的颗粒感，像房间里恰好放着一台相机。
+> 
+> 【连续动作与表演】
+> 0–3 秒｜男主已经横躺在沙发上，后脑枕着画左的扶手，双腿伸向画右。近镜侧的手松松握着手机，垂在沙发前缘。女主从画右俯身进来，他先转眼看她，靠沙发背的那条手臂自然抬开一点。她看准他腰侧的空位，一只手先撑实坐垫，再把一侧膝盖挪上沙发。掌下的软垫先陷下去，随后才承住她身体的重量。
+> 
+> 3–7 秒｜女主沿着沙发往画左挪，把髋部转过来，肩膀侧下去，滑进男主与靠背之间。她转脸时短短地笑了一下，随后低头，把脸颊埋进他的肩窝，双腿收回画右，屈膝侧蜷。两人最终都是头在左、腿在右。等她的肩落稳，男主抬着的手臂才松下来，掌心恰好搭在她上背。拿手机的手仍在外侧。
+> 
+> 7–13 秒｜给他们几秒真正躺稳的时间。男主把手机低低斜托在腰腹旁，脸稍稍朝她偏过去。另一只手从她肩背轻抬，向后脑方向顺一下，再落回上背，隔着睡衣轻轻拍两下，两次间隔略有长短。女主一直枕着他，肩膀随着呼气慢慢松下来。保留掌心落下时衣料细微的起伏，以及两次轻拍之间的安静。
+> 
+> 13–16 秒｜女主先从他肩窝转出半张脸，下颌仍枕在他肩胸上，眼睛微弯。男主这时才把黑色手机从腰腹抬到胸前，竖着握，屏幕朝向两人，手腕顺势往她那边偏一点。她的视线跟过去，露出一个很小的笑。两个人的头始终挨得很近。
+> 
+> 16–20 秒｜女主从他胸前慢慢抬起手，用指尖碰一下他的脸颊，停在靠近嘴角的位置。动作很轻，她的头和膝盖仍在原处。男主手里继续举着手机，另一只手安稳搭在她肩上。最后两秒留给这个姿势，只看得到呼吸、指尖很小的调整和衣料轻微起伏，直接结束。
+> 
+> 【声音与约束】
+> 低声的英文演唱配柔和钢琴，像房间里一直放着的一首慢歌。女主上沙发时，音乐下隐约听见布料摩擦和坐垫受压的闷响。两人没有台词，不跟唱。全程不切特写、不推拉、不看镜头。保持手臂分工、手机位置和沙发承重连续；不加接吻、字幕、账号水印或片尾文字。
+
+### 加油站的报复喜剧：水桶回旋踢
+
+- **工具**：Seedance 2.5 / Frameo · **时长**：30 秒
+- **作者**：@AIwithkhan · [原帖](https://x.com/AIwithkhan/status/2117967112832438766)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：30 秒首尔加油站韩式复仇喜剧：被恶意泼脏水后女主泼水还击，围观者哄笑收场。
+
+> Create a 30-second, 1080p ultra-realistic live-action Korean revenge-comedy scene at a busy Seoul petrol station. Use natural handheld camera movement, realistic physics, spontaneous expressions, and authentic petrol station ambience.
+> 
+> A stylish young adult Korean woman with long black hair wears a pastel-blue crop top, high-waisted blue jeans, white sneakers, and sunglasses on her head. She carries a brown shoulder bag, iced coffee, and smartphone. A mischievous young Korean man wears a dark-green bomber jacket, black trousers, and white sneakers.
+> 
+> ACTION SEQUENCE:
+> 
+> 0–5 seconds: The man deliberately bumps into her, knocking iced coffee all over her jeans. She protests, but he laughs and walks away.
+> 
+> 5–9 seconds: He grabs a windshield-cleaning sponge and splashes dirty water over her face and crop top. She wipes her face and gives him an angry stare.
+> 
+> 9–14 seconds: She grabs a bucket of clean water from the designated washing area and suddenly throws the entire bucket over his head. He freezes, completely soaked.
+> 
+> 14–20 seconds: He angrily rushes toward her, but she sidesteps. He loses his balance and tumbles into empty cardboard boxes beside the convenience store. Nearby customers burst into laughter.
+> 
+> 20–25 seconds: She looks down at him with a sarcastic smile and says, "Next time, learn some manners before filling up!"
+> 
+> 25–30 seconds: She picks up her belongings, winks at him, gets into her car, and drives away while the petrol station attendant struggles to hide his laughter.
+> 
+> AUDIO: Natural petrol station ambience, engines, pump beeps, coffee and water splashes, bucket impact, collapsing boxes, customer laughter, and clear dialogue. No overpowering music.
+> 
+> REQUIREMENTS: Consistent faces, outfits, and location. Keep the entire prank and revenge sequence clearly visible with believable movements. All water action must happen safely away from fuel dispensers.
+> 
+> NEGATIVE PROMPT: No fire, sparks, explosions, fuel spills, serious injuries, blood, cartoon physics, face changes, outfit changes, distorted anatomy, random cuts, subtitles, logos, or watermarks.

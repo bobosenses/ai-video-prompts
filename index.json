@@ -588,5 +588,55 @@
     "source": "https://x.com/doctorwasif/status/2116866019184828867",
     "author": "@doctorwasif",
     "star": false
+  },
+  {
+    "date": "2026-11-05",
+    "title": "给你留了个位置：沙发一镜拥抱",
+    "category": "创意趣味",
+    "duration": "20 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/johnAGI168/status/2117968219231129688",
+    "author": "@johnAGI168",
+    "star": true
+  },
+  {
+    "date": "2026-11-05",
+    "title": "电梯里的勇敢误会：20 秒近身战",
+    "category": "动作",
+    "duration": "20 秒",
+    "tool": "Seedance 2.5 / makeugc",
+    "source": "https://x.com/Mavern_0x/status/2118094185542599051",
+    "author": "@Mavern_0x",
+    "star": true
+  },
+  {
+    "date": "2026-11-05",
+    "title": "觉醒：最后的念力者",
+    "category": "科幻奇幻",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5 / WaveSpeed",
+    "source": "https://x.com/Xaroon_x/status/2117920557559693492",
+    "author": "@Xaroon_x",
+    "star": true
+  },
+  {
+    "date": "2026-11-05",
+    "title": "加油站的报复喜剧：水桶回旋踢",
+    "category": "创意趣味",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5 / Frameo",
+    "source": "https://x.com/AIwithkhan/status/2117967112832438766",
+    "author": "@AIwithkhan",
+    "star": false
+  },
+  {
+    "date": "2026-11-05",
+    "title": "迷你 DV：厨房烤蛋糕的下午",
+    "category": "纪实公益",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/iamahmedfaraz66/status/2117994046564311057",
+    "author": "@iamahmedfaraz66",
+    "star": false
   }
 ]

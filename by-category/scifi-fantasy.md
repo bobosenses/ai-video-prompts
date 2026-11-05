@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 10 条。
+共 11 条。
 
 ## 2026-10-24（1）
 
@@ -638,3 +638,64 @@
 > 牵手换边、手指融合、多余手臂、亲吻时脸部融合、肢体穿模。
 > 慢动作、速度渐变、突然越轴、无依据的焦点跳动、磨皮塑料感。
 > 字幕、屏幕文字、片头片尾标题、水印、品牌标志、黑边。
+
+## 2026-11-05（1）
+
+### ⭐ 觉醒：最后的念力者
+
+- **工具**：Seedance 2.5 / WaveSpeed · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2117920557559693492)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：30 秒好莱坞动作惊悚：城市边缘普通人觉醒念力，瓦砾与汽车齐飞，整座城被推到失控边缘。
+
+> THE AWAKENING — THE LAST MAN WITH TELEKINETIC POWERS
+> 
+> ENGINE DIRECTIVE
+> 
+> Create an EXACTLY 30-second, single-generation, photorealistic Hollywood action-thriller. 16:9 widescreen, 60fps where supported. Cinematic live-action quality.
+> 
+> REFERENCE LOCK
+> 
+> - @image1 = Protagonist. Preserve exact face, hairstyle, beard, skin tone and body structure. Outfit: black long coat, black three-piece suit, white shirt, black tie and polished boots.
+> - @image2 = Infected zombies. Preserve their decayed appearance, pale damaged skin, cloudy eyes, torn clothing and disturbing movements. Multiple infected form an approaching horde.
+> - @image3 = Abandoned rainy downtown avenue. Preserve elevated railway, damaged storefronts, yellow taxi, city bus, wet asphalt and surrounding brick buildings.
+> 
+> STORY & VISUAL DIRECTION
+> 
+> A mysterious man discovers his telekinetic powers while surrounded by an infected zombie horde in an abandoned city. He becomes humanity's last hope.
+> 
+> AUDIO: Dark orchestral action soundtrack, cinematic bass, atmospheric rain, zombie groans, telekinetic energy pulses, metallic impacts and powerful cinematic sound effects.
+> 
+> 30-SECOND TIMELINE
+> 
+> 00:00–00:03 | THE LAST SURVIVOR
+> Wide aerial reveal of the abandoned downtown avenue beneath the elevated railway. Rain falls as the protagonist stands alone in his black suit. A zombie horde emerges through the mist.
+> 
+> 00:03–00:06 | THE THREAT
+> Handheld tracking shot. Infected creatures approach from both sides. The protagonist slowly turns, remaining calm as the horde surrounds him.
+> 
+> 00:06–00:09 | FIRST AWAKENING
+> Close-up of his eyes. Nearby debris, stones and metal objects begin floating. Invisible energy distorts the rain around him.
+> 
+> 00:09–00:12 | TELEKINETIC POWER
+> He raises one hand. Several zombies are suddenly lifted into the air by an invisible force, suspended above the wet street.
+> 
+> 00:12–00:15 | UNLEASHED
+> A powerful outward gesture sends the infected backward. A yellow taxi and loose street debris shake from the energy wave.
+> 
+> 00:15–00:18 | THE HORDE
+> Low-angle tracking shot reveals dozens more infected emerging beneath the railway bridge. The protagonist remains surrounded.
+> 
+> 00:18–00:21 | POWER EXPLOSION
+> He spreads both arms. Nearby vehicles and metal debris rise into the air, forming a dramatic floating barrier.
+> 
+> 00:21–00:24 | FINAL STAND
+> A massive telekinetic shockwave sweeps across the avenue, throwing the approaching horde backward through rain and mist.
+> 
+> 00:24–00:27 | SILENCE
+> The debris slowly falls. The protagonist stands alone in the devastated street, his coat moving in the wind.
+> 
+> 00:27–00:30 | THE AWAKENING
+> Extreme close-up of his determined face. Behind him, distant infected silhouettes begin emerging from the fog. Cut to black.
+> 
+> FINAL RULES: Maintain exact character identity, consistent wardrobe, zombie designs and location geography. Realistic telekinetic physics, cinematic VFX, natural movement, continuous storytelling, no random scene changes, no character morphing, no cartoon effects. Exactly 30 seconds.
