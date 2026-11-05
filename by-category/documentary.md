@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 6 条。
+共 7 条。
 
 ## 2026-10-24（1）
 
@@ -213,3 +213,30 @@
 > ABSOLUTELY NO MUSIC.
 > Only natural ambience. Morning birds. Water splashing from the tap. Kettle and stove sounds. Clothes scrubbing in a basin. Rice pot lid clinking. Corded phone chatter and laughter. Footsteps and pebble skipping on concrete. Wind rising before rain. Evening crickets. Distant motorcycles. Natural environmental sounds only.
 > 16:9.
+
+## 2026-11-05（1）
+
+### 迷你 DV：厨房烤蛋糕的下午
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@iamahmedfaraz66 · [原帖](https://x.com/iamahmedfaraz66/status/2117994046564311057)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：15 秒早期 MiniDV 手持感：宽松卫衣女孩在阳光厨房打蛋、进烤箱、出炉笑场，纯环境声。
+
+> Create a 15-second ultra-realistic 16:9 landscape video featuring the same naturally attractive 24-year-old Korean woman with long loose dark hair, minimal makeup, an oversized maroon hoodie, and loose casual pants. Preserve her exact facial identity, hairstyle, outfit, and body proportions in every shot.
+> 
+> Setting: A cozy, lived-in apartment kitchen on a sunny afternoon. Authentic early-2000s Sony MiniDV home-video aesthetic, filmed by another person. Slight handheld movement, imperfect framing, subtle autofocus adjustments, faded colors, and warm natural sunlight.
+> 
+> 0–3 seconds: She happily prepares a cake in the kitchen. She cracks an egg into a mixing bowl, adds flour and milk, and begins whisking. Her movements are casual and spontaneous.
+> 
+> 3–6 seconds: She whisks the batter enthusiastically. A little cloud of flour suddenly puffs upward, covering the tip of her nose and sprinkling her maroon hoodie. She pauses, blinks, notices the mess, and laughs naturally.
+> 
+> 6–9 seconds: She pours the batter into a round cake pan, accidentally spilling some over the edge. She gives the camera an embarrassed smile, wipes the counter, and places the pan inside the oven.
+> 
+> 9–12 seconds: Brief natural time jump. She opens the oven and carefully removes a slightly crooked golden cake. She examines its uneven shape, shrugs playfully, and decorates it with whipped cream and fresh strawberries.
+> 
+> 12–15 seconds: She cuts a small slice and tastes it. Her expression changes into genuine delight. She smiles proudly at the camera while holding the cake, clearly pleased with her imperfect creation.
+> 
+> Maintain smooth, continuous natural motion within each shot, believable hand-object interactions, realistic flour particles, batter consistency, and physically accurate movements. Keep the kitchen layout and all props consistent. Use natural transitions and a brief time jump only for baking. Avoid artificial slow motion, excessive cinematic camera movement, stuttering, judder, duplicated frames, distorted fingers, or changing facial identity.
+> 
+> Audio: Natural synchronized kitchen sounds—egg cracking, whisking, flour puffing, oven door opening, plate sounds, and her spontaneous laughter. No background music or narration.

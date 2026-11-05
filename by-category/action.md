@@ -1,6 +1,6 @@
 # 动作
 
-共 10 条。
+共 11 条。
 
 ## 2026-10-24（1）
 
@@ -410,3 +410,100 @@
 > AUDIO: Cinematic orchestral war music, authentic gunfire, artillery, aircraft, explosions, screaming soldiers, temporary tinnitus, sudden silence and soft ending piano.
 > 
 > STRICT RULES: Maintain @image1 identity, @image2 appearance and @image3 environment. Realistic physics, consistent wardrobe and weapons, cinematic camera movements, synchronized audio. No morphing, no teleportation, no subtitles or watermarks.
+
+## 2026-11-05（1）
+
+### ⭐ 电梯里的勇敢误会：20 秒近身战
+
+- **工具**：Seedance 2.5 / makeugc · **时长**：20 秒
+- **作者**：@Mavern_0x · [原帖](https://x.com/Mavern_0x/status/2118094185542599051)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：竖屏电梯全封闭动作：紫发女主在密闭轿厢里制服两个挑衅的成年男子，直到楼层到达。
+
+> FORMAT
+> 20-second vertical 9:16 cinematic action scene. Photorealistic live-action appearance, natural human movement, detailed practical surroundings, real-time pacing. The entire scene takes place inside one elevator. All three characters are adults.
+> 
+> HEROINE
+> A stylish 25-year-old woman with a violet chin-length bob, dark roots, expressive eyes and natural makeup. An athletic, naturally curvy silhouette, without exaggerated anatomy or emphasis on individual body parts.
+> She wears a fitted opaque black high-neck top, a cropped charcoal jacket, a structured black utility mini skirt with integrated fitted shorts, opaque black tights and black ankle boots with secure fastenings and low, broad heels. Subtle silver earrings and small violet stitching details complete her fashion-forward look.
+> Frame her as the capable protagonist of a grounded action film. Her clothes remain intact and provide coverage throughout the fight.
+> No implants, enhancements or supernatural abilities. Her fighting experience is expressed through alertness, compact movements and recovery of balance. She visibly feels impacts and becomes breathless.
+> 
+> OTHER CHARACTERS
+> Two intimidating adult men with muscular but realistic builds and ordinary street clothing:
+> A wears a gray T-shirt and begins closest to her on the rear-left side.
+> B wears a black sleeveless shirt and begins nearer the center-right, closer to the doors.
+> No weapons. Give them distinct, consistent faces and clothing.
+> 
+> ELEVATOR AND GEOGRAPHY
+> A spacious passenger elevator, approximately 2.4 meters wide and 2.2 meters deep, with brushed steel walls, a rear handrail, a small mirror panel and a matte nonslip floor. Neutral overhead lighting, restrained cool reflections, visible wear on metal and realistic fingerprints around the controls.
+> The destination button 25 is already illuminated. The starting floor is unspecified. The elevator is traveling during the confrontation and arrives at floor 25 at the end.
+> Doors are at the front. The heroine begins near the rear-center. Keep positions and screen direction consistent.
+> A eventually sits in the rear-left corner and B ends on the floor along the right wall, away from the door track. Leave a central space for the heroine.
+> Nobody leaves the elevator during the clip.
+> 
+> TIMELINE
+> 
+> 00:00-00:04.00 | CONFRONTATION
+> View from just inside the front-right corner, looking toward the rear. The doors finish closing. Establish all three adults and the illuminated destination button.
+> A crowds the heroine, blocking her path toward the controls. He says, "You're not going anywhere."
+> She looks directly at him and answers, "Back off."
+> B steps closer and grabs her left jacket sleeve near the wrist. The fabric tightens as he pulls. She takes a small involuntary step, then plants her foot to steady herself.
+> There is no sexual touching or sexual dialogue. This is an intimidation scene that develops into self-defense.
+> 
+> 00:04.00-00:08.00 | BREAKING FREE
+> She turns with B's pull and breaks his grip. A short defensive shove sends him one step backward against the right wall. He remains upright and begins recovering immediately.
+> A reaches toward her. She redirects his arm during a brief close struggle and uses his forward momentum to turn him into the rear-left wall, shoulder first.
+> Show the approach, contact and result clearly. A loses balance and slides into the rear-left corner, holding his bruised forearm close to his body. No fracture, unnatural bending or visible wound.
+> B is already moving back toward her. The men do not stand still waiting for separate turns.
+> 
+> 00:08.00-00:12.00 | THE HEAVIER ATTACKER
+> B lunges toward her with a broad shove. His hand catches her upper shoulder, pushing her sideways and shifting her jacket. She braces against the wall and visibly struggles to recover her footing.
+> As he crowds forward, she pivots clear of his path. He must take an awkward corrective step around A's legs.
+> His shoulder briefly rattles the handrail as he stumbles. The metal sound comes from that actual contact. He stays on his feet and turns back toward her.
+> 
+> 00:12.00-00:16.50 | THE FINAL ATTEMPT
+> B grabs the front of her jacket and tries to pin her. Fabric stretches naturally without tearing. She turns with the pressure and frees herself after a brief struggle.
+> He advances again. She steadies her supporting foot and delivers one compact defensive front kick to his lower torso, below the chest, pushing him away.
+> Show the preparation, single contact, withdrawal of her boot and his loss of balance in one uninterrupted medium-wide view. The kick does not strike his head.
+> He takes a backward step, loses balance, falls against the right wall and lands heavily on his hip, sitting on the floor clear of the door mechanism. His head does not hit the wall or floor.
+> He remains conscious, winded and unwilling to get up, drawing one leg toward himself. She immediately returns her foot to the floor and takes a small corrective step.
+> No triumphant extra blows after anyone falls.
+> 
+> 00:16.50-00:20.00 | ARRIVAL
+> The heroine stands in the central gap near the rear, breathing hard. She checks each man before lowering her hands.
+> A remains in the rear-left corner holding his forearm. B remains seated along the right wall, catching his breath. Both remain visible or spatially accounted for.
+> She straightens her jacket, brushes violet hair away from her face and allows a small, tense smile of relief.
+> At approximately 00:18.50, the elevator slows gently and the indicator reads 25. A normal arrival chime sounds. The doors open by the final frame, revealing an empty hallway.
+> The camera stays inside. She remains standing inside the cabin. End before anyone exits. No final speech or title card.
+> 
+> CAMERA
+> Grounded action cinematography with a full-frame-equivalent 24-28 mm lens, no fisheye distortion. Start with an informative medium-wide composition.
+> Keep her entire body and both feet visible during the kick and the major falls. Preserve a clear view of the supporting foot, impact and landing.
+> The camera occupies the front-right corner, clear of performers. Small physical adjustments follow the action without passing through walls.
+> Use a few motivated cuts only between completed action beats. Never cut away to hide a decisive contact or fall. Do not repeat a completed strike from another angle.
+> Subtle handheld movement accompanies collisions, but the action remains readable. No excessive shaking, whip-pan coverups, slow motion, speed ramps or impossible camera orbits.
+> The cramped space, overlapping approaches and short recovery periods explain why the men cannot both attack effectively at once.
+> 
+> PHOTOREALISM
+> Premium live-action feature-film texture. Natural skin pores, slight perspiration, individual strands of hair, detailed cloth weave, realistic jacket seams, leather footwear and subtly scratched steel.
+> Neutral ceiling light gives believable facial modeling, contact shadows beneath shoes and consistent reflections. Preserve skin tones and highlight detail. Avoid neon flooding, plastic skin, excessive sharpening and artificial beauty filters.
+> Moderate natural motion blur. Keep the moving subject legible without making every frame unnaturally frozen.
+> Bodies retain weight and inertia. Every shove produces a proportionate displacement. Feet grip the floor until balance is visibly lost. Hair and fabric react to acceleration, contact and settling.
+> Walls remain intact. The handrail vibrates only when struck. Clothing, bruised reactions, body positions and scattered hair remain consistent.
+> The heroine succeeds through timing, surprise and the narrow space, while showing strain and imperfect balance.
+> 
+> AUDIO
+> Diegetic audio only: ventilation, low elevator motor hum, shoe friction, clothing movement, forceful exhalations, brief human reactions, restrained impact sounds, the handrail rattle and the final arrival chime.
+> English dialogue only:
+> A: "You're not going anywhere."
+> Heroine: "Back off."
+> No sexual remarks, additional dialogue, narration or music. No exaggerated injury sounds.
+> 
+> CONSTRAINTS
+> No sexualized framing, exposed underwear, torn clothing or body-part close-ups.
+> No fractures, graphic injuries, blood, head strikes or unconscious characters.
+> No superhuman strength, cybernetics, glowing body parts, energy effects or weapons.
+> No extra characters, duplicate limbs, face changes, floating footwear or disappearing people.
+> No teleportation, repeated impacts, instant recovery, interpenetrating bodies or inconsistent reflections.
+> Doors remain closed until the final arrival. All action stays inside the elevator.
