@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 7 条。
+共 9 条。
 
 ## 2026-10-24（1）
 
@@ -240,3 +240,64 @@
 > Maintain smooth, continuous natural motion within each shot, believable hand-object interactions, realistic flour particles, batter consistency, and physically accurate movements. Keep the kitchen layout and all props consistent. Use natural transitions and a brief time jump only for baking. Avoid artificial slow motion, excessive cinematic camera movement, stuttering, judder, duplicated frames, distorted fingers, or changing facial identity.
 > 
 > Audio: Natural synchronized kitchen sounds—egg cracking, whisking, flour puffing, oven door opening, plate sounds, and her spontaneous laughter. No background music or narration.
+
+## 2026-11-06（1）
+
+### 恐龙自然纪录片全流程
+
+- **工具**：Seedance 2.5（Higgsfield MCP） · **时长**：10 分钟（20×30 秒）
+- **作者**：@higgsfield_ai · [原帖](https://x.com/higgsfield_ai/status/2118511289672622273)
+- **按日归档**：[by-date/2026-11-06.md](../by-date/2026-11-06.md)
+- **概要**：10 分钟史前自然纪录片流水线：20 个 30 秒分镜、物种转面、旁白音效与质检全写死。
+
+> Make a 10-minute nature documentary about real dinosaurs, from the first dinosaurs on Pangaea to the asteroid. 4K, 21:9, 24 fps, English narration.
+> 
+> STORY
+> 20 scenes of 30 seconds through the Triassic, Jurassic and Cretaceous: Coelophysis on Pangaea, drought and eruptions, Plateosaurus, Brachiosaurus, Diplodocus, Stegosaurus vs Allosaurus, Archaeopteryx over a lagoon, the first flowers, Spinosaurus hunting a giant fish, Quetzalcoatlus in flight, the fighting dinosaurs of the Gobi, T. rex and Triceratops at Hell Creek, the impact, the ash and one surviving bird.
+> 
+> LOCATIONS
+> 13 location plates in Soul Cinema, 21:9. Vivid, untouched prehistoric wilderness, 28mm anamorphic, deep focus, volumetric light. Prehistoric flora only: no grass, no palm trees, no flowers before the Cretaceous. No people, roads or man-made objects. Nothing should look like a park, a plantation or a road.
+> 
+> DINOSAURS
+> A 4-angle turnaround sheet in Seedream 5.0 Pro for each of the 15 species before any video: side, front, back, three-quarter. Scientifically accurate: feathered Velociraptor, T. rex with lips over its teeth, Plateosaurus and T. rex on two legs. Use the sheets as references in every scene.
+> 
+> VIDEO
+> Seedance 2.5 in 4K with the location plate and species sheets as references. Write "no music" into every prompt, then strip the music from every clip anyway and keep only the effects.
+> 
+> CAMERA
+> Mostly handheld and always moving. Walk up to the animals, run alongside them, let splashes and dust hit the lens. Drone flyovers for scale. No static shots and no drone visible in frame.
+> 
+> NARRATION
+> A deep, warm, unhurried nature documentary narrator. 40 lines of real paleontology facts, two per scene. Check every line with a transcript so no stage directions get read aloud.
+> 
+> MUSIC
+> Four orchestral themes that follow the eras, instrumental only. Duck it under the voice, full level in the pauses.
+> 
+> SOUND DESIGN
+> An ambience bed for every scene: canyon wind, forest, lagoon, swamp, sandstorm, rain, crickets before the impact, the silence of ash. Accents on the action: Brachiosaurus footsteps with sub-bass, the Diplodocus tail whip, splashes, wingbeats, the T. rex rumble, the impact and the shockwave. Soft whooshes on scene changes, low ones on era changes.
+> 
+> EDIT
+> Crossfade picture and sound on every cut: 0.75 s between scenes, 1 s between eras, 1.5 s into the ash. Mix to -16 LUFS.
+> 
+> TITLES
+> Come up with a title and design it the way big nature documentaries do. Open with "Documentary made with Higgsfield", centered, in a cinematic font. Burn in English subtitles synced to the voice word by word.
+> 
+> QC
+> Check every scene frame by frame for morphing, extra limbs, wrong leg counts, bodies passing through each other and story mismatches on the cuts. Regenerate broken shots between clean first and last frames.
+
+## 2026-11-08（1）
+
+### ⭐ 两杯热茶：空椅对面的等待
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@xinxuai · [原帖](https://x.com/xinxuai/status/2119216327651123484)
+- **按日归档**：[by-date/2026-11-08.md](../by-date/2026-11-08.md)
+- **概要**：15 秒一镜到底纪录片质感：七十多岁的她为对面空椅子放上一杯还冒热气的茶。
+
+> 15 seconds, one continuous shot, no cuts. has to look like a real documentary, zero AI feel. handheld follow cam, slight breathing shake, the odd refocus, no smooth moves. overcast morning window light, uneven, window a bit blown out. no golden light, no light beams, no haze, no grade. real skin, pores, age spots, wrinkles, no smoothing. a small ordinary kitchen, a little worn. absolutely no text, labels, packaging or logos anywhere
+> 
+> she's an ordinary woman in her 70s, messy hair, old grey cardigan, moves slowly
+> 
+> we start behind her. she's holding two steaming old mugs, one off-white, one pale blue, and turns from the stove toward a small table by the window. she sets the blue one in front of the empty chair across the table, next to a pair of folded men's reading glasses, and turns the handle toward the chair. then she comes around, puts the off-white one down, pulls out her chair and sits, legs scraping the floor. camera settles at the side of the table: her holding her mug on one side, the empty chair, the glasses and the untouched steaming blue mug on the other. she looks across, calm, and takes a sip
+> 
+> sound: real kitchen room tone, fridge hum, slippers, mugs on wood, chair scrape, distant birds. no music, no dialogue, no voices

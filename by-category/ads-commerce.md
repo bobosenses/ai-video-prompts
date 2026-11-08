@@ -1,6 +1,6 @@
 # 广告带货
 
-共 7 条。
+共 9 条。
 
 ## 2026-10-24（1）
 
@@ -547,3 +547,73 @@
 > show the pieces → build the outfit through clean hard cuts → finish with a satisfying full-look reveal.
 > 
 > #Seedance25 #AIVideo #AIFashion #GRWM #OOTD #ImaStudio
+
+## 2026-11-07（1）
+
+### 酒红发束：奢侈时尚片场
+
+- **工具**：Seedance 2.5（TapNow） · **时长**：20 秒
+- **作者**：@AIwithNatalia · [原帖](https://x.com/AIwithNatalia/status/2118698541266964526)
+- **按日归档**：[by-date/2026-11-07.md](../by-date/2026-11-07.md)
+- **概要**：20 秒高频剪辑时尚片：锁酒红发髻与黑皮衣，Vogue 式特写连切。
+
+> Create a 20-second ultra-realistic luxury high-fashion editorial photoshoot video featuring the exact female model from the provided face reference image.
+> 
+> IMPORTANT – IDENTITY PRESERVATION:
+> Use the uploaded face reference as the ONLY source for the model's facial identity. Preserve her exact facial features, face shape, eyes, nose, lips, skin tone and natural proportions. Do not alter, beautify, reinterpret or replace her identity. Maintain perfect facial consistency in every shot.
+> CONCEPT & STYLING:
+> A sophisticated luxury fashion campaign with a minimalistic beige studio background. The model wears an oversized black leather jacket, elegant gold statement earrings, and her signature deep burgundy/wine-red hair styled in a sleek, elegant, neatly tied hair bun with a few delicate loose strands framing her face.
+> 
+> HAIR COLOR – EXTREMELY IMPORTANT:
+> The model must have rich, deep burgundy hair (dark wine red / cherry burgundy). Maintain this exact hair color in every single shot, including close-ups, side profiles and rear shots showing the bun. The hair must never appear blonde, golden, platinum, copper, orange or light brown. No blonde highlights or color variations. Keep the burgundy shade consistent under all lighting conditions.
+> Subtle high-fashion makeup with luminous, realistic natural skin.
+> 
+> SHOT-BY-SHOT SEQUENCE – 20 SECONDS:
+> 0–2 seconds:
+> Begin with a close-up of black high-fashion boots against a clean beige studio background. Fast cinematic cut to a medium portrait of the model wearing an oversized black leather jacket, looking directly over her shoulder with a confident, intense expression.
+> 
+> 2–4 seconds:
+> A behind-the-scenes camera-monitor shot showing the model being photographed. Cut to an artistic wide-angle composition of the model posing dramatically on the studio floor.
+> 
+> 4–6 seconds:
+> Extreme macro close-up of her ear, deep burgundy hair, gold earring and textured black leather jacket. Transition into an elegant close-up of her hand touching her neck and earring.
+> 
+> 6–8 seconds:
+> Extreme close-up of natural lips, skin texture and facial details. A finger gently touches the lower lip. Cut to a sideways reclining beauty portrait with direct eye contact.
+> 8–10 seconds:
+> Tight side-profile portrait emphasizing her eyes, cheekbones and nose. Followed by a dramatic close-up of her face with soft shadows.
+> 
+> 10–12 seconds:
+> Dynamic wide shot of the model in different editorial poses on the studio floor, wearing the oversized black outfit. Cut to an intimate beauty shot with her eyes closed and hand resting gently on her neck.
+> 12–14 seconds:
+> A glamorous close-up of her jawline, neck, gold earring and delicate hand movement. Cut to a rear shot highlighting her perfectly styled deep burgundy hair bun and leather jacket.
+> 
+> 14–16 seconds:
+> Moody half-lit facial close-up with dramatic side lighting. Transition to a beautiful side-angle portrait with her head tilted backwards.
+> 16–18 seconds:
+> Slow, elegant head movement with eyes closed, followed by a dramatic profile close-up showcasing her facial structure and skin texture.
+> 
+> 18–20 seconds:
+> End with a powerful, symmetrical extreme close-up of the model looking directly into the camera. Strong editorial eye contact, neutral expression and cinematic lighting. Finish with a quick artistic cut to the black fashion boots.
+> CAMERA & EDITING STYLE:
+> Fast-paced luxury fashion film editing, rapid jump cuts, alternating extreme close-ups, macro beauty shots, medium portraits and full-body editorial compositions. Mix of 85mm portrait lens, 100mm macro lens and occasional wide-angle fashion photography. Subtle handheld camera movement, smooth push-ins, dramatic angle changes and sharp editorial transitions.
+> 
+> LIGHTING & COLOR GRADING:
+> Warm beige and champagne color palette, soft diffused studio lighting, subtle cinematic shadows, realistic skin pores, natural highlights, deep blacks and premium luxury fashion campaign color grading.
+> OVERALL AESTHETIC:
+> High-end Vogue editorial, luxury designer fashion campaign, sophisticated European fashion photography, artistic beauty cinematography, photorealistic, premium commercial production quality.
+> 
+> Keep the model's identity, outfit, DEEP BURGUNDY HAIR COLOR, neat hair bun, skin tone and overall visual appearance consistent throughout all 20 seconds.
+> NEGATIVE PROMPT:
+> Blonde hair, platinum blonde, golden hair, copper hair, orange hair, light brown hair, blonde highlights, changing hair color, loose open hair, different hairstyles, face distortion, identity changes, artificial-looking skin, extra fingers, text, logos or watermarks.
+
+## 2026-11-08（1）
+
+### 雨夜霓虹：都市时尚走拍
+
+- **工具**：Seedance（#Seedance25） · **时长**：15 秒
+- **作者**：@CandyTravelight · [原帖](https://x.com/CandyTravelight/status/2119086384824959140)
+- **按日归档**：[by-date/2026-11-08.md](../by-date/2026-11-08.md)
+- **概要**：15 秒竖屏都市时尚：雨后商业街贴地运镜，女子撑伞踏水走向霓虹深处。
+
+> 生成视频：《雨夜霓虹》Seedance 视频完整提示词（最终修订版） 基础信息：15秒｜9:16竖屏｜真人电影级写实摄影｜30fps｜都市时尚电影质感 参考图约束：全程人物形象、穿搭、道具和参考图保持一致，大部分镜头为全身取景，仅指定特写镜头才聚焦局部，杜绝无故裁切只留腿部 人物统一（强制锁定）： 同一位25岁左右成年东亚女性，长发自然披肩，五官、脸型、身材全程完全一致。全程穿着黑色修身短袖上衣、深灰色高腰短裙、8D柔光透肤黑丝袜、黑色漆皮尖头细跟高跟鞋，黑色手提包，手持黑色雨伞。严禁更换服装、发型、鞋履、面部样貌；严格遵循人体工学，肢体结构正常，手指数量正确，雨伞永远由手握住，不悬空、不出现多余手/第三只手，步态平滑连贯，无跳帧、无卡顿瞬移，行走重心稳定自然。 场景统一： 雨后的现代都市商业街，沿街玻璃橱窗、暖黄色店铺灯光、远处车流车灯、湿润抛光石材路面，地面带有清晰柔和光影倒影。主色调：墨黑、冷灰、琥珀金。电影级夜景光影，持续细密落雨，行走踏水时脚踝、鞋面带有自然溅起的细小水花，雨水附着在鞋跟、丝袜脚踝处。 逐秒分镜（构图标注+动作修正） 00–02秒｜迎面走来｜全身取景 3厘米贴地超低机位，14mm广角，全身入镜。女子撑着黑色雨伞，从街道前方迎面缓缓走来。黑色高跟鞋踩过湿润路面，裙摆与长发随步伐自然轻动，左右脚交替行走重心稳定，步态顺滑无跳帧。镜头平稳后退，汽车灯光在身后形成虚化光斑，脚踝行走时带起细微雨珠飞溅。 02–03.5秒｜背面跟拍｜全身取景 镜头自然绕至人物身后，切换背面低机位，全身入镜。她沿着湿润商业街继续平稳前行，黑色手提包随步伐轻轻摆动，雨伞稳稳握在手中，地面映出她和沿街灯光的倒影，步伐连贯流畅。 03.5–05秒｜橱窗驻足｜全身取景 镜头切至正常平视侧面，全身入镜。她在玻璃橱窗旁停下，微微侧头，观察玻璃中自己的倒影，眼神自然；一只手稳定握住雨伞，另一只手轻轻整理头发，不存在多余的第三只手。 05–06.5秒｜跨过积水｜全身取景 侧前方低机位跟拍，全身入镜。她发现脚前有一小片积水，自然抬起一只脚缓慢跨过水洼，鞋跟落地时带起细微水花，动作流畅，重心稳定，符合真实人体运动，全程动作顺滑不跳帧。 06.5–08秒｜蹲身观察｜全身取景【重点修改】 镜头降低至贴地视角，全身入镜。她平缓缓步走到水坑边，缓慢屈膝下蹲，不跳跃、不瞬移，微微俯身，观察积水中摇曳的霓虹灯倒影。一只手持续扶稳雨伞（伞柄在手内，绝不悬空漂浮），另一只手自然垂落，水面倒影轻轻晃动，雨滴落在脚踝位置。 08–09.5秒｜车灯街口｜全身取景侧面中远景 镜头转为侧面中远景，全身完整入镜。她平稳站起，撑伞缓步从街口经过。一辆汽车驶过，冷白色车灯从侧后方扫过人物轮廓，湿润路面泛起流动的光影，行走动作连贯顺滑。 09.5–11秒｜鞋履特写｜限定特写镜头（仅这一段为局部特写） 3厘米贴地微距跟拍，聚焦黑色漆皮尖头细跟鞋、透肤黑丝袜与湿润石材路面的细节。她连续自然、平稳迈出两步，鞋面映出暖黄色灯光，丝袜呈现均匀细腻的真实半透明质感，雨水溅在鞋面、脚踝丝袜上，脚步顺滑无跳帧卡顿。 11–12.5秒｜屋檐收伞｜全身取景平视中景 镜头切至正常平视中景，全身入镜。她走到明亮店铺屋檐下，停下脚步，轻轻收起黑色雨伞，手腕自然转动，雨滴沿伞面滑落。她微微抬头看向前方灯光，手部动作自然合理。 12.5–15秒｜走向霓虹深处｜全身取景，缓慢拉远 镜头缓缓移动至人物正后方，逐渐拉远，全程保留全身。她提着黑色手提包，收好雨伞，沿着湿润街道继续平缓向霓虹灯光延伸的城市深处走去。背影逐渐融入暖金色与冷蓝色交织的夜色，最后以远景定格结束。 摄影与画面硬性要求 镜头语言：贴地蚂蚁视角、低机位、正常平视、侧面跟拍、背面跟拍交替使用。 14mm超广角视觉，真实空间透视，不产生夸张畸形变形。 运镜平滑自然，转场使用动作衔接和电影式硬切，禁止九宫格分屏、拼接画面。 人物一致性：面部、发型、服装、丝袜、鞋子和手提包全程严格一致。 人体结构&运动规则：高跟鞋结构正确，步态符合真实人体重心规律；手指数量正确，无畸形手、无凭空多出的手；雨伞必须始终被手部握持，禁止伞悬空漂浮；所有人物动作连续平滑，无跳帧、无动作跳跃、无瞬移卡顿。 丝袜质感：8D柔光透肤质感，均匀细腻，不出现网格、碎点、塑料反光。 环境光影：湿润地面保留真实倒影，车灯、橱窗灯和霓虹灯形成自然电影散景；细密落雨，行走踏水时脚踝、鞋面有自然溅起的水滴。 画质：电影级真实肤质，轻微胶片颗粒，暗部有细节，高光不过曝。 音效与音乐 搭配低沉、慵懒的都市电子氛围音乐，约90–100 BPM。加入真实雨滴声、鞋跟敲击石材地面的清脆声、汽车驶过声、伞面收拢声。音乐随镜头推进逐渐增强，最后两秒缓缓收束。 严格禁止清单 ❌ 九宫格拼接、分屏 ❌ 人物变脸、服装变化、突然换场 ❌ 肢体畸形、多余手指、第三只手、雨伞悬空漂浮 ❌ 鞋跟变形、丝袜网格化、过度磨皮、CG渲染塑料感 ❌ 字幕、文字、水印 ❌ 非特写镜头无故裁切画面、只保留腿部、缺失上半身 ❌ 动作跳帧、画面卡顿、人物瞬移、蹲姿起跳、动作断层 配套负向提示词（直接复制到Seedance负向框） 九宫格，分屏，拼接画面，多余的手，第三只手，雨伞悬空漂浮，肢体畸形，手指畸形，鞋跟扭曲变形，丝袜网格，塑料反光，过度磨皮，CG感，卡通，渲染感，字幕，文字，水印，裁切画面只留腿部，动作跳帧，卡顿，瞬移，跳跃蹲姿，动作断层，人脸变化，换装，发型改变，15s，1080p

@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 22 条。
+共 26 条。
 
 ## 2026-10-24（1）
 
@@ -743,3 +743,117 @@
 > REQUIREMENTS: Consistent faces, outfits, and location. Keep the entire prank and revenge sequence clearly visible with believable movements. All water action must happen safely away from fuel dispensers.
 > 
 > NEGATIVE PROMPT: No fire, sparks, explosions, fuel spills, serious injuries, blood, cartoon physics, face changes, outfit changes, distorted anatomy, random cuts, subtitles, logos, or watermarks.
+
+## 2026-11-06（2）
+
+### ⭐ 千禧韩系相亲：MiniDV 出门准备
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@KOF97AI · [原帖](https://x.com/KOF97AI/status/2118505329306611799)
+- **按日归档**：[by-date/2026-11-06.md](../by-date/2026-11-06.md)
+- **概要**：30 秒六分镜复刻 2003 韩系家用 DV：选衣服、卷发化妆到忘拿包折返，锁脸锁时序。
+
+> Create a 30-second ultra-realistic early-2000s home-video sequence featuring the same young Korean woman from the reference image, nervously preparing for her first blind date.
+> 
+> Scene 1 (0–5s): She sits on her bedroom floor surrounded by clothes, compares two outfits, checks a handwritten date note, and smiles nervously at the camera.
+> 
+> Scene 2 (5–10s): She brushes her shoulder-length hair, curls the ends, struggles with her bangs, and finally gets them right.
+> 
+> Scene 3 (10–15s): She applies soft makeup, pink blush, eyeliner, and rosy lipstick. She smudges it accidentally, giggles, and fixes it.
+> 
+> Scene 4 (15–20s): She wears a pastel pink cardigan, white top, and pleated skirt. She adds earrings, a necklace, perfume, and grabs her handbag.
+> 
+> Scene 5 (20–25s): She checks herself in the mirror, practices saying hello, attempts a confident smile, then laughs shyly.
+> 
+> Scene 6 (25–30s): She rushes toward the door, remembers her forgotten purse, runs back to grab it, and hurries outside.
+> 
+> Visual style: Authentic 2003 Korean MiniDV home-video footage, standard-definition softness, natural lighting, shaky handheld camera, imperfect autofocus, subtle digital noise, and faded colors.
+> 
+> Continuity: Preserve the exact reference face, age, proportions, and hairstyle. Maintain consistent outfit, makeup, and accessories after Scene 4.
+> 
+> Audio: Natural room ambience, clothing rustling, footsteps, and spontaneous laughter.
+> 
+> Avoid: Modern electronics, cinematic grading, beauty filters, face morphing, duplicated fingers, teleportation, and unexplained outfit changes.
+> 
+> Mood: Cute, feminine, playful, slightly awkward, and nostalgic—like a real Korean girl's blind-date preparation recorded by her best friend in 2003.
+
+### 黄昏森林：有人在看我
+
+- **工具**：MiniMax H3 · **时长**：35 秒
+- **作者**：@EndFolding79421 · [原帖](https://x.com/EndFolding79421/status/2118464623825621047)
+- **按日归档**：[by-date/2026-11-06.md](../by-date/2026-11-06.md)
+- **概要**：35 秒一镜到底森林黄昏独白：雾气脚步与低音张力床，末尾收紧不安感。
+
+> A young woman walking slowly down a quiet forest path at dusk, trees tall on both sides, soft fog drifting low across the ground. A cold breeze moves her hair and rustles leaves. She holds her jacket closed, tense but trying to stay calm.
+> 
+> Sound: soft wind through trees, distant insects, occasional twig snap, quiet footsteps on dirt and leaves.
+> Music: minimal cinematic tension bed, low sustained drones, very faint pulsing bass every few seconds, subtle high ambient tones that slowly rise, no big hits or jump-scare stingers.
+> 
+> She quietly says, “I don’t know why this place still scares me…”
+> 
+> She pauses and listens to the silence.
+> 
+> “My mom used to say nothing bad happens out here.”
+> 
+> She takes a few slow steps forward, breathing softly.
+> 
+> “But every time I come back… it feels like someone’s watching.”
+> 
+> The fog thickens slightly as shadows stretch between the trees. She turns slowly, heart racing, but sees nothing.
+> 
+> She whispers, “This is stupid… I’m just tired.”
+> 
+> She exhales and keeps walking as the forest grows darker, the music slowly tightening as the clip ends.
+
+## 2026-11-07（1）
+
+### 昭和巴士：女乘客救驾
+
+- **工具**：Seedance 2.5（Frameo） · **时长**：30 秒
+- **作者**：@saniaspeaks_ · [原帖](https://x.com/saniaspeaks_/status/2118563465723789572)
+- **按日归档**：[by-date/2026-11-07.md](../by-date/2026-11-07.md)
+- **概要**：30 秒仿 80 年代日本胶片：司机突发心脏病，女乘客抢方向盘避险。
+
+> THE WOMAN ON THE BUS — OLD JAPAN RESCUE 🚌🇯🇵
+> 
+> Create a 30-second ultra-realistic live-action cinematic video set in 1980s rural Japan. The video should feel like authentic old Japanese film footage, not a modern AI-style production.
+> 
+> SETTING AND ATMOSPHERE:
+> An old Japanese local bus traveling through a quiet countryside town in the 1980s. Narrow roads, traditional wooden houses, small local shops, telephone poles, vintage cars, and distant green mountains. The bus has an old-fashioned interior with worn fabric seats, metal handrails, and large windows. Passengers are ordinary Japanese people wearing authentic 1980s everyday clothing.
+> 
+> MAIN CHARACTER:
+> A young Japanese woman with natural 1980s hairstyle, wearing a simple vintage blouse, long skirt, and modest everyday clothing. Keep her face, hairstyle, and outfit consistent throughout the video.
+> 
+> SCENE SEQUENCE:
+> 
+> 0–5 seconds:
+> The old Japanese bus moves along a peaceful countryside road. Passengers sit quietly. The middle-aged Japanese driver suddenly clutches his chest, struggles to breathe, and begins suffering a heart attack. His hands weaken on the steering wheel.
+> 
+> 5–10 seconds:
+> The bus starts drifting toward the opposite lane. Passengers panic. An old Japanese car suddenly appears ahead. The young woman notices the danger and rushes toward the driver’s seat.
+> 
+> 10–16 seconds:
+> She grabs the steering wheel and pulls the bus back into its lane. She presses the brake and carefully steers away from the approaching car. The bus slows down and stops safely beside the road. The car passes without a collision.
+> 
+> 16–22 seconds:
+> The woman checks the unconscious driver. One passenger helps her while another uses a vintage mobile-free roadside public telephone to call emergency services. The passengers remain frightened but begin helping each other.
+> 
+> 22–27 seconds:
+> An old Japanese ambulance arrives. Paramedics rush toward the bus with a stretcher and begin treating the driver. The passengers look relieved and thank the woman.
+> 
+> 27–30 seconds:
+> The woman stands beside the old bus on the quiet countryside road. The warm afternoon sunlight falls across the wooden houses and green mountains. Passengers look at her with gratitude as the paramedics continue helping the driver.
+> 
+> VISUAL STYLE:
+> Extremely realistic live-action footage, authentic 1980s Japan, nostalgic Japanese cinema atmosphere, subtle 35mm film grain, slightly faded warm colors, natural sunlight, soft film texture, realistic human expressions, handheld camera movement, authentic Japanese environment and clothing. No modern vehicles, no smartphones, no futuristic elements, no superhero powers, no exaggerated stunts, no cartoon look. Maintain clear scene continuity and realistic physical actions.
+
+## 2026-11-08（1）
+
+### 雨中救小猫：一碗热意回家
+
+- **工具**：Seedance 2.5（CuddlerAI） · **时长**：30 秒
+- **作者**：@Aiwithmaha · [原帖](https://x.com/Aiwithmaha/status/2118903281280020855)
+- **按日归档**：[by-date/2026-11-08.md](../by-date/2026-11-08.md)
+- **概要**：30 秒竖屏暖心短片：女人放下炒着的意面，冲进雨里把小猫抱回家。
+
+> Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.
