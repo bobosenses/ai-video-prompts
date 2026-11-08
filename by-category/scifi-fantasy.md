@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 10 条。
+共 15 条。
 
 ## 2026-10-24（1）
 
@@ -638,3 +638,570 @@
 > 牵手换边、手指融合、多余手臂、亲吻时脸部融合、肢体穿模。
 > 慢动作、速度渐变、突然越轴、无依据的焦点跳动、磨皮塑料感。
 > 字幕、屏幕文字、片头片尾标题、水印、品牌标志、黑边。
+
+## 2026-11-05（1）
+
+### ⭐ 觉醒：最后的念力者
+
+- **工具**：Seedance 2.5 / WaveSpeed · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2117920557559693492)
+- **按日归档**：[by-date/2026-11-05.md](../by-date/2026-11-05.md)
+- **概要**：30 秒好莱坞动作惊悚：城市边缘普通人觉醒念力，瓦砾与汽车齐飞，整座城被推到失控边缘。
+
+> THE AWAKENING — THE LAST MAN WITH TELEKINETIC POWERS
+> 
+> ENGINE DIRECTIVE
+> 
+> Create an EXACTLY 30-second, single-generation, photorealistic Hollywood action-thriller. 16:9 widescreen, 60fps where supported. Cinematic live-action quality.
+> 
+> REFERENCE LOCK
+> 
+> - @image1 = Protagonist. Preserve exact face, hairstyle, beard, skin tone and body structure. Outfit: black long coat, black three-piece suit, white shirt, black tie and polished boots.
+> - @image2 = Infected zombies. Preserve their decayed appearance, pale damaged skin, cloudy eyes, torn clothing and disturbing movements. Multiple infected form an approaching horde.
+> - @image3 = Abandoned rainy downtown avenue. Preserve elevated railway, damaged storefronts, yellow taxi, city bus, wet asphalt and surrounding brick buildings.
+> 
+> STORY & VISUAL DIRECTION
+> 
+> A mysterious man discovers his telekinetic powers while surrounded by an infected zombie horde in an abandoned city. He becomes humanity's last hope.
+> 
+> AUDIO: Dark orchestral action soundtrack, cinematic bass, atmospheric rain, zombie groans, telekinetic energy pulses, metallic impacts and powerful cinematic sound effects.
+> 
+> 30-SECOND TIMELINE
+> 
+> 00:00–00:03 | THE LAST SURVIVOR
+> Wide aerial reveal of the abandoned downtown avenue beneath the elevated railway. Rain falls as the protagonist stands alone in his black suit. A zombie horde emerges through the mist.
+> 
+> 00:03–00:06 | THE THREAT
+> Handheld tracking shot. Infected creatures approach from both sides. The protagonist slowly turns, remaining calm as the horde surrounds him.
+> 
+> 00:06–00:09 | FIRST AWAKENING
+> Close-up of his eyes. Nearby debris, stones and metal objects begin floating. Invisible energy distorts the rain around him.
+> 
+> 00:09–00:12 | TELEKINETIC POWER
+> He raises one hand. Several zombies are suddenly lifted into the air by an invisible force, suspended above the wet street.
+> 
+> 00:12–00:15 | UNLEASHED
+> A powerful outward gesture sends the infected backward. A yellow taxi and loose street debris shake from the energy wave.
+> 
+> 00:15–00:18 | THE HORDE
+> Low-angle tracking shot reveals dozens more infected emerging beneath the railway bridge. The protagonist remains surrounded.
+> 
+> 00:18–00:21 | POWER EXPLOSION
+> He spreads both arms. Nearby vehicles and metal debris rise into the air, forming a dramatic floating barrier.
+> 
+> 00:21–00:24 | FINAL STAND
+> A massive telekinetic shockwave sweeps across the avenue, throwing the approaching horde backward through rain and mist.
+> 
+> 00:24–00:27 | SILENCE
+> The debris slowly falls. The protagonist stands alone in the devastated street, his coat moving in the wind.
+> 
+> 00:27–00:30 | THE AWAKENING
+> Extreme close-up of his determined face. Behind him, distant infected silhouettes begin emerging from the fog. Cut to black.
+> 
+> FINAL RULES: Maintain exact character identity, consistent wardrobe, zombie designs and location geography. Realistic telekinetic physics, cinematic VFX, natural movement, continuous storytelling, no random scene changes, no character morphing, no cartoon effects. Exactly 30 seconds.
+
+## 2026-11-06（1）
+
+### ⭐ 霜之女帝：地下车库最后猎手
+
+- **工具**：Kling 4.0 · **时长**：30 秒
+- **作者**：@itxabdullaa · [原帖](https://x.com/itxabdullaa/status/2118202412058198119)
+- **按日归档**：[by-date/2026-11-06.md](../by-date/2026-11-06.md)
+- **概要**：30 秒超写实冰系超能动作：护狗、冰盾反击到冰龙囚敌，结尾身份反转。
+
+> 30-SECOND PHOTOREALISTIC KOREAN SUPERNATURAL ACTION FILM
+> 
+> IDENTITY LOCK: Same Korean heroine from <<<image_1>>>, identical face, pink hair, physique and outfit. Same tiny white puppy from <<<image_3>>>. Preserve character consistency throughout.
+> 
+> LOCATION: Dark underground Seoul parking garage at midnight, flickering lights, wet concrete, parked cars and drifting smoke.
+> 
+> 0:00–0:05 — THE AMBUSH
+> 
+> The heroine carries her puppy through the garage. Lights suddenly go out. An explosion erupts behind her. She instantly creates an enormous ice shield, protecting herself and the puppy. Four masked attackers emerge. Their mysterious leader says, "Give me the creature."
+> 
+> 0:05–0:11 — COUNTERATTACK
+> 
+> She places the puppy inside a protective ice sphere. Two attackers charge. She freezes one attacker's weapon, delivers a spinning back kick, then slides beneath the second attacker and launches him into a concrete pillar with a powerful ice wave.
+> 
+> 0:11–0:17 — AWAKENING
+> 
+> Her eyes ignite pink. Crystalline armor forms across her arms. She stomps the ground, releasing a massive freezing shockwave. Ice pillars erupt beneath three attackers, throwing them into the air. She follows with a spectacular spinning aerial kick surrounded by cyan energy.
+> 
+> 0:17–0:24 — FINAL HUNTER
+> 
+> The elite hunter attacks with a glowing mechanical blade. She blocks his strikes, catches the weapon and freezes it completely. With one powerful twist, she shatters it. A gigantic supernatural ice dragon erupts from the floor, spirals around him and traps him inside a towering crystalline prison.
+> 
+> 0:24–0:30 — THE SECRET
+> 
+> Silence. She retrieves her unharmed puppy. Suddenly, its eyes glow pink. A mysterious magical symbol appears beneath them. Behind her, the frozen hunter whispers:
+> 
+> "She's not the source of the power..."
+> 
+> CUT TO BLACK.
+> 
+> CINEMATOGRAPHY: Hyper-realistic Korean action cinema, aggressive tracking shots, dynamic whip-pans, realistic martial arts, 120fps impact slow motion, cinematic lighting, realistic ice physics, cyan-pink supernatural effects and powerful orchestral sound design.
+> 
+> NEGATIVE PROMPT: No cartoon, anime, inconsistent faces, outfit changes, extra limbs, unrealistic physics, duplicate puppy, puppy injuries, gore, subtitles or logos. Puppy must remain unharmed throughout.
+
+## 2026-11-07（2）
+
+### ⭐ 电梯到 0 层：镜中另一个自己
+
+- **工具**：Seedance 2.5（Frameo） · **时长**：30 秒
+- **作者**：@ch_h234 · [原帖](https://x.com/ch_h234/status/2118714265792291152)
+- **按日归档**：[by-date/2026-11-07.md](../by-date/2026-11-07.md)
+- **概要**：30 秒韩式悬疑：按 18 层却停在 0 层，红衣女孩与镜中分身收尾。
+
+> TITLE: THE ELEVATOR – FLOOR 0
+> 
+> Create a 30-second ultra-realistic Korean cinematic mystery thriller with the visual quality of a premium Korean feature film.
+> 
+> CHARACTER:
+> A 28-year-old Korean businessman with short black hair, wearing a black formal suit, white shirt, and black tie. Maintain identical facial features, clothing, and appearance throughout every scene.
+> 
+> SCENE 1 (0–7 SECONDS):
+> Late at night in Seoul, a businessman enters a luxurious modern apartment elevator. He presses floor 18. The elevator doors slowly close. He checks his wristwatch. The elevator begins moving upward.
+> 
+> SCENE 2 (7–14 SECONDS):
+> Suddenly, the elevator lights flicker. The floor display changes from 12 to 11, then displays an unfamiliar number: 0. The elevator stops. The doors slowly open, revealing a long, completely empty underground corridor with cold fluorescent lighting.
+> 
+> SCENE 3 (14–22 SECONDS):
+> The businessman looks confused and steps slightly forward. At the far end of the corridor, he notices a little Korean girl wearing a red coat. She is standing completely still, facing away from him. He calls out, but she does not respond. Suddenly, the elevator doors begin closing behind him.
+> 
+> SCENE 4 (22–30 SECONDS):
+> He rushes back into the elevator and presses the emergency button. The doors close. He looks into the elevator mirror and sees the little girl standing directly behind him. He turns around immediately. Nobody is there.
+> 
+> The elevator display changes to FLOOR 18.
+> 
+> FINAL SHOT:
+> As the doors open, the businessman sees himself standing outside the elevator, wearing the exact same suit, staring directly at him with a terrifying smile.
+> 
+> CUT TO BLACK.
+> 
+> CINEMATOGRAPHY:
+> Premium Korean thriller cinematography, realistic human expressions, atmospheric shadows, slow camera pushes, cinematic close-ups, symmetrical framing, natural skin textures, realistic elevator reflections, professional color grading, and subtle film grain.
+> 
+> SOUND DESIGN:
+> Elevator mechanical hum, soft electrical buzzing, footsteps echoing through the corridor, subtle heartbeat sound, suspenseful cinematic music, and sudden silence during the final reveal.
+> 
+> STRICT REQUIREMENTS:
+> Photorealistic live-action only. No animation, no cartoon style, no artificial-looking characters, no inconsistent faces, no random wardrobe changes, no unnecessary dialogue, no watermarks. Preserve character continuity and realistic physical movement throughout the entire 30-second film.
+
+### ⭐ 暗黑国风：一脚断桥断层
+
+- **工具**：Gemini Omni 1.2 · **时长**：15 秒
+- **作者**：@Soranlan · [原帖](https://x.com/Soranlan/status/2118630634575036905)
+- **按日归档**：[by-date/2026-11-07.md](../by-date/2026-11-07.md)
+- **概要**：15 秒三镜暗黑国风：血红瞳女主跺脚引出红金断层，普通话一句收束。
+
+> MASTER CINEMATIC PROMPT
+> DARK CHINESE FANTASY｜THE FAULT
+> 
+> Duration: 15 seconds
+> Aspect Ratio: 16:9 Landscape
+> Frame Rate: Cinematic 24fps
+> Visual Style: Photorealistic Live-Action Dark Chinese Fantasy
+> Cinematography: ARRI Alexa 65 · Anamorphic Lenses
+> Structure: Three Shots · Two Deliberate Cuts
+> Dialogue: One Mandarin Line
+> Music: No Background Music
+> 01｜MASTER VISUAL DIRECTION
+> Create a 15-second, 16:9, photorealistic live-action dark Chinese fantasy film sequence.
+> An apocalyptic battlefield, monumental environmental scale, grounded human performance, physically convincing destruction, and overwhelming cinematic tension.
+> Visual Language
+> ARRI Alexa 65 cinematography
+> Anamorphic lenses
+> Restrained handheld energy
+> 
+> Deep spatial composition
+> 
+> Realistic atmospheric perspective
+> 
+> Soot-black shadows
+> 
+> Infernal vermilion
+> 
+> Incandescent red-gold fire
+> 
+> Physical Realism
+> Natural human anatomy
+> Authentic skin texture
+> Physical fabric movement
+> Cinematic contrast
+> Absolutely live-action, not 3D animation or a video game.
+> 02｜CHARACTER ANCHOR
+> LI WEI｜Main Character
+> 
+> Identity: Li Wei
+> Age: 27
+> Ethnicity: East Asian
+> Gender: Female
+> 
+> A striking 27-year-old East Asian woman.
+> Facial Identity
+> Defined oval face
+> Natural pale skin
+> 
+> Distinctly recognizable almond-shaped eyes
+> 
+> Blood-red irises
+> 
+> Hair
+> 
+> Waist-length black hair
+> 
+> Silver-white streaks
+> Physique
+> Tall
+> Elegant
+> 
+> Naturally proportioned
+> 
+> Costume
+> 
+> She wears:
+> A long black heavy-wool coat
+> Fitted dark trousers
+> Distressed black leather boots
+> 
+> A dark leather belt
+> 
+> Supernatural Features
+> Subtle red-gold supernatural flames flow around:
+> 
+> Her fingertips
+> 
+> Her hair ends
+> Expression
+> Cold, controlled, and exhausted.
+> 
+> 03｜WORLD ANCHOR
+> 
+> Environment｜Apocalyptic Battlefield
+> 
+> An immense ruined elevated highway bridge crosses the battlefield from left to right.
+> Bridge Structure
+> Immense elevated highway bridge
+> Extends horizontally from left to right
+> 
+> Central span has collapsed
+> 
+> Twisted steel reinforcement is exposed
+> 
+> Li Wei's Position
+> Li Wei stands on the intact left section.
+> 
+> Enemy Army
+> 
+> On the black cracked earth beyond the bridge, thousands of charred humanoid puppets advance from the right toward her position.
+> 
+> Puppet Characteristics
+> 
+> Approximately 170 centimeters tall
+> 
+> Carbonized bodies
+> 
+> Glowing magma-like cracks
+> 
+> Molten joints
+> 
+> Red eyes
+> Distant Environment
+> A colossal wall of dust rises along the distant horizon.
+> Battlefield Geography
+> 
+> Maintain clear spatial relationships between:
+> 
+> Li Wei
+> 
+> The intact left bridge section
+> 
+> The collapsed central span
+> 
+> The approaching puppet army
+> 
+> The distant dust wall
+> 04｜CINEMATIC SHOT 01
+> 0–5s｜THE APPROACH
+> Shot Type: Extreme-Wide Aerial Establishing Shot
+> Camera Movement: Slow Aerial Descent
+> Narrative Function: Establish Battlefield Scale, Geography, and Approaching Threat
+> Opening Composition
+> 
+> The camera slowly descends toward the broken bridge.
+> 
+> It reveals the enormous advancing puppet army, its flowing movement visible across the battlefield.
+> 
+> Li Wei's Position
+> 
+> The same Li Wei stands motionless on the left bridge section.
+> 
+> Her:
+> Black coat
+> Silver-streaked hair
+> move naturally in the violent wind.
+> Enemy Movement
+> 
+> The distant army advances in uneven waves.
+> 
+> Dust rises from thousands of synchronized but imperfect footsteps.
+> 
+> Camera Requirements
+> 
+> The camera maintains clear geographical relationships between:
+> Li Wei
+> The collapsed bridge
+> 
+> The approaching enemies
+> 
+> Sound Transition
+> 
+> A deep subterranean rumble begins beneath the battlefield.
+> 
+> 05｜CINEMATIC SHOT 02
+> 
+> 5–10s｜THE FAULT
+> 
+> Shot Type: Low-Angle Medium Tracking Shot
+> Camera Movement: Grounded Character Tracking
+> Narrative Function: Trigger the Geological Fault and Establish Its Direction
+> 
+> Character Continuity
+> Cut to a low-angle medium tracking shot of the same Li Wei on the same bridge.
+> 
+> Initial Performance
+> 
+> She slowly lowers her gaze toward the battlefield.
+> 
+> Key Physical Action
+> 
+> Her right heel strikes the concrete once.
+> 
+> Geological Fault Activation
+> 
+> A narrow incandescent red-gold geological fault erupts from the ground beneath the bridge.
+> 
+> The fault races outward toward the approaching army.
+> Fault Propagation
+> The fracture propagates through the terrain in a physically continuous direction.
+> 
+> Its movement:
+> 
+> Pushes aside blackened rock
+> 
+> Throws up dust
+> 
+> Produces violent underground pressure
+> 
+> Environmental Feedback
+> 
+> Li Wei's coat reacts naturally to the shockwave.
+> Her silver-white hair streaks remain unchanged.
+> Dialogue
+> 
+> She speaks in a calm, cold Mandarin voice:
+> 
+> LI WEI：
+> 
+> “你们的路，到此为止。”
+> 
+> Lip Synchronization
+> 
+> The line is delivered with precise natural lip synchronization.
+> 
+> 06｜CINEMATIC SHOT 03
+> 
+> 10–15s｜THE CONSEQUENCE
+> 
+> Shot Type: Character Close-Up
+> Camera Movement: Slow Controlled Arc
+> Focus Direction: Li Wei → Expanding Destruction → Li Wei
+> Narrative Function: Reveal the Devastating Consequence of the Fault
+> 
+> Opening Close-Up
+> 
+> Cut to a close-up of the same Li Wei.
+> 
+> Maintain:
+> 
+> Previous lighting direction
+> 
+> Exact character identity
+> Background Destruction
+> Behind her, the advancing fault detonates into a colossal chain of:
+> 
+> Rising fractured earth
+> 
+> Red-gold fire
+> 
+> Enemy Army Reaction
+> 
+> The puppet army loses formation as the ground collapses beneath its advancing ranks.
+> 
+> Camera Movement
+> 
+> The camera makes a slow, controlled arc toward Li Wei's three-quarter profile.
+> 
+> Facial Performance
+> 
+> Her expression barely changes.
+> 
+> A faint red-gold reflection moves across her blood-red irises.
+> 
+> Atmospheric Interaction
+> 
+> Dust and ash drift across her face.
+> 
+> Her coat continues reacting to the turbulent air.
+> 
+> Final Composition
+> The shot ends with her gaze fixed on the destruction beyond the broken bridge.
+> 07｜SOUND DESIGN
+> Native Synchronized Cinematic Audio
+> 
+> Environmental Sound Layers
+> 
+> Layered underground pressure
+> 
+> Deep seismic cracking
+> 
+> Collapsing rock
+> Metallic bridge vibrations
+> 
+> Distant puppet footsteps
+> 
+> Turbulent wind
+> 
+> Rushing dust
+> Dialogue
+> 
+> One clearly intelligible Mandarin dialogue line.
+> 
+> Requirements:
+> 
+> Natural vocal texture
+> 
+> Accurate synchronization
+> 
+> Music
+> 
+> No background music.
+> 
+> 08｜CONTINUITY AND OUTPUT
+> 
+> Technical Specifications
+> 
+> Exactly 15 seconds
+> 
+> 16:9 landscape
+> 
+> Cinematic 24fps motion
+> 
+> Three shots
+> 
+> Two deliberate cuts
+> 
+> Character Continuity
+> 
+> Preserve Li Wei's exact:
+> 
+> Facial identity
+> 
+> Hairstyle
+> Costume
+> Body proportions
+> Flame colors
+> across every shot.
+> Environmental Continuity
+> Preserve:
+> 
+> The bridge's structure
+> 
+> Battlefield geography
+> 
+> Army direction
+> 
+> Lighting continuity
+> Environmental movement remains active and physically coherent.
+> 
+> Geological Fault Continuity
+> 
+> The fault originates from one point and propagates through one continuous geological system.
+> 
+> Maintain the established direction of propagation throughout the sequence.
+> 
+> Camera and Physical Continuity
+> 
+> No:
+> 
+> Teleportation
+> Arbitrary camera jumps
+> Magically appearing objects
+> Duplicated main character
+> Unexplained costume changes
+> 
+> 09｜STRICT VISUAL EXCLUSIONS
+> 
+> Rendering Style
+> 
+> No anime rendering
+> 
+> No plastic skin
+> No artificial game-engine appearance
+> On-Screen Graphics
+> No titles
+> No subtitles
+> 
+> No logos
+> 
+> 10｜FINAL EXECUTION PRIORITIES
+> 
+> Duration: Exactly 15 seconds
+> Format: 16:9 Landscape
+> Style: Photorealistic Live-Action Dark Chinese Fantasy
+> Camera: ARRI Alexa 65 · Anamorphic Lenses
+> Frame Rate: Cinematic 24fps
+> Shots: Three
+> Cuts: Two Deliberate Cuts
+> Dialogue: One Natural Mandarin Line
+> Music: None
+> 
+> Primary Visual Sequence
+> 
+> 0–5s｜THE APPROACH
+> Extreme-wide aerial descent reveals Li Wei, the collapsed bridge, and the advancing puppet army.
+> 5–10s｜THE FAULT
+> Li Wei strikes the concrete once with her right heel. A continuous red-gold geological fault races toward the enemy formation.
+> 
+> 10–15s｜THE CONSEQUENCE
+> 
+> The fault triggers colossal geological destruction. The camera arcs toward Li Wei's three-quarter profile as the battlefield collapses behind her.
+> 
+> Final Image
+> 
+> Li Wei's cold, controlled expression remains unchanged as dust and ash drift across her face and the destruction continues beyond the broken bridge.
+
+## 2026-11-08（1）
+
+### ⭐ 云海浮宫：三十秒东方仙境
+
+- **工具**：Seedance 2.5（flovaai） · **时长**：30 秒
+- **作者**：@juliaevee · [原帖](https://x.com/juliaevee/status/2118894555802054731)
+- **按日归档**：[by-date/2026-11-08.md](../by-date/2026-11-08.md)
+- **概要**：30 秒六分镜东方奇幻：云海宫殿、红衣女子与巨型蓝色传送门一气贯穿。
+
+> Create a breathtaking, ultra-realistic Chinese fantasy imperial world inspired by ancient Eastern architecture, floating golden palaces, mystical blue portals, towering waterfalls, endless oceans of clouds, glowing lanterns, and majestic moonlit landscapes. Maintain consistent architecture, lighting, atmosphere, and geography throughout the entire 30-second sequence.
+> 
+> 0–5 seconds: Begin with an epic ultra-wide aerial establishing shot of a magnificent ancient Chinese palace floating above a sea of clouds at twilight. Giant circular magical portals glow with electric-blue energy between towering mountains. Warm golden palace lights contrast beautifully with cool moonlight. The camera slowly glides forward through drifting clouds, revealing extraordinary depth and scale.
+> 
+> 5–10 seconds: Transition seamlessly into a majestic palace complex surrounded by enormous waterfalls cascading into the clouds below. A mysterious woman in an elegant flowing crimson-red traditional Chinese fantasy gown stands on a stone terrace overlooking the kingdom. Her silk sleeves and long hair move gently in the wind. The camera performs a smooth cinematic dolly-in, followed by a graceful side-tracking shot.
+> 
+> 10–15 seconds: Cut to a spectacular elevated golden staircase leading toward a grand imperial palace suspended above the clouds. Glowing lanterns line the pathway, distant floating temples emerge through atmospheric mist, and tiny magical particles shimmer in the air. Use a smooth forward camera push with subtle parallax and realistic environmental motion.
+> 
+> 15–20 seconds: Reveal an enormous ancient palace framed by a breathtaking red-leaf tree and elegant curved rooftops. The woman in the crimson gown walks slowly across a magnificent stone bridge. Petals drift naturally through the air while distant mountains, waterfalls, and floating architecture remain visible. The camera tracks gracefully from behind and transitions into a wide cinematic reveal.
+> 
+> 20–25 seconds: Enter a majestic moonlit imperial corridor stretching toward a vast luminous full moon above a deep-blue ocean. Golden lanterns illuminate polished stone floors, intricate pillars, and traditional Chinese rooftops. The woman walks toward the horizon as ocean waves move gently beneath the bridge. Use a perfectly centered symmetrical composition and a slow, immersive forward tracking shot.
+> 
+> 25–30 seconds: Finish with an awe-inspiring reveal of a gigantic glowing blue magical portal beneath an ornate Chinese palace gate. Beyond the portal lies a magnificent celestial kingdom filled with floating temples, waterfalls, and silver-blue clouds. The woman stands as a small silhouette in the center, facing the radiant portal. The camera slowly pulls back into an epic ultra-wide aerial shot, ending on a breathtaking, balanced cinematic composition with glowing particles and atmospheric mist.
+> 
+> VISUAL STYLE: Premium cinematic Chinese fantasy, photorealistic environments, intricate ancient architecture, breathtaking scale, volumetric lighting, realistic water physics, detailed stone textures, natural fabric movement, atmospheric perspective, elegant blue-and-gold color grading, crimson-red accents, smooth stabilized camera movements, seamless cinematic transitions, consistent visual continuity, exquisite composition, 4K detail, 24fps, widescreen 16:9.
