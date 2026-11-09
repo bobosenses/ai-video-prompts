@@ -1,6 +1,6 @@
 # 动作
 
-共 14 条。
+共 15 条。
 
 ## 2026-10-24（1）
 
@@ -821,3 +821,220 @@
 > 不能切断整片机翼，不能炸毁客舱，不能让飞机在空中爆炸。首领和指定发动机先被切断脱落，再爆炸；爆炸不能隐藏决定性刀刃接触。
 > 
 > 无开场对峙、长时间摆姿势、持续慢动作、随机摄影机旋转或过曝白屏。无字幕、标题卡、HUD、附加航空品牌、参考图水印或设定页文字。只允许规定的机场实景英文标识。最终明确展示女主站稳、首领被击败与客机脱险。
+
+## 2026-11-09（1）
+
+### ⭐ 第一人称：外星巨城巷战
+
+- **工具**：Kling 4.0 · **时长**：20 秒
+- **作者**：@AIReelofficial · [原帖](https://x.com/AIReelofficial/status/2119459180339720609)
+- **按日归档**：[by-date/2026-11-09.md](../by-date/2026-11-09.md)
+- **概要**：20 秒一镜到底第一人称科幻战争：士兵从巷战打到四足外星战争机器，镜头始终锁在持枪双手。
+
+> Duration: 20 seconds
+> Aspect Ratio: 16:9
+> Visual Style: Photorealistic, cinematic sci-fi war film, large-scale Hollywood blockbuster realism.
+> Camera Perspective: Strict first-person combat POV.
+> Shot Design: One continuous real-time tracking shot, no cuts.
+> [CORE POV & CHARACTER CONSISTENCY]
+> A human combat soldier fighting through the frontline of a massive extraterrestrial invasion.
+> The entire sequence is experienced directly through the soldier's eyes. The camera represents the soldier's actual head position and movement, maintaining a realistic human eye-level perspective.
+> The soldier's armored hands, gloves, sleeves, and futuristic energy rifle remain consistently visible in the foreground whenever physically appropriate.
+> 
+> Weapon identity lock: Maintain exactly the same futuristic energy rifle throughout the entire sequence. It has a dark metallic body, recognizable mechanical structure, and blue-white illuminated energy components. Never change its shape, proportions, color, or design.
+> 
+> Both hands maintain anatomically correct positions on the weapon. The rifle responds naturally to running, aiming, firing, recoil, taking cover, and movement.
+> 
+> Never show the protagonist from a third-person perspective.
+> 
+> [ENVIRONMENT & CINEMATIC WORLD]
+> 
+> A gigantic alien megacity is under siege at night.
+> 
+> The battlefield is an enormous devastated avenue surrounded by towering black biomechanical skyscrapers, shattered metallic structures, damaged military vehicles, and strange luminous alien vegetation.
+> 
+> Glowing cyan energy veins run through cracks in the ground and along the alien architecture. Burning wreckage, drifting ash, sparks, dust, and dense volumetric smoke fill the streets.
+> 
+> Above the city, colossal alien motherships dominate the stormy sky. Human warships and fighter aircraft engage alien spacecraft in an ongoing aerial battle.
+> 
+> Blue, violet, and orange explosions intermittently illuminate the clouds and reflect across the metallic buildings.
+> 
+> Create strong cinematic depth:
+> 
+> Foreground: the soldier's hands, rifle, nearby debris, and close combat.
+> 
+> Midground: human soldiers, alien infantry, wrecked vehicles, and the giant alien war machine.
+> 
+> Background: enormous biomechanical buildings, aircraft, motherships, and distant explosions.
+> 
+> The environment must feel physically enormous, dangerous, and continuously engaged in warfare.
+> 
+> [CONTINUOUS ACTION SEQUENCE]
+> 
+> 0–5 SECONDS | SPRINT INTO THE WARZONE
+> 
+> Begin immediately with the soldier sprinting forward through a devastated alien avenue.
+> 
+> The energy rifle is held at chest level with both hands. Each running step creates natural vertical camera movement and corresponding weapon sway.
+> 
+> Broken machinery, damaged vehicles, glowing alien structures, and scattered debris pass rapidly along both sides of the camera, creating convincing first-person depth and foreground parallax.
+> 
+> Several human soldiers rush across the avenue ahead, moving between damaged vehicles and collapsing structures.
+> Blue and violet plasma artillery streak through the distant sky.
+> 
+> A gigantic alien dropship suddenly flies low between two towering buildings. Its enormous shadow moves across the avenue as a distant explosion illuminates the surrounding architecture.
+> 
+> The soldier maintains forward momentum, running directly toward the frontline.
+> 
+> Camera movement is urgent but controlled, with realistic running inertia and subtle impact vibration.
+> 
+> 5–10 SECONDS | ALIEN INFANTRY FIREFIGHT
+> 
+> Three hostile alien infantry suddenly emerge from thick smoke between collapsed structures approximately 15 meters ahead.
+> 
+> They are tall extraterrestrial warriors with elongated silhouettes, dark biomechanical armor, and glowing violet energy weapons.
+> 
+> The soldier immediately raises the rifle and fires several controlled blue-white energy bursts toward them.
+> 
+> The rifle produces visible muzzle energy, brief mechanical recoil, and subtle movement in the soldier's armored hands.
+> 
+> The aliens return fire. Violet projectiles travel visibly toward the soldier.
+> One incoming projectile strikes the wall immediately beside the camera, causing a sudden localized explosion. The wall fractures, metallic fragments and glowing debris scatter across the foreground, and a short pressure wave shakes the camera.
+> 
+> The soldier reacts instantly, strafing right and dropping behind a wrecked armored vehicle.
+> 
+> The camera lowers naturally as the soldier slides into cover. The rifle remains visible in both hands.
+> 
+> After briefly taking cover, the soldier leans around the vehicle's edge and fires another controlled burst toward the alien infantry.
+> 
+> Keep all three enemies in consistent positions. Their movements, weapon directions, projectile paths, and impacts must remain spatially coherent.
+> 
+> 10–15 SECONDS | THE GIANT ALIEN WAR MACHINE
+> 
+> The soldier pushes away from cover and moves forward into the avenue.
+> 
+> A controlled burst of blue-white energy fire hits the nearest alien directly in the chest.
+> 
+> The impact creates a bright flash, sparks, and several fragments of damaged armor. The alien is physically knocked backward and collapses onto the street.
+> 
+> The remaining two aliens retreat into the surrounding smoke.
+> 
+> Behind them, an enormous four-legged alien war machine slowly emerges between the towering buildings.
+> 
+> Its mechanical legs step heavily onto the avenue, crushing debris and producing visible dust clouds with every impact. Its massive armored body rises above the surrounding architecture.
+> The machine turns toward the soldier.
+> 
+> A gigantic energy cannon mounted on its body begins charging. Violet energy builds inside the cannon, growing progressively brighter and illuminating the surrounding armor.
+> 
+> At the same time, human fighter aircraft roar overhead and launch missiles toward its upper armor.
+> 
+> The missiles approach and strike in rapid succession, creating large localized explosions. Sparks, burning fragments, and smoke burst outward from the machine's armor.
+> 
+> The soldier continues advancing while raising the rifle and firing toward its exposed glowing components.
+> 
+> The scale difference between the soldier and the enormous machine must feel overwhelming.
+> 
+> 15–20 SECONDS | DEVASTATING ENERGY ATTACK & BATTLEFIELD REVEAL
+> 
+> The alien war machine completes its charging sequence and unleashes a massive violet energy beam across the avenue.
+> 
+> The soldier immediately ducks and moves behind a shattered section of nearby architecture.
+> 
+> The beam tears through the street and nearby structures. The impact produces an intense violet flash, followed by collapsing walls, molten metallic fragments, dust, and a powerful wave of debris.
+> 
+> The camera reacts with a brief, physically motivated shockwave shake.
+> 
+> As the beam passes, the soldier immediately emerges from cover and sprints forward through the destruction.
+> 
+> Above the avenue, a damaged alien fighter loses control and crashes into the street ahead. It strikes the ground and slides across the roadway, producing a violent shower of sparks, burning fragments, and thick smoke.
+> 
+> The soldier adjusts direction naturally and runs past the burning wreckage.
+> As the smoke clears, the soldier reaches a more open section of the avenue.
+> 
+> The view gradually reveals an enormous battlefield stretching toward the horizon.
+> 
+> Hundreds of human soldiers and alien infantry are fighting across the ruined city. Giant alien war machines advance between buildings. Human fighters and alien aircraft exchange fire overhead. Colossal motherships dominate the storm-filled sky, surrounded by distant explosions and energy fire.
+> 
+> The soldier keeps the same energy rifle raised in the foreground and continues running directly toward the larger battle.
+> 
+> End with the battlefield filling the entire forward view, creating an overwhelming sense of scale and an ongoing planetary invasion.
+> 
+> [CAMERA MOVEMENT & CINEMATOGRAPHY]
+> 
+> Maintain a strict first-person human eye-level camera throughout.
+> 
+> The camera must behave like a real soldier physically moving through the battlefield:
+> 
+> Natural running bounce and body inertia.
+> 
+> Subtle head movement synchronized with footsteps.
+> 
+> Controlled camera shake during nearby explosions and impacts.
+> 
+> Fast but readable lateral movement during strafing.
+> 
+> Natural lowering of the camera when crouching behind cover.
+> 
+> Small forward and sideways movements when leaning around obstacles.
+> 
+> Strong foreground parallax as nearby structures pass.
+> 
+> Brief physically motivated motion blur during fast movement.
+> 
+> Clear visibility of important enemies and combat actions.
+> 
+> Maintain continuous forward movement whenever the soldier is not actively taking cover or dodging.
+> 
+> No floating camera movement, artificial camera rotation, impossible acceleration, or sudden changes in perspective.
+> 
+> [COMBAT EFFECTS & PHYSICAL INTERACTIONS]
+> 
+> All combat effects must have clear physical origins and consequences.
+> 
+> Energy projectiles travel along visible trajectories and strike specific surfaces or targets.
+> 
+> Weapon recoil is brief and consistent with every firing burst.
+> 
+> Alien armor reacts to direct impacts through localized sparks, energy flashes, and physically plausible fragmentation.
+> 
+> Explosions produce directional debris, expanding dust clouds, nearby surface illumination, and short shockwave reactions.
+> 
+> The alien war machine moves with convincing mechanical weight. Its legs articulate naturally, and each footstep affects the ground and nearby debris.
+> 
+> Falling spacecraft and burning wreckage must follow believable gravity, momentum, collision, and sliding behavior.
+> 
+> Volumetric smoke and atmospheric particles respond naturally to explosions and environmental movement.
+> 
+> Keep effects visually spectacular but avoid covering the entire image with smoke, flashes, or motion blur.
+> 
+> [AUDIO & SOUND DESIGN]
+> 
+> A dense, immersive cinematic battlefield soundscape with strong spatial depth.
+> 
+> Close-range audio: Heavy armored footsteps, controlled breathing, rifle charging, energy weapon firing, mechanical recoil, armor movement, debris hitting nearby surfaces.
+> 
+> Mid-range audio: Alien weapon discharge, human soldiers shouting, metallic impacts, explosions, collapsing architecture, falling debris, burning wreckage.
+> 
+> Long-range audio: Fighter engines passing overhead, missile launches, massive artillery booms, spacecraft engines, alien mothership rumbles, and deep low-frequency shockwaves.
+> 
+> Sound effects must synchronize precisely with the visible actions. Nearby impacts should sound immediate and sharp, while distant explosions have deep reverberation.
+> 
+> No background music is necessary; prioritize immersive environmental and combat audio.
+> 
+> [STRICT NEGATIVE CONSTRAINTS]
+> 
+> Strict first-person POV only. No third-person shots. No external view of the protagonist. No camera cuts. No scene transitions. No teleportation. No sudden location changes.
+> 
+> No additional hands, duplicated fingers, deformed gloves, or changing armor sleeves.
+> 
+> No weapon morphing, weapon disappearance, weapon redesign, or inconsistent hand positions.
+> 
+> No sudden enemy duplication or unexplained enemy appearance.
+> 
+> No random explosions without visible causes. No impossible projectile trajectories. No floating debris without physical causes.
+> 
+> No excessive camera shake that makes the action unreadable.
+> 
+> No HUD, no crosshair, no subtitles, no text, no logos, no watermarks, and no video-game interface elements.
+> 
+> FINAL PRIORITY: A continuous, physically believable first-person combat experience. Preserve the identity of the soldier's hands and rifle, maintain consistent battlefield geography, and deliver escalating cinematic action from close-range infantry combat to a colossal alien invasion.
