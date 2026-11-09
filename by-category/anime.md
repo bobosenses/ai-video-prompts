@@ -1,6 +1,6 @@
 # 动漫
 
-共 6 条。
+共 7 条。
 
 ## 2026-10-25（2）
 
@@ -833,3 +833,35 @@
 > Use exaggerated but readable anime physics.
 > The comedy must come from Panda's effortless confidence, clever basketball moves, Brute Jaw's embarrassing mistakes, and the contrast between overwhelming strength and perfect timing.
 > Make the fight incredibly entertaining, visually spectacular, funny, and easy to follow from beginning to end.
+
+## 2026-11-09（1）
+
+### ⭐ kilat：公寓大火里的闪电救人
+
+- **工具**：Seedance 2.5（WizstarAI） · **时长**：30 秒
+- **作者**：@bozzxyz · [原帖](https://x.com/bozzxyz/status/2119414275244740670)
+- **按日归档**：[by-date/2026-11-09.md](../by-date/2026-11-09.md)
+- **概要**：30 秒竖屏三渲二短片：印尼飞人把时间冻结，在着火公寓里救出十人，顺手吃完漂浮宵夜。
+
+> A 30-second cinematic 3D-animated short film, stylized Pixar-meets-Spider-Verse look: soft subsurface skin shading, slightly exaggerated proportions, tactile fabric and painterly textures, warm natural lighting. Vertical 9:16.
+> 
+> Hero: a lanky 20-year-old Indonesian guy, the fastest man alive, dressed in a relaxed indie "skena" street outfit — messy black wolf-cut hair, small silver hoop earring, thin round glasses, oversized washed-black graphic tee under an open olive corduroy overshirt, wide-leg light-wash jeans, chunky white retro sneakers with red laces, a silver chain, wired earphones and a canvas tote bag. No costume, no mask, no logo. When he runs, crackling electric-cyan lightning trails off his body and sneakers.
+> 
+> Story: a 12-storey apartment block is burning at night. He runs so fast that time almost stops — flames hang like orange glass, embers and smoke float still, sprinkler water hangs in beads — while he moves at normal speed, casually rescuing exactly 10 people and snacking on floating food along the way. When time restarts, all ten are sitting safely on the curb across the street and he is gone. Tone: playful superhero action-comedy.
+> 
+> Camera language: hyper slow-motion world (1000 fps feel) with the hero moving at normal speed; bullet-time orbits around frozen moments; camera tracking beside him at his speed; speed ramps from real time into near-freeze and back; crash zooms, whip pans, macro inserts, low-angle hero shots.
+> Lighting: the fire is the motivated warm-orange key and practical light; thick smoke haze with volumetric light shafts; his cyan lightning acts as a moving cool rim light; frozen embers become glowing bokeh. When time freezes the flames stop flickering and the light becomes perfectly still.
+> Colour: hot orange real-time world shifts to a cooler, slightly desaturated teal when time freezes, then snaps back to warm when time restarts.
+> 
+> Shot 1 (0–3s): Real time. Wide low-angle street at night: the apartment block is burning, a fireball bursts from a 9th-floor window, people scream at windows, sirens in the distance. The hero stands on the sidewalk eating a satay skewer, earphones in, warm firelight flickering on his face.
+> CUT TO Shot 2 (3–5s): Macro of his eye reflecting the flames, tiny cyan sparks crackling across the iris. He pulls one earphone out and smirks; his sneaker grinds into the asphalt as lightning crawls up the red laces. The title "K I L A T" slams on screen in bold electric-cyan block letters.
+> CUT TO Shot 3 (5–7s): Speed ramp — he launches, crash zoom, the sound collapses into a low hum, colour drains to cool teal and everything freezes mid-motion: a fireball, falling glass, a pigeon in mid-flight.
+> CUT TO Shot 4 (7–11s): Frozen smoky hallway, the camera tracks beside him at his speed. He rolls out a grandma in a wheelchair (1), lifts a young mother (2) holding her baby (3), slips sunglasses onto grandma, and zips them down the stairs in cyan streaks.
+> CUT TO Shot 5 (11–14s): Bullet-time orbit through a corridor of suspended glass shards and frozen sparks. He carries a little girl with a red balloon (4) and an office worker frozen mid-scream (5) whose coffee splash hangs in the air — he scoops the floating coffee back into the cup and snaps the lid on — then tucks a teen gamer in a headset (6), still frozen at his PC, under his arm.
+> CUT TO Shot 6 (14–19s): Funny beat in an exploded kitchen: food floats frozen in mid-air — noodles, fried chicken, gorengan, a fried egg, glistening spheres of iced tea. He strolls through, slurps a ribbon of floating noodles with chopsticks, bites a hovering drumstick, sips a floating sphere of tea, puts the egg back into the frozen chef's frying pan, then carries the chef (7) away. Macro inserts of the floating food glowing in firelight.
+> CUT TO Shot 7 (19–22s): A bathroom with steam frozen like cotton: a man in a towel covered in shampoo foam (8), frozen mid-panic. The hero covers his own eyes, wraps him in a bathrobe and plops a shower cap on his head. In the stairwell he grabs a security guard (9) and a delivery rider (10) holding a pizza box, steals one slice, and carries them out through a frozen wall of flame, leaving a cyan lightning tunnel.
+> CUT TO Shot 8 (22–25s): Wide shot of the frozen street: he seats all ten people in a neat row on the curb across the road, wrapped in blankets, tapping each head as he counts them. Low-angle hero shot as he steps back.
+> CUT TO Shot 9 (25–28s): Speed ramp back to real time — colour snaps warm, flames roar, glass rains down behind, fire trucks arrive. The ten blink and look at each other, confused: towel guy in a bathrobe and shower cap, grandma in sunglasses, the chef holding his egg pan.
+> CUT TO Shot 10 (28–30s): The hero leans on a lamp post at the edge of frame, finishes the pizza slice, gives a two-finger salute, pops his earphone back in and vanishes in a cyan streak; one last floating noodle drops into the chef's pan. Subtitle: "Sorry, mampir makan dulu."
+> 
+> Avoid: superhero suit, lightning-bolt emblem, red costume, logos, extra on-screen text besides the title and subtitle, more or fewer than 10 rescued people.

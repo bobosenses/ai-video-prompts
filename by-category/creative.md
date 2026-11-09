@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 26 条。
+共 27 条。
 
 ## 2026-10-24（1）
 
@@ -857,3 +857,90 @@
 - **概要**：30 秒竖屏暖心短片：女人放下炒着的意面，冲进雨里把小猫抱回家。
 
 > Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.
+
+## 2026-11-09（1）
+
+### ⭐ 夜路砍刀：十七秒十六硬切
+
+- **工具**：Seedance 2.5 · **时长**：17 秒
+- **作者**：@bmx_ai13 · [原帖](https://x.com/bmx_ai13/status/2119503172926611800)
+- **按日归档**：[by-date/2026-11-09.md](../by-date/2026-11-09.md)
+- **概要**：17 秒定时多镜喜剧动作：菜刀飞进车窗、慢镜头穿舱，急刹之后乘客全摔下车。
+
+> SCENE CONTEXT
+> Night, a narrow wet hillside road lined with red paper lanterns and banyan trees. A dark navy compact MPV is stopped at the roadside. A long-haired woman outside throws a meat cleaver through the open driver window. It tumbles through the cabin past the passengers, exits the far side and sticks in a tree trunk. The panicked driver floors it, then brakes. Every door bursts open and passengers tumble onto the asphalt. A biker girl in a pink helmet watches from beside a banyan tree. Comedic horror-action tone, total duration 17 seconds.
+> 
+> ACTIVE REFERENCES
+> image1: young woman, slim, long straight jet-black hair over half her face, oversized grey-white varsity jacket with black sleeves, cold blank stare. 100% matches the reference.
+> image2: young woman driver, early 20s, black hair with bright red streaks, red knit scarf, cream coat, wide-eyed. 100% matches the reference.
+> image3: young man front passenger, early 20s, black-rimmed glasses, messy brown fringe, bright green jacket, expressive panicked face. 100% matches the reference.
+> image4: young woman biker, black/white/hot-pink full-face helmet with yellow zigzag graphic and white "6" on the side, pink hair visible through the open visor, black tank top, red motorcycle. 100% matches the reference.
+> 
+> LOCATION MAP
+> Foreground: wet dark asphalt reflecting red lantern glow. Midground: navy MPV, side sliding doors and rear hatch, plate ending "6755". Background: mossy stone retaining wall, banyan aerial roots, string of red paper lanterns, deep green foliage. Light: cool blue-cyan moonlight from above-left, warm red lantern spill from behind the car.
+> 
+> FORMAT MODE
+> Timed multishot, 17.0s. Cuts only at the specified points, the camera does not cut on its own.
+> 
+> OPTICS
+> FOV set per segment below, no drift mid-segment. Spherical prime lens look, shallow depth of field on close-ups, natural motion blur on fast action.
+> 
+> CAMERA
+> Mostly handheld with a short reaction lag, eye-level unless stated. Fast whip pans carry real motion blur. Film-like tonal latitude, soft highlight roll-off on lantern light.
+> 
+> ACTION
+> 0.0s to 0.5s — MCU 29°, image1 leans into frame from the right toward camera, hair swinging across her face, right arm whipping forward in a throwing motion; camera whips left with her arm into a full motion-blur smear.
+> 0.5s WHIP CUT
+> 0.5s to 2.2s — MS 47°, static profile of the MPV driver window from outside. image2 at the wheel (left) and image3 beside her (right), both mouths wide open, screaming. A rectangular steel meat cleaver with a wooden handle spins end over end in the foreground just outside the window, flying into the cabin. At 2.0s image3 ducks hard toward image2.
+> 2.2s HARD CUT
+> 2.2s to 6.2s — SLOW MOTION 4x, interior, CU 63°, handheld. The cleaver tumbles slowly through the dim cabin past the headrests, blade glinting. It passes 10 cm in front of the face of a teenage boy in the back seat (dark hair, red shirt collar), who sits frozen, eyes tracking it. Background blurred.
+> 6.2s HARD CUT
+> 6.2s to 6.4s — WS 84°, real-time: the navy MPV on the lantern-lit road, the cleaver bursting out of the far window.
+> 6.4s WHIP CUT
+> 6.4s to 7.5s — whip pan right onto a thick tree trunk; the cleaver thunks deep into the bark at chest height, handle vibrating, flakes of bark spraying.
+> 7.5s HARD CUT
+> 7.5s to 8.2s — CU 29°, two-shot inside the car: image2 and image3 cheek to cheek, eyes bulging, image3 baring his teeth in terror.
+> 8.2s INSERT CUT
+> 8.2s to 8.6s — ECU 12°, footwell: a black-and-white canvas sneaker slams the accelerator pedal flat.
+> 8.6s HARD CUT
+> 8.6s to 9.2s — MCU 47°: violent acceleration throws image2 and image3 sideways against their seats, hair and scarf flying, heavy motion blur.
+> 9.2s HARD CUT
+> 9.2s to 9.4s — low CU 63° on the front bumper and headlight: the car lurches to a hard stop, nose dipping.
+> 9.4s HARD CUT
+> 9.4s to 10.3s — WS 63°, side view against the stone wall: both sliding doors and front doors fling open from the braking inertia, a hunched wild-haired figure in ragged dark clothes tumbles out of the rear door onto the road.
+> 10.3s HARD CUT
+> 10.3s to 11.4s — WS 47°, low angle from behind the car, rear hatch wide open: a young man in a grey jacket crouches among cardboard boxes in the cargo area, arms flailing; two shaggy-haired figures in ragged clothes roll out of the hatch and land on hands and knees on the asphalt in the foreground.
+> 11.4s HARD CUT
+> 11.4s to 12.3s — MS 47°, ground level: a girl in a fluffy pink-white coat with dark hair tumbles out of the open side door and rolls twice across the wet asphalt; camera pans with the roll.
+> 12.3s HARD CUT
+> 12.3s to 13.4s — WS 63°, static: image4 sits on her red motorcycle beside the banyan tree. The navy MPV rolls slowly into frame from the right at 10 km/h and pulls up beside her.
+> 13.4s HARD CUT
+> 13.4s to 14.7s — MCU 29°, from inside the car past image3: his profile in sharp focus at right, mouth open mid-yell, turning toward the window; image4 soft-focus behind the glass at left.
+> 14.7s HARD CUT
+> 14.7s to 15.6s — CU 18°, image4 behind her open visor, eyes sliding sideways toward the car in a cool, unimpressed side-glance, eyebrows lifting slightly.
+> 15.6s HARD CUT
+> 15.6s to 17.0s — WS 47°, low angle from behind the open rear hatch, static: the young man in the grey jacket lies flat on his stomach across the boxes in the cargo area, arms spread, eyes wide and frozen. Two knives and a cleaver stand stuck upright in the boxes on either side of his head. The shaggy figures lie sprawled in the blurred foreground. Hold on his stunned face to the end.
+> 
+> PERFORMANCE
+> Broad comedic panic in close-ups: jaws dropped wide, eyebrows lifted high, neck tendons tight, visible breath. image1 stays expressionless, eyes dead calm. image4 is pure deadpan, with only the eyes and brows moving. Pore-level skin detail, wet catch-lights in every eye.
+> 
+> PHYSICS
+> The cleaver has real weight: it spins at a steady rate and embeds with a sharp stop and a handle quiver. The car body pitches forward under braking and rocks back. Bodies tumbling out keep their momentum, roll, and slide on the wet asphalt. Doors swing open and bounce on their hinges.
+> 
+> LIGHTING
+> Night exterior, 5600K cool blue-cyan moonlight key from above-left, warm 3200K red lantern rim from behind. Cabin lit by a dim warm dome light and spill from the street. Wet road reflections. Haze 15% between the trees in the background.
+> 
+> COLOR GRADE
+> Teal-cyan foliage and night sky against warm lantern reds. The navy car paint catches cyan highlights. The green jacket, red scarf and pink helmet pop as the saturated accents.
+> 
+> AUDIO
+> Whoosh of the spinning cleaver, a deep wooden THUNK into the tree, screams, engine roar, tyre screech, doors banging, bodies thudding on asphalt. Comedic beat of silence on the final shot.
+> 
+> STYLE
+> Photoreal modern streaming-drama look, high detail, fine film grain, punchy comedy-horror pacing.
+> 
+> OUTPUT SETTINGS
+> Total 17.0s. The 2.2s–6.2s segment is 4x slow motion; every other segment is real time. Speed changes only at hard cuts.
+> 
+> POSITIVE LOCKS
+> Same navy MPV in every exterior shot. Faces, hair and wardrobe stay identical across cuts. Same cleaver design throughout: rectangular steel blade, wooden handle. Night and wet road in every shot. Cuts land exactly on the stated seconds.

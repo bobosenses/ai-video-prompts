@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 15 条。
+共 16 条。
 
 ## 2026-10-24（1）
 
@@ -1205,3 +1205,44 @@
 > 25–30 seconds: Finish with an awe-inspiring reveal of a gigantic glowing blue magical portal beneath an ornate Chinese palace gate. Beyond the portal lies a magnificent celestial kingdom filled with floating temples, waterfalls, and silver-blue clouds. The woman stands as a small silhouette in the center, facing the radiant portal. The camera slowly pulls back into an epic ultra-wide aerial shot, ending on a breathtaking, balanced cinematic composition with glowing particles and atmospheric mist.
 > 
 > VISUAL STYLE: Premium cinematic Chinese fantasy, photorealistic environments, intricate ancient architecture, breathtaking scale, volumetric lighting, realistic water physics, detailed stone textures, natural fabric movement, atmospheric perspective, elegant blue-and-gold color grading, crimson-red accents, smooth stabilized camera movements, seamless cinematic transitions, consistent visual continuity, exquisite composition, 4K detail, 24fps, widescreen 16:9.
+
+## 2026-11-09（1）
+
+### 最后地平线：沙暴吞没车队
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@Goodmanprotocol · [原帖](https://x.com/Goodmanprotocol/status/2119435608443826433)
+- **按日归档**：[by-date/2026-11-09.md](../by-date/2026-11-09.md)
+- **概要**：15 秒 IMAX 科幻战争三段：超级沙暴追击装甲车队，越沙丘一跃之后切黑。
+
+> 15-SECOND CINEMATIC SEQUENCE — “THE LAST HORIZON”
+> 
+> Visual Style: IMAX 70mm large-format cinematography, monumental scale, Denis Villeneuve-inspired visual language, uncompromising gritty realism, desaturated desert palette, atmospheric depth, physically realistic environmental effects, immense cinematic contrast. Every frame should feel like a moment captured from an epic science-fiction war film.
+> 
+> [00:00–00:05] — THE WRATH OF NATURE
+> 
+> An extreme-wide aerial shot reveals an endless desert beneath a dying sun. On the distant horizon, an impossibly colossal sandstorm rises like a moving mountain, its blackened wall swallowing the sky. Miles of dust and sand surge across the landscape, consuming everything in their path. Far below, a tiny convoy of heavily armored military rovers races across the dunes, desperately fleeing the approaching darkness. The vehicles appear insignificant against the sheer magnitude of nature. The camera slowly pushes forward as the storm devours the horizon. Deep sub-bass rumbles and a rising orchestral tension build an overwhelming sense of impending destruction.
+> 
+> [00:05–00:10] — NO WAY BACK
+> 
+> Hard cut to a violently shaking cockpit camera inside the lead military rover. The terrified pilot grips the controls as visibility collapses. Sand and debris hammer the reinforced windshield, while the last remaining sunlight disappears behind the advancing wall of dust. Warning lights flicker across the dashboard. The engine screams under maximum strain.
+> 
+> The pilot desperately shouts: “GO! GO! GO!”
+> 
+> A bold subtitle flashes: MAX POWER!
+> 
+> The camera jolts with every impact as the rover accelerates into the blinding sand. Outside, the world disappears into darkness.
+> 
+> [00:10–00:15] — THE FINAL LEAP
+> 
+> Cut to a breathtaking exterior side angle. The lead rover charges up the crest of an enormous desert dune and launches violently into the air. Time suddenly slows. Its massive armored silhouette hangs suspended against the approaching black superstorm, wheels spinning freely, sand cascading beneath its chassis. Inside the storm, colossal lightning bolts illuminate the swirling dust for split seconds, revealing the terrifying scale of the destruction. Chunks of rock, metal fragments and sand blast past the camera lens.
+> 
+> The rover begins its descent.
+> 
+> CUT TO ABSOLUTE BLACK ON IMPACT.
+> 
+> A single earth-shattering cinematic impact reverberates through the silence.
+> 
+> END.
+> 
+> Cinematography & Sound Design: Monumental IMAX compositions, restrained camera movement transitioning into chaotic handheld realism, naturalistic motion blur, volumetric dust, realistic vehicle physics, enormous environmental scale, deep cinematic percussion, sub-bass pressure, metallic engine distortion and thunderous atmospheric sound design. No artificial-looking CGI, no oversaturated colors, no unnecessary visual effects. Every second must feel physically terrifying, immersive and overwhelmingly real.

@@ -788,5 +788,55 @@
     "source": "https://x.com/Aiwithmaha/status/2118903281280020855",
     "author": "@Aiwithmaha",
     "star": false
+  },
+  {
+    "date": "2026-11-09",
+    "title": "夜路砍刀：十七秒十六硬切",
+    "category": "创意趣味",
+    "duration": "17 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/bmx_ai13/status/2119503172926611800",
+    "author": "@bmx_ai13",
+    "star": true
+  },
+  {
+    "date": "2026-11-09",
+    "title": "最后地平线：沙暴吞没车队",
+    "category": "科幻奇幻",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/Goodmanprotocol/status/2119435608443826433",
+    "author": "@Goodmanprotocol",
+    "star": false
+  },
+  {
+    "date": "2026-11-09",
+    "title": "第一人称：外星巨城巷战",
+    "category": "动作",
+    "duration": "20 秒",
+    "tool": "Kling 4.0",
+    "source": "https://x.com/AIReelofficial/status/2119459180339720609",
+    "author": "@AIReelofficial",
+    "star": true
+  },
+  {
+    "date": "2026-11-09",
+    "title": "kilat：公寓大火里的闪电救人",
+    "category": "动漫",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5（WizstarAI）",
+    "source": "https://x.com/bozzxyz/status/2119414275244740670",
+    "author": "@bozzxyz",
+    "star": true
+  },
+  {
+    "date": "2026-11-09",
+    "title": "冰奶茶飞溅：十五秒饮品广告",
+    "category": "广告带货",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/xnouraya/status/2119443673033458124",
+    "author": "@xnouraya",
+    "star": false
   }
 ]
