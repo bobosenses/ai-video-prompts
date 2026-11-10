@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 27 条。
+共 28 条。
 
 ## 2026-10-24（1）
 
@@ -944,3 +944,97 @@
 > 
 > POSITIVE LOCKS
 > Same navy MPV in every exterior shot. Faces, hair and wardrobe stay identical across cuts. Same cleaver design throughout: rectangular steel blade, wooden handle. Night and wet road in every shot. Cuts land exactly on the stated seconds.
+
+## 2026-11-10（1）
+
+### ⭐ 商场一跃：圣诞星点亮中庭
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：18 秒
+- **作者**：@Mavern_0x · [原帖](https://x.com/Mavern_0x/status/2119849250607522280)
+- **按日归档**：[by-date/2026-11-10.md](../by-date/2026-11-10.md)
+- **概要**：18 秒竖屏一镜到底：她从商场顶层抱着圣诞树星跳下，点亮整棵巨树后落入中庭，像一段意外拍到的节日特技。
+
+> FORMAT AND LOOK
+> 18 seconds, vertical 9:16. One continuous handheld shot with no cuts, real-time action throughout. Photorealistic accidental eyewitness footage of an impossible-looking holiday stunt during a tree-lighting evening in a huge shopping mall atrium.
+> 
+> The scene itself is a real, richly detailed location with high-end live-action realism: individual pine needles, glass reflections, polished stone floors, fabric weave, skin pores, flyaway hairs, believable crowd faces, real bulbs with filaments, accurate scale and depth. This real scene is recorded through a DV 16mm tape camcorder handheld feel: subtle fine 16mm-like grain, mild tape texture, authentic consumer-camcorder exposure response, restrained highlight blooming on bulbs, slight auto-white-balance drift when the lights switch on, natural motion blur. The texture is a light layer over a sharp, detailed image, never heavy degradation, smearing, or a fake vintage filter.
+> 
+> Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. The operator is an ordinary shopper who reacts a fraction late to events and never anticipates them. Errors are brief and physically plausible. No stabilized gimbal look, polished commercial moves, drone tracking, or perfect composition.
+> 
+> The camcorder and camera operator NEVER appear on screen, including in glass reflections, mirrors, shop windows, shadows, phone screens, or the foreground. No camera housing, hands holding a camera, recording overlay, timestamp, REC symbol, battery icon, subtitles, captions, text graphics, or borders.
+> 
+> REFERENCES
+> If a character photo is attached, it defines the woman's face, hair, body type, and identity. Her outfit, props, and actions follow this prompt. Current instructions override conflicting reference details.
+> 
+> WOMAN
+> A beautiful 21-year-old adult woman, a professional stunt athlete: athletic curvy figure, high ponytail, natural makeup, confident playful expression, consistent facial identity in every frame. Red fitted supportive athletic crop top with thin white trim, opaque high-waisted red cycling shorts ending at mid-thigh, white sneakers, and a small red Santa hat with a white pompom pinned firmly at her ponytail base. Stretch athletic fabric with realistic seams and tension. Clothing and hat stay secure through every flip and impact.
+> In her right hand: a gold Christmas tree star topper about 45 cm wide, thin brushed-metal frame with frosted glass-like panels and tiny unlit bulbs inside, and a short hollow metal sleeve at its base. This exact star stays in her right hand until it is mounted.
+> 
+> FIXED GEOGRAPHY
+> A vast six-level mall atrium: white structural bands, escalators, storefronts with holiday windows, continuous glass balustrades with a top rail at waist height, a high glass roof showing dark evening sky. Dim pre-ceremony lighting: store windows glow softly, the atrium itself is in cool blue dusk.
+> Every gallery rail is wrapped in pine garlands with warm-white bulbs, all OFF. Hundreds of spectators line every gallery and the ground floor behind a velvet-rope circle, filming on phones. They gathered for the tree lighting.
+> 
+> A real 20-meter spruce stands at the ground-floor center, mounted on a hidden steel mast whose top ends in a rigid vertical steel spike with a polished metal contact collar, waiting for the star. Ornaments and wrapped light strings are all OFF. The tree is wide at the base and narrow at the top. Its tip reaches roughly between the fourth and fifth galleries, clearly below the camera's top gallery.
+> 
+> Exactly ONE very large round stunt trampoline with a padded blue rim stands on the ground floor beside the tree, fully clear of the lowest branches, inside the roped circle. Its bed, springs, frame, size, and position never change.
+> 
+> On the top gallery, the woman stands OUTSIDE the glass on a broad exterior stone ledge, roughly above the trampoline. Spatial order from gallery to void: CROWD / CONTINUOUS INTACT GLASS / WOMAN ON LEDGE / OPEN DROP. No gap, gate, or missing panel. Nobody passes through glass.
+> 
+> PHYSICS LOGIC
+> Drop from the ledge to the trampoline: about 28 meters, five complete gallery levels. Show every level passing. No lens-distortion height faking, no raised trampoline.
+> The rebound is an intentional cinematic stunt allowance, but it loses energy realistically: she rises to about 20 meters, clearly lower than her starting ledge. All launch energy comes from trampoline contact, and the return path comes from a visible hand push off the steel mast. No aerial boost, hovering, slow motion, speed ramp, or stretched airtime.
+> Her rising arc starts beside the trampoline and travels inward, staying outside the tree's cone so she never touches branches. Her return arc mirrors it outward, back over the trampoline.
+> 
+> CAMERA BEHAVIOR
+> The operator stands on the top gallery a few meters along the rail, filming diagonally over the intact rail. Open slightly tilted on the woman outside the glass, crowd behind her, the dark tree far below. The trampoline is hidden beneath the ledge and invisible at first, so it looks as if she intends to jump onto the tree.
+> On her takeoff the camera reacts late, tilts abruptly down, briefly loses her off-frame edge, recovers her whole body, and only then reveals the trampoline.
+> During the rebound, follow upward with an uneven tilt and a clumsy partial zoom that overshoots, cuts off her face for an instant, then eases back so her full body, both hands, the spike, and the star are visible at the mounting. Never hide the star contact or the hand push.
+> Follow her return fall, then pull out shakily as the light spreads. The rising light reaches the operator's own rail and causes a brief exposure flare and focus hunt. End with an imperfect zoom toward her on the trampoline, briefly cropping her forehead before correcting.
+> 
+> TIMELINE
+> 0.00-2.40 seconds: THE WARNING AND THE JUMP.
+> Slightly tilted framing, her face briefly cut off at the top as the operator lifts the camera. She stands on the ledge, star in her right hand, adjusts one foot, and glances down at the dark tree. Behind the glass, a mall security guard in a navy uniform with a handheld radio shoves through the crowd about four meters to the camera's left and shouts:
+> "Ma'am! Get back over the rail!"
+> She glances over her shoulder at him with a tiny confident smile, faces the void, swings her free arm, bends her knees, and jumps deliberately outward. The guard reaches over the top rail a moment too late, his hand closing on empty air. The crowd gasps and screams.
+> 
+> 2.40-5.00 seconds: FAST REAL-TIME FALL.
+> The camera tilts down after her. Five gallery levels and their dark garlands pass behind her as she accelerates under gravity, feet first, star tight against her side, free arm making small corrections. Her ponytail streams upward; the pinned hat stays in place.
+> The trampoline is revealed only during this follow. Both feet hit its center. Knees flex, the bed sinks deeply, springs stretch, the fabric bottoms out and recoils. Contact, compression, release at normal speed. One contact, one rebound. The ground-floor crowd flinches backward.
+> 
+> 5.00-7.20 seconds: RISING ALONG THE TREE.
+> She launches upward on an inward arc tracking the tree's cone without touching it. Early in the ascent she performs ONE tight backward somersault, star still in her right hand, coherent shoulders, hips, knees, and feet. She opens out facing the tree; ornaments tremble in her air wake.
+> Her upward speed decreases naturally. At the apex, just above the tip, she catches the rigid steel spike with her LEFT hand and with her RIGHT hand slides the star's hollow sleeve down onto it in one clean motion. The sleeve seats on the contact collar with a firm metallic click and a tiny blue spark.
+> 
+> 7.20-7.80 seconds: THE PUSH AND THE BEAT OF SILENCE.
+> She shoves off the steel mast with her left hand, body tilting backward, sending herself outward onto a return arc toward the trampoline. The mast top sways slightly and settles. The star stays seated and upright.
+> For a split second nothing lights. The crowd's noise drops into a stunned hush.
+> 
+> 7.80-10.00 seconds: THE STAR IGNITES, SHE FALLS.
+> The star's inner bulbs flicker twice, then blaze warm gold. Instantly the tree's lights begin switching on in fast successive rings from the star downward to the base, ornaments catching the glow, bulbs blooming on the camcorder sensor.
+> Meanwhile she falls on the outward arc, body upright, arms out for balance, the lighting rings chasing her down beside the tree.
+> 
+> 10.00-11.60 seconds: LANDING.
+> She lands feet first in the trampoline's center, a deep compression, then a smaller second bounce and a short third, energy fading realistically, until she stands on the bed with bent knees and arms out. The tree's base ring lights as she settles.
+> 
+> 11.60-14.60 seconds: THE WHOLE MALL LIGHTS UP.
+> The gallery garlands switch on level by level, rising from the ground floor toward the camera, a wave of warm light climbing the atrium. When the wave reaches the operator's rail, a bright flare washes the frame for a moment and autofocus hunts before snapping back. The atrium is now warm gold instead of cool blue.
+> Snow machines in the roof start releasing soft white artificial snowflakes that drift down naturally through the lit air, catching the light. Massive cheers, applause, disbelieving laughter. Phones are raised high on every level. The guard stands frozen at the rail, radio lowered, people around him turning to stare at him.
+> 
+> 14.60-18.00 seconds: THE PUNCHLINE.
+> On the trampoline, breathless and grinning, flakes landing on her hair, she straightens her Santa hat, tilts her head up toward the guard, who is to the side of the camera, and points at him. She never looks into the lens. She shouts up, loud and cheeky:
+> "You're welcome!"
+> The crowd around the guard roars with laughter. He slowly lifts his radio, speechless.
+> Right next to the camera, off-screen, a small child's voice asks: "Mom, can I do that?"
+> The operator's own off-screen voice answers instantly, flat: "Absolutely not."
+> End on the fully lit tree, the glowing star, falling snow, her pointing up, and the stunned guard.
+> 
+> AUDIO
+> Authentic camcorder microphone: close crowd voices, huge mall reverberation, slight automatic gain pumping, brief peak distortion only on the loudest screams and cheers. All dialogue stays intelligible.
+> No added music, voice-over, or cinematic whooshes. Faint generic diegetic mall ambience only.
+> Sound sequence: anticipation chatter, the guard's shout, gasps and a scream at the jump, air rush, a distant deep elastic trampoline impact with spring creak, rustling needles in her wake, the metallic click and tiny electrical snap of the star, the sudden hush, a rising electrical hum and rapid relay clicks as rings light, an enormous cheer, soft hiss of snow machines, laughter, her shout, the child, the operator's deadpan reply.
+> Audio perspective stays with the operator on the top gallery. All dialogue is English.
+> 
+> CONTINUITY AND NEGATIVE CONSTRAINTS
+> One woman, one guard, one tree, one steel spike, one star, one trampoline, one jump, one big rebound, one backward somersault, one mounting, one hand push, one return fall, fading bounces, one top-down tree cascade, one bottom-up gallery wave.
+> Preserve identity, red outfit, Santa hat, star design, ledge, intact glass, tree and trampoline positions, crowd positions, and lighting logic: everything festive stays OFF until the star seats, then stays ON.
+> No branch contact, tree damage, falling ornaments, star dropped, swapped, or switching hands, lights on before the star seats, rebound higher than the starting ledge, return path without the mast push, glass gap, body passing through glass, low drop, extra trampoline, early trampoline reveal, hidden contact, repeated action, slow motion, speed ramp, hovering, morphing anatomy, extra limbs, distorted faces in the crowd, camera-facing dialogue, visible text, or visible camera/operator.

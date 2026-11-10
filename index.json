@@ -838,5 +838,55 @@
     "source": "https://x.com/xnouraya/status/2119443673033458124",
     "author": "@xnouraya",
     "star": false
+  },
+  {
+    "date": "2026-11-10",
+    "title": "商场一跃：圣诞星点亮中庭",
+    "category": "创意趣味",
+    "duration": "18 秒",
+    "tool": "Seedance 2.5（makeugc）",
+    "source": "https://x.com/Mavern_0x/status/2119849250607522280",
+    "author": "@Mavern_0x",
+    "star": true
+  },
+  {
+    "date": "2026-11-10",
+    "title": "列车求生：外星入侵",
+    "category": "科幻奇幻",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/AIwithSynthia/status/2119432409343254629",
+    "author": "@AIwithSynthia",
+    "star": true
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Frostborn：冰封丧尸之城",
+    "category": "动作",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5（WizstarAI）",
+    "source": "https://x.com/Xaroon_x/status/2119448052427599906",
+    "author": "@Xaroon_x",
+    "star": true
+  },
+  {
+    "date": "2026-11-10",
+    "title": "魔法森林：皮克斯风寻宝",
+    "category": "动漫",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/xnouraya/status/2119796539627647204",
+    "author": "@xnouraya",
+    "star": false
+  },
+  {
+    "date": "2026-11-10",
+    "title": "迪拜夜路：布加迪疾驰",
+    "category": "广告带货",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5（aragon_ai）",
+    "source": "https://x.com/Noor_ul_ain43/status/2119724472358035762",
+    "author": "@Noor_ul_ain43",
+    "star": false
   }
 ]

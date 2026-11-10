@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 16 条。
+共 17 条。
 
 ## 2026-10-24（1）
 
@@ -1246,3 +1246,34 @@
 > END.
 > 
 > Cinematography & Sound Design: Monumental IMAX compositions, restrained camera movement transitioning into chaotic handheld realism, naturalistic motion blur, volumetric dust, realistic vehicle physics, enormous environmental scale, deep cinematic percussion, sub-bass pressure, metallic engine distortion and thunderous atmospheric sound design. No artificial-looking CGI, no oversaturated colors, no unnecessary visual effects. Every second must feel physically terrifying, immersive and overwhelmingly real.
+
+## 2026-11-10（1）
+
+### ⭐ 列车求生：外星入侵
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@AIwithSynthia · [原帖](https://x.com/AIwithSynthia/status/2119432409343254629)
+- **按日归档**：[by-date/2026-11-10.md](../by-date/2026-11-10.md)
+- **概要**：30 秒好莱坞科幻灾难：年轻女子在高速列车上对抗外星生物，车厢撕裂、空中支援，一路升级到城市级毁灭。
+
+> Create a 30-second ultra-photorealistic, cinematic Hollywood sci-fi disaster sequence featuring a beautiful young woman fighting to survive aboard a high-speed passenger train during an alien invasion. Maintain perfect character consistency, realistic physics, terrifying creature movements, spectacular destruction, and breathtaking blockbuster cinematography throughout.
+> 
+> CHARACTER: A beautiful 24-year-old woman with long dark brown hair, expressive hazel eyes, natural facial features, wearing a fitted dark red crop jacket, black tactical pants, combat boots, and a small black backpack. Maintain identical facial features, hairstyle, outfit, and body proportions in every shot.
+> 
+> SHOT 1 (0–5 seconds): Open with the girl standing inside a crowded high-speed train, looking out through the window at a beautiful modern city. Suddenly, every building's lights go out simultaneously. A gigantic unidentified creature appears between skyscrapers. Passengers begin screaming as something enormous moves across the rooftops. The train lights flicker violently. Cinematic close-up of her terrified expression.
+> 
+> SHOT 2 (5–10 seconds): Without warning, a gigantic alien creature lands on top of the moving train. Its enormous claws tear through the metal roof. Passengers run in panic as the ceiling collapses. She grabs a metal support bar just before the train violently shakes. Dynamic handheld camera, realistic debris and destruction.
+> 
+> SHOT 3 (10–15 seconds): She escapes through a broken carriage door and climbs onto the exterior of the moving train. The camera reveals an unbelievable sight: hundreds of enormous alien creatures crawling across skyscrapers, bridges, and elevated highways. One gigantic creature suddenly jumps between buildings and lands directly behind her.
+> 
+> SHOT 4 (15–20 seconds): She runs across the train roof as the alien creature chases her. Suddenly, a military fighter jet crashes into a nearby skyscraper, creating an enormous explosion. The shockwave throws her across the roof. She desperately grabs a metal railing, narrowly escaping falling from the speeding train.
+> 
+> SHOT 5 (20–25 seconds): She notices a little boy trapped inside a damaged carriage. She smashes the emergency glass, pulls him out, and carries him toward the front locomotive. Behind them, a colossal alien creature tears apart an entire train carriage with its claws. Intense close-up, realistic emotional expressions.
+> 
+> SHOT 6 (25–30 seconds): The train approaches a massive railway bridge as the entire structure begins collapsing. She jumps with the child onto a military rescue helicopter hovering beside the train. As they lift off, the camera pulls back to reveal an entire city being consumed by gigantic alien creatures, explosions, collapsing skyscrapers, and enormous clouds of smoke. End with a breathtaking aerial wide shot of the apocalypse.
+> 
+> VISUAL STYLE: AAA Hollywood sci-fi blockbuster, ultra-photorealistic environments, terrifying alien creature designs, realistic human expressions, physically accurate destruction, massive explosions, collapsing skyscrapers, volumetric smoke, cinematic lighting, anamorphic lens cinematography, dramatic camera movements, natural motion blur, IMAX-scale visuals, 4K film quality.
+> 
+> AUDIO: No background music. Only realistic train ambience, passenger screams, metallic tearing, alien growls, helicopter engines, fighter jets, explosions, collapsing structures, wind, and environmental sound effects.
+> 
+> IMPORTANT: Seamless cinematic continuity, consistent character identity and clothing, realistic movement and physics, terrifying atmosphere, no cartoon visuals, no anime, no artificial-looking CGI, no subtitles, no text, no watermarks.
