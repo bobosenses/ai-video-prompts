@@ -1,6 +1,6 @@
 # 动漫
 
-共 7 条。
+共 8 条。
 
 ## 2026-10-25（2）
 
@@ -865,3 +865,42 @@
 > CUT TO Shot 10 (28–30s): The hero leans on a lamp post at the edge of frame, finishes the pizza slice, gives a two-finger salute, pops his earphone back in and vanishes in a cyan streak; one last floating noodle drops into the chef's pan. Subtitle: "Sorry, mampir makan dulu."
 > 
 > Avoid: superhero suit, lightning-bolt emblem, red costume, logos, extra on-screen text besides the title and subtitle, more or fewer than 10 rescued people.
+
+## 2026-11-10（1）
+
+### 魔法森林：皮克斯风寻宝
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@xnouraya · [原帖](https://x.com/xnouraya/status/2119796539627647204)
+- **按日归档**：[by-date/2026-11-10.md](../by-date/2026-11-10.md)
+- **概要**：15 秒皮克斯风动画：红发男孩在魔法森林寻宝，与绿皮肤女巫对峙后，宝箱打开露出金币和蓝钻。
+
+> Create a magical animated adventure featuring a brave young boy with messy orange-red hair, big expressive green eyes, and a yellow adventurer's outfit with a small backpack.
+> 
+> Duration: 15 seconds
+> Aspect Ratio: 16:9
+> Style: High-quality Pixar-style 3D animated fantasy adventure, cinematic lighting, vibrant colors, detailed environments, expressive characters, smooth camera movements.
+> 
+> Scene 1 (0–3 seconds): The Mysterious Map
+> 
+> A beautiful enchanted forest filled with giant exotic plants, glowing blue flowers, magical fireflies, and mysterious blue moonlight. The camera slowly moves through the magical vegetation and reveals an ancient treasure map resting on a moss-covered stone.
+> 
+> Scene 2 (3–6 seconds): The Brave Explorer
+> 
+> The young boy runs excitedly through the forest, jumping over tree branches and navigating mysterious woodland paths. The camera follows him dynamically as magical glowing particles float around him.
+> 
+> Scene 3 (6–9 seconds): The Witch's Surprise
+> 
+> The boy discovers an ancient golden treasure chest inside a mysterious forest clearing. Suddenly, a funny but intimidating green witch wearing a large pointed black hat appears through swirling green magical smoke.
+> 
+> Scene 4 (9–12 seconds): The Magical Showdown
+> 
+> The boy confidently raises his wooden slingshot, aiming toward the mysterious magical chest. The witch watches him with a mischievous expression as sparkling magical energy fills the forest.
+> 
+> Scene 5 (12–15 seconds): The Hidden Treasure
+> 
+> The witch mysteriously disappears, leaving behind an ancient wooden broom beside the treasure chest. The chest opens dramatically, revealing countless golden coins and a magnificent glowing blue diamond. Bright golden light illuminates the entire forest.
+> 
+> Visual Quality: Ultra-detailed 3D animation, cinematic depth of field, realistic magical particles, expressive facial animation, smooth character movement, beautiful fantasy atmosphere, professional animated movie quality.
+> 
+> Audio: Magical orchestral background music, forest ambience, sparkling magical sound effects, dramatic treasure reveal.

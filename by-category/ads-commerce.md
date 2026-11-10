@@ -1,6 +1,6 @@
 # 广告带货
 
-共 10 条。
+共 11 条。
 
 ## 2026-10-24（1）
 
@@ -645,3 +645,33 @@
 > **Visual Details:** Deep black background, warm amber highlights, realistic liquid physics, glossy reflections, detailed condensation on the cup, ultra-smooth slow-motion splashes, premium commercial cinematography, sharp product focus, elegant composition.
 > 
 > **Important:** Maintain consistent cup design, logo placement, and beverage color throughout. No people, no hands, no extra objects, no distorted text. Professional high-end beverage advertising quality.
+
+## 2026-11-10（1）
+
+### 迪拜夜路：布加迪疾驰
+
+- **工具**：Seedance 2.5（aragon_ai） · **时长**：15 秒
+- **作者**：@Noor_ul_ain43 · [原帖](https://x.com/Noor_ul_ain43/status/2119724472358035762)
+- **按日归档**：[by-date/2026-11-10.md](../by-date/2026-11-10.md)
+- **概要**：15 秒奢侈汽车广告：夜间航拍迪拜高架与哈利法塔，镜头贴近疾驰的布加迪与车内驾驶者。
+
+> CINEMATIC BUGATTI RACING VIDEO PROMPT – DUBAI
+> 
+> A cinematic ultra-realistic sequence featuring a luxury Bugatti driving at extremely high speed through the illuminated streets of Dubai at night.
+> 
+> A Bugatti appears below, traveling extremely fast. Dubai skyscrapers surround the highway.
+> 
+> 0–6 seconds:
+> Establish a cinematic aerial view of Dubai at night. Show a spectacular highway surrounded by illuminated skyscrapers, with dramatic city lights and realistic traffic movement.
+> 
+> 6–9 seconds:
+> Wide drone shot follows the Bugatti. Its glossy body reflects the Dubai lights. The Bugatti accelerates down the freeway. Burj Khalifa is visible in the distance.
+> 
+> 9–12 seconds:
+> The drone smoothly flies alongside the Bugatti. The camera moves toward the rolled-down driver's window, revealing me clearly inside. The Dubai skyline rushes past behind me.
+> 
+> 12–15 seconds:
+> Close-up through the open window. I drive confidently while looking forward. City lights reflect across the Bugatti.
+> 
+> Visual Style:
+> Ultra-realistic cinematic photography, luxury automotive commercial, dynamic drone movements, realistic motion blur, detailed car reflections, dramatic nighttime lighting, smooth camera transitions, 4K quality, professional film production.

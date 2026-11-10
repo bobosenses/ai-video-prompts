@@ -1,6 +1,6 @@
 # 动作
 
-共 15 条。
+共 16 条。
 
 ## 2026-10-24（1）
 
@@ -1038,3 +1038,53 @@
 > No HUD, no crosshair, no subtitles, no text, no logos, no watermarks, and no video-game interface elements.
 > 
 > FINAL PRIORITY: A continuous, physically believable first-person combat experience. Preserve the identity of the soldier's hands and rifle, maintain consistent battlefield geography, and deliver escalating cinematic action from close-range infantry combat to a colossal alien invasion.
+
+## 2026-11-10（1）
+
+### ⭐ Frostborn：冰封丧尸之城
+
+- **工具**：Seedance 2.5（WizstarAI） · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2119448052427599906)
+- **按日归档**：[by-date/2026-11-10.md](../by-date/2026-11-10.md)
+- **概要**：30 秒一镜动作：冰系能力者在末日城市里冻结无穷丧尸潮，以冰封拳脚和最终爆发收束。
+
+> FROSTBORN — THE LAST FREEZE
+> 
+> ENGINE: Create an exactly 30-second, 16:9, photorealistic Hollywood action sequence for Seedance 2.5. 60 FPS target. One continuous cinematic video.
+> 
+> REFERENCES:
+> @image1 = Protagonist identity. Preserve exact face, dark wavy hair, beard, skin tone and body proportions. No identity changes.
+> @image2 = Alpha Zombie and zombie horde.
+> @image3 = Post-apocalyptic city environment.
+> 
+> PROTAGONIST OUTFIT: Distressed blue-and-yellow layered utility shirt, charcoal inner T-shirt, black cargo trousers, fingerless gloves, utility belt and rugged black combat boots. No weapons. Fists, kicks and palms generate icy-blue cryokinetic energy.
+> 
+> ANTAGONIST: Massive 7-foot Alpha Zombie, muscular body, ash-gray decaying skin, exposed veins, cloudy white eyes, scarred face, torn black military jacket and damaged tactical trousers. Hundreds of infected zombies surround him.
+> 
+> LOCATION: Destroyed city avenue between two damaged skyscrapers connected by a broken skybridge. Burned cars, barbed-wire barricades, sandbags, cracked asphalt, concrete rubble and drifting smoke. Golden-hour sunlight, cinematic shadows and dusty atmosphere.
+> 
+> TIMELINE
+> 
+> 00–03: Wide cinematic reveal. Hero calmly approaches an enormous zombie horde.
+> 
+> 03–06: Zombies attack. He dodges, punches and kicks, instantly freezing attackers into ice.
+> 
+> 06–09: Fast martial arts combination. Zombies shatter into sparkling frost.
+> 
+> 09–12: He vaults over a burned SUV and delivers a spectacular spinning aerial kick, freezing another attacker.
+> 
+> 12–15: Camera reveals hundreds of zombies surrounding him. Alpha Zombie approaches.
+> 
+> 15–18: Hero stops, closes his eyes. Frost forms on his eyelashes and spreads from his boots across the asphalt.
+> 
+> 18–21: He drops to one knee and slams his palm onto the ground. A massive circular freezing shockwave instantly turns the entire horde into ice statues.
+> 
+> 21–24: Epic crane shot reveals the frozen battlefield. Hero slowly rises.
+> 
+> 24–27: He exhales. A second energy pulse shatters every frozen zombie simultaneously into enormous clouds of snow and ice.
+> 
+> 27–30: Snow clears. Hero stands alone. Camera pushes toward his face as his eyes glow icy blue. He looks toward the sky in quiet triumph.
+> 
+> AUDIO: Original epic orchestral soundtrack, deep bass, zombie growls, martial arts impacts, freezing cracks, explosive ice shattering and powerful cinematic finale.
+> 
+> CONTINUITY: Maintain exact @image1 identity, consistent @image2 design, @image3 location, wardrobe and realistic physics. No face changes, teleportation, random scene changes, text or logos. Exactly 30 seconds.
