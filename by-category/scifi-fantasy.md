@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 17 条。
+共 19 条。
 
 ## 2026-10-24（1）
 
@@ -1277,3 +1277,90 @@
 > AUDIO: No background music. Only realistic train ambience, passenger screams, metallic tearing, alien growls, helicopter engines, fighter jets, explosions, collapsing structures, wind, and environmental sound effects.
 > 
 > IMPORTANT: Seamless cinematic continuity, consistent character identity and clothing, realistic movement and physics, terrifying atmosphere, no cartoon visuals, no anime, no artificial-looking CGI, no subtitles, no text, no watermarks.
+
+## 2026-11-11（1）
+
+### ⭐ 外星共生体：装甲觉醒之战
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@itsSaira_1 · [原帖](https://x.com/itsSaira_1/status/2120005987486822608)
+- **按日归档**：[by-date/2026-11-11.md](../by-date/2026-11-11.md)
+- **概要**：30 秒竖屏超级英雄短片：她触碰黑色活体物质后完成共生体装甲变身，在废墟街道上击退外星生物。
+
+> ALIEN SYMBIOTE ARMOR TRANSFORMATION – EPIC SUPERHERO BATTLE
+> 
+> Create an ultra-realistic Hollywood-style sci-fi superhero transformation and action sequence.
+> 
+> FORMAT: 30 seconds, vertical 9:16, photorealistic 4K, cinematic VFX, realistic physics, dramatic lighting and intense sound design.
+> 
+> SCENE 1 – THE MYSTERIOUS DISCOVERY (0–4s)
+> 
+> A young woman wearing a grey hoodie is crouching on a cracked city street. She notices a mysterious black liquid substance on the ground and slowly reaches out to touch it. As her fingers make contact, the strange liquid suddenly reacts and begins crawling over her hand like a living alien organism.
+> 
+> SCENE 2 – THE ALIEN TRANSFORMATION (4–11s)
+> 
+> The mysterious black substance rapidly spreads across her fingers, hands, arms, shoulders, chest and entire body. It forms a sleek, futuristic black metallic symbiote armor with glowing golden energy veins and subtle purple highlights. The transformation happens organically with liquid-metal movement. Her face gradually gets covered by the living armor, forming a powerful helmet with intensely glowing golden eyes and a bright purple energy core on her chest.
+> 
+> SCENE 3 – THE MONSTER ATTACK (11–17s)
+> 
+> Reveal the fully transformed superhero standing confidently in the middle of a destroyed modern city street. Several terrifying alien creatures emerge from the dust and charge toward her. She raises her arm as glowing energy builds inside her armor.
+> 
+> SCENE 4 – EPIC SUPERPOWER BATTLE (17–25s)
+> 
+> The superhero unleashes powerful golden energy attacks against the attacking monsters. She moves with incredible speed and strength, dodging attacks and striking enemies with powerful energy-infused punches. A brilliant golden energy weapon forms in her hand as she prepares a devastating attack. Massive cinematic impacts, flying debris and realistic explosions fill the street.
+> 
+> SCENE 5 – THE FINAL POWER RELEASE (25–30s)
+> 
+> She raises both arms and releases an enormous golden energy shockwave. A massive explosion of light and dust sweeps through the street, defeating the monsters. The camera captures the dramatic aftermath as the dust slowly settles and the city street becomes quiet.
+> 
+> VISUAL STYLE: Photorealistic alien bio-armor, intricate black metallic textures, glowing golden energy veins, purple chest reactor, realistic liquid transformation, Hollywood-level CGI, dynamic camera movements, detailed facial expressions, dramatic slow motion, powerful action choreography, realistic destruction and cinematic sound effects.
+> 
+> CONSISTENCY: Maintain the exact same female character, facial features, body proportions and armor design throughout the entire video. Make the transformation smooth and continuous, with no sudden character changes, cartoon effects, visual glitches or unnatural movements.
+
+## 2026-11-12（1）
+
+### ⭐ 门铃镜头：求进屋的女孩
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：20 秒
+- **作者**：@LHaviuk · [原帖](https://x.com/LHaviuk/status/2120659830935629917)
+- **按日归档**：[by-date/2026-11-12.md](../by-date/2026-11-12.md)
+- **概要**：20 秒竖屏门铃固定机位恐怖片：女孩冲上走廊求进屋，随后在镜头前缓慢变脸，以尖叫和信号干扰切黑。
+
+> Ultra-realistic horror, 20 seconds, vertical 9:16. ONE single continuous unbroken shot from a fixed Ring-style video doorbell camera at the front door of an American suburban house at night. A terrified girl runs onto the porch and begs to be let in through the glass storm door. A homeowner answers from inside. She suddenly lunges and her face stays right in front of the lens until the footage ends in a loud scream, a digital freeze and glitch, and a hard cut to black.
+> 
+> MAIN SUBJECT
+> The girl from @Image1: same face, same hairstyle, same outfit from @Image1 in every moment. Dense, opaque clothing that stays in place.
+> 
+> CAMERA AND LOOK
+> Real home-security doorbell footage. Locked-off, perfectly static camera: no movement, no zoom, no reframing, no operator. Mild wide-angle lens distortion with slightly curved edges, night colour video with slightly muted saturation, faint digital noise, mild compression artefacts, auto-exposure that brightens and dims slightly when she moves close to the lens, soft bloom around the porch lamp. One small white timestamp in a corner, counting in real time. The street keeps its own lighting from @Image2. No glossy cinematic lighting, no rim light, no heavy colour grading. It must look like a real clip from a home camera, not a film.
+> 
+> TIMELINE (ONE CONTINUOUS SHOT)
+> 
+> 00:00-00:04 THE PLEA
+> From the very first frame she is already in motion: she bursts out of the darkness at the bottom of the steps, runs up the 3 steps onto the porch and slams both hands against the storm door glass, which rattles in its frame.
+> GIRL (panicked, breathless, shaky): «Please! Somebody help me! Let me in!»
+> 
+> 00:04-00:07 THE HOST
+> She freezes and listens, chest heaving, one hand still on the glass. A calm male voice answers from inside the house, muffled by the closed door, off-screen.
+> HOST: «What’s wrong? What happened?»
+> She does not answer, only shakes her head and looks side to side at the street.
+> 
+> 00:07-00:10 THE STARE
+> She steps close and presses BOTH palms flat against the glass, her breath fogging it. She stares straight into the camera lens, eyes wet, trembling.
+> GIRL (desperate, voice breaking): «Please, I need your help!»
+> 
+> 00:10-00:12 THE ANSWER
+> Calm, steady, muffled male voice from inside.
+> HOST: «I’m calling the police. They’ll help you.»
+> Her hands stay on the glass. She does not answer.
+> 
+> 00:12-00:20 THE TRANSFORMATION (real time, no cut, no dissolve, same body, slow and deliberate, NOT slow-motion footage)
+> 
+> The fear drains from her face, leaving a blank expression. Her head slowly lowers, hair falling over her face. Near silence.
+> 13.0-14.0: Her head slowly lifts and she looks directly into the lens. She does NOT blink, not once from this moment until the end. Her skin slowly turns unnaturally pale.
+> 14.0-15.5: Her eyes slowly fill with black from the pupils outward until they are completely BLACK, no whites visible. Still no blinking, still motionless, palms on the glass.
+> 15.5-17.0: A smile slowly spreads across her face and stretches wider and wider, beyond a natural human smile. A faint, low, distorted laugh starts quietly and grows into hysterical, inhuman laughter.
+> 17.0-17.4: THE JUMP SCARE. She suddenly pushes off the glass with both palms and lunges straight at the camera in under half a second, violent and abrupt, with motion blur and an auto-exposure flare. Her face stops about 10 centimetres from the lens and fills the ENTIRE frame with wide lens distortion.
+> 17.4-18.6: Her face STAYS locked right in front of the lens, black unblinking eyes, huge smile, not moving away.
+> GIRL (demonic whisper, very close to the microphone): «You shouldn’t have answered the door...»
+> 18.6-20.0: A loud distorted scream. Her jaw drops open, her face jerks and trembles right at the lens. The image freezes on her face, breaks into digital interference, pixel blocks and colour shifts, and cuts to black at exactly 20.0.

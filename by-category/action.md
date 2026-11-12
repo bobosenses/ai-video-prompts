@@ -1,6 +1,6 @@
 # 动作
 
-共 16 条。
+共 18 条。
 
 ## 2026-10-24（1）
 
@@ -1088,3 +1088,155 @@
 > AUDIO: Original epic orchestral soundtrack, deep bass, zombie growls, martial arts impacts, freezing cracks, explosive ice shattering and powerful cinematic finale.
 > 
 > CONTINUITY: Maintain exact @image1 identity, consistent @image2 design, @image3 location, wardrobe and realistic physics. No face changes, teleportation, random scene changes, text or logos. Exactly 30 seconds.
+
+## 2026-11-11（1）
+
+### ⭐ 演唱会惊变：吉他手守住舞台
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@auqibhabib · [原帖](https://x.com/auqibhabib/status/2120043549966422338)
+- **按日归档**：[by-date/2026-11-11.md](../by-date/2026-11-11.md)
+- **概要**：30 秒夜间户外演唱会恐怖动作：观众席突然感染爆发，吉他手在舞台上挡住袭击者，护送乐队撤离。
+
+> Cinematic horror-action short film set at an outdoor music concert at night, opens with an instant hook, grounded realistic style, maximum dynamic camera work. Setting: a concert stage with lights and speakers, a large crowd of attendees facing the stage, a live band performing. CHARACTER LOCK: the main character is a guitarist on stage, mid-20s, leather jacket, consistent in every shot. Muted concert-lighting color grading with colorful stage lights cutting through darkness, natural diegetic sound throughout, tension score entering immediately.
+> >
+> > **[0-1s]** Hard cut: a man in the crowd suddenly collapses, convulsing hard near the front barrier.
+> >
+> > **[1-2s]** Nearby fans back away in confusion as his skin pales and veins darken rapidly.
+> >
+> > **[2-3s]** He rises fast, lunging at the person beside him, pulling her down into the crowd.
+> >
+> > **[3-4s]** Screaming erupts near the stage, the crowd pushing back in a wave of panic.
+> >
+> > **[4-5s]** She convulses hard, rising seconds later alongside him, both turning toward the crowd.
+> >
+> > **[5-6s]** The guitarist on stage stops playing, staring down in alarm as the chaos spreads below.
+> >
+> > **[6-7s]** More people fall and rise infected, the front section of the crowd dissolving into chaos.
+> >
+> > **[7-8s]** Security guards rush in, trying to hold a line, but the infected break through fast.
+> >
+> > **[8-9s]** One infected climbs onto the stage, lunging toward the drummer.
+> >
+> > **[9-10s]** The guitarist grabs a stage prop knife used in their performance, gripping it tightly.
+> >
+> > **[10-11s]** He steps in, driving the infected back with a firm strike, giving the drummer room to escape.
+> >
+> > **[11-12s]** A second infected climbs up from the side, lunging toward the guitarist.
+> >
+> > **[12-13s]** He pivots fast, deflecting its grab and countering with a sharp strike.
+> >
+> > **[13-14s]** It staggers back off the stage edge, falling into the crowd below.
+> >
+> > **[14-15s]** SLOW MOTION insert: a third infected lunges at him from the opposite side.
+> >
+> > **[15-16s]** He spins, striking it down with a decisive motion, clearing the stage.
+> >
+> > **[16-17s]** Wide shot: security finally regains ground, pushing the remaining infected back from the stage area.
+> >
+> > **[17-18s]** The guitarist helps the rest of the band off the stage through a side exit.
+> >
+> > **[18-19s]** Fans stream out through the venue's main gates, security guiding them to safety.
+> >
+> > **[19-21s]** Wide shot: the stage now empty except for scattered equipment, lights still flashing colorfully overhead.
+> >
+> > **[21-23s]** The guitarist checks on his bandmates backstage, all accounted for and safe.
+> >
+> > **[23-25s]** He sets the prop knife down, hands trembling slightly, catching his breath.
+> >
+> > **[25-27s]** Security personnel secure the venue perimeter, confirming the area is clear.
+> >
+> > **[27-29s]** The band stands together backstage, exchanging exhausted but relieved glances.
+> >
+> > **[29-30s]** Final shot: the guitarist looks out at the now-empty stage through a gap in the curtain, stage lights still glowing. Cut to black.
+> >
+> > Natural diegetic sound throughout — convulsing, screaming, music cutting out, crowd noise, heavy breathing — layered with a tense instrumental score building through the chaos and easing into relief at the end. No text overlay, no watermark. Maximum dynamic camera variety — close-ups, wide shots, tracking shots, slow motion reserved for the final stage encounter. Realistic shake only during physical impacts, colorful concert stage lighting against darkness.
+
+## 2026-11-12（1）
+
+### 科幻西部：警长化身鬼武士
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@tokyo_Valentine · [原帖](https://x.com/tokyo_Valentine/status/2120474160506044596)
+- **按日归档**：[by-date/2026-11-12.md](../by-date/2026-11-12.md)
+- **概要**：30 秒科幻西部动作：警长冲进机器人占据的酒馆，化身鬼武士斩敌、救出女子，并在空中对决后收刀。
+
+> Seedance 2.5 Prompt
+> 30-second, 16:9, photorealistic live-action science-fiction Western action film. Bright midday throughout: hard sunlight, blue desert sky, one enormous red moon in the daytime sky. Practical-looking destruction, cinematic VFX, readable silhouettes, physical weight.
+> 
+> STORY (must be completed within 30 seconds): A sheriff rides into a saloon occupied by robots, transforms into an armored oni warrior, cuts down eight robot troopers, frees the woman, kicks the robot boss through the wall into the street, wins an airborne duel, splits the boss in two with one slash, walks away as the boss erupts in a huge explosion behind him, and sheathes his sword as the woman walks out safe. The video must reach the final crane shot at 29-30 seconds. Do not end mid-action.
+> 
+> Action movie camera work continues every 1 second.
+> The 1-second ranges below are time budgets, not mandatory cuts. Keep to the timeline: if an action runs long, shorten it instead of pushing later events past their time.
+> 
+> REFERENCES
+> Image 1 defines BLADE SHERIFF before transformation: Black man, about 188 cm, beard, dark sunglasses, HUMAN face, black-and-gold tactical sheriff armor with a gold star badge. He never shoots.
+> Image 2 defines KOUKISHO, the same man after transformation: about 245 cm, crimson-and-black oni armor with flame patterns, crimson oni mask with tall straight black horns, dragon-head shoulder armor, long red-and-black cloak, and the odachi RED FANG with its scabbard.
+> Image 3 defines the motorcycle: black-and-orange futuristic heavy cruiser with glowing orange wheel rings. Standard black-and-orange version only, with no badge or emblem added to it.
+> Image 4 defines the BONE REAPER troopers: skeleton-styled combat robots, bone-white armor, skull masks, plain black hoods, spikes, black rifles, no cape. Exactly eight.
+> Image 5 defines CRIMSON WARDEN, the robot boss. Ignore the code name and any words printed on the Image 5 sheet; in this film he is called WARDEN. About 200 cm: a pointed ivory-white visor mask with glowing red eye slits under a black hood, NO horns, ivory-white and black armor plates with red-ringed joints, crossed ammunition bandoliers, a black tabard with a white skull, a long tattered RED cape with a large white skull on the back, a heavy rotary multi-barrel gun carried on his back, and a heavy black-and-silver sci-fi pistol.
+> Image 6 defines VALERIE: woman, about 168 cm, long blonde hair, brown hat with goggles, brown leather coat, gloves, boots, holstered revolver.
+> Image 7 defines the saloon: rusted blue-and-orange metal exterior with a skull SALOON sign; warm interior with a long bar, bottle shelves, chandeliers and wooden columns.
+> Image 8 defines COTINE STREET: dusty main road, Western storefronts, tall red COTINE neon sign, parked muscle cars, the red moon. Use its DAY lighting only.
+> Use only the designs. Ignore sheet layouts, labels, captions, diagrams and color variations.
+> 
+> RULES
+> - 0-15 seconds take place inside the Image 7 saloon; 15-30 seconds on Image 8 COTINE STREET. The Image 3 motorcycle enters the saloon from the street and stays parked inside.
+> - Only Image 1 BLADE SHERIFF transforms. From 9 seconds on, only Image 2 KOUKISHO appears, never the human sheriff, and only one KOUKISHO at a time.
+> - Three different designs, never blended, even in fast action or motion blur:
+>   Image 2 KOUKISHO = crimson armor plates, crimson oni mask with tall black horns, dragon-head shoulder armor, red-and-black cloak.
+>   Image 5 WARDEN = ivory-white armor, pointed white visor mask under a black hood, no horns, red cape with a white skull.
+>   Image 4 BONE REAPERS = skull masks, plain black hoods, spikes, no cape.
+> - Only the SALOON and COTINE signs have readable letters; other signs show no readable text.
+> - No civilians other than VALERIE. Parked cars never move. Broken scenery stays broken.
+> 
+> TIMELINE
+> 
+> [Stage 1, 0-6s: Standoff and arrival]
+> 0-1 seconds: Extreme close-up at VALERIE's temple, Image 5 WARDEN's heavy sci-fi pistol pressed against it. Sunlight through gaps in the wall glints on the barrel; her tense eye.
+> 1-2 seconds: Fast reverse dolly: Image 5 WARDEN, red cape and white visor mask clearly visible, restrains VALERIE at the bar, eight Image 4 BONE REAPERS around them, the red moon in the windows.
+> 2-3 seconds: <engine roar> Camera inside, facing the doors: Image 1 BLADE SHERIFF rides the Image 3 motorcycle in from the sunlit street, smashing through the doors into the Image 7 saloon. Low frontal tracking retreats ahead of him.
+> 3-4 seconds: Wheel-height tracking: the Image 3 motorcycle skids sideways to a stop on the wooden floor <tire scrape>, dust and splinters sliding.
+> 4-5 seconds: Low rising camera inside: Image 1 SHERIFF dismounts; tilt from his boot to his human face and sunglasses. The star badge on his chest catches the light.
+> 5-6 seconds: Four quick duel close-ups, each shown once: the star badge, Image 5 WARDEN's white visor mask with red eye slits, Image 6 VALERIE's eyes, Image 1 SHERIFF's sunglasses.
+> 
+> [Stage 2, 6-9s: Transformation]
+> 6-7 seconds: The Image 4 BONE REAPERS fire at Image 1 SHERIFF <rifle fire>. Time slows; his badge glows red; he does not dodge.
+> 7-9 seconds (one continuous 360-degree orbit, no cut): Solid metal armor plates unfold from the badge and lock over his body <armor locking clanks>; he grows to 245 cm and becomes Image 2 KOUKISHO. This is a physical mechanical transformation, not a glowing energy silhouette or hologram. The oni mask closes, the dragon shoulders lock, the cloak unfurls, Image 2 RED FANG forms at his hip. He deflects the nearest bullets with two strokes <sword-on-bullet sparks>, and speed returns to normal.
+> 
+> [Stage 3, 9-12s: Saloon sweep]
+> 9-10 seconds: Image 2 KOUKISHO bursts forward <air rush>; a low whip-track catches his real armored body passing between the Image 4 troopers.
+> 10-11 seconds: Sideways tracking wide shot: he zigzags through all eight Image 4 BONE REAPERS with brief blade contacts at their joints, stopping near the bar. They are still standing.
+> 11-12 seconds: Waist-height wide shot, scabbard in the foreground: he sheathes the blade <crisp CLICK>; all eight troopers collapse at once; a beat later the cut section of the bar and its bottles shatter <glass cascade>.
+> 
+> [Stage 4, 12-15s: Rescue and wall break]
+> 12-13 seconds: Push-in: Image 2 KOUKISHO is suddenly in front of Image 5 WARDEN, gripping his pistol wrist and turning the muzzle toward the ceiling.
+> 13-14 seconds: Side medium-wide shot: Image 2 KOUKISHO pulls Image 6 VALERIE free with his left arm, knocks the pistol away and front-kicks Image 5 WARDEN in the chest.
+> 14-15 seconds: Image 2 KOUKISHO sets Image 6 VALERIE behind a wooden column while Image 5 WARDEN, red cape flying, smashes backward through the street-facing wall, leaving a jagged hole <wood splintering>. The camera rushes toward the hole.
+> 
+> [Stage 5, 15-24s: Street duel]
+> 15-16 seconds (continuous from the previous shot, no cut): The camera passes through the hole and follows Image 5 WARDEN tumbling onto the sunlit Image 8 COTINE STREET; exposure adapts to midday.
+> 16-17 seconds: Image 5 WARDEN skids, rises and swings the rotary gun off his back. Image 2 KOUKISHO steps out of the hole and draws Image 2 RED FANG.
+> 17-18 seconds: Over Image 5 WARDEN's shoulder: the rotary barrels spin and fire a stream of glowing tracer rounds <rotary gun roar>; Image 2 KOUKISHO zigzags and every shot misses.
+> 18-19 seconds: Low parallel tracking: Image 2 KOUKISHO charges, each step kicking up a ring of dust.
+> 19-21 seconds: Both leap and collide above the Image 8 street, the red moon behind them. Image 2 RED FANG strikes the rotary gun twice; transparent shockwaves burst from each contact <shockwave booms>. The gun is damaged but intact.
+> 21-22 seconds: Higher diagonal angle on the fast airborne exchange; a shockwave shatters the neon tubes of the signs <glass shattering>.
+> 22-24 seconds: Image 2 KOUKISHO's downward heel strike slams Image 5 WARDEN into the road, forming a crater ringed with sand <heavy impact>. Image 2 KOUKISHO lands at its edge.
+> 
+> [Stage 6, 24-30s: Final cut and ending, must be shown]
+> 24-25 seconds: Low over-the-shoulder view behind the kneeling Image 5 WARDEN's black hood and red cape as he braces the damaged rotary gun for a final burst <barrels spinning up>. Image 2 KOUKISHO stands several meters ahead.
+> 25-26 seconds: Brief slow motion on Image 2 KOUKISHO's first step crushing the sand, then he drives forward at full speed.
+> 26-27 seconds: One decisive diagonal slash in a clean side-wide shot: Image 2 RED FANG splits the rotary gun and Image 5 WARDEN's robot chassis into two clearly separate halves in a single visible stroke. The slash itself stays clearly visible; the explosion comes only after it.
+> 27-28 seconds: Image 2 KOUKISHO walks calmly toward the camera without looking back. Behind him, the two halves of Image 5 WARDEN's chassis spark, the red eye slits flicker out, and the robot erupts in a HUGE explosion: a towering orange fireball, black smoke, a shockwave ring of sand racing across the street, and metal fragments flying past him <massive explosion boom>. His red-and-black cloak whips forward in the blast wind; he never flinches.
+> 28-29 seconds: With the fireball still rising behind him, Image 2 KOUKISHO sheathes Image 2 RED FANG <final CLICK>. Image 6 VALERIE, far from the blast, steps out through the jagged hole of the Image 7 saloon into the sunlight, safe.
+> 29-30 seconds: Crane up to a high wide view in bright midday: Image 2 KOUKISHO large and clear in the middle of the street, Image 6 VALERIE by the Image 7 saloon, the crater with a rising column of fire and black smoke, scattered burning wreckage, the COTINE sign and the giant red moon in the blue sky. Hold to the end.
+> 
+> SOUND
+> Sound effects only, synchronized with visible contact: engine, tire scrape, breaking wood, rifle fire, rotary gun, sword impacts, armor locks, sheathing clicks, air rush, shockwave booms, debris, shattering glass, and one massive explosion boom at the end. No music, no dialogue, no narration.
+> 
+> DO NOT
+> - Do not use anime, illustration or video-game looks, or dusk or night lighting.
+> - Do not add subtitles, captions or extra on-screen text, or logos or badges on the motorcycle.
+> - Do not show the human sheriff after 9 seconds, or two KOUKISHOs at once.
+> - Do not give Image 5 WARDEN horns, an oni mask, crimson armor or KOUKISHO's cloak.
+> - Do not repair scenery, revive enemies, cut to black, or end before the final crane shot.

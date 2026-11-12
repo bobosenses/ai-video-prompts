@@ -1,6 +1,6 @@
 # 广告带货
 
-共 11 条。
+共 13 条。
 
 ## 2026-10-24（1）
 
@@ -675,3 +675,91 @@
 > 
 > Visual Style:
 > Ultra-realistic cinematic photography, luxury automotive commercial, dynamic drone movements, realistic motion blur, detailed car reflections, dramatic nighttime lighting, smooth camera transitions, 4K quality, professional film production.
+
+## 2026-11-11（1）
+
+### 日式美学晨间：从醒来到银杏道
+
+- **工具**：Seedance 2.5（higgsfield_ai） · **时长**：20 秒
+- **作者**：@chandrapie · [原帖](https://x.com/chandrapie/status/2119802525893451905)
+- **按日归档**：[by-date/2026-11-11.md](../by-date/2026-11-11.md)
+- **概要**：20 秒竖屏日系生活 UGC：从醒来、护肤、早餐到穿搭出门，最后走在东京秋色公园里。
+
+> SEEDANCE 2.5 — JAPANESE AESTHETIC MORNING ROUTINE
+> 
+> FORMAT: Exactly 20 seconds | Vertical 9:16 | Photorealistic live-action | 24fps | Japanese lifestyle UGC vlog | Natural handheld camera | Authentic everyday atmosphere
+> 
+> CHARACTER: A beautiful young Japanese woman in her early 20s with long, naturally flowing dark-brown hair, soft facial features, subtle natural makeup, and small silver hoop earrings. Effortlessly elegant, cheerful and relaxed.
+> 
+> SETTING & VISUAL STYLE: A modern Japanese apartment with minimalist interior design, warm wooden furniture, cream-colored walls, large windows overlooking Tokyo, soft morning sunlight, and a peaceful autumn atmosphere. Authentic Japanese lifestyle influencer aesthetic. Natural skin texture, realistic movements, cinematic yet casual smartphone footage.
+> 
+> SCENE-BY-SCENE TIMELINE
+> 
+> 0–3 SECONDS | WAKING UP
+> A close-up handheld shot of the young woman waking up in her cozy bedroom. She wears pastel lavender pajamas with tiny white cherry blossom patterns, a loose button-up top and matching shorts. Her long hair is slightly messy. She slowly opens her eyes, yawns, stretches both arms above her head and smiles sleepily. Soft golden morning sunlight falls across her bed.
+> 
+> 3–6 SECONDS | MAKING THE BED
+> A natural handheld wide shot as she gets out of bed and neatly arranges her white duvet and pillows. The bedroom features minimalist Japanese decor, a small wooden bedside table, a vase of fresh flowers and large windows overlooking Tokyo's morning skyline. Sunlight creates gentle shadows across the room.
+> 
+> 6–10 SECONDS | SKINCARE ROUTINE
+> Cut to a bright, modern bathroom with beige stone tiles and a large mirror. She gently applies a lightweight facial moisturizer from a minimalist skincare jar, massages it into her cheeks and forehead, then looks into the mirror with a relaxed smile. Close-up shots capture realistic skin texture, natural hand movements and soft reflections.
+> 
+> 10–13 SECONDS | BREAKFAST PREPARATION
+> A series of quick, aesthetically pleasing handheld shots of her preparing a Japanese-inspired breakfast. She places fluffy Japanese-style pancakes topped with fresh strawberries and blueberries on a ceramic plate, adds a small serving of Greek yogurt and honey, and pours iced matcha latte into a transparent glass. Close-up of the finished breakfast on a wooden dining table.
+> 
+> 13–17 SECONDS | GETTING DRESSED
+> A stylish bedroom mirror shot. She wears a fitted cream knit sweater, dark-brown pleated mini skirt, sheer black tights and elegant black loafers. She picks up a small chocolate-brown leather shoulder bag, adjusts her hair, puts on her coat and gives a quick confident smile at the mirror.
+> 
+> 17–20 SECONDS | AUTUMN MORNING WALK
+> A beautiful outdoor handheld shot in a peaceful Tokyo park filled with golden and reddish autumn leaves. She holds a takeaway matcha latte in one hand, walks along the tree-lined pathway, looks directly into the camera and smiles naturally. A gentle breeze moves her hair as sunlight filters through the autumn trees. End with a candid, cheerful expression.
+> 
+> CAMERA & PRODUCTION DIRECTION
+> - Authentic Japanese lifestyle influencer UGC aesthetic
+> - Natural smartphone handheld cinematography
+> - Realistic camera movement with subtle imperfections
+> - Soft morning daylight and warm autumn color grading
+> - Natural facial expressions and genuine smiles
+> - Smooth but realistic scene transitions
+> - Detailed fabric textures, food textures and skin details
+> - Beautiful minimalist Japanese interior design
+> - No artificial beauty filters or plastic-looking skin
+> - No exaggerated acting or robotic movements
+> - No subtitles, captions, watermarks or background text
+> - Maintain consistent character appearance, hairstyle and facial features across every scene
+> - Exact 20-second runtime, with no extra opening or ending footage
+
+## 2026-11-12（1）
+
+### 1997日本夏日：与祖母的一夏
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Goodmanprotocol · [原帖](https://x.com/Goodmanprotocol/status/2120530433129811992)
+- **按日归档**：[by-date/2026-11-12.md](../by-date/2026-11-12.md)
+- **概要**：30 秒仿 1997 年 Sony MiniDV 家庭录像：少女与祖母在日本山村度过一个夏日，从开窗、陶艺到河岸与灯笼。
+
+> A SUMMER TO REMEMBER | JAPAN, 1997
+> 
+> FORMAT: Exactly 30 seconds | 16:9 | 24fps | Photorealistic live-action | Vintage 1997 Sony MiniDV home-video aesthetic.
+> 
+> CHARACTERS: A cheerful young Japanese woman with warm brown eyes and long black hair in a loose side braid tied with a cream ribbon. She wears a lavender blouse, sage-green pinafore dress, cream belt, white socks and brown Mary Jane shoes. Her grandmother is an elderly Japanese woman with short silver-grey hair, wearing a dusty-rose floral dress and beige apron. Preserve both characters' faces, hairstyles and outfits consistently throughout.
+> 
+> SETTING: A peaceful Japanese mountain village in summer 1997, featuring a traditional wooden cottage, flowing river, lush green hills, hydrangea gardens, plum orchard, bamboo fencing and a small pottery workshop.
+> 
+> 30-SECOND SCENE SEQUENCE:
+> 
+> - 00–04s: The young woman opens her wooden window, welcomes the morning sunlight and steps onto the veranda, admiring the mountains.
+> - 04–08s: She picks hydrangeas with her grandmother. A butterfly flies past, making them laugh.
+> - 08–12s: In an old pottery workshop, grandmother teaches her to shape clay on a pottery wheel. They laugh at her imperfect creation.
+> - 12–16s: She collects ripe plums and peaches from the orchard, washes the fruit and arranges homemade sweets.
+> - 16–20s: They prepare a traditional summer meal together, cooking vegetable tempura and chilled noodles.
+> - 20–23s: She plays in the shallow river, splashing water playfully towards the camera.
+> - 23–27s: At sunset, they hang glowing paper lanterns beneath the veranda and enjoy green tea together.
+> - 27–30s: She rests her head on her grandmother's shoulder. The camera captures the glowing cottage, river and distant mountains before cutting to black.
+> 
+> CAMERA STYLE: Authentic 1997 Sony MiniDV family footage with imperfect handheld movements, natural camera shake, slightly crooked framing, autofocus fluctuations, digital noise, motion blur, compression artifacts and faded warm colours. Avoid modern cinematic grading or professional stabilization.
+> 
+> AUDIO: Only natural ambience: birds, breeze, flowing water, footsteps, pottery sounds, laughter, sizzling food and evening insects. No music or narration.
+> 
+> NEGATIVE PROMPT: No modern objects, vehicles, smartphones, contemporary clothing, anime, fantasy, artificial posing, slow motion, identity changes, outfit changes, duplicated characters, distorted anatomy, subtitles, logos or watermarks.
+> 
+> FINAL REQUIREMENT: Exactly 30 seconds. Maintain character consistency, realistic movements and natural transitions. The entire video should feel like a genuine family recording discovered on an old cassette: imperfect, intimate, warm and deeply nostalgic.

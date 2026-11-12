@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 28 条。
+共 30 条。
 
 ## 2026-10-24（1）
 
@@ -1038,3 +1038,119 @@
 > One woman, one guard, one tree, one steel spike, one star, one trampoline, one jump, one big rebound, one backward somersault, one mounting, one hand push, one return fall, fading bounces, one top-down tree cascade, one bottom-up gallery wave.
 > Preserve identity, red outfit, Santa hat, star design, ledge, intact glass, tree and trampoline positions, crowd positions, and lighting logic: everything festive stays OFF until the star seats, then stays ON.
 > No branch contact, tree damage, falling ornaments, star dropped, swapped, or switching hands, lights on before the star seats, rebound higher than the starting ledge, return path without the mast push, glass gap, body passing through glass, low drop, extra trampoline, early trampoline reveal, hidden contact, repeated action, slow motion, speed ramp, hovering, morphing anatomy, extra limbs, distorted faces in the crowd, camera-facing dialogue, visible text, or visible camera/operator.
+
+## 2026-11-11（1）
+
+### ⭐ 时装周互怼：为什么摆两次pose
+
+- **工具**：Seedance 2.5（WizstarAI） · **时长**：15 秒
+- **作者**：@Sharjeelai_786 · [原帖](https://x.com/Sharjeelai_786/status/2120113097163559050)
+- **按日归档**：[by-date/2026-11-11.md](../by-date/2026-11-11.md)
+- **概要**：15 秒时尚喜剧：两位模特在秀场同时摆拍，一句质问之后互怼，保安进场拉开。
+
+> Create a 15-second ultra-realistic cinematic fashion-show video, 16:9 widescreen, 4K, 24fps, glamorous runway lighting, realistic crowd reactions, dynamic handheld camera movement, and high-end fashion-event atmosphere.
+> 
+> Scene: A luxurious fashion runway packed with photographers, flashing cameras, and an excited audience. Two young, beautiful female models walk confidently toward each other on the runway, wearing elegant high-fashion outfits, heels, and professional runway makeup.
+> 
+> 0–5 seconds: Both models confidently walk toward the camera, striking stylish poses as photographers take pictures. The first model stops and poses dramatically.
+> 
+> 5–8 seconds: The second model also stops and poses. Suddenly, the first model becomes annoyed, turns toward her, and confronts her.
+> 
+> Dialogue — Model 1: “Why are you giving a pose twice?”
+> 
+> 8–12 seconds: The second model looks surprised and responds angrily. They argue briefly, then begin a dramatic but non-graphic fashion-runway scuffle, pushing each other lightly while trying not to ruin their outfits.
+> 
+> 12–15 seconds: Security staff rush onto the runway and separate them. The audience reacts with shocked expressions while photographers continue capturing the hilarious unexpected moment. End with both models staring angrily at each other.
+> 
+> Style: Photorealistic faces and skin, natural body movement, realistic lip-sync, authentic runway choreography, cinematic depth of field, dramatic spotlighting, detailed designer clothing, realistic crowd reactions, smooth motion, comedic timing, no injuries, no blood, no weapons.
+
+## 2026-11-12（1）
+
+### ⭐ 机器人救人：咖啡却没了
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：15 秒
+- **作者**：@Mavern_0x · [原帖](https://x.com/Mavern_0x/status/2120622093314437276)
+- **按日归档**：[by-date/2026-11-12.md](../by-date/2026-11-12.md)
+- **概要**：15 秒竖屏路人手机直拍：脚手架上的砖托盘突然坠落，女孩外形的机器人把路人推开并接住托盘，咖啡却被压扁。
+
+> STYLE: authentic vertical smartphone video filmed handheld by an ordinary passerby on a city sidewalk in the evening. Real phone footage, not cinematic: auto exposure adjusting between bright shop windows and the dark sky, slight digital noise in shadows, mild motion blur on fast movement, autofocus occasionally hunting, slightly crushed blacks, warm sodium streetlight mixed with cool shop-window LED light. Underneath this texture everything is fully real: real people, real skin, real asphalt, real bricks, real dust, real physics.
+> 
+> FORMAT
+> 15 seconds, vertical 9:16, real-time speed, one continuous uncut take, no slow motion, no speed ramps. Photorealistic live-action rescue drama with a dry comic ending. No text, captions, UI overlays, timestamp or music.
+> 
+> REFERENCE
+> Image #1 defines only the adult female humanoid robot. Preserve exactly: soft youthful adult face, brown eyes, natural brows, subtle makeup; long straight light brown hair with a center part falling past the shoulders; small stud earrings; slim adult build with long legs; fitted beige short-sleeved T-shirt with a small dark chest logo, hem ending just above the waist; high-waisted dark purple cycling shorts with a small front drawstring; white chunky running sneakers. Exposed mechanical waist between shirt hem and waistband: brushed silver mechanical blocks and actuators, small bright white LED lights, bundles of blue, yellow and black wires, metal brackets and fasteners, one blue cable running down her left hip. Her torso is always connected to her pelvis through this mechanism, same scale and construction from every angle. Do not copy the photo's background, crowd, lanyards, stanchions or floor.
+> 
+> PHYSICS RULE
+> The robot is far stronger and heavier than she looks. This is the only supernatural element and it is consistent: she absorbs the falling load by bending her knees deeply, her sneakers press into the asphalt and crack it, her waist mechanism visibly compresses and trembles under the weight. Everything else obeys real physics: the load swings and falls with real gravity, bricks are heavy and shatter on impact, dust spreads and settles, the man falls with real weight, liquid spills naturally.
+> 
+> CAMERA OPERATOR
+> The operator is never visible, not even in reflections in shop windows. He stands at the entrance of a small coffee shop about four meters from the action, filming at chest height. The camera looks along the sidewalk: the construction scaffolding runs along the right side of the frame, the street with passing cars is on the left, the robot is in the center.
+> Real handheld phone behavior: micro-shake, breathing sway, a slight tilt, subjects drifting off-center, late autofocus. He reacts physically: tilts up fast toward the crack above, tilts back down, flinches and steps back at the impact, then slowly steps forward.
+> These imperfections never hide the key moments: the strap snapping, the pallet tilting, the robot's dash, the push, the pallet falling, the catch, the lowering, the cup being crushed, the lift to his feet and all lines.
+> 
+> CHARACTERS
+> The Man: around thirty, slim build, short dark brown hair, clean-shaven, navy bomber jacket over a white T-shirt, black trousers, white sneakers, white over-ear headphones on his head, phone in his left hand, paper takeaway coffee cup with a plastic lid in his right hand. Absorbed in his phone, oblivious.
+> The Worker: construction worker on the scaffolding at third-floor level, about nine meters up, orange hi-vis vest, white hard hat, work gloves.
+> Passersby: four or five adults: a woman with a shopping bag, an older man, a young couple. Ordinary clothing, real faces, all several meters away from the load.
+> Robot: calm, focused, silent. Her face stays composed during the whole rescue; effort shows only in her body and mechanism. No bulging muscles, no grimace.
+> The Man's arc: oblivious, shock, breathless gratitude, deadpan loss.
+> Passersby's arc: idle, frozen fear, stunned silence.
+> 
+> LOCATION AND BLOCKING
+> Evening city street just after rain. Wet dark asphalt sidewalk reflecting streetlights and shop windows, shallow puddles. Along the right side: a building under construction with steel scaffolding, green safety netting and plywood hoarding at street level. A tower crane boom crosses the dark sky above with small red warning lights. A pallet of red bricks hangs from the crane hook about twelve meters above the sidewalk on two lifting straps. The bricks are shrink-wrapped in clear plastic and held with steel bands on a wooden pallet, roughly one ton. One top corner of the wrap is already torn, with a few loose bricks on top.
+> Fixed positions: the robot stands by a lit shop window in the center of the frame, about two meters from the Man's path. The Man walks along the sidewalk from the background toward the camera and stops directly under the hanging load to read something on his phone. Passersby are scattered behind and around them.
+> 
+> TIMELINE
+> 
+> 00:00-00:02.2 | CALM
+> Quiet evening sidewalk. The robot stands by the shop window, waist LEDs glowing softly, reflected in the wet asphalt. The operator films her curiously, focus pulling onto her mechanism. The Man walks into frame, headphones on, scrolling his phone, sipping coffee, and stops under the load. Faint crane motor hum above, traffic noise.
+> 
+> 00:02.2-00:04.2 | THE SNAP
+> At 00:02.2 a sharp metallic crack sounds above: one lifting strap snaps. The pallet jerks and tilts steeply, hanging from the remaining strap, swinging. Three loose bricks slide off the torn corner and fall, smashing on the sidewalk two meters to the side of the Man; he does not notice, his headphones block the sound. The operator tilts up fast, catching the tilted swinging pallet against the dark sky, then tilts back down to the street.
+> At 00:02.8 the Worker leans over the scaffold rail and shouts: "Look out! Move!"
+> At 00:03 the robot's head turns up toward the load. She moves: two fast powerful steps toward the Man, sneakers slapping wet asphalt.
+> 
+> 00:04.2-00:05.8 | THE PUSH AND THE FALL
+> At 00:04.2 the second strap slips off the hook with a metallic screech. The pallet drops in free fall.
+> At 00:04.5 the robot reaches the Man and takes his place. With her left arm she shoves him firmly sideways by the shoulder toward the street side, away from the scaffolding. He stumbles two meters and lands on his back on the wet asphalt, splashing a puddle, fully visible to the camera. His phone stays clutched in his left hand. The coffee cup flies out of his right hand, bounces once and stops upright on the asphalt about half a meter in front of the robot's feet, lid on.
+> From 00:04.8 to 00:05.4 she plants her feet shoulder-width apart and raises both arms straight above her head, palms open, looking up.
+> 
+> 00:05.8-00:08 | THE CATCH
+> At 00:05.8 the pallet slams into her palms. Massive impact: a deep thud, crack of wood, the steel bands groan. She absorbs the energy by bending her knees deeply into a half squat over about half a second, arms staying straight. Her waist actuators compress hard with a loud mechanical whine, the white LEDs flicker once and stabilize. Her sneakers press two to three centimeters into the asphalt and cracks spread outward around her feet. Four more bricks spill off the torn corner and shatter on the asphalt on the scaffolding side, away from the Man. A cloud of red brick dust bursts out and drifts in the streetlight. Her hair whips down from the air push.
+> The operator flinches back one step, frame shaking hard, then steadies.
+> At 00:06.5 she pushes back up to standing, the pallet stable above her head.
+> 
+> 00:08-00:11 | THE HOLD AND LOWERING
+> Near silence: the hum of her mechanism, dust settling, distant traffic. The robot holds about one ton of bricks overhead, completely still, face calm, waist mechanism trembling slightly under the load. Passersby stand frozen, the woman with the shopping bag covering her mouth.
+> At 00:09 she slowly bends her knees and lowers the pallet slightly forward in a controlled motion. At 00:10.5 the pallet touches down on the asphalt directly onto the coffee cup: a small plastic crunch. Brown coffee squirts out and spreads from under the wooden pallet across the wet asphalt.
+> 
+> 00:11-00:13 | GRATITUDE
+> The robot straightens up and brushes brick dust off her palms with two short claps. The Man sits up on the asphalt, soaked, one ear cup of his headphones pushed off his ear, breathing hard. She steps to him and holds out her hand. He grabs it and she pulls him to his feet in one smooth effortless motion.
+> The Man, breathless, in natural English:
+> "...Thank you."
+> Spoken 00:12.0-00:12.6.
+> The robot gives a small calm nod.
+> 
+> 00:13-00:15 | THE ENDING
+> At 00:13 the robot turns and walks away along the sidewalk out of frame past the camera, unhurried, waist LEDs glowing, dust on her shorts and sneakers. The Man looks down at the brown coffee puddle spreading from under the pallet and says flatly, in natural English:
+> "...I just bought that."
+> Spoken 00:13.6-00:14.4.
+> From above the Worker shouts: "Sorry!" at 00:14.6. At 00:15 the recording stops abruptly, no fade.
+> 
+> IMAGE DETAIL
+> Real skin pores, light sweat, flushed skin on the Man. Individual hair strands with natural inertia. Wet bomber jacket with dark water patches after the fall. Wet asphalt with real reflections of shop windows and streetlights, puddle splashes. Bricks with rough porous texture, chipped edges, red dust; sharp fragments scattered after shattering. Wooden pallet with splintered edges, torn shrink wrap, stressed steel bands. Asphalt cracks around her sneakers with crumbled edges. Scaffolding with rusty clamps, safety netting, plywood hoarding. Waist mechanism: brushed silver, white LEDs, colored wires, real reflections of street light, real occlusion shadows, brick dust on the metal. Paper coffee cup crushed flat, coffee spreading over wet asphalt. No legible signs, ads or logos.
+> 
+> AUDIO
+> Smartphone microphone: compressed, loud sounds slightly clipped, handling noise. City ambience: traffic, tires on wet road, distant voices, crane motor hum.
+> Synced sounds: metallic crack of the strap at 00:02.2; strap creak and swinging pallet; three bricks smashing at 00:02.6; robot's sneakers slapping wet asphalt from 00:03; metallic screech of the second strap at 00:04.2; the Man hitting wet asphalt with a splash at 00:04.9; cup bounce; heavy impact thud, wood crack and steel band groan at 00:05.8; loud mechanical whine of her actuators; asphalt crackle under her feet; bricks shattering; continuous hum of her mechanism during the hold; heavy wooden knock and plastic cup crunch at 00:10.5; two dusty palm claps; her footsteps walking away.
+> Voices: Worker's "Look out! Move!" at 00:02.8; passersby gasps at the impact; operator's sharp breath "Whoa" at 00:05.9; silence during the hold. Then only: the Man's "...Thank you.", "...I just bought that." and the Worker's "Sorry!". The robot is silent. No music.
+> 
+> CONTINUITY
+> Fixed order: calm, first strap snaps, pallet tilts, three bricks fall, Worker shouts, robot moves, second strap slips, pallet falls, robot pushes the Man aside, he falls, cup stops upright, robot raises arms, catch with deep knee bend, bricks spill, hold, lowering onto the cup, coffee spreads, she lifts him up, "Thank you", she walks away, "I just bought that", "Sorry!", recording stops.
+> The Man is never under the pallet after the push and no brick lands near him. The coffee cup stays upright on the asphalt until the pallet crushes it. The phone stays in his left hand. Brick fragments, asphalt cracks and dust stay where they fell. The pallet stays on the ground after being lowered. Only one pallet. Consistent faces, wardrobe, light and street layout.
+> 
+> NEGATIVE CONSTRAINTS
+> No cinematic camera look, no 4K sharpness, no gimbal smoothness, no color grading. No cuts, replays or slow motion. The robot never teleports, flies or levitates objects; she runs, pushes and catches physically. The pallet never falls slowly or stops in the air before contact. The pallet never breaks apart completely. No glowing eyes, energy effects, shockwave rings or holograms. No cartoon look, plastic skin, bulging muscles, extra limbs, fused fingers, sliding feet, bodies passing through objects or morphing. No legible text anywhere. Camera operator never visible.
+> 
+> STYLE REMINDER: shaky, real smartphone footage of a real event on a city sidewalk.
