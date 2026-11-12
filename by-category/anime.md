@@ -1,6 +1,6 @@
 # 动漫
 
-共 8 条。
+共 10 条。
 
 ## 2026-10-25（2）
 
@@ -904,3 +904,55 @@
 > Visual Quality: Ultra-detailed 3D animation, cinematic depth of field, realistic magical particles, expressive facial animation, smooth character movement, beautiful fantasy atmosphere, professional animated movie quality.
 > 
 > Audio: Magical orchestral background music, forest ambience, sparkling magical sound effects, dramatic treasure reveal.
+
+## 2026-11-11（1）
+
+### 可可巧克力吐司：手绘二维六镜
+
+- **工具**：Seedance 2.0（RunningHub） · **时长**：15 秒
+- **作者**：@lnxinshng252654 · [原帖](https://x.com/lnxinshng252654/status/2119785328336912420)
+- **按日归档**：[by-date/2026-11-11.md](../by-date/2026-11-11.md)
+- **概要**：15 秒日式手绘二维料理动画：六段硬切、每段 2.5 秒，只拍一双手完成可可巧克力吐司的冷馅与发酵。
+
+> **15 sec, 16:9, text-to-video only. Exactly 6 scenes, 2.5 sec per scene. Every scene transition is a clean hard cut with no effects. Zero reference images, start frames, or storyboard inputs. Include generated natural sound.**
+> **【Art Style】**
+> Original Japanese-style hand-drawn 2D cooking animation. A fully hand-drawn look. Soft yet crisp pencil outlines with subtle line-weight variation and retained hand-drawn wobble. Thin, warm lines for food; lines one grade thicker for hands and tools. Clean 2–3-tone full-color cel shading in warm mid-tones, with no black-crushed shadows. A lived-in kitchen showing brush strokes, shallow atmospheric perspective, restrained analog film grain, and slight color bleed along cel edges. Strong specular highlights only on the ganache and wet dough. Do not imitate the distinctive look of any existing studio, artist, film, or character.
+> **【Subject and Rules】**
+> Subject: cocoa chocolate loaf bread. Make a cold ganache sheet from dark chocolate and fresh cream, knead the cocoa dough, and proceed through the first proof.
+> Only the forearms below the elbows and the two hands of one skilled adult woman appear. Ivory linen sleeves, warm peachy-beige skin, short unpainted nails, five fingers on each hand, no accessories. No face, head, torso, full body, or second person. Only the food and the cooking process are the subject. Each scene has exactly one main action, and ingredient states progress forward only. Never show the finished loaf, baked bread, formed log, or interior chocolate.
+> **【Scene Breakdown】**
+> **Scene 1 — 0.00–2.50**
+> Camera: high overhead close-up looking almost straight down at a worn oak cutting board, very slow push-in. Start: one unwrapped block of dark couverture and one knife with a pale oak handle. Action: the left hand holds it steady while the right hand makes four separate cuts, lifting the blade fully each time. Change: a pile of small, even pieces. Texture: dry, sharp cut faces and tiny crumbs, neither melting nor glistening. Link: all of these same pieces go into Scene 2.
+> **Scene 2 — 2.50–5.00 ★ Texture showcase scene**
+> Camera: low side macro just above the bowl rim, moving very slowly to the right. Start: the pieces from Scene 1 melting from the edges in hot fresh cream. Action: a dark brown silicone spatula stirs three widening circles from the center outward. Change: the pieces vanish into a black, uniform ganache, and the final mark slowly closes. Texture: heavy viscosity that does not slosh like water, with narrow bright highlights. Link: butter and cake flour are mixed into this same ganache, spread to 3 mm, and chilled.
+> **Scene 3 — 5.00–7.50**
+> Camera: fixed high 45-degree medium shot looking down at the work surface. Start: one chilled ganache sheet, 22×8 cm and 3 mm thick, on natural-colored parchment paper. Action: two hands grip both ends of the parchment and lift once. Change: the sheet bends gently but neither sags nor cracks. Texture: a cold, flexible solid with a narrow, firm sheen. Link: this same single sheet is kept cold in reserve.
+> **Scene 4 — 7.50–10.00**
+> Camera: fixed overhead close-up near the rim of a stainless steel bowl. Start: uniform brown dry powder with a cold dairy liquid in the center. Action: a spatula folds four times from the bottom upward. Change: one lump of rough, torn, shaggy cocoa dough with almost no loose flour. Texture: dark wet patches, a lumpy surface, small dry flour at the edges. Link: this same dough and one block of butter go to Scene 5.
+> **Scene 5 — 10.00–12.50 ★ Texture showcase scene**
+> Camera: fixed low side medium shot at work-surface height. Start: one block of butter in the center of the shaggy dough. Action: two hands push forward and fold inward three times. Change: the butter marks and cracks disappear into a smooth, elastic, deep-cocoa dough, and one thin edge lets light pass through without tearing. Texture: elastic sheen rather than wet gloss, with gluten resistance. Link: this same dough proofs in the same bowl to roughly double in size.
+> **Scene 6 — 12.50–15.00**
+> Camera: high 45-degree macro toward the center of the bowl, very slow push toward the indentation. Start: the same dough as a smooth dome risen to roughly double. Action: one index finger presses the center and withdraws completely. Change: only the edges slowly spring back partially, while the center mark remains shallow. Texture: fine fermentation bubbles and soft elasticity, no baked crust. Link: end at this proof-complete state.
+> **【Camera】**
+> Change at least two of distance, angle, and height in every scene. Within a scene, hold still or use only the specified extremely slow movement. No whip pans, handheld shake, rotation, or sudden zoom. What is touching what must always be readable. The tightest macros are used only in Scenes 2 and 6.
+> **【Texture and Movement】**
+> The progression chocolate pieces → heavy emulsion → cold flexible sheet, and dry powder → shaggy dough → smooth gluten → risen dough, must read in distinct stages. Hands carry weight and follow-through after each motion; liquids and dough obey viscosity, elasticity, and gravity. No sudden morphing or reversion of state.
+> **【Light and Stage】**
+> One clean, warm-morning home kitchen. White quartz worktop and a worn oak cutting board. Soft golden key light from a window at the upper left of frame, a weak cool fill on the opposite side, and grounded shadows in the same direction beneath every hand, tool, and ingredient. Only objects named in the current scene appear.
+> **【Physical Continuity】**
+> Maintain the same full quantity of couverture, the same single batch of ganache and one sheet, the same single lump of cocoa dough, and the same hands, sleeves, bowl, kitchen, and light source. The number, size, and material of tools and ingredients do not change. Obey the real cooking sequence and gravity.
+> **【Sound】**
+> Low home-kitchen room tone and on-screen contact sounds only: dry chopping, wet spatula friction, parchment rustling, bowl resonance, dough-sticking sounds, a small finger-stick sound. No BGM, dialogue, narration, or human/animal voices.
+> **【Negative】**
+> On-screen text, titles, captions, subtitles, numbers, labels, logos,
+
+## 2026-11-12（1）
+
+### ⭐ 主教堂屋顶：红刃对决
+
+- **工具**：Seedance 2.5（ImagineArt_X） · **时长**：30 秒
+- **作者**：@heyartzy · [原帖](https://x.com/heyartzy/status/2120579967516029132)
+- **按日归档**：[by-date/2026-11-12.md](../by-date/2026-11-12.md)
+- **概要**：30 秒哥特暗黑幻想二维动画：雨夜主教堂屋顶，黑衣剑士与白黑斗篷镰刀对手以红白轨迹对决。
+
+> Create an EXACTLY 30-second, 16:9, premium 2D anime fight sequence, gothic dark-fantasy, 24 FPS, cel-shaded with painted backgrounds. REFERENCES: @image1 = Hero identity. @image2 = Rival identity. @image3 = Gothic cathedral rooftop location. IDENTITY LOCK: Keep @image1's face, hairstyle and silhouette as an anime character. Outfit: long black gothic coat, high collar, silver rings, black gloves. Weapon: a thin black katana with a red edge glow. Keep @image2's design: pale masked duelist in a white-and-black cloak with a crescent scythe. POWER: Hero moves through red ink and black smoke trails. Rival leaves white paper-talisman bursts. Keep both appearances exact during every effect. ENVIRONMENT: Follow @image3: rain-soaked cathedral rooftop at night, gargoyles, broken stained glass, a huge pale moon, bells, crows. Palette locked to near-black, deep red and white. No other colors. TIMELINE: 00–03: Slow push through falling rain and crows to the hero standing alone on the rooftop edge, coat moving in the wind. 03–06: Bell tolls. The rival lands behind him in a burst of white talismans. The hero opens his eyes, red glint. 06–09: Both dash. First clash, blades lock, sparks and a shockwave blow the rain sideways. 09–12: Fast exchange of strikes along the roof ridge, camera tracking alongside, gargoyles shattering. 12–15: Rival's scythe slices through a stained-glass window. Hero vanishes into red ink and reappears above him. 15–18: Top-down shot: the two circle each other, rain forming rings on the stone. 18–21: Rival hits hard. The hero is thrown through the bell tower, bell ringing loud. 21–24: Close-up: cracked mask, blood-red reflection in the hero's eyes. He stands, wipes his blade. 24–27: One final dash, both figures become streaks of red and white crossing in front of the moon. 27–30: Silence. Freeze in mid-air. The rival's mask splits in two. Hero lands, sheathes the katana, last frame on his silhouette against the moon. AUDIO: Dark orchestral strings with taiko drums, heavy rain, bell tolls, sharp blade clashes, ink-whoosh effects, a single silent beat before the final cut. CONTINUITY: Exactly 30 seconds, ten consecutive 3-second scenes. Preserve both identities, outfits, weapons and rooftop geography. Dynamic anime camera work, smear frames and impact frames, no face changes, no duplication, no text, subtitles or watermarks. FINAL MOOD: A quiet, elegant, deadly duel, more poetry than chaos.
