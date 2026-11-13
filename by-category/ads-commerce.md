@@ -1,6 +1,6 @@
 # 广告带货
 
-共 13 条。
+共 14 条。
 
 ## 2026-10-24（1）
 
@@ -763,3 +763,14 @@
 > NEGATIVE PROMPT: No modern objects, vehicles, smartphones, contemporary clothing, anime, fantasy, artificial posing, slow motion, identity changes, outfit changes, duplicated characters, distorted anatomy, subtitles, logos or watermarks.
 > 
 > FINAL REQUIREMENT: Exactly 30 seconds. Maintain character consistency, realistic movements and natural transitions. The entire video should feel like a genuine family recording discovered on an old cassette: imperfect, intimate, warm and deeply nostalgic.
+
+## 2026-11-13（1）
+
+### ⭐ 金缮游鲤：一镜二十秒
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@my189 · [原帖](https://x.com/my189/status/2120836883966308665)
+- **按日归档**：[by-date/2026-11-13.md](../by-date/2026-11-13.md)
+- **概要**：20 秒一镜到底：宋瓷金缮裂纹渗出钴蓝水墨，化作锦鲤跃入雨夜庭院，再坠入石钵，涟漪凝固还原为金缮纹。
+
+> A continuous, seamless 20-second cinematic one-take starting with an extreme macro close-up of antique Song dynasty white porcelain covered in fine crazed glaze and glowing molten 24k gold kintsugi cracks. Suddenly, droplets of viscous cobalt blue sumi ink seep upward from the golden fractures, levitating in zero gravity and weaving together with shimmering gold dust to morph into an ethereal, translucent koi fish with flowing silk-like gossamer fins and luminous golden scales. As the camera smoothly pulls back and orbits, the koi arches and leaps gracefully out of the porcelain bowl into a vast, misty traditional Chinese courtyard at blue hour, gliding past rain-slicked dark slate tiles, carved wooden lattice screens, and upturned eaves while slow-motion raindrops illuminate trails of ink and golden embers in the humid night air. Finally, the camera tilts into a top-down angle as the koi dives into a dark stone rainwater basin, dissolving upon impact into concentric liquid gold ripples that seamlessly solidify back into glowing kintsugi cracks on antique white porcelain. Rich teal-and-gold color palette, hyper-detailed porcelain subsurface scattering, volumetric mist, dramatic rim lighting, shot on ARRI Alexa 65, 35mm anamorphic lens, shallow depth of field, 24fps cinematic motion blur.

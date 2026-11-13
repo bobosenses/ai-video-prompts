@@ -1,6 +1,6 @@
 # 动作
 
-共 18 条。
+共 19 条。
 
 ## 2026-10-24（1）
 
@@ -1240,3 +1240,260 @@
 > - Do not show the human sheriff after 9 seconds, or two KOUKISHOs at once.
 > - Do not give Image 5 WARDEN horns, an oni mask, crimson armor or KOUKISHO's cloak.
 > - Do not repair scenery, revive enemies, cut to black, or end before the final crane shot.
+
+## 2026-11-13（1）
+
+### ⭐ 集装箱码头：停跑开打
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：30 秒
+- **作者**：@ZentrixHQ · [原帖](https://x.com/ZentrixHQ/status/2121010530139996342)
+- **按日归档**：[by-date/2026-11-13.md](../by-date/2026-11-13.md)
+- **概要**：30 秒横屏港口跑酷动作：日落集装箱码头，粉发女主角以山崎派跑酷对抗丧尸潮，全程实时速度，仅在 21 秒处有一次慢镜。
+
+> 30-second HORIZONTAL 16:9 photorealistic cinematic zombie action in a container port at sunset.
+> Fast, athletic parkour with the physical energy of Yamakasi: connected jumps, catches, push-offs, vaults, shoulder rolls and running combat. Every movement leads immediately into the next.
+> 
+> Begin MID-JUMP. No introduction or establishing montage. The heroine and zombies move extremely fast through grounded stunt performance. No slow jogging, floating jumps or accelerated playback.
+> 
+> Exactly ONE slow-motion accent at 00:21.0–00:21.5. Everything else plays at real-time speed.
+> 
+> REFERENCE
+> image1 defines the adult heroine's face, physique, hair, silver clips, outfit, footwear and pink backpack. Preserve these throughout. Use the image for appearance only, not its studio background, lighting or pose.
+> 
+> Adult woman, mid-20s. Short pink-and-lavender bob with blue ends and silver clips. Exact pink-and-white athletic crop top, matching pink pleated skirt with white inserts and hem stripes, white crew socks, chunky white-and-pink sneakers and pink backpack.
+> 
+> Both backpack straps stay secured. Hair clips remain attached. Fabric moves naturally. Sweat, rust dust, scuffs and water spray accumulate and persist.
+> 
+> No additional weapons or costume changes. Frame her movement, expression and danger without voyeuristic angles.
+> 
+> MOVEMENT AND COMBAT
+> She performs like a highly trained parkour stunt performer: powerful acceleration, precise hand placement, compressed landings and immediate recovery into running.
+> 
+> Hands secure contact before weight transfers. Feet push from visible surfaces. Shoulder rolls travel diagonally over one shoulder, never over her head or neck.
+> 
+> Every trick solves an obstacle or attack. No decorative flips, unnecessary spins or fighting poses.
+> 
+> Combat uses momentum, balance and short decisive contact. Attackers keep moving during her landings. Nobody waits for a stunt to finish before pursuing.
+> 
+> THE HORDE
+> Clearly undead adults with grey-pale skin, cloudy eyes, dark veins and torn port-worker clothing or everyday clothes.
+> 
+> They sprint aggressively, jump gaps, vault obstacles and attack during transitions. Arms pump when running and extend to grab at close range.
+> 
+> They collide, stumble and overshoot because of momentum. Keep distinct bodies, readable limbs and physical foot contact.
+> 
+> Escalation: close rooftop pursuers, additional infected entering from adjacent stacks, then a massive horde in the ground-level loading lane.
+> 
+> LOCATION AND ROUTE
+> A fictional container terminal beside harbor water. Six-high stacks rise approximately 16–18 metres.
+> 
+> Connected route:
+> OPENING GAP → exterior ladder catch → adjacent lower roof → parkour fight → unstable container → stable landward stack → crane bridge → operator cab.
+> 
+> The opening gap is two metres wide. A rigid maintenance ladder is bolted to the destination stack's corner. Its upper rungs are reachable below the roof edge.
+> 
+> An adjacent lower roof lies beside this ladder, about one metre below the foot-support rung and within a short lateral jump. Show it in the opening wide shot.
+> 
+> The later unstable container rests unevenly on damaged supports. Its SEAWARD support is visibly broken. The seaward edge drops toward the harbor; the opposite LANDWARD edge rises.
+> 
+> The heroine runs toward that rising landward edge and jumps to a separate stable stack on the landward side. The stable landing roof is lower, across a short gap. The unstable container falls away from it.
+> 
+> The final crane bridge is slightly higher than the stable roof. A lower railing cross-member provides a visible foothold. The bridge connects directly to an open operator cab.
+> 
+> A separate loaded container hangs approximately four metres above a ground-level lane packed with infected. Establish it during the bridge sequence. It is not the unstable container.
+> 
+> The cab and bridge stand outside its drop footprint. The finale uses a fictional cinematic emergency load-release mechanism.
+> 
+> LIGHT AND FILM LOOK
+> Warm sunset backlight, long shadows, cooler sky fill and harbor reflections. Maintain the same sun direction.
+> 
+> Natural skin, sweat, chipped paint, rust, corrugated steel, salt-stained glass and believable fabric. Practical-looking stunt work with photorealistic destruction.
+> 
+> Controlled handheld urgency, restrained grain and realistic motion blur. Faces, handholds and impacts stay readable. No glossy game look or excessive lens flare.
+> 
+> TIMELINE
+> 
+> 00:00–00:04.0 | MID-AIR HOOK
+> The FIRST FRAME shows the heroine already airborne over the gap, with the launch roof visible behind her. A zombie flies immediately behind her.
+> 
+> A wide lateral tracking shot establishes both bodies, the destination ladder and the adjacent lower landing roof.
+> 
+> The zombie briefly catches the backpack's top handle, interrupting her reach, then its grip slips. The handle and shoulder straps remain intact.
+> 
+> She misses the roof edge but catches a ladder rung with BOTH hands. Her elbows bend under the load.
+> 
+> The zombie falls below and outside her position, without hitting her.
+> 
+> In the same continuous movement, she plants ONE sneaker on a lower rung. With no separate swinging cycle, she compresses that leg and pushes diagonally toward the adjacent lower roof, releasing both hands as she launches.
+> 
+> Show the short descending jump and both feet landing. She absorbs the landing into one diagonal shoulder roll and rises straight into a sprint.
+> 
+> Camera: wide airborne opening, a brief tighter view of the catch, then medium-wide coverage of the push-off and landing. No repeated action.
+> 
+> 00:04.0–00:08.0 | VAULT PAST THE ATTACK
+> She accelerates across the lower roof.
+> 
+> Ahead, an infected pulls itself over an adjoining edge. It is bent forward as it lunges into her route.
+> 
+> She drives off the ROOF with one foot and vaults diagonally past the attacker's side. One palm briefly touches its shoulder to guide her trajectory; its body does not supply the lift or act as a stable platform.
+> 
+> Her legs pass beside its bent torso without intersecting it. She lands beyond the attacker, which stumbles onto its hands.
+> 
+> A second infected lunges with arms extended. She drops into a short low slide beneath its reaching arms and passes along its outside flank, not between its feet.
+> 
+> It overshoots and collides with the first zombie. She rises and continues running.
+> 
+> Camera: lateral coverage for the vault, then a frontal three-quarter angle for the next attack. Preserve her direction across the cut.
+> 
+> 00:08.0–00:12.0 | RUN OFF THE TIPPING CONTAINER
+> She makes a short running hop onto the next container roof.
+> 
+> A wide angle shows its damaged seaward support and the stable landward stack ahead. A rusted support tears loose under the container's existing load. Her body weight does not cause the collapse.
+> 
+> The seaward edge sinks toward the harbor. The opposite landward edge rises.
+> 
+> She keeps running toward the rising LANDWARD edge as the roof becomes a steepening ramp. Her steps shorten and her arms counterbalance.
+> 
+> Before the tilt becomes too steep, she drives off the reinforced landward corner toward the separate stable roof below and ahead.
+> 
+> Hold a side view through takeoff, descending flight and landing. She completes a short shoulder roll and rises facing forward.
+> 
+> Behind her, the unstable container tips away toward the water. Pursuers on it lose their footing and fall with it. The container never strikes her stable landing stack.
+> 
+> Keep the collapse in the background while her escape continues. No pause to watch it.
+> 
+> 00:12.0–00:16.0 | RUNNING COMBAT
+> A zombie charges across the stable roof from an adjacent stack.
+> 
+> She steps outside its reaching arm, deflects the forearm and catches its upper clothing. Turning her hips, she redirects its forward momentum into a raised steel corner post.
+> 
+> Show ONE upper-body impact against the post. The zombie folds against it and remains behind.
+> 
+> A second attacker leaps at her from the side. She folds low and keeps moving beneath its airborne reach.
+> 
+> It clears her, lands badly behind and rolls across the roof. It does not disappear or instantly recover ahead.
+> 
+> She accelerates toward the crane bridge.
+> 
+> Camera: medium-wide coverage for the redirection and impact, then a wider side angle containing the second attacker's complete trajectory.
+> 
+> 00:16.0–00:20.0 | LEAP TO THE BRIDGE
+> Use ONLY TWO clear shots for this beat.
+> 
+> SHOT 1: Wide lateral view.
+> The bridge railing and lower cross-member stand across a short gap, slightly above the roof.
+> 
+> She takes two fast steps, jumps and catches the top rail with both hands. One sneaker finds the lower cross-member.
+> 
+> Using that foothold and her arm pull, she raises her hips and vaults sideways over the rail. Both sneakers land on the bridge deck with bent knees.
+> 
+> Hold this shot through the complete transfer and landing. No close-up inserts.
+> 
+> SHOT 2: Tracking from inside the bridge.
+> Cut on her first running step. She accelerates toward the open cab.
+> 
+> Behind her, a pursuing zombie catches the same rail and climbs over, visibly following her route.
+> 
+> Through the bridge framework, the ground-level horde and separate suspended container are briefly readable without interrupting the chase.
+> 
+> 00:20.0–00:23.0 | CABLE AND LOW SLIDE
+> The closest zombie sprints after her along the bridge.
+> 
+> Beside the walkway stands an already damaged service-panel frame, held by a taut secondary steel restraint cable. Establish the cracked mounting and cable before failure.
+> 
+> As the zombie charges past, its shoulder slams into the protruding frame. The weakened mounting tears loose, releasing the tensioned cable.
+> 
+> This cable is completely independent of the crane's main hoist.
+> 
+> Seeing the frame move, the heroine drops into a low feet-first slide on ONE HIP. Her second leg folds beneath and beside her for control. Her torso stays low but she does not lie on her back.
+> 
+> The backpack remains above the deck, attached to her back. It never passes through the metal surface.
+> 
+> 00:21.0–00:21.5: the ONLY slow-motion accent.
+> Close oblique view as the recoiling cable flashes in the sunset light above her entire lowered silhouette, including the backpack.
+> 
+> Her face is turned slightly upward. The cable passes close without touching her.
+> 
+> Behind her, the upright pursuer receives the same recoiling cable across its upper chest. One non-graphic contact knocks it backward. No slicing or dismemberment.
+> 
+> Restore real-time speed on the heavy sound of its body hitting the bridge deck.
+> 
+> The cable completes its recoil against the side structure and hangs outside her route.
+> 
+> She brings the folded foot beneath her body, rises directly out of the hip slide and drives through the open cab doorway.
+> 
+> 00:23.0–00:26.0 | TAKE CONTROL
+> She enters fast and arrests her momentum with one palm against the console.
+> 
+> Through the window, show her view of the heavy container above the infected crowd. Its location matches the earlier bridge view.
+> 
+> Her expression changes from desperation to resolve while her other hand reaches for one prominent emergency release lever.
+> 
+> She grips and pulls it through one decisive stroke. No separate reaction pause, multiple controls or repositioning of the crane.
+> 
+> The fictional release activates once.
+> 
+> The bridge pursuer remains down. Other infected are still approaching from farther along the bridge.
+> 
+> 00:26.0–00:30.0 | HEAVY IMPACT
+> Cut to the suspended loaded container above the established loading lane.
+> 
+> The fictional lifting assembly disengages. Its lifting frame stays above while the container separates completely and falls approximately four metres.
+> 
+> Show the full short fall and ground contact at real-time speed in a wide three-quarter view.
+> 
+> The container slams down with massive weight. Its lower edges deform, pavement debris jumps and a dense dust wave bursts between the stacks.
+> 
+> Infected beneath it disappear behind the load and dust without graphic injury detail. Nearby infected recoil, stumble and collide.
+> 
+> The container stays grounded. No high bounce, repeated drop or explosion.
+> 
+> The camera retreats rapidly, revealing the elevated cab, the fallen load and the larger surrounding horde.
+> 
+> Abrupt cut as the impact cloud expands and the steel crash peaks. No aftermath, victory pose or end card.
+> 
+> EDITING AND CAMERA
+> Vary coverage with purpose:
+> Wide lateral tracking for jumps and landing surfaces.
+> Brief grip details only after geography is established.
+> Frontal three-quarter views for approaching attacks.
+> Medium-wide shots for complete combat contacts.
+> Cuts on movement between connected actions.
+> A final retreating wide shot for scale.
+> 
+> Most shots last roughly 0.7–1.5 seconds. Hold longer for complete stunts, especially the bridge transfer. Never sacrifice a contact or landing to meet a cutting interval.
+> 
+> Rolls connect movements without resetting her position. Preserve travel direction. Every cut advances time.
+> 
+> No long hangs, careful route inspection, slow climbing, waiting attackers, random camera spins or repeated stunts. Camera and crew never appear.
+> 
+> SOUND
+> No music, narration or spoken dialogue.
+> 
+> Synchronized effects: rushing air, snarls, backpack fabric strain, ladder impacts, sneakers striking steel, hard breathing, shoulder rolls, bodies hitting metal, support failure, harbor impact, railing vibration, the zombie's shoulder hitting the service frame, cable snap, bridge-deck impact, lever movement, load release and the final massive crash.
+> 
+> Sound bridges connect shots and maintain pursuit. Briefly stretch the background during the sole slow-motion accent, then restore full-speed sound on the zombie's deck impact.
+> 
+> CONTINUITY
+> Exact image1 heroine throughout. Backpack straps, handle and hair clips remain intact. Dirt, sweat and spray persist.
+> 
+> The opening begins mid-jump; do not replay its takeoff.
+> The zombie releases the backpack before falling.
+> She secures both hands on the ladder before planting one foot and pushing off.
+> The lower landing roof is established before the ladder jump.
+> Her vault uses leg drive from the roof, with only a guiding shoulder touch.
+> Each roll ends on its actual landing surface.
+> Attackers follow visible routes.
+> The unstable container's seaward edge drops while its landward edge rises.
+> She jumps landward; the container falls seaward.
+> The stable roof connects to the bridge by one short jump and railing vault.
+> The pursuer visibly strikes the damaged frame, causing the cable failure.
+> Her hip slide keeps the backpack clear of the deck and below the cable.
+> Only the secondary restraint cable snaps.
+> The main hoist holds the final load until the lever action.
+> The final load falls once and remains grounded.
+> The cab stays outside the impact footprint.
+> Exactly one slow-motion accent.
+> 
+> AVOID
+> Slow jogging, floating jumps, decorative flips, endless hanging, impossible rotations, weightless strikes, teleportation, duplicate zombies, liquid crowds, disappearing accessories, costume changes, shifting sunlight, restored broken objects, unexplained crane movement, attached hoist lines during free fall, repeated impacts, excessive gore, voyeuristic framing, captions
