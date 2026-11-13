@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 19 条。
+共 20 条。
 
 ## 2026-10-24（1）
 
@@ -1364,3 +1364,62 @@
 > 17.4-18.6: Her face STAYS locked right in front of the lens, black unblinking eyes, huge smile, not moving away.
 > GIRL (demonic whisper, very close to the microphone): «You shouldn’t have answered the door...»
 > 18.6-20.0: A loud distorted scream. Her jaw drops open, her face jerks and trembles right at the lens. The image freezes on her face, breaks into digital interference, pixel blocks and colour shifts, and cuts to black at exactly 20.0.
+
+## 2026-11-13（1）
+
+### ⭐ 时代广场：导演化身 700 米巨人
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@tokyo_Valentine · [原帖](https://x.com/tokyo_Valentine/status/2120839566542434587)
+- **按日归档**：[by-date/2026-11-13.md](../by-date/2026-11-13.md)
+- **概要**：30 秒正午时代广场巨型对决：导演化身 700 米红白蓝鬼武士铠甲巨人，与另一巨人对摔后恢复人形，坐回导演椅。
+
+> Create a 30-second, 16:9 photorealistic live-action blockbuster sequence, set in Times Square, New York, in bright midday sunlight. The tone combines terrifying scale, brutal giant wrestling and the director's completely deadpan composure. Follow the complete story through the final spoken line. Timestamps are choreography targets.
+> 
+> REFERENCE LOCK
+> Image 1 = THE DIRECTOR, the normal human form: preserve the reference face, short curly hair, trimmed beard, black eyeglasses, dark checked three-piece suit, black shirt, tie and leather shoes.
+> Image 2 = his transformed HERO, exactly 700 meters tall: preserve the asymmetric red, white and blue horned oni armor, demon-face shoulders and belt, thick rope, hanging cloth and armored feet. His own right side is predominantly white/blue; his own left side is predominantly red. Never mirror this arrangement. Empty hands; no added weapons.
+> Image 3 = GORGON, exactly 700 meters tall: preserve the massive volcanic-rock body, horns, spikes, long armored tail, molten orange fissures and circular glowing chest core.
+> The director and HERO are the same individual in two forms. Exactly one HERO and one GORGON. Never exchange their designs. Use the sheets only for appearance; never show their panels, labels, studio backgrounds or turnaround poses.
+> VISUAL AND CAMERA RULES
+> Live-action photography with photoreal VFX: real skin, woven suit fabric, scratched metal, heavy stone, liquid lava, refractive heat shimmer, dense smoke, real glass and natural sunlight. Maintain sharp material detail and hard midday shadows. No illustrated or animated rendering.
+> Both giants remain 700 meters tall. Keep real buildings, street grids, tiny cars and windows visible as scale references. Use wide skyline compositions for throws and impacts; close-ups alone must not erase the scale.
+> Action-movie camerawork continues every second throughout the entire video.
+> Use motivated tracking, low angles, crane rises, whip-pans, aerial moves and restrained pushes during the director's calm moments. The second-by-second beats do not require a cut every second. Preserve screen direction and readable contact before each reaction. Fast superhuman movement with enormous weight, finite travel paths and violent deceleration. No prolonged slow motion.
+> Show the journey west from Times Square to the Hudson, then the return east. No unexplained teleportation. Effects must not conceal the wrestling grips or decisive impacts.
+> SECOND-BY-SECOND ACTION AND CAMERA
+> 00-01: Extreme close-up of a physical clapperboard reading "GORGON / TAKE 1". It snaps shut immediately. Pull back and whip-tilt as GORGON's rising horned head already appears between the buildings behind it.
+> 01-02: Rapid crane rise reveals the 700-meter monster towering over the film set. Crew members glance between it and their monitor, smiling and continuing to work as though this were planned VFX.
+> 02-03: Street-level lateral tracking follows GORGON's first orange fire blast. An empty yellow cab's metal body slumps and melts; a burning billboard tears loose and falls.
+> 03-04: Track with fleeing crew and pedestrians, then arc toward the director sitting perfectly still in his chair. He calmly removes his glasses while everyone rushes past.
+> 04-05: Controlled close push-in: he folds the glasses, places them inside his breast pocket and rises. Fire reflects across his face; his expression remains composed.
+> 05-06: Low-angle push toward him as he quietly says, "Action." White light erupts from beneath his shoes into a vertical column.
+> 06-07: Whip-tilt upward along the same transforming body. Human legs visibly enlarge into Image 2's armored legs; the transformation climbs through the torso to the horned head.
+> 07-08: Pull far back as the completed 700-meter HERO drops into a massive two-foot landing. Asphalt buckles outward in concentric waves; abandoned cars bounce around his enormous feet.
+> 08-09: Low side tracking: GORGON unleashes a sustained fire torrent. HERO crosses both forearms before his face and chest, catching the blast; flames split around the crossed armor.
+> 09-10: Retreating chest-height camera leads HERO as he charges straight through the uninterrupted fire, forearms still crossed. Buildings slide past below his shoulders.
+> 10-11: Swing to a clear lateral angle. HERO opens his guard and drives a devastating forearm lariat across GORGON's upper chest, knocking its feet off the ground. Show the contact clearly.
+> 11-12: Whip-pan into a wide westward tracking shot. GORGON flies toward the Hudson waterfront, gouging a trail through the city; HERO pursues in enormous bounding strides.
+> 12-13: Low waterfront tracking: GORGON regains its feet and meets HERO in a violent clinch. HERO's hands grip the molten torso; his gauntlets glow red and release dense smoke.
+> 13-14: Tight moving insert on the smoking grip, then slide behind them as HERO refuses to let go, ducks around GORGON and locks both arms around its waist from behind.
+> 14-15: Wide side view with the Hudson clearly visible. HERO plants his feet, lifts GORGON completely off the ground and arches backward into an unmistakable German suplex.
+> 15-16: Track the full throwing arc. GORGON's head and upper back smash into the Hudson, throwing up a colossal wall of water. HERO rolls through the motion toward his feet.
+> 16-17: Fast lateral aerial move follows a huge steam explosion as displaced river water crashes across GORGON's molten body. Keep its falling silhouette readable through the steam.
+> 17-18: Push through thinning vapor to a close view of the torso. Orange surface fissures rapidly darken into black rock; thermal fractures race across the armor. The chest core alone remains intensely hot.
+> 18-19: Crane outward as HERO regains his stance, hauls the weakened GORGON out of the shattered riverfront and raises it horizontally over his head in both hands.
+> 19-20: Wide orbit: HERO performs one fast, complete airplane-spin revolution with GORGON held crosswise overhead. Its heavy tail sweeps through the air; black crust fragments fly outward.
+> 20-21: High tracking view follows HERO's immense eastward leap back toward Times Square while carrying GORGON. The river recedes behind them; the city visibly passes beneath.
+> 21-22: Descending wide shot: HERO turns GORGON head-down and drives it crown-first into the center of Times Square. The street collapses into a deep crater and nearby towers tilt outward.
+> 22-23: Low crater-edge dolly: GORGON falls onto its back, exposing the cracked chest core. HERO thrusts an open palm close to it and fires a concentrated white-hot beam with a crimson edge directly into the core.
+> 23-24: Fast pullback as the beam bores into the core. Light floods through GORGON's cracks; the core swells and ruptures into a blinding internal detonation.
+> 24-25: Very wide aerial retreat: the fictional core blast erupts with super-nuclear visual scale. An expanding dome of light sweeps across Manhattan; skyscrapers are torn apart in successive shockwave rings.
+> 25-26: Distant panorama moves laterally as a towering mushroom cloud rises over the devastated skyline. Push toward the epicenter through clearing blast haze, revealing only HERO's upright silhouette.
+> 26-27: The colossal silhouette visibly contracts inside a narrowing shaft of light, restoring the human director in the same dark suit. Whip down to a toppled production camera, its red tally light still on.
+> 27-28: Ground-level dolly past that still-recording camera follows the director taking one step to his scorched, overturned chair. He calmly sets the chair upright amid drifting ash.
+> 28-29: A gentle low-angle push follows him sitting down, retrieving the glasses from the same breast pocket and putting them back on.
+> 29-30: Continue the restrained push to his deadpan face against the ruined city. He says clearly, "Cut. Print it." End immediately on his composed expression.
+> AUDIO
+> No BGM, score, song or musical stingers. Diegetic sound only: clapper snap, distant traffic, fleeing footsteps, fire roar, liquefying metal, falling signage, armor friction, colossal footfalls, lariat impact, rock fractures, water impact, violent steam hiss, beam discharge, the core explosion and settling debris.
+> The only intelligible speech is the director's quiet "Action." and final "Cut. Print it." Use the same low, controlled voice for both. Reduce surrounding effects enough to hear these lines. No narrator, crowd dialogue or extra catchphrases.
+> EXCLUSIONS
+> No anime, cartoon, cel shading, comic panels, game-render appearance, toy-scale buildings, plastic armor, miniature aesthetics, character redesigns, duplicate giants, extra limbs or unexplained size changes. No subtitles, captions, title cards, watermarks or added logos. The clapperboard text is an in-scene prop, not an overlay. No blood, exposed wounds, dismemberment, bodies or close-ups of civilian injury. Keep the action focused on the two giants and environmental destruction. Do not omit the return to human form, the chair, the glasses or the final line.

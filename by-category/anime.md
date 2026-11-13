@@ -1,6 +1,6 @@
 # 动漫
 
-共 10 条。
+共 11 条。
 
 ## 2026-10-25（2）
 
@@ -956,3 +956,28 @@
 - **概要**：30 秒哥特暗黑幻想二维动画：雨夜主教堂屋顶，黑衣剑士与白黑斗篷镰刀对手以红白轨迹对决。
 
 > Create an EXACTLY 30-second, 16:9, premium 2D anime fight sequence, gothic dark-fantasy, 24 FPS, cel-shaded with painted backgrounds. REFERENCES: @image1 = Hero identity. @image2 = Rival identity. @image3 = Gothic cathedral rooftop location. IDENTITY LOCK: Keep @image1's face, hairstyle and silhouette as an anime character. Outfit: long black gothic coat, high collar, silver rings, black gloves. Weapon: a thin black katana with a red edge glow. Keep @image2's design: pale masked duelist in a white-and-black cloak with a crescent scythe. POWER: Hero moves through red ink and black smoke trails. Rival leaves white paper-talisman bursts. Keep both appearances exact during every effect. ENVIRONMENT: Follow @image3: rain-soaked cathedral rooftop at night, gargoyles, broken stained glass, a huge pale moon, bells, crows. Palette locked to near-black, deep red and white. No other colors. TIMELINE: 00–03: Slow push through falling rain and crows to the hero standing alone on the rooftop edge, coat moving in the wind. 03–06: Bell tolls. The rival lands behind him in a burst of white talismans. The hero opens his eyes, red glint. 06–09: Both dash. First clash, blades lock, sparks and a shockwave blow the rain sideways. 09–12: Fast exchange of strikes along the roof ridge, camera tracking alongside, gargoyles shattering. 12–15: Rival's scythe slices through a stained-glass window. Hero vanishes into red ink and reappears above him. 15–18: Top-down shot: the two circle each other, rain forming rings on the stone. 18–21: Rival hits hard. The hero is thrown through the bell tower, bell ringing loud. 21–24: Close-up: cracked mask, blood-red reflection in the hero's eyes. He stands, wipes his blade. 24–27: One final dash, both figures become streaks of red and white crossing in front of the moon. 27–30: Silence. Freeze in mid-air. The rival's mask splits in two. Hero lands, sheathes the katana, last frame on his silhouette against the moon. AUDIO: Dark orchestral strings with taiko drums, heavy rain, bell tolls, sharp blade clashes, ink-whoosh effects, a single silent beat before the final cut. CONTINUITY: Exactly 30 seconds, ten consecutive 3-second scenes. Preserve both identities, outfits, weapons and rooftop geography. Dynamic anime camera work, smear frames and impact frames, no face changes, no duplication, no text, subtitles or watermarks. FINAL MOOD: A quiet, elegant, deadly duel, more poetry than chaos.
+
+## 2026-11-13（1）
+
+### 蚊子选错了房间
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@MissDelulu9 · [原帖](https://x.com/MissDelulu9/status/2120893118258262140)
+- **按日归档**：[by-date/2026-11-13.md](../by-date/2026-11-13.md)
+- **概要**：15 秒皮克斯风喜剧：蚊子举着小麦克风对着熟睡男子唱歌，曲终被一巴掌拍飞，撞墙后麦克风砸回头顶。
+
+> Create an exactly 15-second, 16:9 landscape, ultra-high-quality 3D Pixar-style cinematic animation.
+> 
+> A dimly lit, cozy bedroom at night with warm bedside lamp lighting, soft shadows, volumetric lighting and cinematic depth of field. A middle-aged man sleeps peacefully in bed with subtle breathing motion.
+> 
+> A small, adorable, highly expressive 3D mosquito holding a tiny microphone flies close to the man's face and hovers steadily. The mosquito begins singing the uploaded song with perfectly synchronized lip movements, expressive facial animation and detailed wing movements. The camera slowly dollies toward the mosquito, creating beautiful cinematic close-ups and creamy background bokeh. The man remains completely asleep throughout the performance.
+> 
+> Immediately when the song ends, the man reflexively swings his hand without opening his eyes. Clearly show the hand and mosquito together in the same frame at the exact moment of contact. The mosquito slightly squashes with exaggerated cartoon physics and launches rapidly in the direction of the hand swing. No movement before impact.
+> 
+> Switch to a fast dynamic tracking camera following the mosquito as it flies into the wall. Add cinematic motion blur, speed ramping and subtle camera shake. Upon hitting the wall, cartoon stars spin around the mosquito's head, with a tiny exaggerated wall crack for comedy.
+> 
+> The mosquito drops its microphone. It briefly floats upward due to inertia, then falls onto the mosquito's head with a funny bounce. The dizzy mosquito falls to the floor with spinning eyes while the microphone rolls slightly beside it. Finish with a top-down cinematic shot holding on the hilarious final moment.
+> 
+> Audio: Uploaded song as the main audio, perfectly synchronized with mosquito lip-sync. Subtle nighttime ambience, cartoon impact thud, boing, metallic microphone drop and dizzy sparkle effects.
+> 
+> Visual Quality: Premium Pixar-style 3D animation, highly detailed character design, glossy expressive eyes, translucent wings, realistic PBR materials, subsurface scattering, global illumination, soft shadows, smooth animation, exaggerated squash-and-stretch physics, cinematic depth of field, film-grade lighting and ultra-sharp 4K–8K visual quality.

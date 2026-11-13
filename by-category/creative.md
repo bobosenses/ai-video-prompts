@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 30 条。
+共 31 条。
 
 ## 2026-10-24（1）
 
@@ -1154,3 +1154,26 @@
 > No cinematic camera look, no 4K sharpness, no gimbal smoothness, no color grading. No cuts, replays or slow motion. The robot never teleports, flies or levitates objects; she runs, pushes and catches physically. The pallet never falls slowly or stops in the air before contact. The pallet never breaks apart completely. No glowing eyes, energy effects, shockwave rings or holograms. No cartoon look, plastic skin, bulging muscles, extra limbs, fused fingers, sliding feet, bodies passing through objects or morphing. No legible text anywhere. Camera operator never visible.
 > 
 > STYLE REMINDER: shaky, real smartphone footage of a real event on a city sidewalk.
+
+## 2026-11-13（1）
+
+### 地铁车门：嘲笑被砸碎
+
+- **工具**：Seedance 2.0（RunningHub） · **时长**：30 秒
+- **作者**：@lnxinshng252654 · [原帖](https://x.com/lnxinshng252654/status/2120917789137392073)
+- **按日归档**：[by-date/2026-11-13.md](../by-date/2026-11-13.md)
+- **概要**：30 秒韩式地铁动作喜剧：她没赶上车，车内男子隔着玻璃嘲笑，她一拳砸裂安全玻璃，把他拽出站台后自己上车。
+
+> Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+> Young Korean woman, early 20s, long straight black hair, green cropped long-sleeve top, loose blue jeans, silver jewelry; confident and expressive.
+> Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful, then shocked and embarrassed.
+> She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+> The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
+> He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+> She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+> She calmly climbs through the same broken opening into the train, straightens her clothes and walks inside as stunned passengers watch.
+> The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+> One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+> She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+> Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+> No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
