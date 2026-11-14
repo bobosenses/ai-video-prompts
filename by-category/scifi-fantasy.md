@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 20 条。
+共 21 条。
 
 ## 2026-10-24（1）
 
@@ -1423,3 +1423,203 @@
 > The only intelligible speech is the director's quiet "Action." and final "Cut. Print it." Use the same low, controlled voice for both. Reduce surrounding effects enough to hear these lines. No narrator, crowd dialogue or extra catchphrases.
 > EXCLUSIONS
 > No anime, cartoon, cel shading, comic panels, game-render appearance, toy-scale buildings, plastic armor, miniature aesthetics, character redesigns, duplicate giants, extra limbs or unexplained size changes. No subtitles, captions, title cards, watermarks or added logos. The clapperboard text is an in-scene prop, not an overlay. No blood, exposed wounds, dismemberment, bodies or close-ups of civilian injury. Keep the action focused on the two giants and environmental destruction. Do not omit the return to human form, the chair, the glasses or the final line.
+
+## 2026-11-14（1）
+
+### ⭐ 林间谷仓：三眼斑点犬破门
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：25 秒
+- **作者**：@TrixiHQ · [原帖](https://x.com/TrixiHQ/status/2121356963132960867)
+- **按日归档**：[by-date/2026-11-14.md](../by-date/2026-11-14.md)
+- **概要**：25 秒写实奇幻：少年与三眼斑点犬被鼠形巨人逼入谷仓后，狗化身巨犬破门反杀，再缩回原形被拥抱。
+
+> FORMAT
+> 25-second HORIZONTAL 16:9 photorealistic cinematic fantasy film.
+> 
+> A rat-like giant forces a horned young man and his small three-eyed Dalmatian into a forest barn and locks the entrance. The dog transforms in BLUE FIRE into a gigantic Dalmatian. While BOTH creatures are still INSIDE, the dog LEAPS onto the attacker, driving him through the closed wooden doors. They burst OUTWARD into the clearing together. The dog pins the attacker and growls, then returns to his small form. The man embraces him and says, "Thank you, buddy."
+> 
+> Real-time action, convincing weight, physical contact, momentum, and landings. No slow motion or speed ramps.
+> 
+> REFERENCES
+> image1 shows TWO FORMS OF THE SAME DOG, not two separate animals.
+> 
+> LEFT: the small normal Dalmatian.
+> RIGHT: his gigantic muscular transformed form.
+> 
+> Match the white fur, black spots, floppy spotted ears, canine face, two brown eyes, and pale-blue third eye centered on the forehead. Preserve recognizable markings between forms. The giant dog retains the reference's massive torso, thick limbs, enormous paws, and natural canine anatomy. No armor or additional limbs.
+> 
+> image2 defines the young adult man. Preserve his exact face, dark brown skin, short curly platinum-blond hair, pale eyes, pointed ears, and asymmetric horns. In the frontal reference, the black horn is on image-left and the ivory horn on image-right. Keep their anatomical placement consistent through camera changes.
+> 
+> Copy his layered ivory hooded robe, textured fabric, brown belt and pouch, leather forearm bindings, and brown boots. Hood down throughout.
+> 
+> These images define character appearance, not scenery. Do not reproduce the studio backgrounds.
+> 
+> REALISM
+> Live-action feature-film appearance. Natural skin pores, individual fur strands, worn leather, frayed cloth, splintered timber, and dusty stone.
+> 
+> Fantasy creatures have convincing muscle movement, grounded contact shadows, and substantial physical weight. Blue transformation fire illuminates nearby surfaces and airborne dust without burning the building or clothing.
+> 
+> Warm forest daylight outside; dim barn interior with sunlight entering gaps between boards and roof beams. Realistic motion blur and coherent exposure.
+> 
+> CHARACTERS
+> MAN: frightened but responsive. He retreats when threatened, moves clear of the fight, and approaches only after the attacker is subdued.
+> 
+> DOG: starts as the small Dalmatian from image1. His forehead eye glows blue before transformation. His giant form remains white with black spots and floppy ears. Its mass is comparable to the attacker's. He moves like a powerful quadrupedal animal.
+> 
+> ATTACKER: towering rat-like humanoid with a hunched muscular body, coarse gray-brown fur, long pinkish muzzle, rounded ears, uneven yellow teeth, heavy clawed hands, and a fleshy tail. His confidence becomes panic after the dog's transformation.
+> 
+> LOCATION AND GEOGRAPHY
+> An old timber-and-stone barn beside a forest clearing.
+> 
+> Tall double wooden doors form the ONLY entrance used in this sequence. They are closed and secured from inside with a heavy wooden crossbar seated in fixed frame brackets. The entire old doorway can break under the creatures' combined impact.
+> 
+> A stone grinding wheel stands to the left. Barrels line the right wall. Dust and grain cover the floor. A broad central lane connects the interior to the doors.
+> 
+> The man remains beside the right wall during the confrontation. The dog enters the central lane before transforming. The attacker retreats to the closed entrance.
+> 
+> Allow enough interior space for the giant dog to take two powerful strides and leap. The doorway is broad enough for both creatures to crash through as its doors and damaged frame break outward.
+> 
+> Outside, leave clear dirt ground for the landing and pin.
+> 
+> TIMELINE
+> 
+> 00:00-00:02 | FORCED INSIDE
+> Exterior three-quarter wide shot, already in motion.
+> 
+> The man and small dog are stepping backward over the open threshold into the barn. The attacker stands directly in front of them, outside, facing into the building.
+> 
+> He advances with a threatening clawed-hand gesture, driving them farther inside. The man recoils; the dog retreats beside his boots. The attacker follows them across the threshold.
+> 
+> Clearly establish that he is forcing them into the barn.
+> 
+> 00:02-00:05.5 | THE CLOSED EXIT
+> Cut to an interior wide view.
+> 
+> The man and dog move clear of the entrance toward the right wall. The attacker closes both door leaves and lowers the nearby crossbar into its frame brackets.
+> 
+> Show the fully closed, secured doors. Daylight is reduced to thin cracks. All three characters are now INSIDE.
+> 
+> 00:05.5-00:09.5 | INTIMIDATION
+> The attacker turns from the entrance and approaches the man.
+> 
+> In a medium two-shot, he bends forward, exposes his teeth, and brings his muzzle close to the man's face. The man takes a short backward step and raises a forearm defensively.
+> 
+> While the attacker focuses on the man, the small Dalmatian moves away from the man's boots into the clear central lane. Briefly widen the framing to show this repositioning.
+> 
+> The dog plants all four paws and faces the attacker. Avoid prolonged staring or idle poses.
+> 
+> 00:09.5-00:11.5 | BLUE-FIRE TRANSFORMATION
+> Low three-quarter view of the dog in the central lane, with the other characters still visible behind him.
+> 
+> His forehead eye flashes BLUE. Blue fire spreads rapidly across his spotted fur.
+> 
+> In one continuous transformation, his torso enlarges, shoulders broaden, legs thicken, and paws expand. He becomes the giant Dalmatian from image1.
+> 
+> His paws press into the dusty floor as his weight increases. Grain and dust shift beneath them. The flames contract into blue wisps and disappear.
+> 
+> The man presses toward the right wall, outside the dog's path. The attacker turns toward the transformation.
+> 
+> 00:11.5-00:13.5 | PANIC
+> The giant dog lowers his head, exposes his teeth, and takes one heavy step toward the attacker.
+> 
+> Brief close-up of the attacker's widening eyes and collapsing confidence.
+> 
+> Return to a wider view. The attacker retreats toward the CLOSED doors, then turns to face them and grabs the crossbar.
+> 
+> The dog pivots into alignment with the central lane. The man's position remains safely to the right.
+> 
+> 00:13.5-00:15.5 | FAILED ESCAPE
+> Interior side view.
+> 
+> The attacker frantically tries to lift the crossbar. One end catches in its bracket. The beam remains in place and the doors stay CLOSED.
+> 
+> He glances back, but keeps his body facing the doors.
+> 
+> Behind him, the dog lowers his body and bends his hind legs, preparing to spring. Establish a short clear run-up between the dog and the attacker's back.
+> 
+> IMPORTANT: the attacker has not opened the doors or escaped. Both creatures remain completely INSIDE the barn.
+> 
+> 00:15.5-00:17.5 | LEAP THROUGH THE DOORS
+> Interior three-quarter wide shot showing the giant dog, the attacker, and the closed doorway together.
+> 
+> The dog takes two forceful strides, compresses his hind legs, and LAUNCHES OFF THE FLOOR.
+> 
+> His front paws reach forward and catch the attacker's shoulders as his heavy chest strikes the attacker's upper back. This is ONE airborne pounce, not a standing shove or a separate paw strike.
+> 
+> SHOW THE DOG LEAVING THE FLOOR AND MAKING CONTACT.
+> 
+> The dog's forward momentum drives the attacker chest-first into the closed wooden doors. The dog remains pressed against his back as they hit.
+> 
+> The doors splinter violently OUTWARD. The crossbar and old frame fittings fail, hinges tear from weathered wood, and broken boards fly into the clearing.
+> 
+> Both creatures burst through the doorway TOGETHER, traveling from the dark interior into the sunlit exterior. The attacker leads; the dog follows directly against him.
+> 
+> Keep the camera inside until the impact breaks the doors and their bodies begin crossing the threshold.
+> 
+> Then cut to an exterior side angle CONTINUING THE SAME MOVEMENT. The attacker hits the dirt first and rolls onto his back. The dog's front paws release his shoulders, reach the ground, and absorb the landing, followed by his hind paws.
+> 
+> Do not replay the pounce after the cut. Do not show either creature outside before the breakthrough.
+> 
+> 00:17.5-00:20.5 | PINNED AND GROWLING
+> Exterior medium-wide view.
+> 
+> The attacker lies on his back and starts raising his shoulders. The dog steps in and places one massive forepaw against his upper chest, pushing his shoulders back onto the dirt.
+> 
+> The dog supports most of his weight on his other three legs. He restrains the attacker without crushing him.
+> 
+> He lowers his snarling muzzle close to the attacker's face and releases a deep, sustained, feral growl like a wild beast.
+> 
+> The attacker struggles briefly, then remains frightened and subdued. No bite, repeated blow, or dismemberment.
+> 
+> In the background, the man carefully exits through the shattered opening and stops beside the barn, near the dog's rear flank and safely away from the attacker's reach.
+> 
+> 00:20.5-00:25 | THANK YOU, BUDDY
+> Keep the man, dog, and defeated attacker spatially connected in a medium-wide shot.
+> 
+> The dog removes his paw and turns toward the man. The attacker stays on the ground.
+> 
+> A brief envelope of BLUE FIRE wraps around the dog. He rapidly shrinks into the small three-eyed Dalmatian in less than one second. Show the continuous contraction, with his paws remaining grounded and his spotted coat preserved.
+> 
+> As the dog shrinks, the man begins crouching and opens his arms.
+> 
+> The small Dalmatian takes one or two steps into the man's embrace. The man wraps both arms around his shoulders and chest, holds him close, and says warmly:
+> "Thank you, buddy."
+> 
+> Allow the entire line to finish naturally. Hold briefly on the affectionate embrace and the dog's relaxed tail movement.
+> 
+> The damaged barn entrance remains visible behind them.
+> 
+> CAMERA AND SOUND
+> Use wide shots to establish geography and show the leap, collision, destruction, and landings. Use closer framing for intimidation, fear, and the final embrace.
+> 
+> Maintain the interior-to-exterior direction of travel. Cut on continuing motion without duplicating impacts.
+> 
+> Natural forest ambience, interior room reflections, boots, paws, heavy creature footfalls, wooden creaks, crossbar clunks, and breathing.
+> 
+> Blue fire creates a brief rushing flare. The breakthrough produces a sharp wood fracture, tearing fittings, scattering debris, and heavy ground impacts.
+> 
+> Foreground the dog's sustained wild-animal growl during the pin.
+> 
+> Only spoken dialogue:
+> "Thank you, buddy."
+> 
+> Clear English delivery and natural lip synchronization. No narration, added music, subtitles, logos, or end titles.
+> 
+> CONTINUITY
+> Exactly one man, one dog with two sequential forms, and one attacker. No cage or additional animal.
+> 
+> Both creatures are INSIDE immediately before the pounce. The attacker stands at the CLOSED doors with his back toward the dog.
+> 
+> The dog jumps onto the attacker. Their combined momentum breaks the doors OUTWARD. They cross the threshold together only after impact.
+> 
+> The exterior pin follows the visible landing. It is separate from the airborne pounce.
+> 
+> The man stays clear of the attack lane and exits only after the doorway has been destroyed.
+> 
+> The dog releases the attacker before shrinking. Both transformations use BLUE FIRE.
+> 
+> The attacker remains grounded during the reunion. Broken doors, damaged frame, scattered boards, and dust persist.
+> 
+> Preserve the man's reference identity, horns, and clothing, and the dog's three eyes, spotted coat, floppy ears, and reference anatomy.
+> 
+> No teleportation, duplicated animals, spontaneous armor, repaired doors, repeated completed actions, cartoon rendering, or plastic textures.

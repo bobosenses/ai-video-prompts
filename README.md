@@ -7,7 +7,7 @@
 - **原文照录**：每条提示词尽量保留作者原文（多为英文），未擅自改写。
 - **自动换行**：正文用 Markdown 引用块（`>`）展示，便于阅读与复制，不使用会禁止换行的代码块。
 - **来源**：每条均附带 X 原帖链接；版权与使用权归原作者。
-- **收录范围**：应用内「今日 AI 视频提示词」页面（约 2026-10-24 至 2026-11-13）。
+- **收录范围**：应用内「今日 AI 视频提示词」页面（约 2026-10-24 至 2026-11-14）。
 - **备注**：极少数条目因原帖不可公开访问，仅保留元数据与链接，正文待补录。
 
 ## 目录结构
@@ -42,16 +42,17 @@ index.json              # 机器可读索引
 - `2026-11-11`：5 条
 - `2026-11-12`：5 条
 - `2026-11-13`：5 条
+- `2026-11-14`：5 条
 
-**合计：104 条**（按来源 URL 去重）
+**合计：109 条**（按来源 URL 去重）
 
 ## 分类
 
-- [创意趣味](by-category/creative.md)（31）
-- [科幻奇幻](by-category/scifi-fantasy.md)（20）
-- [动作](by-category/action.md)（19）
-- [动漫](by-category/anime.md)（11）
-- [广告带货](by-category/ads-commerce.md)（14）
+- [创意趣味](by-category/creative.md)（32）
+- [科幻奇幻](by-category/scifi-fantasy.md)（21）
+- [动作](by-category/action.md)（20）
+- [动漫](by-category/anime.md)（12）
+- [广告带货](by-category/ads-commerce.md)（15）
 - [教程知识](by-category/tutorial.md)（0）
 - [纪实公益](by-category/documentary.md)（9）
 

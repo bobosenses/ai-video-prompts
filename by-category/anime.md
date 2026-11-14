@@ -1,6 +1,6 @@
 # 动漫
 
-共 11 条。
+共 12 条。
 
 ## 2026-10-25（2）
 
@@ -981,3 +981,26 @@
 > Audio: Uploaded song as the main audio, perfectly synchronized with mosquito lip-sync. Subtle nighttime ambience, cartoon impact thud, boing, metallic microphone drop and dizzy sparkle effects.
 > 
 > Visual Quality: Premium Pixar-style 3D animation, highly detailed character design, glossy expressive eyes, translucent wings, realistic PBR materials, subsurface scattering, global illumination, soft shadows, smooth animation, exaggerated squash-and-stretch physics, cinematic depth of field, film-grade lighting and ultra-sharp 4K–8K visual quality.
+
+## 2026-11-14（1）
+
+### 紫发战士：粉刃与泰迪熊
+
+- **工具**：Seedance 2.0 · **时长**：34 秒
+- **作者**：@zaviaanroy · [原帖](https://x.com/zaviaanroy/status/2121389244199682532)
+- **按日归档**：[by-date/2026-11-14.md](../by-date/2026-11-14.md)
+- **概要**：34 秒超写实 3D 动漫融合：紫发战士持粉金能量剑闯过废墟与机械蛛，最终从粉雾中走出，怀里抱着泰迪熊。
+
+> Cinematic 16:9, ultra-detailed, 34 seconds. A young fantasy warrior girl with voluminous purple curly hair, a silver tiara with cat-ear ornaments, ice-crystal shoulder wings, teal-and-white dress under polished silver armor, wielding a glowing pink-gold energy sword.
+> Shot 1: Dark, foggy alley with neon graffiti walls. Low-angle slow push-in on her standing calm, sword glowing, smoke swirling around her.
+> Shot 2: Wide shot of a ruined city street, cracked asphalt, collapsed buildings. She dashes forward, sword dragging along the road throwing orange sparks. A line of spider-like robots waits ahead.
+> Shot 3: Fast, motion-blurred combat. Pink energy sword trails slash through robots, impact flashes.
+> Shot 4: Robots fire long jets of flame at her, shot over her shoulder.
+> Shot 5: She stands on a pink sports car, holding a huge glowing crystal shield that absorbs the attack.
+> Shot 6: She leaps through the air above dust clouds and debris, destroyed robots below.
+> Shot 7: Extreme close-up of her face, eyes glowing pink, determined expression.
+> Shot 8: Top-down aerial view, a massive pink energy beam blasts down the street.
+> Shot 9: Giant pink energy dome explodes outward over the city, buildings shattering.
+> Shot 10: Final shot: a damaged robot with a glowing core in the foreground, she walks out of pink smoke holding a teddy bear.
+> Style: Hyper-real 3D anime fusion, Unreal Engine 5 look, dramatic volumetric lighting, pink and teal color palette against gritty grey ruins, dynamic camera, shallow depth of field, epic orchestral score with heavy impact sound effects.
+> Negative: blurry, distorted hands, extra limbs, text, watermark, low quality, flickering.
