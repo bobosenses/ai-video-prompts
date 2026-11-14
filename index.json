@@ -1038,5 +1038,55 @@
     "source": "https://x.com/my189/status/2120836883966308665",
     "author": "@my189",
     "star": true
+  },
+  {
+    "date": "2026-11-14",
+    "title": "桌上铁路：橘猫变「巨兽」",
+    "category": "创意趣味",
+    "duration": "15 秒",
+    "tool": "Seedance 2.5（makeugc）",
+    "source": "https://x.com/Sleaper_/status/2121150374539059502",
+    "author": "@Sleaper_",
+    "star": true
+  },
+  {
+    "date": "2026-11-14",
+    "title": "林间谷仓：三眼斑点犬破门",
+    "category": "科幻奇幻",
+    "duration": "25 秒",
+    "tool": "Seedance 2.5（makeugc）",
+    "source": "https://x.com/TrixiHQ/status/2121356963132960867",
+    "author": "@TrixiHQ",
+    "star": true
+  },
+  {
+    "date": "2026-11-14",
+    "title": "旗未升：斩绳阻处决",
+    "category": "动作",
+    "duration": "15 秒",
+    "tool": "Seedance 2.0 Mini",
+    "source": "https://x.com/Soranlan/status/2121217142058324234",
+    "author": "@Soranlan",
+    "star": false
+  },
+  {
+    "date": "2026-11-14",
+    "title": "紫发战士：粉刃与泰迪熊",
+    "category": "动漫",
+    "duration": "34 秒",
+    "tool": "Seedance 2.0",
+    "source": "https://x.com/zaviaanroy/status/2121389244199682532",
+    "author": "@zaviaanroy",
+    "star": false
+  },
+  {
+    "date": "2026-11-14",
+    "title": "暮光海岸：铬合金跑车",
+    "category": "广告带货",
+    "duration": "15 秒",
+    "tool": "Grok Imagine",
+    "source": "https://x.com/DavidLi36143625/status/2120762082815840268",
+    "author": "@DavidLi36143625",
+    "star": false
   }
 ]

@@ -1,6 +1,6 @@
 # 广告带货
 
-共 14 条。
+共 15 条。
 
 ## 2026-10-24（1）
 
@@ -774,3 +774,24 @@
 - **概要**：20 秒一镜到底：宋瓷金缮裂纹渗出钴蓝水墨，化作锦鲤跃入雨夜庭院，再坠入石钵，涟漪凝固还原为金缮纹。
 
 > A continuous, seamless 20-second cinematic one-take starting with an extreme macro close-up of antique Song dynasty white porcelain covered in fine crazed glaze and glowing molten 24k gold kintsugi cracks. Suddenly, droplets of viscous cobalt blue sumi ink seep upward from the golden fractures, levitating in zero gravity and weaving together with shimmering gold dust to morph into an ethereal, translucent koi fish with flowing silk-like gossamer fins and luminous golden scales. As the camera smoothly pulls back and orbits, the koi arches and leaps gracefully out of the porcelain bowl into a vast, misty traditional Chinese courtyard at blue hour, gliding past rain-slicked dark slate tiles, carved wooden lattice screens, and upturned eaves while slow-motion raindrops illuminate trails of ink and golden embers in the humid night air. Finally, the camera tilts into a top-down angle as the koi dives into a dark stone rainwater basin, dissolving upon impact into concentric liquid gold ripples that seamlessly solidify back into glowing kintsugi cracks on antique white porcelain. Rich teal-and-gold color palette, hyper-detailed porcelain subsurface scattering, volumetric mist, dramatic rim lighting, shot on ARRI Alexa 65, 35mm anamorphic lens, shallow depth of field, 24fps cinematic motion blur.
+
+## 2026-11-14（1）
+
+### 暮光海岸：铬合金跑车
+
+- **工具**：Grok Imagine · **时长**：15 秒
+- **作者**：@DavidLi36143625 · [原帖](https://x.com/DavidLi36143625/status/2120762082815840268)
+- **按日归档**：[by-date/2026-11-14.md](../by-date/2026-11-14.md)
+- **概要**：15 秒无剪辑概念片：暮光海岸公路上的铬合金跑车，极光与霓虹随舞曲节奏闪烁流动。
+
+> MUSIC (Suno + MIDI input):
+> Follow the drum MIDI exactly as written. Add instruments on top. Instrumental only, no vocals, no singing. Radiant modern dance pop. Bright sidechained Juno-106 analog synth chords, bouncy plucked FM bassline, shimmering arpeggiated glass bells, and rhythmic Nile Rodgers-inspired clean electric guitar chops. Euphoric, glamorous, and high-energy anthemic club atmosphere. Crisp radio-ready mix, punchy transient shaping, dynamic sidechain ducking, ultra-wide stereo imaging, and sparkling top-end polish.
+> 
+> IMAGE：
+> A sleek chrome sports coupe parked on an elevated coastal highway overlooking a glittering metropolis skyline beneath a starry twilight sky with glowing auroras. Cinematic 3D digital concept art with raytraced reflections and glossy finishes. Vivid magenta, electric cyan, champagne gold, and midnight blue color palette. Luminous neon lighting cast across wet asphalt with dreamy lens flares and a glamorous nocturnal vibe. Dynamic low-angle wide shot emphasizing sleek aerodynamic lines and urban grandeur. Square 1:1 composition. No text in the image.
+> 
+> VIDEO:
+> Fast-paced 15-second video from this image: auroras streak and pulse rapidly across the twilight sky, neon lights flicker and chase along the coastal highway, wet asphalt reflections race and shimmer, lens flares flash and sweep quickly, skyline lights blink in quick rhythm, the coupe's chrome reflections dart and slide across its bodywork. High-tempo visual energy. No cuts, no text.
+> 
+> POST-EDITING:
+> Use the same image prompt to generate several variations as seed images, then animate each one with the same video prompt to produce multiple clips. Edit these clips together with the music track into the final video, using 0.5-second crossfades between them.

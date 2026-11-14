@@ -1,6 +1,6 @@
 # 动作
 
-共 19 条。
+共 20 条。
 
 ## 2026-10-24（1）
 
@@ -1497,3 +1497,90 @@
 > 
 > AVOID
 > Slow jogging, floating jumps, decorative flips, endless hanging, impossible rotations, weightless strikes, teleportation, duplicate zombies, liquid crowds, disappearing accessories, costume changes, shifting sunlight, restored broken objects, unexplained crane movement, attached hoist lines during free fall, repeated impacts, excessive gore, voyeuristic framing, captions
+
+## 2026-11-14（1）
+
+### 旗未升：斩绳阻处决
+
+- **工具**：Seedance 2.0 Mini · **时长**：15 秒
+- **作者**：@Soranlan · [原帖](https://x.com/Soranlan/status/2121217142058324234)
+- **按日归档**：[by-date/2026-11-14.md](../by-date/2026-11-14.md)
+- **概要**：15 秒真人武侠：白衣剑修冲向将升的处决令旗，青衣对手拦路交锋，最终斩断升旗绳，胜负却未完。
+
+> 《旗未升》｜15秒真人武侠动作电影
+> 
+> 【中文完整对应提示词】
+> 
+> 整体风格与故事
+> 
+> 15秒、16:9横屏、Seedance 2.0 Mini，真人武侠动作电影。
+> 
+> 作品《旗未升》。
+> 
+> 主角必须阻止敌人升起处决信号旗。双方争夺旗杆前的通路，敌人清楚主角的目标，主动拦截。
+> 
+> 如实际提供人物图，图一为白衣女剑修A，图二为青衣女剑修B，本片中B担任对手。保持各自面容、发型、服装及唯一佩剑一致。
+> 
+> 上传的地点参考图作为真实物理世界，严格继承其建筑、地形和空间关系。没有场景参考时，采用阳光强烈的古代军事高台：后方立着木质旗杆，赤红令旗沿绳索滑轮缓缓升起，下方远处弓手列阵等待命令。
+> 
+> 0–5秒｜令旗将起
+> 
+> 45度斜侧中远景，快速推进。B正在拉动旗绳，赤红令旗逐渐升高。下方弓手纷纷举弓。
+> 
+> A从左侧急速冲向旗杆。
+> 
+> B松开被滑轮机构固定的旗绳，立即拔剑拦截。
+> 
+> 两柄长剑猛烈交击，金属脆响炸开。
+> 
+> 观众清楚看见A想阻止升旗，B在保护信号。
+> 
+> 5–10秒｜抢位交锋
+> 
+> 连续中景横向跟拍。
+> 
+> B主动攻击A的持剑手腕，迫使她远离旗杆。
+> 
+> A收腕避锋，转剑格挡，向旗杆底座方向斜跨一步。
+> 
+> B立即跟进，再次封住通路。
+> 
+> 双方保持真实重心与连续攻防，剑锋碰撞、脚步抢位和躯干转动清晰可见。
+> 
+> 10–15秒｜胜负不在剑上
+> 
+> B猛然下劈，试图彻底压制A。
+> 
+> A向攻击内侧转身，偏开来剑，随即用自己的长剑准确斩断旗杆旁绷紧的升旗绳。
+> 
+> 绳索啪地断裂！
+> 
+> 赤红令旗失去牵引，迅速滑落。
+> 
+> 切远景，下方弓手仍然举弓，却没有得到放箭信号。
+> 
+> B立即转剑逼向A，将她压在高台栏杆前。
+> 
+> A成功阻止了信号，却仍处于危险之中。
+> 
+> 结尾保持两人紧张对峙，落下的赤红令旗随风翻动，远处弓手继续等待。
+> 
+> 摄影、动作与声音
+> 
+> 真人演员皮肤、发丝、衣料真实自然，明亮日光、空气纵深、35mm电影透视。
+> 
+> 攻防以真实剑术距离、蹬地转胯、刀剑接触、抢占位置为核心。保留剑锋接触、身体受力与重心转移，确保双方动作方向连续。
+> 
+> 脚步摩擦、兵刃撞击、急促呼吸、绳索断裂和旗帜落下声与画面同步。克制的管弦打击乐，无对白。
+> 
+> 保持人物身份、每人唯一佩剑、旗杆与栏杆的空间关系、令旗升降状态一致。
+> 
+> 无慢动作、无定格、无无关特效、无字幕。
+> 
+> 【Negative Prompt】
+> 
+> blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+> 
+> ）
+> 
+> 必须生成 seedance 2.0 mini15 秒的视频

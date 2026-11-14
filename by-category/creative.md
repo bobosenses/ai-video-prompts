@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 31 条。
+共 32 条。
 
 ## 2026-10-24（1）
 
@@ -1177,3 +1177,30 @@
 > She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
 > Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
 > No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
+
+## 2026-11-14（1）
+
+### ⭐ 桌上铁路：橘猫变「巨兽」
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：15 秒
+- **作者**：@Sleaper_ · [原帖](https://x.com/Sleaper_/status/2121150374539059502)
+- **按日归档**：[by-date/2026-11-14.md](../by-date/2026-11-14.md)
+- **概要**：15 秒一镜到底：机位先藏在微型铁路里，把橘猫拍成俯视城市的巨兽，再拉远露出桌面与普通家猫。
+
+> Create a 15-second photorealistic live-action video, horizontal 16:9, in one continuous shot. A real ginger house cat is watching a model railway on a wooden table. For the first half, the camera is so low inside the miniature street that the scene looks like a full-sized city with a gigantic cat behind it. The change in camera position reveals the true scale.
+> 
+> CAMERA AND LOOK
+> 
+> DV 16mm tape camcorder handheld feel. Begin at rail height, looking along a gently curving track. Blue-hour light, warm apartment windows, a bright red two-car Japanese commuter train with lit headlights. A little handheld drift, subtle tape grain, believable motion blur. Keep the train, the cat’s eye and the paw large enough to read on a phone.
+> 
+> 0–4 seconds. Open with the red train already rounding the bend toward us. In the gap between two buildings, a huge green cat’s eye is watching it. The eye tracks the train as it passes the lens from left to right. A ginger ear twitches above the roofline.
+> 
+> 4–8 seconds. The camera pans right with the train. As the last carriage clears the bend, one broad ginger paw comes down into the newly empty space just behind it. A soft tap. The paw misses. The train carries straight on along the same track.
+> 
+> 8–12 seconds. In one physical movement, lift the camera above the rooftops and pull back past the front edge of the wooden table. Now we see the entire model railway in a lived-in apartment and the ordinary-sized ginger cat sitting on a chair behind it. The same red train is still moving around the loop.
+> 
+> 12–15 seconds. Hold the wider view. The cat draws back the paw it just used and gives it two slow, casual licks. The red train rolls past again in the foreground. Cut on the second lick.
+> 
+> AUDIO
+> 
+> A steady wheel-on-rail rhythm, the soft tap of the paw and quiet room tone. As the camera pulls back, the little electric motor becomes audible. No dialogue, music, captions or logos.
