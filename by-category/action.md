@@ -1,6 +1,6 @@
 # 动作
 
-共 20 条。
+共 21 条。
 
 ## 2026-10-24（1）
 
@@ -1584,3 +1584,39 @@
 > ）
 > 
 > 必须生成 seedance 2.0 mini15 秒的视频
+
+## 2026-11-15（1）
+
+### 最后的信号：地下车站救援
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Goodmanprotocol · [原帖](https://x.com/Goodmanprotocol/status/2120851254075437139)
+- **按日归档**：[by-date/2026-11-15.md](../by-date/2026-11-15.md)
+- **概要**：30 秒一镜惊悚：暴雨夜地铁站断电，工程师抢拉紧急杠杆，把黄雨衣小女孩从失控列车前救下。
+
+> THE LAST SIGNAL | ORIGINAL CINEMATIC THRILLER
+> 
+> Create an original, ultra-photorealistic 30-second cinematic thriller set inside an underground railway station during a violent nighttime storm.
+> 
+> STORY — 30 SECONDS:
+> 
+> 0–5 seconds: Establish a crowded underground station. A female railway engineer in a navy-blue uniform checks an electrical cabinet while passengers wait for their train.
+> 
+> 5–10 seconds: Suddenly, the power fails. Red emergency lights activate, alarms sound, and an automated safety barrier locks. A father realizes his young daughter in a yellow raincoat is stranded on the opposite side.
+> 
+> 10–15 seconds: The engineer notices an approaching train and realizes the safety system has malfunctioned. She immediately rushes toward an emergency control cabinet while a station attendant directs passengers away.
+> 
+> 15–20 seconds: She opens the cabinet and struggles to pull an old emergency lever. The approaching train grows louder, creating intense suspense.
+> 
+> 20–25 seconds: The emergency mechanism finally activates, and the barrier begins opening. The father reaches his daughter and pulls her safely away from the platform edge.
+> 
+> 25–30 seconds: The train passes safely. The father embraces his daughter, the station lights return, and the little girl gives the exhausted engineer a grateful smile. End with a cinematic close-up of the engineer's relieved expression.
+> 
+> VISUAL DIRECTION:
+> Photorealistic characters, consistent faces and clothing, realistic human movement, believable physical interactions, dramatic lighting, wet-floor reflections and detailed railway environments.
+> 
+> CAMERA & AUDIO:
+> One continuous cinematic tracking shot with no cuts. Natural camera movement, realistic train sounds, rainfall, emergency alarms, mechanical sounds, footsteps and synchronized dialogue.
+> 
+> IMPORTANT:
+> Maintain character consistency and logical action continuity throughout. Avoid morphing, duplicated characters, unnatural movements and abrupt transitions. The final result should feel like an original professionally directed short film with suspense, emotional depth and a satisfying conclusion.

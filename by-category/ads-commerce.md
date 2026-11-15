@@ -1,6 +1,6 @@
 # 广告带货
 
-共 15 条。
+共 16 条。
 
 ## 2026-10-24（1）
 
@@ -795,3 +795,58 @@
 > 
 > POST-EDITING:
 > Use the same image prompt to generate several variations as seed images, then animate each one with the same video prompt to produce multiple clips. Edit these clips together with the music track into the final video, using 0.5-second crossfades between them.
+
+## 2026-11-15（1）
+
+### 1976 美式街区理发店
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@AIwithSynthia · [原帖](https://x.com/AIwithSynthia/status/2120889335906234376)
+- **按日归档**：[by-date/2026-11-15.md](../by-date/2026-11-15.md)
+- **概要**：30 秒还原 1976 年夏天的美式街区理发店：旋转招牌、推子剃须、邻里闲聊，新理完发的客人走到复古福特前整理发型。
+
+> Create an ultra-photorealistic, cinematic 30-second live-action video set inside a traditional American neighborhood barbershop in the summer of 1976. Recreate the authentic atmosphere of 1970s American daily life, featuring vintage barber chairs, rotating red-white-and-blue barber poles, classic hairstyles, period-accurate clothing, old-fashioned grooming equipment and lively human interactions. The shop should feel busy, welcoming and full of everyday American characters.
+> 
+> Scene 1 (0–5 seconds): A Busy Neighborhood Barbershop
+> 
+> Begin with a wide cinematic exterior shot of a small American neighborhood barbershop on a sunny summer afternoon. A classic red, white and blue barber pole rotates outside. A man wearing bell-bottom jeans walks through the entrance while another customer exits with a fresh haircut. Inside, several customers are waiting, chatting and reading newspapers. A barber welcomes a new customer with a friendly smile.
+> 
+> Scene 2 (5–10 seconds): The Classic Haircut
+> 
+> Show a middle-aged American barber wearing a white shirt, dark trousers and a vintage barber apron. He places a young male customer in a traditional leather barber chair and wraps a white cape around him. The barber carefully combs his hair and begins trimming it with vintage electric clippers and scissors. Show realistic close-ups of the haircut, the barber's hands and the customer's reflection in the large mirror.
+> 
+> Scene 3 (10–15 seconds): Customers Chatting
+> 
+> Show three different customers waiting on a vintage leather bench. An elderly man reads a newspaper while two middle-aged men discuss baseball and laugh together. A young teenager shows his friend a photograph while waiting for his turn. Another barber works on an older customer, carefully trimming his sideburns. Capture natural conversations, expressive faces and authentic 1970s hairstyles.
+> 
+> Scene 4 (15–20 seconds): Traditional Barber Experience
+> 
+> Show a detailed traditional shaving experience. The barber applies warm shaving cream to an older customer's face using a shaving brush. He carefully performs a straight-razor shave with realistic movements. Another customer receives a hot towel treatment while sitting comfortably in a vintage reclining barber chair. Show mirrors, glass bottles of aftershave, combs, brushes and grooming products arranged around the shop.
+> 
+> Scene 5 (20–25 seconds): Everyday Barbershop Life
+> 
+> Show a lively interaction as a young customer admires his new hairstyle in the mirror and smiles. The barber brushes loose hair from his shoulders and removes the cape. The customer pays with cash while another man takes his place in the chair. Two elderly customers continue laughing about an old baseball game. A young boy sits nervously in a barber chair while his father reassures him.
+> 
+> Scene 6 (25–30 seconds): A Nostalgic Afternoon
+> 
+> End with a cinematic wide shot of the entire barbershop. Barbers continue working, customers chat and the old-fashioned wall clock ticks above the mirror. The newly groomed customer walks outside, adjusts his hairstyle in the reflection of a parked vintage Ford Mustang and smiles. The camera slowly pulls back toward the rotating barber pole as warm afternoon sunlight illuminates the street.
+> 
+> Visual Style & Cinematography:
+> 
+> - Ultra-photorealistic historical recreation of American life in 1976.
+> 
+> - Authentic traditional American barbershop interiors.
+> 
+> - Vintage leather barber chairs, mirrors, barber poles and grooming equipment.
+> 
+> - Authentic 1970s hairstyles, sideburns, mustaches and clothing.
+> 
+> - Diverse American men and boys across different age groups.
+> 
+> - Realistic human interactions, conversations, gestures and facial expressions.
+> 
+> - Warm Kodak 35mm film color grading with subtle film grain.
+> 
+> - Natural sunlight, warm indoor lighting and realistic shadows.
+> 
+> - Cinematic tracking shots, medium shots, close-ups and smooth transitions.

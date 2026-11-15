@@ -1,6 +1,6 @@
 # 动漫
 
-共 12 条。
+共 13 条。
 
 ## 2026-10-25（2）
 
@@ -1004,3 +1004,26 @@
 > Shot 10: Final shot: a damaged robot with a glowing core in the foreground, she walks out of pink smoke holding a teddy bear.
 > Style: Hyper-real 3D anime fusion, Unreal Engine 5 look, dramatic volumetric lighting, pink and teal color palette against gritty grey ruins, dynamic camera, shallow depth of field, epic orchestral score with heavy impact sound effects.
 > Negative: blurry, distorted hands, extra limbs, text, watermark, low quality, flickering.
+
+## 2026-11-15（1）
+
+### 恐龙装幼儿的家庭二十秒
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@Zarnab_with_Ai · [原帖](https://x.com/Zarnab_with_Ai/status/2121198419452805330)
+- **按日归档**：[by-date/2026-11-15.md](../by-date/2026-11-15.md)
+- **概要**：20 秒竖屏皮克斯风：恐龙装幼儿依次帮妈妈打扫、陪奶奶坐着、学爸爸洗车，再和爷爷一起看报。
+
+> Create a beautiful 20-second cinematic 3D animated family short film featuring a cute little toddler boy with curly dark-brown hair, big expressive eyes, and a green dinosaur-print outfit.
+> 
+> Scene 1 (0–5 seconds): Inside a bright, luxurious modern kitchen, a young mother with dark brown hair tied in a messy bun, wearing a white top and dusty pink pants, is cleaning the kitchen counter. Her adorable toddler stands on a small white step stool and tries to help his mother clean using a blue cleaning cloth. Show their sweet interaction with natural body movements and adorable facial expressions.
+> 
+> Scene 2 (5–10 seconds): Transition to a cozy living room filled with warm sunlight. The little boy sits beside his loving elderly grandmother, who has silver-white hair and wears a lavender outfit. They sit together on a soft beige rug. The grandmother smiles warmly while the toddler looks happy and comfortable beside her.
+> 
+> Scene 3 (10–15 seconds): Outside a beautiful suburban house on a sunny day, a young father wearing a light blue T-shirt and dark shorts washes a silver car with a sponge. His little son stands nearby, playing with a small blue toy car, imitating his father's actions. Water splashes naturally across the driveway, creating a cheerful family moment.
+> 
+> Scene 4 (15–20 seconds): Inside a warm, elegant living room, the toddler sits next to his elderly grandfather, who has gray hair, glasses, and wears a beige cardigan over a blue shirt. The grandfather is reading a newspaper while the little boy holds and looks at another newspaper. The grandfather smiles lovingly, and the toddler laughs happily.
+> 
+> Visual Style: Premium Pixar-inspired 3D animation, adorable character designs, highly detailed facial expressions, realistic fabric textures, beautiful lighting, cinematic camera angles, smooth natural character animation, warm family atmosphere, vibrant but soft colors, consistent toddler character throughout all scenes, professional animated short-film quality.
+> 
+> Format: Vertical 9:16, 20 seconds, 4K quality, smooth transitions, no subtitles, no watermark.
