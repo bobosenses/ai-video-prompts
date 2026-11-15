@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 21 条。
+共 22 条。
 
 ## 2026-10-24（1）
 
@@ -1623,3 +1623,29 @@
 > Preserve the man's reference identity, horns, and clothing, and the dog's three eyes, spotted coat, floppy ears, and reference anatomy.
 > 
 > No teleportation, duplicated animals, spontaneous armor, repaired doors, repeated completed actions, cartoon rendering, or plastic textures.
+
+## 2026-11-15（1）
+
+### ⭐ 女战士传送门：穿越多重世界
+
+- **工具**：Seedance 2.5 · **时长**：25 秒
+- **作者**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2120954864473641407)
+- **按日归档**：[by-date/2026-11-15.md](../by-date/2026-11-15.md)
+- **概要**：25 秒一镜：未来女战士连续冲过沙漠战场、冰封街巷与霓虹天台的传送门，速度、身份与运镜方向始终不断。
+
+> Ultra-realistic Hollywood action VFX, one seamless 25-second shot. Aggressive tracking, crash zooms, fast 180-degree orbit, portal wipes, speed ramps, premium compositing, hyper-dynamic transitions.
+> 
+> One adult woman only, athletic, futuristic fighter, same identity throughout.
+> Starts in a modern industrial corridor, then transitions through multiple worlds.
+> 
+> 0-5s: She sprints through a metallic corridor toward camera. A portal erupts open behind her, blasting sparks and wind.
+> 
+> 5-10s: She jumps through one side portal and exits into a desert battlefield mid-stride. Camera keeps pace with her as sand explodes outward.
+> 
+> 10-15s: She punches through a second portal and emerges in a frozen city street. Ice shards and snow swirl around her without breaking momentum.
+> 
+> 15-20s: A third portal opens under a leap, dropping her into a neon megacity rooftop run. Camera orbits as she keeps moving.
+> 
+> 20-25s: Final portal chain. Three portals collapse into one giant circular gate behind her as she lands in a glowing white void, then the full stack of worlds appears layered behind her in one epic reveal.
+> 
+> Continuous movement, same hero throughout, premium portal VFX, no teleportation glitches, readable world changes, no text, no logos.

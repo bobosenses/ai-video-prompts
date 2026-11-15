@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 32 条。
+共 33 条。
 
 ## 2026-10-24（1）
 
@@ -1204,3 +1204,14 @@
 > AUDIO
 > 
 > A steady wheel-on-rail rhythm, the soft tap of the paw and quiet room tone. As the camera pulls back, the little electric motor becomes audible. No dialogue, music, captions or logos.
+
+## 2026-11-15（1）
+
+### ⭐ 周一待办：1976 电视竞猜节目
+
+- **工具**：Seedance / Kling / Veo / Grok Imagine · **时长**：15 秒
+- **作者**：@sotappp9 · [原帖](https://x.com/sotappp9/status/2121607211923460358)
+- **按日归档**：[by-date/2026-11-15.md](../by-date/2026-11-15.md)
+- **概要**：15 秒 1976 电视竞猜：选手待办一项项翻成 DONE，全场欢呼；最后一整板翻出 NEW TASKS: 14，观众突然寂静。
+
+> Cinematic 15-second live-action video on a 1976 television game show set. Warm tungsten lights, orange and brown wood panels, light film grain, soft VHS color bleed. A nervous contestant in a brown corduroy suit stands at a podium labeled 'MONDAY'. Behind him, a giant flip board shows his to-do list: 'Reply to Dave', 'Expense report', 'Fix the deck', 'Call the dentist'. A grinning host with a long thin microphone points at the board. Each time a task flips to 'DONE', a bell rings, lights flash and the studio audience cheers. On the last flip, the whole board turns over to reveal 'NEW TASKS: 14'. The audience goes silent. The contestant slowly turns to the camera. Static wide shot, then a quick push-in on his face. No text other than the board labels. 4:3 aspect ratio.
