@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 33 条。
+共 34 条。
 
 ## 2026-10-24（1）
 
@@ -1215,3 +1215,36 @@
 - **概要**：15 秒 1976 电视竞猜：选手待办一项项翻成 DONE，全场欢呼；最后一整板翻出 NEW TASKS: 14，观众突然寂静。
 
 > Cinematic 15-second live-action video on a 1976 television game show set. Warm tungsten lights, orange and brown wood panels, light film grain, soft VHS color bleed. A nervous contestant in a brown corduroy suit stands at a podium labeled 'MONDAY'. Behind him, a giant flip board shows his to-do list: 'Reply to Dave', 'Expense report', 'Fix the deck', 'Call the dentist'. A grinning host with a long thin microphone points at the board. Each time a task flips to 'DONE', a bell rings, lights flash and the studio audience cheers. On the last flip, the whole board turns over to reveal 'NEW TASKS: 14'. The audience goes silent. The contestant slowly turns to the camera. Static wide shot, then a quick push-in on his face. No text other than the board labels. 4:3 aspect ratio.
+
+## 2026-11-16（1）
+
+### ⭐ 商场咖啡复仇：首尔美食广场 20 秒
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@john_my07 · [原帖](https://x.com/john_my07/status/2121522392002658592)
+- **按日归档**：[by-date/2026-11-16.md](../by-date/2026-11-16.md)
+- **概要**：20 秒韩式复仇喜剧：美食广场里被撞洒咖啡的青年，用甜点盘和柔道摔投反击，最后一块纸板招牌扣在对手头上。
+
+> Create an ultra-realistic 20-second live-action Korean revenge-comedy scene inside a luxurious shopping mall in Seoul, South Korea. High-budget Korean action-comedy cinematography, natural handheld camera movement, bright lighting, realistic crowds, expressive performances, and believable physical stunts.
+> 
+> Main Character: Stylish Korean man in his mid-20s with messy black hair, wearing an olive bomber jacket, white T-shirt, charcoal cargo pants, and white sneakers. Carrying iced coffee and a shopping bag.
+> 
+> Antagonist: Arrogant Korean man in his late 20s with slicked-back hair, wearing a navy tracksuit and silver chain.
+> 
+> ACTION — EXACTLY 20 SECONDS:
+> 
+> 0–4s: The protagonist casually walks through the crowded food court, sipping iced coffee and checking his phone.
+> 
+> 4–7s: The antagonist deliberately bumps into him, spilling coffee all over his jacket. He laughs mockingly and shoves him. The protagonist looks at his ruined jacket with growing anger.
+> 
+> 7–11s: The protagonist grabs a nearby dessert tray and smashes it into the antagonist's face. Whipped cream and chocolate splatter everywhere. The antagonist freezes in disbelief.
+> 
+> 11–15s: The furious antagonist charges. The protagonist dodges, grabs his arm, spins him around, and executes a realistic judo-style throw into a nearby cardboard promotional display. It collapses as shoppers gasp.
+> 
+> 15–17s: Looking down at him, the protagonist calmly says, "You should've paid for my coffee." He drops the empty cup beside him.
+> 
+> 17–20s: The protagonist confidently walks away. Behind him, the cream-covered antagonist struggles to stand, but a cardboard sign falls over his head. Shoppers laugh. End with a cinematic shot of the protagonist walking away without looking back.
+> 
+> SOUND DESIGN: Authentic mall ambience, coffee splashing, mocking laughter, dessert impact, shoes scraping, crowd gasps, cardboard crashing, synchronized Korean dialogue, and realistic sound effects.
+> 
+> VISUAL REQUIREMENTS: Exactly 20 seconds, consistent character identities and clothing, chronological actions, realistic body physics, clear readable stunts, natural facial expressions, cinematic lighting, detailed skin textures. Photorealistic live-action movie quality. No animation, gore, supernatural effects, or cartoon physics.

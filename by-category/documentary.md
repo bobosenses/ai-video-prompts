@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 9 条。
+共 10 条。
 
 ## 2026-10-24（1）
 
@@ -301,3 +301,71 @@
 > we start behind her. she's holding two steaming old mugs, one off-white, one pale blue, and turns from the stove toward a small table by the window. she sets the blue one in front of the empty chair across the table, next to a pair of folded men's reading glasses, and turns the handle toward the chair. then she comes around, puts the off-white one down, pulls out her chair and sits, legs scraping the floor. camera settles at the side of the table: her holding her mug on one side, the empty chair, the glasses and the untouched steaming blue mug on the other. she looks across, calm, and takes a sip
 > 
 > sound: real kitchen room tone, fridge hum, slippers, mugs on wood, chair scrape, distant birds. no music, no dialogue, no voices
+
+## 2026-11-16（1）
+
+### 最小的丛林英雄：小猴救小虎
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Strength04_X · [原帖](https://x.com/Strength04_X/status/2121614892562334082)
+- **按日归档**：[by-date/2026-11-16.md](../by-date/2026-11-16.md)
+- **概要**：30 秒野生动物纪录片风格暖心短片：小猴用藤蔓救出陷在泥里的小老虎，虎妈妈现身致谢。
+
+> TITLE: The Smallest Jungle Hero
+> 
+> FORMAT: 16:9, 4K, cinematic wildlife documentary quality.
+> 
+> CHARACTERS:
+> One tiny baby monkey with golden-brown fur, expressive brown eyes and a small green leaf necklace.
+> One baby tiger with orange fur, black stripes and bright blue eyes.
+> 
+> Maintain identical character appearance throughout the entire video.
+> 
+> LOCATION:
+> A beautiful tropical rainforest with a muddy river, giant trees, hanging vines, waterfalls and thick green vegetation.
+> 
+> SCENE AND TIMING:
+> 
+> 0–5 SECONDS:
+> A tiny baby monkey sits on a tree branch eating a banana. Suddenly, it hears a frightened animal crying from below.
+> 
+> MONKEY SOUND: Curious little monkey squeaks.
+> 
+> 5–10 SECONDS:
+> The monkey looks down and notices a baby tiger trapped in thick mud near the riverbank. The tiger struggles to move its front legs.
+> 
+> MONKEY ACTION: The monkey quickly climbs down the tree.
+> 
+> MONKEY DIALOGUE:
+> "Hey little guy! What happened?"
+> 
+> 10–16 SECONDS:
+> The monkey grabs a long hanging vine and pulls it toward the trapped tiger. The tiger carefully bites the vine while the monkey pulls with all its strength.
+> 
+> AUDIO: Jungle birds, water splashes, vines stretching and dramatic music.
+> 
+> 16–22 SECONDS:
+> The baby tiger slowly escapes the mud and falls safely onto the grass. The monkey jumps happily beside it.
+> 
+> TIGER SOUND: Soft happy growl.
+> 
+> 22–26 SECONDS:
+> The tiger gently approaches the monkey and gives it a friendly head nudge. The monkey smiles and pats its head.
+> 
+> 26–30 SECONDS:
+> Suddenly, a large adult tiger appears between the trees. The baby tiger runs toward its mother. The mother tiger looks at the tiny monkey and gives a gentle approving roar.
+> 
+> MONKEY DIALOGUE:
+> "You're welcome, big family!"
+> 
+> ENDING:
+> Wide cinematic jungle shot of all three animals walking together.
+> 
+> AUDIO:
+> Natural rainforest ambience, birds, monkey sounds, tiger growls, realistic mud and water sounds, emotional orchestral music and clear synchronized dialogue.
+> 
+> VISUAL QUALITY:
+> Photorealistic animal fur, realistic animal anatomy, natural wildlife movements, cinematic camera tracking, beautiful tropical lighting and realistic physics.
+> 
+> STRICT CONSISTENCY:
+> One baby monkey, one baby tiger and one adult tiger. Keep all fur patterns and character proportions identical. No duplicated animals, no morphing, no teleportation.

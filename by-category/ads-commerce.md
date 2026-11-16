@@ -1,6 +1,6 @@
 # 广告带货
 
-共 16 条。
+共 17 条。
 
 ## 2026-10-24（1）
 
@@ -850,3 +850,85 @@
 > - Natural sunlight, warm indoor lighting and realistic shadows.
 > 
 > - Cinematic tracking shots, medium shots, close-ups and smooth transitions.
+
+## 2026-11-16（1）
+
+### 终极速度挑战：F1 赛车对战斗机
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Strength04_X · [原帖](https://x.com/Strength04_X/status/2121498278198194482)
+- **按日归档**：[by-date/2026-11-16.md](../by-date/2026-11-16.md)
+- **概要**：30 秒赛车商业广告风：红色 F1 赛车与灰色战斗机在平行赛道与跑道上并驾齐驱，几乎同时冲线。
+
+> TITLE: The Ultimate Speed Challenge
+> 
+> FORMAT: 16:9, 4K, high-end motorsport commercial quality.
+> 
+> MAIN VEHICLE:
+> One bright red Formula racing car with black aerodynamic wings, visible racing number 07, black tires and a professional helmeted driver.
+> 
+> SECOND VEHICLE:
+> One modern grey fighter jet with realistic aerodynamic design and twin-engine exhaust.
+> 
+> Maintain identical vehicle designs throughout.
+> 
+> LOCATION:
+> A massive professional racing circuit connected to a long airport runway. Bright sunny sky, grandstands, spectators and distant mountains.
+> 
+> SCENE AND TIMING:
+> 
+> 0–5 SECONDS:
+> A bright red Formula racing car waits at the starting line. Inside the cockpit, the driver adjusts his helmet and grips the steering wheel.
+> 
+> AUDIO: Engine revving, crowd cheering and racing announcer.
+> 
+> ANNOUNCER DIALOGUE:
+> "Today, speed meets the impossible!"
+> 
+> 5–10 SECONDS:
+> A grey fighter jet rolls onto the parallel runway. Its engines roar as it prepares for takeoff.
+> 
+> The driver looks toward the jet.
+> 
+> DRIVER DIALOGUE:
+> "Let's see what you've got!"
+> 
+> 10–16 SECONDS:
+> The race begins. The Formula car accelerates rapidly along the racing track. The fighter jet takes off from the parallel runway.
+> 
+> CAMERA: Low-angle tracking shot beside the car, followed by an aerial shot showing both vehicles accelerating.
+> 
+> AUDIO: Powerful racing engine, jet turbines and crowd excitement.
+> 
+> 16–22 SECONDS:
+> The Formula car speeds through a sharp racing corner while the fighter jet flies low and safely above its parallel runway. Both maintain incredible speed.
+> 
+> ANNOUNCER DIALOGUE:
+> "They're neck and neck! This is unbelievable!"
+> 
+> 22–26 SECONDS:
+> The fighter jet gains a slight lead in the air. The Formula car approaches the finish line at maximum speed.
+> 
+> CAMERA: Dynamic side-by-side cinematic shot.
+> 
+> 26–30 SECONDS:
+> Both vehicles cross their respective finish lines almost simultaneously.
+> 
+> The driver raises one gloved hand in celebration while the jet performs a smooth climb into the blue sky.
+> 
+> DRIVER DIALOGUE:
+> "Okay... that was close!"
+> 
+> ENDING:
+> Epic aerial wide shot of the racing circuit and fighter jet disappearing into the distance.
+> 
+> AUDIO DESIGN:
+> Authentic racing engine sounds, jet turbine roar, tire friction, wind, crowd cheering, racing announcer and perfectly synchronized dialogue.
+> 
+> VISUAL QUALITY:
+> Ultra-realistic motorsport photography, accurate vehicle proportions, realistic speed and motion blur, detailed carbon-fiber surfaces, natural daylight and cinematic aerial camera movements.
+> 
+> STRICT CONSISTENCY:
+> One red Formula racing car and one grey fighter jet. Preserve vehicle colors, designs and racing number. Keep both vehicles on their separate parallel tracks and runway. No vehicle duplication, no impossible transformations, no sudden location changes.
+> 
+> #dreamina #dreaminacreators
