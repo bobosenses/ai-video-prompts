@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 22 条。
+共 23 条。
 
 ## 2026-10-24（1）
 
@@ -1649,3 +1649,14 @@
 > 20-25s: Final portal chain. Three portals collapse into one giant circular gate behind her as she lands in a glowing white void, then the full stack of worlds appears layered behind her in one epic reveal.
 > 
 > Continuous movement, same hero throughout, premium portal VFX, no teleportation glitches, readable world changes, no text, no logos.
+
+## 2026-11-16（1）
+
+### ⭐ 玻璃摩天楼塌陷拼出 HAVOC
+
+- **工具**：MiniMax H3（Hailuo） · **时长**：15 秒
+- **作者**：@Skylar_ · [原帖](https://x.com/Skylar_/status/2122064809264824624)
+- **按日归档**：[by-date/2026-11-16.md](../by-date/2026-11-16.md)
+- **概要**：15 秒片头级特效：玻璃摩天楼从中间塌陷，镜头冲进洞口，尘埃化作钢铁巨字 havoc 后迸成火花。提示词很短，适合直接改字复用。
+
+> a glass skyscraper caves in from the middle like something punched straight through it. steel beams bend, glass sprays in a spiral, the camera dives into the hole, and the dust turns into giant steel letters that spell havoc before they burst into sparks

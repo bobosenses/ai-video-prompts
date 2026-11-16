@@ -1,6 +1,6 @@
 # 动作
 
-共 21 条。
+共 22 条。
 
 ## 2026-10-24（1）
 
@@ -1620,3 +1620,35 @@
 > 
 > IMPORTANT:
 > Maintain character consistency and logical action continuity throughout. Avoid morphing, duplicated characters, unnatural movements and abrupt transitions. The final result should feel like an original professionally directed short film with suspense, emotional depth and a satisfying conclusion.
+
+## 2026-11-16（1）
+
+### 首尔地铁咖啡复仇 30 秒
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@AIwithkhan · [原帖](https://x.com/AIwithkhan/status/2121821003450081560)
+- **按日归档**：[by-date/2026-11-16.md](../by-date/2026-11-16.md)
+- **概要**：30 秒写实韩式动作喜剧：地铁里被泼咖啡的女生借力把挑衅男推下车，一句台词收尾，车门关闭。
+
+> Create an ultra-realistic 30-second live-action Korean revenge-action scene inside a modern, crowded Seoul subway train during daytime. The scene should look like an actual big-budget Korean action movie, with natural handheld camera movement, realistic human interactions, detailed facial expressions, cinematic lighting, authentic subway ambience, and physically believable action choreography.
+> The footage must look like real live-action cinematography, not animation, a video game, or a staged comedy skit.
+> MAIN CHARACTERS
+> Woman: A stylish Korean woman in her mid-20s with a short black bob haircut, wearing a fitted pink crop top, high-waisted light-blue jeans, fashionable black boots, and a small black shoulder bag. She holds a takeaway iced coffee in one hand while gripping a vertical metal support pole with the other. She has a confident, carefree personality.
+> Man: A Korean man in his late 20s with messy dark hair, wearing a black leather jacket, dark trousers, and fashionable black sunglasses. He behaves arrogantly and aggressively.
+> ACTION SEQUENCE — EXACTLY 30 SECONDS
+> 
+> 0–5 seconds: Establishing Scene
+> 
+> Establish a busy modern Seoul subway train moving through the city. Several passengers are standing and sitting, holding support poles and scrolling through their phones. The woman stands near the subway doors, casually enjoying her iced coffee through a straw while holding a vertical metal pole with her other hand. She looks relaxed and completely unaware of what is about to happen. The camera naturally tracks toward her.
+> 5–9 seconds: The Incident
+> The man standing beside her deliberately touches and brushes against her hand while she is holding the metal pole. She immediately looks at him with an irritated expression and slightly moves her hand away. He gives her an arrogant smirk, suddenly grabs her iced coffee, and aggressively throws the entire drink toward her. Coffee splashes across her face, hair, and pink crop top. The empty plastic cup drops onto the train floor. Nearby passengers turn around in shock.
+> 9–13 seconds: Her Reaction
+> She looks down at her coffee-stained outfit, then slowly turns toward the man. Her facial expression changes from disbelief to cold anger. The man laughs mockingly and adjusts his sunglasses, believing she will do nothing. She releases the support pole and takes a determined step toward him. Use a close-up to capture her intense expression.
+> 
+> 13–20 seconds: The man aggressively approaches and attempts to shove her. She grabs his leather jacket, sidesteps, uses his forward momentum, and forcefully pushes him toward the open subway doorway. The train is completely stationary at the platform. He stumbles backward and falls onto his hands and knees, catching himself against a pillar. His sunglasses slide across the platform. Show realistic physical resistance, natural body weight, and believable stunt choreography. No flying, spinning, exaggerated flips, or fake comedic falls. Film the entire confrontation in one continuous shot.
+> 20–24 seconds: Looking down at him, she says confidently: "Next time, buy your own coffee!" The subway warning chime sounds.
+> 24–30 seconds: The doors close. She brushes coffee off her top, adjusts her shoulder bag, grabs the pole, and smiles confidently as the train departs. The embarrassed man remains on the platform.
+> SOUND DESIGN
+> Authentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.
+> VISUAL REQUIREMENTS
+> Ultra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.

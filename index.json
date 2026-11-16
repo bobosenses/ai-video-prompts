@@ -1138,5 +1138,55 @@
     "source": "https://x.com/AIwithSynthia/status/2120889335906234376",
     "author": "@AIwithSynthia",
     "star": false
+  },
+  {
+    "date": "2026-11-16",
+    "title": "商场咖啡复仇：首尔美食广场 20 秒",
+    "category": "创意趣味",
+    "duration": "20 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/john_my07/status/2121522392002658592",
+    "author": "@john_my07",
+    "star": true
+  },
+  {
+    "date": "2026-11-16",
+    "title": "玻璃摩天楼塌陷拼出 HAVOC",
+    "category": "科幻奇幻",
+    "duration": "15 秒",
+    "tool": "MiniMax H3（Hailuo）",
+    "source": "https://x.com/Skylar_/status/2122064809264824624",
+    "author": "@Skylar_",
+    "star": true
+  },
+  {
+    "date": "2026-11-16",
+    "title": "首尔地铁咖啡复仇 30 秒",
+    "category": "动作",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/AIwithkhan/status/2121821003450081560",
+    "author": "@AIwithkhan",
+    "star": false
+  },
+  {
+    "date": "2026-11-16",
+    "title": "最小的丛林英雄：小猴救小虎",
+    "category": "纪实公益",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/Strength04_X/status/2121614892562334082",
+    "author": "@Strength04_X",
+    "star": false
+  },
+  {
+    "date": "2026-11-16",
+    "title": "终极速度挑战：F1 赛车对战斗机",
+    "category": "广告带货",
+    "duration": "30 秒",
+    "tool": "Seedance 2.5",
+    "source": "https://x.com/Strength04_X/status/2121498278198194482",
+    "author": "@Strength04_X",
+    "star": false
   }
 ]
