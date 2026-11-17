@@ -1,6 +1,6 @@
 # 动作
 
-共 22 条。
+共 23 条。
 
 ## 2026-10-24（1）
 
@@ -1652,3 +1652,54 @@
 > Authentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.
 > VISUAL REQUIREMENTS
 > Ultra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.
+
+## 2026-11-17（1）
+
+### 错误目标：首尔雨夜小巷 30 秒
+
+- **工具**：Seedance 2.5（Frameo） · **时长**：30 秒
+- **作者**：@Hope_Ai01 · [原帖](https://x.com/Hope_Ai01/status/2122330543719366996)
+- **按日归档**：[by-date/2026-11-17.md](../by-date/2026-11-17.md)
+- **概要**：30 秒韩式写实动作短片：首尔雨夜小巷，青年被三人拦路抢手机，用写实近身格斗反制，最后捡起手机从容走入雨中。三段式时间轴清晰，易于复用。
+
+> Title: THE WRONG TARGET
+> 
+> Create an exactly 30-second ultra-realistic Korean action thriller film.
+> 
+> Scene 1 (0–10 seconds): The Encounter
+> 
+> A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+> 
+> Scene 2 (10–20 seconds): The Fight
+> 
+> One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+> 
+> Scene 3 (20–30 seconds): The Final Move
+> 
+> Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+> 
+> Cinematography:
+> 
+> - Ultra-realistic South Korean crime thriller style.
+> - Authentic Korean actors.
+> - Dark Seoul alley at night.
+> - Rain-soaked streets and cinematic lighting.
+> - Fast camera movements during combat.
+> - Close-up shots of realistic facial expressions.
+> - Wide shots showing complete fight choreography.
+> - Smooth transitions and professional editing.
+> 
+> Audio:
+> Realistic punches, footsteps, rain ambience and intense cinematic background music.
+> 
+> Important Requirements:
+> 
+> - Exactly 30 seconds.
+> - 16:9 widescreen.
+> - 4K photorealistic quality.
+> - No overacting.
+> - No supernatural elements.
+> - No cartoon effects.
+> - No slow motion except one brief impact moment.
+> - Consistent hero appearance throughout.
+> - No subtitles, logos or text on screen.

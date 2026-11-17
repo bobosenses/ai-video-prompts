@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 34 条。
+共 36 条。
 
 ## 2026-10-24（1）
 
@@ -1248,3 +1248,80 @@
 > SOUND DESIGN: Authentic mall ambience, coffee splashing, mocking laughter, dessert impact, shoes scraping, crowd gasps, cardboard crashing, synchronized Korean dialogue, and realistic sound effects.
 > 
 > VISUAL REQUIREMENTS: Exactly 20 seconds, consistent character identities and clothing, chronological actions, realistic body physics, clear readable stunts, natural facial expressions, cinematic lighting, detailed skin textures. Photorealistic live-action movie quality. No animation, gore, supernatural effects, or cartoon physics.
+
+## 2026-11-17（2）
+
+### ⭐ 无痛骑手：七次 BMX 暴力摔车合集
+
+- **工具**：Seedance 2.5（MakeUGC） · **时长**：30 秒
+- **作者**：@Zyvex_0x · [原帖](https://x.com/Zyvex_0x/status/2122370520955896165)
+- **按日归档**：[by-date/2026-11-17.md](../by-date/2026-11-17.md)
+- **概要**：30 秒竖屏手机/鱼眼运动相机质感：红棕卷发络腮胡大叔在废弃烂尾楼里连做 7 个 BMX 动作并全部摔车，分镜到秒、含台词与音效，结构非常完整。
+
+> FORMAT: 30 seconds, vertical 9:16, photorealistic street BMX crash edit that looks like real footage filmed on a phone and a wide fisheye action cam by a friend. Talking intro, then a fast montage where EVERY SHOT = ONE BIG REAL BMX TRICK + ONE VIOLENT, FULLY SHOWN CRASH at real speed. Hard cut between shots, one continuous take inside each shot. Camera mostly from the SIDE and FRONT, not from behind.
+> 
+> REFERENCE: PHOTO REFERENCE = the rider. Exact face, ginger curly mullet, walrus mustache, body and outfit in every shot. The photo also defines the opening shot composition and location.
+> 
+> REALISM: Indistinguishable from real stunt footage. Crashes happen at full real speed and are sudden and violent: hard stops, real impacts, bodies slamming, no soft or slow lying down. Real physics of a heavy man and a steel BMX: when the front wheel hits an obstacle the bike stops instantly and he is catapulted over the bars; when the bike slips out he drops with his full weight. Belly, arms and mullet jiggle on every impact. Each impact: big dust puff, debris scatter, strong camera jolt. The bike flips, bounces and lands with real weight. After each crash only a very short reaction (under one second), no posing, no lying still for long. Painful-looking but no blood, no wounds, no visible injuries. No cartoon physics, no CGI look.
+> 
+> CHARACTER (exactly as in the photo, identical in every shot): Heavy-set man around 40, big round hairy beer belly, broad shoulders, thick arms, sunburned freckled fair skin, bright ginger curly mullet, thick bushy ginger walrus mustache, no glasses, NO HELMET EVER. Faded pink-yellow-blue tie-dye tank top cropped above the belly, tiny retro royal-blue running shorts with white trim, knee-high white tube socks with blue and red stripes, white terry wristbands on both wrists, worn white sneakers. Overconfident, unbothered. Concrete dust accumulates on him shot by shot and never resets.
+> 
+> PROP: Matte black BMX with black tires and pegs. It never teleports; it lands where physics puts it and stays there.
+> 
+> LOCATION: Huge abandoned unfinished multi-story concrete building: open floors, square pillars with graffiti, slab edges, holes in floors, an inner courtyard surrounded by arched concrete galleries, sloping concrete beams with exposed rusty rebar, plywood quarter pipe, long staircase with a rusty handrail, rubble, city far below.
+> 
+> TIMELINE:
+> SHOT 1 (0.0-3.5s): Opening shot matching the photo: static vertical medium-wide shot, full body from head to sneakers, he stands next to the BMX in front of the weathered gray concrete building with red brick patch, wide dark garage doorway behind him, graffiti and tall weeds on the left, cracked concrete ground, soft overcast light. Right hand on the handlebar, left hand on his hip, chest puffed out. He looks into the lens and says his line with total confidence, then gives one firm nod.
+> SHOT 2 (3.5-8.0s): Open upper floor at golden sunset. Camera from the SIDE, tracking parallel to him, he is seen in profile and large in frame. 3.5-4.8s: he pedals fast along the slab edge. 4.8-5.3s: bunny-hops onto a wide sloping concrete beam with rusty rebar loops. 5.3-6.0s: rolls fast down the beam and rides straight off its end over the open drop into the inner courtyard. 6.0-7.0s: the camera stays at his side and tilts down with him, keeping him in profile and clearly visible as he falls about two floors still on the bike, front wheel first. 7.0-8.0s: the front wheel slams into the courtyard concrete, the bike stops dead, he is thrown over the bars and rolls twice through a big dust burst next to rubble; the bike cartwheels after him.
+> SHOT 3 (8.0-11.0s): Plywood quarter pipe, low side angle. He rides up hard and launches high, the bike slips out from under his feet in the air, he comes down chest-first onto the top edge of the ramp with a heavy thud, folds over it and slides down the plywood face-first; the bike crashes down beside him.
+> SHOT 4 (11.0-14.5s): Open floor with a wide rectangular hole. Camera from the FRONT on the far side of the hole, he rides straight at the lens. He jumps the hole, the front wheel hits the far lip, the bike stops instantly and he is catapulted over the handlebars toward the camera, smashing into a big stack of empty plastic paint buckets that explode in every direction. The bike hangs in the hole by its front wheel.
+> SHOT 5 (14.5-18.0s): Long concrete staircase with a long rusty handrail. Camera from the side. He hops onto the rail to grind, his feet slip and he lands straddling the rail crotch-first, his face scrunching, slides down along it, then tips sideways off the rail and tumbles down the remaining steps with the bike, arms and legs flailing, ending at the bottom landing.
+> SHOT 6 (18.0-21.5s): Square concrete pillar with red graffiti, low front angle. He rides at full speed for a wallride, the tires lose grip, his shoulder slams into the pillar, the impact spins him around and he drops hard onto the concrete; the bike comes down on top of him.
+> SHOT 7 (21.5-25.0s): A tall concrete block about 1.5 meters high. Side angle. He bunny-hops up onto it, the tires slip off the top edge, he falls backwards off the block and lands flat on his back with a loud thud and a dust cloud; one second later the bike drops onto his belly. He wheezes his line without moving.
+> SHOT 8 (25.0-30.0s): Top roof, dramatic gray clouds with a warm strip of sunset, a huge city far below. Camera from the SIDE as he sprints the bike toward a small plywood kicker at the very roof edge, mullet flying, then launches into a big backflip over the city, seen in profile against the sky. The camera operator then runs to the edge in one continuous move and looks down: empty, only the city far below. 29.0-30.0s: his faint voice comes from far below.
+> 
+> CAMERA: Mostly side tracking shots and front angles, a few low angles, handheld with natural shake and a strong jolt on every impact. Wide lens. The rider stays large and clearly visible during every trick and crash. Every takeoff, failure point and impact is fully on screen and never hidden by a cut. Each stunt shown once, no repeated crash from another angle. No hands or body parts of the camera operator in frame.
+> 
+> AUDIO & DIALOGUE: Location sound only, no music. Freewheel ticking, tires on concrete, plywood thump, heavy body thuds, bike frame clatter, metal clangs, plastic buckets crashing, gravel scatter, rooftop wind, short off-screen cameraman reactions ("Oh no!", "Bro!", wheezing laughter).
+> Rider lines (English):
+> 0.5-3.0s: "Pain is temporary. Content is forever."
+> 23.5-25.0s: (wheezing) "I'm good."
+> 29.0-30.0s: (faint, from far below) "I'm good!"
+> 
+> CONTINUITY: Same man in every shot, same outfit, no helmet ever, no glasses. Dust accumulates and never resets. He is always shown hitting the ground; the bike never teleports and stays where it fell. Lighting: overcast intro, golden sunset for shots 2-4, warm afternoon for shots 5-7, overcast stormy sunset for the ending.
+> 
+> NEGATIVE CONSTRAINTS: No helmet, no pink helmet, no sunglasses, no different rider, no camera operator hands in frame, no shots filmed only from behind, no slow motion, no soft or gentle falls, no posing on the ground, no successful landings, no floating or teleporting bike, no extra people, no blood, no injuries, no gore, no text, no subtitles, no music, no warped faces, hands or wheels, no extra limbs, no cartoon or CGI look.
+
+### 守护：首尔夜街浪漫动作短片 30 秒
+
+- **工具**：Seedance 2.5（Frameo） · **时长**：30 秒
+- **作者**：@navi_Ai2 · [原帖](https://x.com/navi_Ai2/status/2122335176286187925)
+- **按日归档**：[by-date/2026-11-17.md](../by-date/2026-11-17.md)
+- **概要**：30 秒韩式浪漫动作小品：情侣夜行被骚扰，男友克制出手保护，最后相视一笑牵手离开。三段式结构，情感与动作兼具。
+
+> Create a 30-second ultra-realistic Korean romantic action short film.
+> 
+> Scene 1 (0–10 seconds):
+> A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+> 
+> Scene 2 (10–20 seconds):
+> A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+> 
+> Scene 3 (20–30 seconds):
+> The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+> 
+> Visual Style:
+> Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+> 
+> Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+> 
+> Important Requirements:
+> 
+> - Exactly 30 seconds.
+> - 16:9 widescreen.
+> - No overacting.
+> - No exaggerated fighting.
+> - No cartoon or anime effects.
+> - No subtitles or text on screen.
+> - Maintain consistent faces, clothes and characters across all scenes.
+> - Professional Korean movie quality.
