@@ -1,6 +1,6 @@
 # 广告带货
 
-共 17 条。
+共 18 条。
 
 ## 2026-10-24（1）
 
@@ -932,3 +932,50 @@
 > One red Formula racing car and one grey fighter jet. Preserve vehicle colors, designs and racing number. Keep both vehicles on their separate parallel tracks and runway. No vehicle duplication, no impossible transformations, no sudden location changes.
 > 
 > #dreamina #dreaminacreators
+
+## 2026-11-17（1）
+
+### 纽约 30 秒旅行 Vlog：10 个镜头
+
+- **工具**：Seedance 2.5（Wizstar AI） · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2122266663987155105)
+- **按日归档**：[by-date/2026-11-17.md](../by-date/2026-11-17.md)
+- **概要**：30 秒 16:9 旅行 Vlog：从时代广场到布鲁克林滨水区共 10 个镜头，每 3 秒一镜并标注焦段与运镜，含配乐与同期声要求，适合城市宣传/文旅类素材。
+
+> EXACT 30 SECONDS
+> 
+> Aspect Ratio: 16:9
+> 
+> Create an ultra-photorealistic live-action cinematic travel vlog featuring the exact male identity from @image1 exploring New York City, USA. Preserve his exact facial identity, hairstyle, beard, skin tone and body proportions. Maintain the same olive-green travel jacket, white T-shirt, black cargo trousers, white sneakers, black backpack and wristwatch in every shot. Use the facial close-up panels of @image1 for identity consistency and the headless full-body panels for wardrobe and body proportions.
+> 
+> Create a professional 30-second travel documentary with 10 visually distinct shots, realistic human performance, cinematic multi-angle cinematography and smooth narrative continuity.
+> 
+> 00:00–00:03 — Times Square: Medium-wide 28mm handheld backward tracking shot. The vlogger smiles and gestures toward enormous digital billboards while yellow taxis and pedestrians move naturally behind him.
+> 
+> 00:03–00:06 — Brooklyn Bridge: Wide 24mm stabilized backward tracking shot as he walks along the pedestrian walkway with historic stone towers, suspension cables and Manhattan skyline.
+> 
+> 00:06–00:09 — Statue of Liberty: 50mm cinematic push-in at a New York Harbor viewpoint. The vlogger points toward the monument while realistic ferries and water reflections appear in the background.
+> 
+> 00:09–00:12 — Manhattan Streets: Dynamic 35mm lateral tracking shot. A yellow taxi passes naturally as the vlogger walks and speaks to camera.
+> 
+> 00:12–00:15 — Central Park: Smooth 35mm Steadicam push-in as he explores tree-lined pathways with green landscapes and distant skyscrapers.
+> 
+> 00:15–00:18 — Vlogger Close-Up: Intimate 85mm close-up with sharp eye focus, realistic facial expressions, natural dialogue and soft green background.
+> 
+> 00:18–00:21 — Empire State Building: Dramatic 24mm low-angle upward tilt revealing the iconic skyscraper as the vlogger looks upward and gestures toward it.
+> 
+> 00:21–00:24 — Midtown Manhattan: 50mm smooth backward tracking shot as he walks through towering skyscrapers while speaking directly to the audience.
+> 
+> 00:24–00:27 — Brooklyn Waterfront: Spectacular 35mm semicircular 180-degree orbit revealing the Manhattan skyline across the East River during golden hour.
+> 
+> 00:27–00:30 — Final Closing: 40mm slow cinematic dolly-out as the vlogger walks beside the waterfront, turns toward the camera and smiles with the glowing Manhattan skyline behind him. Fade to black exactly at 30 seconds.
+> 
+> Cinematography: Professional cinema-camera aesthetics, realistic lens characteristics, natural depth of field, smooth physically achievable camera movement, cinematic composition, authentic motion blur and subtle film grain.
+> 
+> Lighting: Natural daylight transitioning subtly into golden-hour warmth. Realistic shadows, physically accurate reflections and consistent environmental lighting.
+> 
+> Audio: Original upbeat cinematic travel music combining acoustic guitar, electronic percussion, bass and orchestral strings. Gradually build the score, soften it during dialogue, reach an emotional peak during the skyline reveal and finish with a warm orchestral chord. Include authentic New York traffic, yellow taxi engines, horns, pedestrians, footsteps, harbor breeze and river ambience. Natural synchronized dialogue with clear voice priority.
+> 
+> Performance: Natural walking, realistic hand gestures, authentic facial expressions, subtle eye movement, confident travel-vlogger personality and believable interaction with the environment.
+> 
+> Continuity: Same face, beard, hairstyle, clothing, backpack, accessories and body proportions in all 10 shots. Maintain realistic geography, consistent lighting and seamless visual progression. No random locations or unnecessary characters.

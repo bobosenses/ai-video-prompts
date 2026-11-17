@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 10 条。
+共 11 条。
 
 ## 2026-10-24（1）
 
@@ -369,3 +369,60 @@
 > 
 > STRICT CONSISTENCY:
 > One baby monkey, one baby tiger and one adult tiger. Keep all fur patterns and character proportions identical. No duplicated animals, no morphing, no teleportation.
+
+## 2026-11-17（1）
+
+### 1948 美国老式理发店 30 秒
+
+- **工具**：Seedance 2.5（Higgsfield） · **时长**：30 秒
+- **作者**：@AIwithkhan · [原帖](https://x.com/AIwithkhan/status/2122336393984979299)
+- **按日归档**：[by-date/2026-11-17.md](../by-date/2026-11-17.md)
+- **概要**：30 秒怀旧历史还原：1948 年夏日美国小镇理发店，从街景到理发、剃须、付钱离店，六段式分镜并附柯达 35mm 胶片风格要求。
+
+> Create an ultra-photorealistic cinematic video set inside a traditional American neighborhood barbershop in the summer of 1948. Recreate the authentic atmosphere of post-war American life, featuring classic barbershop interiors, vintage barber chairs, traditional grooming tools, period-accurate clothing, and everyday neighborhood culture.
+> 
+> Scene 1 (0–5 seconds): Arrival at the Barbershop
+> 
+> Begin with a cinematic wide shot of a charming American small-town street in 1948. A beautifully preserved vintage 1940s black Chevrolet Fleetline drives past brick buildings and wooden storefronts. The camera slowly approaches a traditional barbershop featuring a rotating red, white, and blue barber pole, large glass windows, and a hand-painted sign reading "GENTLEMEN'S BARBER SHOP." A man wearing a brown suit and fedora enters the shop.
+> 
+> Scene 2 (5–10 seconds): The Classic Barbershop Interior
+> 
+> Cut to a beautiful wide interior shot. Show two authentic vintage leather barber chairs, large wall mirrors, wooden cabinets, white ceramic shaving mugs, glass bottles of aftershave, metal scissors, straight razors, brushes, and neatly folded white towels. An elderly barber wearing a white shirt, dark trousers, suspenders, and a traditional white barber apron welcomes the customer.
+> 
+> Scene 3 (10–15 seconds): The Classic Haircut
+> 
+> Show the customer sitting in a vintage hydraulic barber chair. The barber wraps a white towel around his neck and carefully places a traditional white-and-blue striped barber cape over his shoulders. He begins cutting the customer's hair using authentic metal scissors and vintage electric clippers. Capture detailed close-ups of the barber's hands, scissors moving through the hair, and realistic facial expressions.
+> 
+> Scene 4 (15–20 seconds): Traditional Straight-Razor Shave
+> 
+> The barber gently applies warm shaving cream to the customer's face using a traditional shaving brush. Show a close-up of the barber carefully sharpening a straight razor against a leather strop before performing a traditional straight-razor shave. A second customer sits nearby reading a vintage newspaper while an old wooden radio plays music in the background.
+> 
+> Scene 5 (20–25 seconds): Everyday Barbershop Life
+> 
+> Show the barber dusting the customer's neck with a soft brush, applying a small amount of aftershave, and using a handheld mirror to show the finished haircut. The customer smiles with satisfaction. Another gentleman enters wearing a classic 1940s fedora. Show close-ups of the rotating barber pole, vintage tools, old advertisements, wall clock, and polished leather chairs.
+> 
+> Scene 6 (25–30 seconds): Back to the American Streets
+> 
+> The customer stands up, pays the barber using a few vintage banknotes, puts on his brown fedora, and walks out of the shop. The barber smiles and waves goodbye. The camera follows the customer onto the sunny street, where vintage automobiles pass by and people walk along the sidewalk. Finish with a beautiful exterior shot of the barbershop and its slowly rotating red, white, and blue barber pole.
+> 
+> ### Visual Style & Cinematography
+> 
+> * Ultra-photorealistic historical recreation of 1948 America.
+> 
+> * Authentic post-war American barbershop architecture and interiors.
+> 
+> * Period-accurate barber uniforms, hairstyles, suits, and accessories.
+> 
+> * Vintage leather barber chairs and historically accurate grooming equipment.
+> 
+> * Warm natural sunlight entering through large shop windows.
+> 
+> * Rich Kodak 35mm film color grading with subtle analog film grain.
+> 
+> * Cinematic camera movements, slow tracking shots, macro close-ups, and smooth transitions.
+> 
+> * Realistic hair movement, shaving cream, skin textures, and human expressions.
+> 
+> * Detailed environmental storytelling with believable background characters.
+> 
+> * No modern electric equipment, smartphones, contemporary clothing, or modern vehicles.
