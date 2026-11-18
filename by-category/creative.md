@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 36 条。
+共 37 条。
 
 ## 2026-10-24（1）
 
@@ -1325,3 +1325,61 @@
 > - No subtitles or text on screen.
 > - Maintain consistent faces, clothes and characters across all scenes.
 > - Professional Korean movie quality.
+
+## 2026-11-18（1）
+
+### ⭐ 僵尸恐怖短片：监考老师抓作弊遇上胖僵尸
+
+- **工具**：帖中未注明工具 · **时长**：30 秒
+- **作者**：@NexlowX · [原帖](https://x.com/NexlowX/status/2122352498866327997)
+- **按日归档**：[by-date/2026-11-18.md](../by-date/2026-11-18.md)
+- **概要**：30 秒写实恐怖+黑色喜剧：大学考场里老师发现学生疑似作弊，结果对方是僵尸。分镜精确到秒，含台词、音效、连续性与反崩坏约束，结尾反转（“还交卷吗？”）很有梗。
+
+> Create a 30-second photorealistic live-action horror scene with a dark comedy ending. All dialogue in English. No subtitles, captions, or on-screen text.
+> 
+> VISUAL STYLE
+> 
+> Shot as if on a real cinema camera: natural daylight from classroom windows, realistic skin texture, believable fabric, grounded movement, consistent anatomy, subtle cinematic color grading. No animation, cartoon look, game aesthetics, or exaggerated action physics. Keep faces, clothing, body proportions, and room layout identical in every shot.
+> 
+> SETTING
+> 
+> An ordinary college classroom during a written exam. All students are adults in their early twenties. Rows of individual wooden desks and chairs, papers and pens on the desks, large windows along one wall, a whiteboard at the front. A wooden teacher's desk with a drawer stands near the whiteboard, with a clear aisle beside it so both characters and the zombie's fall stay fully visible.
+> TEACHER
+> 
+> A woman of about 27, average height, slim waist, curvy figure, long legs. Light skin with natural pores, oval face, almond-shaped brown eyes, dark eyebrows, small straight nose, soft pink lips, understated makeup.
+> Hair: short, tousled, wavy bob between jaw and shoulders, deep teal-blue with darker roots, side part, two small silver hairpins at one temple. Thin silver hoop earrings.
+> Outfit (identical throughout): fitted light-blue button-down with open collar and sleeves rolled to the elbows, tucked into a black high-waisted miniskirt, sheer black tights, glossy black pointed-toe heels. No jacket.
+> She begins strict and confident, holding a thin wooden pointer. After seeing the zombie's face she shows genuine fear. Her movements become urgent and imperfect, with visible breathing and trembling hands.
+> 
+> ZOMBIE STUDENT
+> 
+> A male student of about 23, extremely heavy-set: large belly, broad torso, thick arms, wide hips, thick legs. Round face, full cheeks, double chin, short neck, short messy dark-brown hair. Plain gray T-shirt stretched over his belly, loose dark trousers, worn sneakers.
+> He barely fits between chair and desk. Keep his large build in every shot; he never becomes thin or athletic.
+> His head is lowered at first. When he looks up: ashen gray skin, cloudy milky eyes, dark eye sockets, dry discolored lips, slack open mouth. No exposed flesh or graphic wounds.
+> He moves with real weight and momentum, rising with effort and pursuing with heavy, urgent steps. No leaping or gliding.
+> 
+> SHOT SEQUENCE
+> 
+> 0–5 s: Medium tracking shot following the teacher between the rows. Pen scratches, rustling paper, her heels. She notices the heavy student bent over, staring at the floor, one hand hidden under the desk. She stops beside him, suspecting a hidden phone.
+> 
+> 5–8 s: She says firmly: "Hiding your phone?" She taps his forearm once with the pointer. No reaction. A short, uncomfortable silence. Her irritation turns to uncertainty.
+> 
+> 8–11 s: Close-up as he slowly lifts his head, revealing the zombie face. A low guttural growl. Quick reaction shot of her recoiling.
+> 
+> 11–15 s: Wide shot. He stands, knocking his chair back, and shoves the desk aside with both hands, scraping it loudly. Papers slide off. The other students run for the exit. The teacher backs toward the front.
+> 
+> 15–19 s: She hurries to her desk. He follows down the cleared aisle with heavy, fast steps, arms reaching. Controlled moving camera shows the distance between them. Heels, breathing, and footsteps dominate the sound. No extra obstacles or falls.
+> 
+> 19–22 s: She pulls the drawer and it sticks. She glances back and sees him closing in, then pulls harder and it opens. A brief insert shows a handgun inside. She takes it and steps into the clear space beside the desk.
+> 
+> 22–26 s: ONE UNINTERRUPTED SIDE-ON WIDE SHOT with both characters fully visible, head to feet, and no furniture in the way. She stands on one side; the zombie approaches from the other with outstretched arms. She fires one shot into his chest before he reaches her. Show the muzzle flash, realistic recoil, and his reaction at the same moment, with no cutaway. His advance stops, his knees buckle, and he collapses heavily under his own weight. No flying backward. No blood spray, gore, or visible wound.
+> 
+> 26–30 s: She lowers the gun and exhales shakily. The zombie lies motionless. An adult student appears in the doorway, holding up a notebook, and asks quietly and awkwardly: "So… do we still hand it in?" Cut to black.
+> 
+> AUDIO
+> 
+> Classroom ambience, clear English dialogue with accurate lip sync, scraping chairs and desks, scattered footsteps, gasps, a low growl, the rattling drawer, one sharp gunshot, a heavy body impact. Let the final silence carry the joke. No loud music over dialogue.
+> 
+> CONTINUITY
+> 
+> Same identities and clothing throughout. The teacher always has teal-blue bobbed hair. The zombie is always extremely large. The pointer stays behind when she flees and never turns into the gun. The gun appears only after the drawer opens. Keep distances and object positions believable. No slow motion, extra cuts, duplicated characters, extra limbs, malformed hands, floating objects, or sudden body-size changes.

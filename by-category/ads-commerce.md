@@ -1,6 +1,6 @@
 # 广告带货
 
-共 18 条。
+共 19 条。
 
 ## 2026-10-24（1）
 
@@ -979,3 +979,65 @@
 > Performance: Natural walking, realistic hand gestures, authentic facial expressions, subtle eye movement, confident travel-vlogger personality and believable interaction with the environment.
 > 
 > Continuity: Same face, beard, hairstyle, clothing, backpack, accessories and body proportions in all 10 shots. Maintain realistic geography, consistent lighting and seamless visual progression. No random locations or unnecessary characters.
+
+## 2026-11-18（1）
+
+### 粉色卫衣韩系街拍时尚 30 秒
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@ZaidVex · [原帖](https://x.com/ZaidVex/status/2122541444124885193)
+- **按日归档**：[by-date/2026-11-18.md](../by-date/2026-11-18.md)
+- **概要**：30 秒竖屏韩系穿搭街拍：粉色拉链卫衣、百褶裙、白色厚底鞋，11 个镜头覆盖特写、全身跟拍、鞋子细节与拍照收尾，适合服饰类带货素材。
+
+> Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean woman with long, flowing black hair, soft natural bangs, delicate facial expressions, and silver hoop earrings.
+> 
+> Character & Outfit (Keep Consistent):
+> 
+> - Oversized pastel pink zip-up hoodie with distinctive navy horizontal stripe and bow-like detailing.
+> - White fitted inner top.
+> - Dark charcoal-grey pleated mini skirt.
+> - White knee-high socks.
+> - White chunky sneakers.
+> - Long, naturally flowing black hair.
+> 
+> Scene-by-Scene Sequence:
+> 
+> Scene 1 – Beautiful Close-up: Begin with an extreme close-up of her face. She looks gently toward the camera as loose strands of hair move naturally in the breeze.
+> 
+> Scene 2 – Fashion Portrait: Show her standing against a modern grey stone wall with her arms crossed, wearing a relaxed expression.
+> 
+> Scene 3 – Flower Shop: Capture her looking sideways toward a beautiful storefront with warm reflections and soft pink flowers.
+> 
+> Scene 4 – Outfit Showcase: Cinematic close-up of her pink hoodie, navy detailing, white inner top, pleated skirt, and complete outfit.
+> 
+> Scene 5 – Walking in Seoul: Full-body tracking shot of her walking along a beautiful Korean city sidewalk with natural sunlight and urban architecture.
+> 
+> Scene 6 – Natural Portrait: Close-up of her smiling softly while sunlight illuminates her face and hair.
+> 
+> Scene 7 – Street Fashion: Show her walking toward the camera with both hands inside her hoodie pockets.
+> 
+> Scene 8 – Hair Movement: Side-profile shot as she turns her head and her long black hair flows naturally.
+> 
+> Scene 9 – Fashion Poses: She stands casually against a stone wall, changes her pose, and looks directly into the camera.
+> 
+> Scene 10 – Sitting Portrait: Capture her sitting comfortably with her hands gently placed beneath her chin, smiling naturally.
+> 
+> Scene 11 – Final Details: Close-up of her white sneakers walking up outdoor stone steps, followed by a shot of her holding a smartphone and capturing a photograph.
+> 
+> CINEMATIC QUALITY:
+> 
+> - Ultra-photorealistic 4K video.
+> - Authentic Korean fashion editorial.
+> - Natural daylight and soft cinematic shadows.
+> - Realistic skin texture and facial details.
+> - Shallow depth of field.
+> - Beautiful background bokeh.
+> - Smooth handheld camera movements.
+> - Mix of close-ups, medium shots, and full-body shots.
+> - Natural walking and realistic body movements.
+> - Soft pastel pink color grading.
+> - Professional DSLR cinematography.
+> 
+> IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
+> 
+> MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
