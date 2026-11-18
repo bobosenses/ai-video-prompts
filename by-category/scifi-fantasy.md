@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 23 条。
+共 24 条。
 
 ## 2026-10-24（1）
 
@@ -1660,3 +1660,24 @@
 - **概要**：15 秒片头级特效：玻璃摩天楼从中间塌陷，镜头冲进洞口，尘埃化作钢铁巨字 havoc 后迸成火花。提示词很短，适合直接改字复用。
 
 > a glass skyscraper caves in from the middle like something punched straight through it. steel beams bend, glass sprays in a spiral, the camera dives into the hole, and the dust turns into giant steel letters that spell havoc before they burst into sparks
+
+## 2026-11-18（1）
+
+### 天使战士觉醒：15 秒奇幻短片
+
+- **工具**：Seedance 2.0 + Seedance 2.5 · **时长**：15 秒
+- **作者**：@CodesWithAli · [原帖](https://x.com/CodesWithAli/status/2122580427013824751)
+- **按日归档**：[by-date/2026-11-18.md](../by-date/2026-11-18.md)
+- **概要**：15 秒竖屏奇幻：银白长发、金甲、巨大白羽翼的天使战士在紫色幻境中苏醒、举剑、展翼。四镜头结构简单，适合入门改写。
+
+> Create a breathtaking 15-second cinematic fantasy video featuring a beautiful female angel warrior with long silver-white hair, glowing golden armor, enormous majestic white feathered wings, and a legendary golden sword.
+> 
+> Scene 1: Show a close-up of her beautiful face and glowing eyes as she slowly awakens in a mystical purple fantasy world.
+> 
+> Scene 2: Show her holding a powerful golden sword, with magical golden energy surrounding her body.
+> 
+> Scene 3: Camera smoothly zooms out as her giant angel wings spread wide, glowing golden light illuminates the sky, and magical particles float around her.
+> 
+> Scene 4: Show her standing heroically with her sword, looking powerful and divine.
+> 
+> Ultra-realistic 3D fantasy animation, stunning cinematic lighting, detailed feathers, realistic movements, epic atmosphere, smooth camera transitions, 4K quality, vertical 9:16 format. Maintain consistent character appearance throughout.

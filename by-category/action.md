@@ -1,6 +1,6 @@
 # 动作
 
-共 23 条。
+共 24 条。
 
 ## 2026-10-24（1）
 
@@ -1703,3 +1703,41 @@
 > - No slow motion except one brief impact moment.
 > - Consistent hero appearance throughout.
 > - No subtitles, logos or text on screen.
+
+## 2026-11-18（1）
+
+### 校园走廊：披萨女孩觉醒超能力 30 秒
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@NexlowX · [原帖](https://x.com/NexlowX/status/2122593403267325980)
+- **按日归档**：[by-date/2026-11-18.md](../by-date/2026-11-18.md)
+- **概要**：30 秒六段式超级英雄动作：边吃披萨的女生被六个高个男生围堵，觉醒蓝色能量，用武术与冲击波反制，最后淡定拿起第二片披萨离开。
+
+> Create a 30-second ultra-realistic cinematic superhero action scene inside a large modern school hallway.
+> 
+> MAIN CHARACTER:
+> A confident young girl wearing a stylish school uniform. She is casually eating a slice of pizza. Keep her face, hairstyle, and outfit consistent throughout the entire video.
+> 
+> SCENE 1 (0–5 seconds):
+> The girl stands in the middle of a crowded school hallway, calmly eating a delicious slice of pizza. A group of six tall boys approaches her aggressively and surrounds her. She looks at them without showing any fear.
+> 
+> SCENE 2 (5–10 seconds):
+> The girl finishes her pizza, wipes her hands, and slowly steps forward. Suddenly, a mysterious blue energy begins glowing around her hands and body. Her eyes briefly glow blue as she discovers her incredible superpower.
+> 
+> SCENE 3 (10–15 seconds):
+> The first boy rushes toward her. She effortlessly dodges his attack and performs a powerful martial arts move, sending him stumbling backward. Another boy attacks from the side, but she blocks him and spins around with a powerful kick.
+> 
+> SCENE 4 (15–20 seconds):
+> Two more boys attack together. The girl moves incredibly fast, dodging their punches and using spectacular martial arts combinations. She grabs one attacker during a choreographed stunt and safely throws him onto a padded gym mat. The second boy loses balance and falls backward.
+> 
+> SCENE 5 (20–25 seconds):
+> The remaining boys rush toward her one after another. She uses her glowing blue energy powers, creating a dramatic shockwave that sends them stumbling backward across the hallway. Show powerful cinematic action and slow-motion reactions.
+> 
+> SCENE 6 (25–30 seconds):
+> The hallway becomes completely silent. All the boys are sitting or lying safely on the floor, shocked by her powers. The girl calmly picks up another slice of pizza, takes a bite, and walks away confidently. End with a dramatic cinematic close-up.
+> 
+> VISUAL STYLE:
+> Hollywood-style superhero action, ultra-realistic Chinese school drama aesthetic, glowing blue energy effects, professional martial arts choreography, dynamic camera movements, cinematic slow motion, realistic physics, detailed facial expressions, 4K quality, vertical 16:9
+> 
+> IMPORTANT CONSISTENCY RULES:
+> Maintain the exact same girl, face, hairstyle, school uniform, and hallway throughout the video. Keep all boys visually consistent. Smooth transitions between action sequences. Realistic stunt choreography, controlled falls, no blood, no gore, and no graphic injuries.
