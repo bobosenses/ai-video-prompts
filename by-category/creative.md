@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 37 条。
+共 38 条。
 
 ## 2026-10-24（1）
 
@@ -1383,3 +1383,28 @@
 > CONTINUITY
 > 
 > Same identities and clothing throughout. The teacher always has teal-blue bobbed hair. The zombie is always extremely large. The pointer stays behind when she flees and never turns into the gun. The gun appears only after the drawer opens. Keep distances and object positions believable. No slow motion, extra cuts, duplicated characters, extra limbs, malformed hands, floating objects, or sudden body-size changes.
+
+## 2026-11-19（1）
+
+### ⭐ 披萨店厨师大战小老鼠 30 秒 3D 喜剧
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@aynellex · [原帖](https://x.com/aynellex/status/2122924567094329709)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：30 秒竖屏 3D 动画喜剧：意大利披萨店里年轻厨师抛饼，捣蛋小老鼠跳上披萨制造混乱，结尾一群小老鼠在窗外围观庆祝。六段式结构清晰、每段 5 秒，很适合直接改写角色。
+
+> Create a cinematic, ultra-detailed 30-second 3D animated comedy video set inside a beautiful, traditional Italian pizza restaurant. Show a charming young male chef wearing a white chef uniform and tall white hat, preparing delicious pizzas in a warm, rustic kitchen filled with glowing ovens, hanging copper pots, and fresh ingredients.
+> 
+> Scene 1 (0–5s): The chef confidently tosses fresh pizza dough high into the air, spinning it skillfully before catching it with a playful smile. Show flour floating through the warm golden kitchen lighting.
+> 
+> Scene 2 (5–10s): The chef prepares a large pizza with fresh tomato sauce, mozzarella cheese, olives, and colorful toppings. A tiny mischievous mouse suddenly appears near the ingredients, surprising the chef.
+> 
+> Scene 3 (10–15s): The mouse jumps onto the pizza, creating hilarious chaos. The chef reacts with wide eyes and an exaggerated funny expression as stretchy melted cheese pulls dramatically across the kitchen.
+> 
+> Scene 4 (15–20s): Show the chef desperately trying to control the situation while the little mouse runs around the kitchen. Capture fast, funny movements, flying pizza dough, and cinematic action shots.
+> 
+> Scene 5 (20–25s): The chef finally places a beautiful freshly baked pizza on the counter. He notices the tiny mouse reaching toward the delicious pizza and reacts with a surprised expression.
+> 
+> Scene 6 (25–30s): End with a magical exterior view of the warmly glowing Italian pizza restaurant at night. A crowd of adorable little mice gathers outside the restaurant window, watching the chef and celebrating the delicious pizza.
+> 
+> High-quality stylized 3D animation, expressive character faces, adorable mouse animation, detailed food textures, realistic melted cheese stretching, warm cinematic lighting, smooth camera movements, dynamic action, funny storytelling, consistent character designs, premium animated movie quality, vertical 9:16, 30 seconds, no text, no logos, no watermark.
