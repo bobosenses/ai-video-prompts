@@ -1,6 +1,6 @@
 # 广告带货
 
-共 19 条。
+共 20 条。
 
 ## 2026-10-24（1）
 
@@ -1041,3 +1041,64 @@
 > IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
 > 
 > MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
+
+## 2026-11-19（1）
+
+### GRAVITY RUN：森林漂移赛车广告 30 秒
+
+- **工具**：Seedance 2.5（Frameo） · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2122955011428860403)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：30 秒横屏好莱坞风赛车商业片：每 3 秒一段共十段时间轴（无人机揭幕、座舱特写、漂移、细节微距、FPV 追车、收尾英雄镜头），含参考图锁定（@image1-3 为角色、赛车、道路参考）与音频、连续性要求，适合汽车类广告。
+
+> GRAVITY RUN — THE ULTIMATE FOREST DRIFT
+> 
+> Create an ultra-photorealistic Hollywood motorsport commercial. Duration EXACTLY 30 seconds, 16:9 widescreen, 60fps target.
+> 
+> REFERENCE LOCK:
+> @image1 = Protagonist identity and wardrobe reference. Preserve exact face, hairstyle, beard, body proportions and brown leather jacket, black shirt, cargo pants and boots.
+> @image2 = Exact racing car reference. Preserve black and neon-green livery, number 44, widebody design, racing wheels, aerodynamic body kit and oversized green rear wing.
+> @image3 = Exact forest mountain road environment. Preserve winding asphalt roads, double yellow lines, dense trees, guardrails and golden-hour lighting.
+> 
+> No antagonist or additional characters. Only the protagonist and racing car.
+> 
+> VISUAL STYLE:
+> Premium Hollywood automotive cinematography, realistic vehicle physics, cinematic lighting, detailed materials, natural motion blur, realistic reflections and dramatic tire smoke.
+> 
+> 30-SECOND TIMELINE:
+> 
+> 00:00–00:03 | OPENING
+> Aerial drone reveal of the winding forest road. Racing car approaches. Extreme macro shot of spinning front wheel.
+> 
+> 00:03–00:06 | DRIVER REVEAL
+> Interior cockpit close-up of protagonist's face, focused eyes, hands gripping steering wheel, dashboard and gear selector macro shots.
+> 
+> 00:06–00:09 | FIRST DRIFT
+> Low-angle side tracking shot as the car enters a corner. Close-up of rear tire spinning and producing realistic smoke.
+> 
+> 00:09–00:12 | DRIVER CONTROL
+> Cinematic face close-up, eyes, steering corrections and gloved hands. Exterior front tracking shot.
+> 
+> 00:12–00:15 | CAR DETAILS
+> Extreme macro shots of alloy wheels, brake calipers, carbon-fiber bodywork, exhaust and rear diffuser.
+> 
+> 00:15–00:18 | FPV CHASE
+> Fast FPV drone follows the car through winding forest bends, transitioning into an overhead aerial orbit.
+> 
+> 00:18–00:21 | COCKPIT ACTION
+> Passenger-side close-up of protagonist driving, eye detail, gear shift, steering wheel and side mirror reflections.
+> 
+> 00:21–00:24 | CLIMAX
+> Spectacular sustained drift. Dynamic 180-degree camera orbit, low-angle tire tracking and overhead drone reveal.
+> 
+> 00:24–00:27 | ACCELERATION
+> Rear bumper tracking shot as the car regains traction and accelerates through the forest road.
+> 
+> 00:27–00:30 | FINAL HERO SHOT
+> Dramatic front three-quarter vehicle shot, followed by aerial pullback as the car disappears around a forest bend.
+> 
+> AUDIO:
+> Original high-energy cinematic electronic motorsport soundtrack, powerful engine revs, turbo sounds, gear shifts, exhaust pops, tire squeals and realistic environmental ambience.
+> 
+> CONTINUITY:
+> Maintain exact protagonist identity, outfit, car design, number 44, vehicle proportions and environment throughout. Every action must follow realistic physics. Smooth cinematic transitions, detailed macro photography and immersive cockpit cinematography. One continuous 30-second video.

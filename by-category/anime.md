@@ -1,6 +1,6 @@
 # 动漫
 
-共 13 条。
+共 14 条。
 
 ## 2026-10-25（2）
 
@@ -1027,3 +1027,46 @@
 > Visual Style: Premium Pixar-inspired 3D animation, adorable character designs, highly detailed facial expressions, realistic fabric textures, beautiful lighting, cinematic camera angles, smooth natural character animation, warm family atmosphere, vibrant but soft colors, consistent toddler character throughout all scenes, professional animated short-film quality.
 > 
 > Format: Vertical 9:16, 20 seconds, 4K quality, smooth transitions, no subtitles, no watermark.
+
+## 2026-11-19（1）
+
+### 《不会飞的小龙》30 秒 3D 动画短片
+
+- **工具**：Seedance 2.5（Pollo AI） · **时长**：30 秒
+- **作者**：@john_my07 · [原帖](https://x.com/john_my07/status/2122943272427635153)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：30 秒横屏家庭向 3D 动画：翠绿小龙不会飞，经蝴蝶启发后终于飞上金色天空。含角色一致性设定、六段分镜、旁白文案和配乐要求，叙事完整。结尾要求出现 Pollo 品牌字样，改写时可去掉。
+
+> Create an exactly 30-second, high-quality cinematic 3D animated short story titled "The Little Dragon Who Couldn't Fly."
+> 
+> FORMAT: 16:9 landscape, polished cinematic composition, beautiful family-friendly animated movie aesthetic, expressive character animation, fluid movements, detailed environments, vibrant colors, cinematic lighting and professional storytelling.
+> 
+> MAIN CHARACTER CONSISTENCY:
+> A tiny, adorable emerald-green baby dragon with a rounded body, oversized expressive amber eyes, two small golden horns, tiny wings, a cream-colored belly, little claws and a short curved tail. Maintain exactly the same character design, proportions, colors and facial features throughout every scene.
+> 
+> SCENE 1 (0–5 seconds):
+> Open with a beautiful wide shot of a magical mountain landscape during golden hour. Several magnificent dragons soar gracefully across the sky. On a grassy hill below, the little green dragon watches them with sparkling eyes and dreams of flying. Slowly push the camera toward his hopeful expression.
+> 
+> SCENE 2 (5–11 seconds):
+> The little dragon enthusiastically spreads his tiny wings, runs forward and jumps into the air. He flaps as hard as he can but immediately loses balance and tumbles harmlessly into a soft patch of grass. Add adorable, expressive facial animation and a little moment of comedic timing.
+> 
+> SCENE 3 (11–17 seconds):
+> The dragon sits sadly with his head lowered. A beautiful glowing butterfly gently lands on his nose. His expression changes from disappointment to curiosity. He watches the butterfly lift into the air and flutter freely around him.
+> 
+> SCENE 4 (17–24 seconds):
+> Inspired by the butterfly, the little dragon stands up, takes a deep breath and spreads his wings again. This time, he jumps confidently. His wings begin flapping powerfully, and he slowly rises above the grassy hill. His eyes widen with excitement as he realizes he is finally flying.
+> 
+> SCENE 5 (24–27 seconds):
+> Show a breathtaking cinematic wide shot of the little dragon flying above soft golden clouds, with the glowing sunset illuminating his green scales. He performs a joyful little loop in the sky.
+> 
+> SCENE 6 (27–30 seconds):
+> End with the little dragon soaring happily toward the golden horizon. Transition into a clean, elegant final frame featuring the text: "Your imagination. Your stories. Made with Pollo Story Video."
+> 
+> AUDIO AND STORYTELLING:
+> Use a warm, expressive narrator with natural pacing. Suggested narration:
+> "Every dragon dreamed of flying. But one little dragon just couldn't. He fell, he failed, and almost gave up. Then he found the courage to try once more. And this time... he flew."
+> 
+> Add gentle magical orchestral background music that gradually builds into an uplifting emotional finish. Include subtle environmental sound effects, wing flaps and a soft magical sparkle when the dragon finally takes flight.
+> 
+> IMPORTANT:
+> Make this one complete standalone animated short film, not an episode or trailer. Ensure smooth transitions, consistent character appearance, believable movement, expressive emotions and a satisfying ending. No unnecessary scenes, no abrupt cuts, no visual glitches, no character redesigns and no real-world logos except the Pollo branding in the final frame.

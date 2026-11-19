@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 11 条。
+共 12 条。
 
 ## 2026-10-24（1）
 
@@ -426,3 +426,56 @@
 > * Detailed environmental storytelling with believable background characters.
 > 
 > * No modern electric equipment, smartphones, contemporary clothing, or modern vehicles.
+
+## 2026-11-19（1）
+
+### 瑞士阿尔卑斯旅行短片《时间静止之地》25 秒
+
+- **工具**：Seedance 2.5（Modellix） · **时长**：25 秒
+- **作者**：@Hope_Ai01 · [原帖](https://x.com/Hope_Ai01/status/2123000820182688034)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：25 秒写实旅行风光短片：女探险者在雪山湖边发现挂着灯笼的小木船和手写便条，金色阳光穿云而出，航拍拉远收尾。五段式叙事，含音频与画质要求，偏旅游宣传片气质。
+
+> Create a breathtaking 25-second ultra-photorealistic cinematic travel film titled "The Place Where Time Stood Still."
+> 
+> Storyline:
+> 
+> A young female explorer arrives alone at a breathtaking location in the Swiss Alps. She believes she is simply visiting another beautiful mountain destination, but an unexpected discovery turns this ordinary morning into an unforgettable experience.
+> 
+> Scene 1 (0–5 seconds): The Arrival
+> 
+> Wide cinematic aerial shot of majestic snow-covered Swiss Alps during early morning. A young woman wearing an elegant cream winter coat, beige scarf, and premium hiking boots walks slowly onto a wooden observation deck. Her hair moves naturally in the cold mountain breeze. Golden sunlight gently illuminates the mountain peaks.
+> 
+> Scene 2 (5–10 seconds): The Discovery
+> 
+> Camera slowly moves behind her shoulder as she notices something unusual across the turquoise lake: a tiny wooden boat floating peacefully near the shore, with a warm glowing lantern inside. Her expression changes from peaceful curiosity to genuine wonder.
+> 
+> Scene 3 (10–16 seconds): The Magical Moment
+> 
+> She walks down a beautiful wooden pathway toward the lake. Cinematic tracking shot follows her movements. Snow gently falls around her. She discovers a small handwritten note inside the boat. She opens it and smiles emotionally. The note reads: "Some places make you forget the world."
+> 
+> Scene 4 (16–21 seconds): The Emotional Reveal
+> 
+> She looks up toward the mountains. Suddenly, sunlight breaks through the clouds, creating breathtaking golden reflections across the turquoise lake. Capture her genuine emotional reaction, with a beautiful close-up of her face and natural wind movement in her hair.
+> 
+> Scene 5 (21–25 seconds): The Perfect Ending
+> 
+> Epic cinematic drone shot slowly pulls away, revealing the tiny explorer standing beside the beautiful lake, surrounded by enormous snow-covered mountains, pine forests, and a luxury alpine lodge. End with a peaceful, unforgettable travel-film atmosphere.
+> 
+> Visual Direction:
+> 
+> - Extremely realistic human appearance and natural facial expressions.
+> - Maintain identical face, hairstyle, clothing, and body proportions throughout all scenes.
+> - Authentic Swiss Alpine environment.
+> - Natural cinematic camera movements and seamless transitions.
+> - Realistic snow, water reflections, atmospheric fog, and wind physics.
+> - Beautiful early-morning golden-hour lighting.
+> - Premium luxury travel advertisement aesthetic.
+> - Shot on ARRI Alexa 65 with cinematic anamorphic lenses.
+> - Rich natural colors, realistic depth of field, detailed textures.
+> - No cartoon appearance, no CGI look, no artificial skin, no distorted hands, no flickering, no character changes.
+> - 4K ultra-high-detail photorealistic quality.
+> 
+> Audio: Soft emotional cinematic piano with gentle orchestral strings, natural mountain wind, subtle footsteps in snow, and peaceful lake ambience.
+> 
+> Ending: A beautiful cinematic fade-out.

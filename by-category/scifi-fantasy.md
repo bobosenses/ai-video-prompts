@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 24 条。
+共 25 条。
 
 ## 2026-10-24（1）
 
@@ -1681,3 +1681,109 @@
 > Scene 4: Show her standing heroically with her sword, looking powerful and divine.
 > 
 > Ultra-realistic 3D fantasy animation, stunning cinematic lighting, detailed feathers, realistic movements, epic atmosphere, smooth camera transitions, 4K quality, vertical 9:16 format. Maintain consistent character appearance throughout.
+
+## 2026-11-19（1）
+
+### ⭐ 韩系超自然动作恐怖：实验室里的觉醒少女 20 秒
+
+- **工具**：Seedance 2.5（Higgsfield） · **时长**：20 秒
+- **作者**：@divahere_ngl · [原帖](https://x.com/divahere_ngl/status/2123094411060117758)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：20 秒写实超自然动作恐怖：雨天旧实验室里被围堵的韩国女学生眼睛变白、血管纹浮现，用武术反杀并掀起蓝色冲击波，离开时影子变成巨大怪影。时间轴、镜头、音效、禁忌项齐全，结构完整。提示词里的 {{Girl}} 是角色参考图占位符。
+
+> Create a 20-second ultra-realistic Korean supernatural action-horror sequence with Hollywood-quality cinematography, intense martial arts choreography, and convincing cinematic visual effects.
+> 
+> MAIN CHARACTER – HAE-RIN
+> 
+> Use {{Girl}} as the precise visual identity reference for HAE-RIN, a petite 18-year-old Korean schoolgirl with long black hair and bangs.
+> 
+> Her appearance must remain identical throughout the video:
+> Navy school blazer
+> White shirt
+> Red ribbon
+> Grey plaid skirt
+> Consistent facial features, hairstyle, and body proportions
+> 
+> Do not introduce character or wardrobe changes.
+> 
+> SETTING
+> 
+> An aging Korean high-school science laboratory on a rainy afternoon. The room contains glass display cabinets, laboratory benches, scattered textbooks, flickering fluorescent lights, and large windows covered in raindrops.
+> 
+> The atmosphere should feel tense, isolated, and unsettling.
+> 
+> ACTION SEQUENCE
+> 
+> Opening – The Bullying (0–4 seconds)
+> 
+> HAE-RIN sits quietly at her desk, concentrating on her notebook. Five male classmates surround her.
+> 
+> One boy tears a page from her notebook while their leader grabs her blazer collar and mocks her in Korean.
+> 
+> She slowly lifts her head without saying a word.
+> 
+> The Transformation (4–7 seconds)
+> 
+> Her eyes gradually turn completely milky white. Dark vein-like markings spread across her face and hands as her fingers begin twitching unnaturally.
+> 
+> The fluorescent lights flicker violently. A chilling supernatural scream echoes through the laboratory.
+> 
+> The First Attack (7–11 seconds)
+> 
+> Without warning, she catches the leader's wrist, delivers a powerful elbow strike, and follows with a fast spinning kick.
+> 
+> He is thrown backward across the laboratory desks.
+> 
+> Three other boys rush toward her simultaneously. She dodges their punches with effortless precision, performs a rapid spinning sweep, and launches one attacker into a glass display cabinet.
+> 
+> Shattered glass bursts through the air.
+> 
+> The Final Confrontation (11–16 seconds)
+> 
+> The last attacker charges while swinging a metal laboratory stool.
+> 
+> HAE-RIN catches it with one hand in mid-air, bends its metal frame, and immediately launches a devastating jumping axe kick.
+> 
+> A huge translucent blue shockwave erupts from the impact.
+> 
+> Tables, chairs, and laboratory equipment are thrown across the room as the remaining attacker crashes into the cabinets.
+> 
+> The Aftermath (16–20 seconds)
+> 
+> Everything suddenly becomes silent.
+> 
+> Her eyes return to their natural appearance and the dark markings disappear.
+> 
+> She calmly picks up her torn notebook, glances at the terrified boys, and walks toward the exit.
+> 
+> As she leaves, her shadow briefly transforms into an enormous monstrous silhouette before returning to normal.
+> 
+> End on a chilling cinematic shot.
+> 
+> CAMERA & CINEMATOGRAPHY
+> 
+> Use aggressive handheld tracking, sudden whip-pans, intense facial close-ups, dramatic low-angle shots, realistic camera shake during impacts, natural motion blur, and brief slow-motion moments during the strongest attacks.
+> 
+> Maintain clear spatial continuity so every movement connects naturally.
+> 
+> VISUAL EFFECTS & SOUND
+> 
+> Photorealistic supernatural transformation, subtle blue energy distortions, realistic glass destruction, physically convincing martial arts, and detailed environmental damage.
+> 
+> Sound design should include heavy rain, fluorescent light buzzing, authentic Korean dialogue, punches, kicks, metal bending, glass shattering, supernatural vocal effects, and powerful impact sounds.
+> 
+> No background music and no subtitles.
+> 
+> CRITICAL GENERATION REQUIREMENTS
+> 
+> Total duration must be exactly 20 seconds.
+> Maintain identical facial identity and clothing throughout.
+> Keep the combat fast, intense, and easy to follow.
+> Every action must connect smoothly without disconnected sequences.
+> Supernatural abilities should look powerful but visually believable.
+> Preserve realistic human anatomy, movement, and environmental physics.
+> Aim for premium live-action Korean supernatural horror-film quality.
+> 
+> NEGATIVE PROMPT
+> 
+> No anime, cartoon, gaming aesthetics, artificial CGI appearance, plastic skin, character morphing, face changes, outfit changes, duplicated characters, distorted anatomy, unrealistic martial arts, floating objects, excessive visual effects, random text, subtitles, watermarks, or background music.

@@ -1,6 +1,6 @@
 # 动作
 
-共 24 条。
+共 25 条。
 
 ## 2026-10-24（1）
 
@@ -1741,3 +1741,26 @@
 > 
 > IMPORTANT CONSISTENCY RULES:
 > Maintain the exact same girl, face, hairstyle, school uniform, and hallway throughout the video. Keep all boys visually consistent. Smooth transitions between action sequences. Realistic stunt choreography, controlled falls, no blood, no gore, and no graphic injuries.
+
+## 2026-11-19（1）
+
+### 雨夜沉默武士拔刀 20 秒
+
+- **工具**：Seedance 2.0 · **时长**：20 秒
+- **作者**：@CodesWithAli · [原帖](https://x.com/CodesWithAli/status/2123125816213299296)
+- **按日归档**：[by-date/2026-11-19.md](../by-date/2026-11-19.md)
+- **概要**：20 秒竖屏 3D 写实武士短片：雨夜木造村落，斗笠武士走过窄廊，听到敌人逼近后转身拔刀，慢动作拔刀配雨滴与布料物理。五镜头、篇幅短，适合入门改写。
+
+> Create a cinematic, ultra-realistic 3D Japanese Samurai warrior video, 20 seconds long, vertical 9:16 format.
+> 
+> Scene 1: A mysterious samurai wearing a traditional black outfit and a wide straw hat stands silently in an ancient Japanese wooden village during a rainy evening.
+> 
+> Scene 2: Slowly move the camera closer as the samurai walks through a narrow wooden corridor. Cinematic close-up of his intense eyes, showing courage and determination.
+> 
+> Scene 3: Suddenly, he hears an enemy approaching. He quickly turns around, grabs his katana sword and takes a powerful fighting stance.
+> 
+> Scene 4: Show an epic slow-motion sword draw with dramatic camera movement, flying rain droplets, and realistic cloth physics.
+> 
+> Scene 5: End with the samurai standing confidently, holding his sword, with dramatic cinematic lighting.
+> 
+> Style: Hyper-realistic 3D animation, Japanese historical atmosphere, dark moody lighting, detailed textures, dramatic storytelling, professional movie cinematography, smooth transitions, 4K quality.
