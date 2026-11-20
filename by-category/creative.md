@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 38 条。
+共 39 条。
 
 ## 2026-10-24（1）
 
@@ -1408,3 +1408,107 @@
 > Scene 6 (25–30s): End with a magical exterior view of the warmly glowing Italian pizza restaurant at night. A crowd of adorable little mice gathers outside the restaurant window, watching the chef and celebrating the delicious pizza.
 > 
 > High-quality stylized 3D animation, expressive character faces, adorable mouse animation, detailed food textures, realistic melted cheese stretching, warm cinematic lighting, smooth camera movements, dynamic action, funny storytelling, consistent character designs, premium animated movie quality, vertical 9:16, 30 seconds, no text, no logos, no watermark.
+
+## 2026-11-20（1）
+
+### ⭐ GTA VI 风「奶奶的电动小滑板车」30 秒 3D 喜剧
+
+- **工具**：Seedance（GTA VI 风 3D 动画，需人物参考图） · **时长**：30 秒
+- **作者**：@apaajadesainin · [原帖](https://x.com/apaajadesainin/status/2123417543453081691)
+- **按日归档**：[by-date/2026-11-20.md](../by-date/2026-11-20.md)
+- **概要**：30 秒横屏 GTA 风格 3D 犯罪喜剧：两个女生抢了奶奶的老年代步车，发动机狂吼却慢如蜗牛，奶奶徒步追到累倒。五段式分镜 + 台词 + 画面与音效要求，笑点反差清晰，很适合改写角色。
+
+> # 🎬 VIDEO PROMPT — GTA VI: THE GRANDMA SCOOTER HEIST
+> 
+> **Duration:** 30 Seconds  
+> **Style:** GTA VI Inspired Cinematic 3D Animation, Open-World Crime Comedy, Rockstar-Style Satirical Humor  
+> **Aspect Ratio:** 16:9 Widescreen  
+> **Quality:** 4K UHD, 24 FPS, Ultra-Detailed CGI, HDR, Realistic Lighting  
+> **Genre:** Comedy, Crime, Action, Street Chase
+> 
+> ### CHARACTER CONSISTENCY
+> Use the EXACT SAME TWO WOMEN from the provided reference image throughout the entire video. Preserve their original faces, hairstyles, body proportions, outfits, accessories, and identities. Do not redesign or change their appearances.
+> 
+> ### SCENE 1 — THE TARGET (0–5 SECONDS)
+> A sunny afternoon on a busy Vice City street.
+> 
+> An elderly grandmother is slowly riding her tiny, old-fashioned scooter along the sidewalk.
+> 
+> The two women notice the scooter. They exchange mischievous looks and smile.
+> 
+> Camera: Cinematic close-up of their faces, followed by a dramatic shot of the grandmother's scooter.
+> 
+> ### SCENE 2 — THE SCOOTER HEIST (5–10 SECONDS)
+> The two women suddenly approach the grandmother.
+> 
+> One woman jumps onto the scooter's driver seat while the other quickly climbs onto the back.
+> 
+> The grandmother looks completely shocked.
+> 
+> Grandmother:
+> "HEY! THAT'S MY SCOOTER!"
+> 
+> The two women accelerate away, laughing hysterically.
+> 
+> Camera: Dynamic handheld tracking shot, fast cinematic cuts, exaggerated comedic reactions.
+> 
+> ### SCENE 3 — FULL SPEED, ZERO PROGRESS (10–19 SECONDS)
+> The scooter engine screams at maximum RPM.
+> 
+> The exhaust releases thick smoke. The wheels spin rapidly. The two women lean forward like professional street racers.
+> 
+> BUT THE SCOOTER IS MOVING EXTREMELY SLOWLY!
+> 
+> Despite the engine running at full power, the scooter crawls forward at an absurdly slow walking speed.
+> 
+> The two women scream dramatically as if traveling at 200 MPH.
+> 
+> One woman:
+> "FASTER! FASTER!"
+> 
+> The other:
+> "I'M ALREADY FULL THROTTLE!"
+> 
+> Camera: Low-angle tracking shot, spinning wheels, exaggerated speed effects, funny contrast between intense engine sounds and ridiculously slow movement.
+> 
+> ### SCENE 4 — GRANDMA'S REVENGE (19–25 SECONDS)
+> The grandmother starts chasing them on foot.
+> 
+> She runs with incredible determination, waving her arms and shouting angrily.
+> 
+> Grandmother:
+> "COME BACK HERE, YOU LITTLE THIEVES!"
+> 
+> She keeps running but gradually becomes exhausted.
+> 
+> Her breathing gets heavier. Her steps become slower. She finally trips and falls dramatically onto the sidewalk.
+> 
+> The two women continue riding slowly in the background, completely unaware.
+> 
+> Camera: Wide cinematic shot showing the ridiculous distance between the slow scooter and the exhausted grandmother.
+> 
+> ### SCENE 5 — THE PERFECT ESCAPE (25–30 SECONDS)
+> The two women look back and finally notice the grandmother lying exhausted on the sidewalk.
+> 
+> They exchange a victorious high-five while still riding the painfully slow scooter.
+> 
+> One woman:
+> "WE MADE IT!"
+> 
+> The scooter continues moving at an absurdly slow pace.
+> 
+> Final shot: The grandmother raises one trembling hand in frustration while the scooter slowly disappears into the distance.
+> 
+> End with a GTA VI-style cinematic freeze-frame and dramatic comedic music sting.
+> 
+> ### VISUAL & AUDIO DIRECTION
+> - Premium GTA VI-inspired open-world visuals.
+> - Realistic Vice City streets, palm trees, traffic, pedestrians and colorful storefronts.
+> - Detailed facial expressions and exaggerated physical comedy.
+> - Cinematic camera movement, tracking shots, whip pans and dramatic close-ups.
+> - Powerful scooter engine revving despite extremely slow movement.
+> - Funny contrast between high-speed racing sound effects and slow-motion-like scooter movement.
+> - Natural character animation and realistic physics.
+> - Consistent character design in every shot.
+> - No character swapping, no outfit changes, no face distortion, no random extra protagonists.
+> - No subtitles, no watermarks, no unnecessary text.

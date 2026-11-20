@@ -1,7 +1,7 @@
 # 按分类索引
 
-- [创意趣味](creative.md)（38）
-- [科幻奇幻](scifi-fantasy.md)（25）
+- [创意趣味](creative.md)（39）
+- [科幻奇幻](scifi-fantasy.md)（26）
 - [动作](action.md)（25）
 - [动漫](anime.md)（14）
 - [广告带货](ads-commerce.md)（20）
