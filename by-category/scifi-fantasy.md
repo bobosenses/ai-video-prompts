@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 25 条。
+共 26 条。
 
 ## 2026-10-24（1）
 
@@ -1787,3 +1787,30 @@
 > NEGATIVE PROMPT
 > 
 > No anime, cartoon, gaming aesthetics, artificial CGI appearance, plastic skin, character morphing, face changes, outfit changes, duplicated characters, distorted anatomy, unrealistic martial arts, floating objects, excessive visual effects, random text, subtitles, watermarks, or background music.
+
+## 2026-11-20（1）
+
+### ⭐ 《没有人类的地球》15 秒写实科幻短片
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@iamahmedfaraz66 · [原帖](https://x.com/iamahmedfaraz66/status/2123486677100613772)
+- **按日归档**：[by-date/2026-11-20.md](../by-date/2026-11-20.md)
+- **概要**：15 秒横屏超写实科幻：人类消失 300 年后，被自然吞没的都市里唯一的女孩漫步，仰望穿透摩天楼的巨树。四个镜头、色彩分级、声音与一致性要求完整，氛围治愈。
+
+> Create a 15-second ultra-photorealistic cinematic science-fiction short film titled "Earth Without Humans".
+> MAIN CHARACTER: A beautiful 24-year-old Korean woman with long, slightly messy dark hair, natural facial features, minimal makeup, an oversized dark maroon hoodie, loose dark cargo pants, worn hiking boots and a small weathered backpack. She is the only human in the entire world. Maintain identical facial identity, hairstyle, clothing and body proportions throughout every shot. Her personality is quiet, curious and contemplative.
+> SETTING: Earth approximately 300 years after humanity mysteriously disappeared. A once-modern metropolis has been completely reclaimed by nature. Enormous trees grow through abandoned skyscrapers, ivy covers buildings, moss blankets roads, abandoned vehicles sit beneath vegetation, and birds freely inhabit the ruins. Beautiful golden sunlight filters through atmospheric mist. The environment should feel hauntingly peaceful rather than frightening.
+> SHOT 1 (00:00–00:04):
+> Begin with an extraordinary extreme-wide aerial establishing shot of an abandoned futuristic city completely overtaken by nature. Tall skyscrapers disappear into greenery. A massive ancient tree rises above the city. The camera slowly descends towards a lonely young woman walking along an overgrown avenue. Epic cinematic scale and realistic atmospheric depth.
+> SHOT 2 (00:04–00:08):
+> Cut to a medium tracking shot from behind the woman as she walks through the abandoned street. Her long hair moves gently in the breeze. She passes an old rusted car covered in moss. Small birds suddenly fly out of a broken building window. She stops and looks around, quietly fascinated by the beauty of this forgotten world.
+> SHOT 3 (00:08–00:12):
+> She slowly looks upwards. The camera follows her gaze, tilting dramatically towards an enormous ancient tree growing through a shattered skyscraper. Golden sunlight breaks through its branches. Leaves drift gently through the air. A small flock of birds circles above the canopy. The scale should feel breathtaking.
+> SHOT 4 (00:12–00:15):
+> Cut to an intimate cinematic close-up of the woman's face as she watches the birds. A subtle, emotional smile appears. Camera slowly pulls back to reveal her standing alone beneath the enormous tree, surrounded by an entire city reclaimed by nature. Finish on a beautiful wide composition with sunlight and mist filling the abandoned skyline.
+> CINEMATOGRAPHY: Premium Hollywood science-fiction film aesthetic, photorealistic live-action appearance, anamorphic lenses, sophisticated cinematic framing, natural depth of field, realistic skin texture, physically accurate hair and fabric movement, volumetric golden sunlight, atmospheric fog, detailed vegetation and believable environmental physics. Smooth professional camera movements and natural motion blur.
+> COLOUR GRADING: Muted forest greens, earthy browns, soft golden highlights and cool atmospheric shadows. Rich cinematic contrast without oversaturation.
+> AUDIO: Natural wind moving through trees, distant birdsong, rustling leaves, subtle footsteps on damp concrete and atmospheric environmental ambience. No dialogue, no narration, no artificial music.
+> STRICT CONSISTENCY: Exactly one human character throughout. No additional people, no duplicate characters, no face morphing, no wardrobe changes, no distorted anatomy, no unnatural walking, no flickering, no sudden camera jumps, no frame skipping, no subtitles, no text, no logos or watermarks.
+> The final result should look like an actual scene from a high-budget science-fiction feature film, not an AI-generated montage.
+> 15 seconds, 16:9 landscape, ultra-photorealistic.
