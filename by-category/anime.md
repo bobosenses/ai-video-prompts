@@ -1,6 +1,6 @@
 # 动漫
 
-共 14 条。
+共 15 条。
 
 ## 2026-10-25（2）
 
@@ -1070,3 +1070,39 @@
 > 
 > IMPORTANT:
 > Make this one complete standalone animated short film, not an episode or trailer. Ensure smooth transitions, consistent character appearance, believable movement, expressive emotions and a satisfying ending. No unnecessary scenes, no abrupt cuts, no visual glitches, no character redesigns and no real-world logos except the Pollo branding in the final frame.
+
+## 2026-11-21（1）
+
+### 血月火山：日式黑暗奇幻动漫对决（30 秒）
+
+- **工具**：Seedance 2.5（@frameo_ai） · **时长**：30 秒
+- **作者**：@arsalannazir07 · [原帖](https://x.com/arsalannazir07/status/2123832828295344319)
+- **按日归档**：[by-date/2026-11-21.md](../by-date/2026-11-21.md)
+- **概要**：30 秒 16:9 剧场版动漫风：火焰战士对水晶战士，血色月亮火山战场，分场景（秒数）编排。
+
+> Create a breathtaking 30-second, ultra-cinematic Japanese dark-fantasy anime battle sequence featuring two immensely powerful supernatural warriors fighting to the death on a desolate volcanic battlefield beneath a gigantic blood-red moon.
+> 
+> Visual direction: Premium theatrical anime animation, exceptionally detailed character designs, fluid high-speed combat choreography, dramatic lighting, atmospheric depth, dynamic camera movements, spectacular elemental VFX, beautifully rendered environments, and professional anime movie-level production quality. Widescreen 16:9 composition.
+> 
+> CHARACTER 1 – THE INFERNO WARRIOR:
+> A terrifying, athletic, dark-armored warrior with long flowing black hair, glowing fiery red-orange energy surrounding his body, and a massive blazing sword. His attacks generate enormous spiraling firestorms, molten energy waves, and explosive flames. His movements are aggressive, powerful, and unpredictable.
+> 
+> CHARACTER 2 – THE CRYSTAL WARRIOR:
+> A mysterious, slender but formidable dark warrior with long black hair, dark battle armor, and enormous radiant violet crystalline spikes extending outward from his back like an otherworldly energy formation. Wields a glowing purple energy blade and possesses extraordinary speed, precision, and ice-like supernatural powers. Violet crystal formations emerge from the ground whenever he attacks.
+> 
+> SCENE-BY-SCENE CHOREOGRAPHY
+> 
+> SCENE 1 – THE AWAKENING (0–4 seconds)
+> Establish an enormous volcanic wasteland beneath a gigantic crimson moon. Dark clouds move across the sky as ash and glowing embers float through the atmosphere. Two mysterious warriors stand far apart on opposite sides of the battlefield. The camera slowly pushes toward them. Suddenly, both warriors launch themselves toward each other at incredible speed. Their weapons collide, producing a spectacular explosion of orange and violet energy.
+> 
+> SCENE 2 – THE FIRST CLASH (4–8 seconds)
+> A sequence of incredibly fast sword exchanges. The Inferno Warrior attacks with powerful flaming horizontal strikes while the Crystal Warrior effortlessly dodges and counters with violet energy slashes. The camera follows their movements with dynamic tracking shots, dramatic close-ups, and brief slow-motion moments. Every weapon collision creates showers of sparks and powerful shockwaves.
+> 
+> SCENE 3 – ELEMENTAL POWERS UNLEASHED (8–14 seconds)
+> The Crystal Warrior leaps backward and summons enormous violet crystal spikes that erupt from the ground and form a radiant crystalline formation behind him. Simultaneously, the Inferno Warrior raises his blazing sword, summoning a gigantic spiral of living fire. Both supernatural attacks expand across the battlefield, illuminating the red moon. They release their powers simultaneously, creating a massive collision of fire and purple energy.
+> 
+> SCENE 4 – THE MID-AIR BATTLE (14–19 seconds)
+> Both warriors launch into the sky. The camera rotates around them as the Crystal Warrior attacks with multiple violet energy blades while the Inferno Warrior counters with devastating flaming sword strikes. Their silhouettes move against the enormous blood-red moon. Introduce spectacular aerial choreography, fluid character animation, detailed hair and clothing movement, and carefully timed slow-motion weapon clashes.
+> 
+> SCENE 5 – THE INFERNO SPIRAL (19–24 seconds)
+> The Inferno Warrior unleashes an enormous circular fire vortex that expands around the battlefield. The Crystal Warrior emerges through the flames, surrounded by radiant purple crystalline spikes. Both charge toward each other. Their swords meet in a blinding explosion of violet light, golden sparks, and molten fire. The camera rapidly moves closer to capture the intensity of the impact.

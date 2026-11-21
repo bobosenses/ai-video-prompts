@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 26 条。
+共 27 条。
 
 ## 2026-10-24（1）
 
@@ -1814,3 +1814,57 @@
 > STRICT CONSISTENCY: Exactly one human character throughout. No additional people, no duplicate characters, no face morphing, no wardrobe changes, no distorted anatomy, no unnatural walking, no flickering, no sudden camera jumps, no frame skipping, no subtitles, no text, no logos or watermarks.
 > The final result should look like an actual scene from a high-budget science-fiction feature film, not an AI-generated montage.
 > 15 seconds, 16:9 landscape, ultra-photorealistic.
+
+## 2026-11-21（1）
+
+### ⭐ 博物馆里的黑曜怪物：防毒面具第一视角（30 秒）
+
+- **工具**：Seedance 2.5（需 2 张参考图：特战队员 + 怪物） · **时长**：30 秒
+- **作者**：@tokyo_Valentine · [原帖](https://x.com/tokyo_Valentine/status/2123626158017405144)
+- **按日归档**：[by-date/2026-11-21.md](../by-date/2026-11-21.md)
+- **概要**：30 秒 16:9 写实恐怖一镜到底：阳光下怪物冻结如石像，阴影中高速移动，逐秒分镜。规则型设定很有特色，篇幅较长。
+
+> 30 seconds, 16:9. Photorealistic live-action horror. One unbroken take through one operator's gas-mask goggles. Action movie camera work continues every 1 second. Every move comes from the wearer's head or body. The curved goggle rim is faint. Breath fogs the edges, leaving the center readable. My rifle stays visible along the bottom edge until the final fall.
+> 
+> @ Image 1, special operations operator. Four operators: me, the leader, the machine gunner and the rookie, all in @ Image 1 kit. Match the multicam uniform, coyote helmet and carrier, dark goggles, black respirator and gloves.
+> 
+> @ Image 2, Obsidian. Every creature matches @ Image 2. Height 4.8 m. Smooth tapered ivory head, no eyes or nose, fine tooth seam low on the face, dark ribbed torso, pale muscle, long clawed arms and a base of coiled black tendrils.
+> Rule: any part of an @ Image 2 Obsidian in direct sunlight is frozen like stone. Any part in shadow moves, fast and constantly: gliding on coiling tendril bases, crawling along walls and ceilings, climbing over each other like a tide. In crowd views, fully resolve three to five foreground @ Image 2 Obsidians in motion; show the rest as moving silhouettes.
+> 
+> Setting: a closed museum by day. A white gallery lit by a skylight, its sunlight falling in a sharp diagonal across the floor. Through a doorway, the tall, windowless main hall has lost power. From inside the hall, the gallery doorway is a bright white rectangle, the only way out.
+> 
+> ACT 1 - THE STATUE
+> 00–01  Already walking. Over my teammates' helmets, an @ Image 2 Obsidian stands on a plinth. The diagonal sunlight covers its body, but its ivory head, high above the beam, is in shadow. At the plinth's base lies a dropped @ Image 1 helmet from the missing first team.
+> 01–02  As the leader passes beneath it, the @ Image 2 Obsidian's head slowly turns a full ninety degrees, following him. Its body stays frozen in the sunlight. No one else looks up.
+> 02–03  The head turns further and stops facing straight into my goggles. I snap my rifle up at it.
+> 03–04  The leader pushes my barrel down without looking up and signals forward. We cross through the doorway into the dark hall. Rifle lights snap on.
+> 
+> ACT 2 - THE HALL
+> 04–05  My beam sweeps rows of plinths. Every plinth is empty.
+> 05–06  A scrape from above. I tilt up.
+> 06–07  Dozens of @ Image 2 Obsidians cling to the ceiling and pillars, all heads already turned toward us.
+> 07–08  They drop. The nearest @ Image 2 Obsidian lands in my beam and glides straight at us on its coiling tendrils.
+> 08–10  The machine gunner opens fire on my left. Muzzle flashes strobe the hall. Rounds dimple pale skin and sink in. The @ Image 2 Obsidians never flinch and come faster, flowing over each other across the floor and up the walls.
+> 10–11  A tendril from the ceiling wraps the gunner's vest.
+> 11–12  He is yanked straight up into the dark, still firing. His last flashes climb the wall and stop.
+> 12–13  The leader grabs my shoulder and points back at the bright doorway. Retreat.
+> 
+> ACT 3 - THE RUN
+> 13–15  I turn and sprint. The bright doorway bounces ahead. On both walls, @ Image 2 Obsidians race alongside us in the dark, keeping pace.
+> 15–16  The rookie, running on my right, goes down hard. Floor tendrils of an @ Image 2 Obsidian have his boot.
+> 16–17  He reaches an open glove toward mine. Our fingertips come within an inch.
+> 17–18  His glove slips away. He slides feet first back into the dark.
+> 18–20  Ten meters to the door. An @ Image 2 Obsidian lunges from the left. The leader shoves me forward with both hands.
+> 20–21  I tumble through the doorway into the sunlight and land at the foot of the plinth. Behind me, tendrils wrap the leader and drag him back into the hall.
+> 
+> ACT 4 - THE LINE
+> 21–22  I roll onto my back on the sunlit floor, rifle up, facing the doorway.
+> 22–24  The whole swarm of @ Image 2 Obsidians surges to the doorway and stops dead where sunlight meets shadow. Tendril tips hover a hand's width from the light. Heads tilt. Only my breathing.
+> 24–25  Hold on the frozen wall of ivory heads. My rifle lowers slightly.
+> 25–26  The sunlight dims as a cloud crosses the skylight. The edge of the light slides back across the floor toward me.
+> 26–27  As the shadow passes over them, the @ Image 2 Obsidians pour across the threshold.
+> 27–28  Above me, the same @ Image 2 Obsidian from the plinth, now fully in shadow, bends down until its blank face is a hand's width from my goggles.
+> 28–29  The seam at the base of its face parts, revealing two rows of tiny interlocking fangs.
+> 29–30  It lunges. The view rolls sideways to tile level. A ribbed black tendril crosses the lens. Full black.
+> 
+> Use only sounds from the scene. Hear filtered breathing, boots on stone, tendrils scraping stone and ceiling, the wet rattle of many tendrils moving at once, gunfire and its echoes, the rookie's boot scraping away, the leader's muffled cry, sudden silence at the light line, and the final thud. No music, spoken lines or narration. Keep every human injury offscreen in darkness. No blood, HUD, subtitles, logos or reference-sheet graphics.
