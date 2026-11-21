@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 39 条。
+共 41 条。
 
 ## 2026-10-24（1）
 
@@ -1512,3 +1512,62 @@
 > - Consistent character design in every shot.
 > - No character swapping, no outfit changes, no face distortion, no random extra protagonists.
 > - No subtitles, no watermarks, no unnecessary text.
+
+## 2026-11-21（2）
+
+### ⭐ 巨石坠入深渊砸穿薄冰（15 秒竖屏一镜到底）
+
+- **工具**：Seedance 2.5（文生视频，@makeugc） · **时长**：15 秒
+- **作者**：@Sleaper_ · [原帖](https://x.com/Sleaper_/status/2123807782914666974)
+- **按日归档**：[by-date/2026-11-21.md](../by-date/2026-11-21.md)
+- **概要**：15 秒 9:16 手机竖拍一镜到底：灰色巨石从 50 米高石桥坠入峡谷，砸穿冰河。分秒时间轴 + 物理与禁忌约束写得很细，适合做‘解压’类素材。
+
+> Create a 15-second photorealistic vertical 9:16 video, 1080 × 1920, delivered at 60 fps. One continuous handheld smartphone shot of a heavy gray rock falling from a high stone bridge and breaking through thin ice far below.
+> 
+> The bridge spans a deep, narrow forest gorge approximately 50 meters above a frozen river. Weathered stone masonry appears along the right edge of the frame. Pine trees, bare birches, and rocky banks surround the dark, reflective ice below. Cold afternoon daylight, realistic colors, clear photographic detail.
+> 
+> Film from the viewpoint of someone standing on the bridge. The camera remains on the bridge throughout, tilting downward to follow the rock. Use smooth, moderately slowed footage with a strong sense of gravity and increasing speed. The long fall comes from the substantial height. Avoid an excessively slow, floating appearance.
+> 
+> 0–2 seconds — Release.
+> Open with one irregular gray rock, approximately 30 centimeters across, already leaving the immediate foreground beside the lens. It has rough chipped edges and dark mineral patches. No hands or people are visible.
+> The rock moves slightly outward over the edge, then falls. The camera immediately tilts downward after it, revealing the considerable distance to the frozen river. A section of the bridge remains visible on the right.
+> 
+> 2–10 seconds — Long descent.
+> Follow the same rock through a long, uninterrupted fall. It rotates gently while accelerating downward, becoming progressively smaller as it moves away from the camera. Its trajectory is mostly vertical with a slight outward drift.
+> 
+> Keep the rock visible against the dark ice. The surrounding gorge establishes the height: steep rocky banks, tall trees, and their reflections on the frozen surface. Maintain subtle handheld movement and continuous tracking. The rock never hovers, pauses, changes shape, or reverses direction.
+> 10–13 seconds — Final approach.
+> The rock rapidly closes the remaining distance to the ice. Introduce a smooth, restrained zoom toward the landing area, keeping the rock centered and the approaching impact clearly readable. The camera stays at the original elevated viewpoint.
+> 
+> The ice remains completely intact until the rock makes contact at approximately 13 seconds. Show its reflection drawing closer beneath it immediately before impact.
+> 
+> 13–15 seconds — Impact and immediate ending.
+> At 13 seconds, the rock strikes the frozen surface. Bright branching cracks instantly spread outward from the contact point. Angular pieces of thin ice break apart, and the rock punches through into the dark water.
+> A short, compact splash rises through the opening, lifting a few transparent ice fragments. Show the initial splash and the clearly fractured ice for approximately two seconds, then end abruptly while droplets are still airborne. Finish at exactly 15 seconds.
+> 
+> Audio: Faint wind and quiet forest ambience during the fall. At contact, a sharp ice crack followed immediately by a deep splash and brief ice clinks. Synchronize these sounds precisely with the visible impact. No dialogue or music.
+> 
+> Preserve one rock, one continuous fall, and one impact. Realistic gravity, consistent scale, natural reflections, and physically believable ice fracture. No cuts, replay, underwater view, captions, logos, or watermarks.
+
+### 从印度黑客买 GTA 6 的 PC 玩家（30 秒喜剧）
+
+- **工具**：Seedance 2.5（@makeugc） · **时长**：30 秒
+- **作者**：@SerJArt7trp · [原帖](https://x.com/SerJArt7trp/status/2123754717352169884)
+- **按日归档**：[by-date/2026-11-21.md](../by-date/2026-11-21.md)
+- **概要**：30 秒竖屏滑稽短剧：老电脑翻新、满怀期待、发现 GTA VI 没有 PC 版后崩溃砸机箱。分段到秒，含声音设计。
+
+> A short comedy video gently poking fun at PC gamers waiting for GTA VI. Vertical 9:16 format, about 30 seconds, cinematic photorealism, fast-paced editing, and expressive facial reactions. Keep the same man, room, and computer consistent throughout every scene.
+> 
+> **0–5 sec.** A man finds his gaming PC, which has been sitting unused for about ten years. The case is covered in a thick layer of dust and cobwebs. He grabs a cloth and a can of compressed air and carefully cleans it. Clouds of dust swirl through a beam of light. He sneezes but keeps cleaning.
+> 
+> **5–10 sec.** Reveal the computer in all its glory: a huge, expensive case with a transparent side panel, powerful components, lots of fans, bright RGB lighting, and neon accents. It looks like an incredibly powerful, high-end gaming PC. The man admires it proudly.
+> 
+> **10–15 sec.** The man goes to the store and comes home with bags of snacks. He sets out chips, a large pizza, and a bottle of Coca-Cola on the desk, preparing for a gaming marathon.
+> 
+> **15–20 sec.** He turns on the computer. The fans spin up, neon lights glow inside the case, and the monitor comes to life. The man sits down, opens YouTube, and starts a video about GTA VI. The video clearly says: “GTA VI is coming to PlayStation 5 and Xbox Series X|S. No PC release date has been announced.” The YouTube video shows a presenter delivering the news.
+> 
+> **20–23 sec.** The man’s smile slowly disappears. He stares at the monitor in disbelief, then looks at his glowing supercomputer with growing, comically exaggerated frustration.
+> 
+> **23–30 sec.** He suddenly grabs the keyboard and, in an over-the-top comedic outburst, starts hitting the computer case with it. With each hit, the RGB lights flicker, the fans stop, and the neon glow fades. In the final shot, the man stands beside the battered computer while the YouTube video is still visible on the monitor. He looks into the camera in complete despair. The scene should feel like absurd slapstick comedy, with no injuries or blood.
+> 
+> **Sound:** Dust rustling, sneezing, fan noise, the computer powering up, calm narration from the YouTube video, a sharp comedic musical accent when the console news is revealed, then a few dull keyboard strikes against the case followed by sudden silence. The music should be energetic and comedic without drowning out the narration or sound effects. Do not add random text or dialogue.

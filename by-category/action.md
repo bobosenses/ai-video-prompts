@@ -1,6 +1,6 @@
 # 动作
 
-共 25 条。
+共 26 条。
 
 ## 2026-10-24（1）
 
@@ -1764,3 +1764,55 @@
 > Scene 5: End with the samurai standing confidently, holding his sword, with dramatic cinematic lighting.
 > 
 > Style: Hyper-realistic 3D animation, Japanese historical atmosphere, dark moody lighting, detailed textures, dramatic storytelling, professional movie cinematography, smooth transitions, 4K quality.
+
+## 2026-11-21（1）
+
+### NEON BLOODLINE：地下霓虹酒廊功夫大战（30 秒）
+
+- **工具**：Seedance 2.5（@wavespeed_ai，需 3 张参考图） · **时长**：30 秒
+- **作者**：@Xaroon_x · [原帖](https://x.com/Xaroon_x/status/2123783413043765535)
+- **按日归档**：[by-date/2026-11-21.md](../by-date/2026-11-21.md)
+- **概要**：30 秒 16:9 好莱坞式格斗：西装主角在地下酒廊以踢技放倒一群打手，3 秒一段时间轴，含角色锁定。
+
+> NEON BLOODLINE — THE LAST MAN STANDING
+> 
+> SEEDANCE 2.5 | 30 SECONDS | 16:9 | HOLLYWOOD ACTION
+> 
+> Create an ultra-realistic Hollywood martial arts action sequence inside a luxurious underground neon lounge.
+> 
+> CHARACTER LOCK:
+> @image1 = Male protagonist. Preserve exact face, hairstyle, beard, skin tone and body structure. Outfit: fitted black formal suit, white shirt, black tie and black leather shoes.
+> 
+> @image2 = Gang of male enforcers, including bald baton-wielding fighters, black-suited attackers and a towering muscular bald heavy hitter wearing a sleeveless black tank top.
+> 
+> @image3 = Luxury underground lounge with dark wooden flooring, long wooden bar, glowing blue liquor shelves, red-orange LED lighting, exposed ceiling rafters, black bar stools, cocktail tables and large wooden double doors.
+> 
+> TIMELINE — EXACTLY 30 SECONDS
+> 
+> 00:00–00:03: A suited attacker swings a baton. The protagonist dodges and delivers a powerful side kick, sending him crashing over a bar stool.
+> 
+> 00:03–00:06: A bald attacker charges from the left. The protagonist snap-kicks him, pivots and launches the first attacker over the bar into glass bottles.
+> 
+> 00:06–00:09: Two baton-wielding attackers approach. He ducks a swing, delivers two punches and a devastating roundhouse kick, throwing one across the floor.
+> 
+> 00:09–00:12: The bald attacker charges again. The protagonist performs an incredible backward aerial flip and kicks him through a glass display.
+> 
+> 00:12–00:15: A towering muscular bald fighter enters and throws a powerful haymaker. The protagonist dodges and kicks his midsection.
+> 
+> 00:15–00:18: The giant swings again. The protagonist ducks, sweeps his legs and drops him onto the floor. He then kicks another attacker into the wooden bar paneling.
+> 
+> 00:18–00:21: Two attackers approach from opposite sides. The protagonist strikes the first and launches a jumping side kick, sending the second into the wooden double doors.
+> 
+> 00:21–00:24: More enforcers attack. He deflects one attacker and kicks a bald baton-wielder onto the floor.
+> 
+> 00:24–00:27: The protagonist executes a powerful flying side kick, launching another attacker through the damaged bar counter, destroying its remaining wooden panels.
+> 
+> 00:27–00:30: The final attacker charges. The protagonist delivers a devastating roundhouse kick, launching him through the double doors in an explosion of wooden splinters and dust. End with the protagonist standing victorious.
+> 
+> CAMERA & AUDIO: Dynamic low-angle tracking, cinematic wide shots, side-profile combat framing, controlled handheld movement, original aggressive orchestral-electronic soundtrack, synchronized punches, kicks, glass shattering and wooden destruction.
+> 
+> CONTINUITY LOCK: Preserve all character identities, outfits, facial features, weapons, location geometry and lighting. Every attack must show actual movement, contact and physical consequences. Maintain realistic anatomy, momentum and impact.
+> 
+> NEGATIVE: No face swapping, character duplication, distorted anatomy, teleportation, random wardrobe changes, skipped actions, reversed chronology, cartoon physics, unnecessary slow motion, subtitles or watermarks.
+> 
+> Generate exactly one continuous 30-second photorealistic Hollywood action sequence.
