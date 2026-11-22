@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 27 条。
+共 29 条。
 
 ## 2026-10-24（1）
 
@@ -1868,3 +1868,79 @@
 > 29–30  It lunges. The view rolls sideways to tile level. A ribbed black tendril crosses the lens. Full black.
 > 
 > Use only sounds from the scene. Hear filtered breathing, boots on stone, tendrils scraping stone and ceiling, the wet rattle of many tendrils moving at once, gunfire and its echoes, the rookie's boot scraping away, the leader's muffled cry, sudden silence at the light line, and the final thud. No music, spoken lines or narration. Keep every human injury offscreen in darkness. No blood, HUD, subtitles, logos or reference-sheet graphics.
+
+## 2026-11-22（2）
+
+### ⭐ 天界泰坦之战（15 秒 分秒时间轴）
+
+- **工具**：未标注（文生视频） · **时长**：15 秒
+- **作者**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2124214008769077697)
+- **按日归档**：[by-date/2026-11-22.md](../by-date/2026-11-22.md)
+- **概要**：两位女巫统领山一样的巨人在浮空王国大战，结构清晰：角色、分段镜头、摄影、音频、连贯性、避免项。
+
+> THE BATTLE OF THE CELESTIAL TITANS
+> 
+> DURATION: 15 seconds | 16:9 widescreen
+> STYLE: Ultra-photorealistic Hollywood live-action epic fantasy, colossal titan warfare, breathtaking celestial magic, monumental scale, realistic cinematic destruction.
+> 
+> MAIN CHARACTERS:
+> A magnificent silver-haired celestial sorceress with luminous golden eyes and intricate white-gold armor commands radiant giants. Her rival, a regal raven-haired sorceress with violet eyes and obsidian armor, commands towering shadow titans. Both have realistic faces, flowing hair, and commanding expressions.
+> 
+> 0-3s | THE ARMIES OF GODS:
+> Extreme-wide aerial shot above a shattered kingdom floating among enormous clouds. Two armies of mountain-sized armored titans face each other across a vast chasm. Golden celestial giants stand behind the silver-haired sorceress, while black-armored titans gather behind her rival. Dramatic low-angle close-ups reveal both queens preparing their magic.
+> 
+> 3-6s | THE TITANS ADVANCE:
+> Ground-level tracking shot beside gigantic armored feet shaking floating stone platforms. The golden titan charges toward an immense black-armored rival. Both sorceresses levitate above their armies, unleashing spiraling golden and violet magical energy. Thunderstorms swirl between the approaching giants.
+> 
+> 6-10s | THE MOUNTAIN-SPLITTING STRIKE:
+> Spectacular low-angle wide shot. The golden titan swings its enormous radiant fist into the black titan's raised shield. Their impact releases a colossal shockwave that splits a nearby floating mountain in half. Gigantic stone fragments drift apart through the clouds as golden lightning illuminates both towering figures.
+> 
+> 10-15s | THE CELESTIAL CATACLYSM:
+> Extreme-wide aerial pullback. Both sorceresses raise their hands, surrounding their titans with enormous rotating magical rings. The opposing armies clash amid brilliant golden-violet shockwaves. Final image: the two colossal titans stand on opposite sides of the fractured mountain, while both sorceresses hover above them beneath a sky illuminated by celestial magic.
+> 
+> CINEMATOGRAPHY:
+> Premium large-format live-action realism, dramatic low angles, sweeping aerial tracking, realistic stone and metal textures, immense physical weight, convincing scale, volumetric clouds, atmospheric depth, cinematic gold-violet contrast.
+> 
+> AUDIO:
+> Thunderous titan footsteps, grinding stone armor, crackling celestial energy, colossal shield impact, splitting mountain rock, powerful orchestral crescendo. No dialogue.
+> 
+> CONTINUITY:
+> Exactly two sorceresses, one leading golden titans and one leading black-armored titans. One primary golden titan and one primary black titan remain visually consistent. Same floating kingdom and fractured mountain throughout.
+> 
+> AVOID:
+> Graphic violence, injuries, cartoon giants, plastic CGI, toy-like proportions, weightless movement, distorted faces, extra limbs, duplicate main characters, excessive neon, chaotic editing, text, logos, watermarks.
+
+### 战争机器觉醒（15 秒 5 镜头）
+
+- **工具**：Wan 3.0（@ImagineArt_X） · **时长**：15 秒
+- **作者**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2124163503447564616)
+- **按日归档**：[by-date/2026-11-22.md](../by-date/2026-11-22.md)
+- **概要**：古代机械要塞变形为巨型攻城机器，抓碎悬停战舰；5 个分镜 + 连贯性与限制条款。
+
+> Ultra-photorealistic Hollywood sci-fi action. One continuous rocky battlefield at dusk. An ancient mechanical fortress stands embedded in a mountain. One black armored battleship hovers directly above it. A small elite strike team attacks from the ground. Massive practical-scale destruction, realistic metallic surfaces, physically believable momentum, cinematic contrast and heavy atmospheric dust.
+> 
+> SHOT 1 | 0–3s | GROUND-LEVEL LOW ANGLE
+> Explosive charges detonate along the fortress's lower reactor housing. Steel panels blast outward. Two armored soldiers duck behind a rock barrier as a shockwave tears across the ground. The hovering battleship remains visible overhead.
+> 
+> SHOT 2 | 3–6s | HIGH THREE-QUARTER ANGLE
+> Gigantic mechanical locks release inside the fortress. Armor plates split apart, hydraulic pistons extend and the surrounding bedrock fractures. A colossal metal shoulder begins tearing free from the mountain amid falling boulders.
+> 
+> SHOT 3 | 6–9s | EXTREME LOW ANGLE
+> The fortress rises on two enormous mechanical legs. Its central structure becomes a towering armored torso. Rock cascades down its body as one gigantic articulated arm unfolds upward toward the hovering battleship. Show the continuous physical transformation.
+> 
+> SHOT 4 | 9–12s | BATTLESHIP-DECK PERSPECTIVE
+> The machine's colossal hand reaches the battleship and clamps around its central hull. Thick armor buckles inward. Engines rupture, fiery explosions burst through the vessel and massive debris falls toward the battlefield. The machine maintains its crushing grip.
+> 
+> SHOT 5 | 12–15s | FIXED LOW WIDE ANGLE
+> The fully awakened siege machine stands above the devastated fortress grounds, gripping the crushed, burning battleship. Debris finishes falling by 13 seconds. Its enormous armored silhouette dominates the frame. Hold the completed composition motionless for the final two seconds.
+> 
+> AUDIO:
+> Deafening explosions, deep mechanical unlocking, heavy hydraulic movement, grinding metal, collapsing rock, battleship engines rupturing, final ominous mechanical rumble. No dialogue or narration.
+> 
+> CONTINUITY:
+> One fortress transforms into one giant siege machine. One battleship stays above it until crushed. Two visible soldiers remain on the ground. Maintain consistent geography, proportions, vehicle design, scale, lighting and mechanical structure.
+> 
+> RESTRICTIONS:
+> No duplicated machines, vehicles or limbs. No teleportation, sudden design changes, arbitrary transformation cuts, empty running, camera drift, zoom-out, graphic injuries, famous faces, recognizable actors or public-figure likenesses.
+> 
+> Keep proportions. Keep style and features. Ratio 16:9.

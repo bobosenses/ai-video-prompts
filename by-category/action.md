@@ -1,6 +1,6 @@
 # 动作
 
-共 26 条。
+共 28 条。
 
 ## 2026-10-24（1）
 
@@ -1816,3 +1816,113 @@
 > NEGATIVE: No face swapping, character duplication, distorted anatomy, teleportation, random wardrobe changes, skipped actions, reversed chronology, cartoon physics, unnecessary slow motion, subtitles or watermarks.
 > 
 > Generate exactly one continuous 30-second photorealistic Hollywood action sequence.
+
+## 2026-11-22（2）
+
+### 两只大猩猩的燃烧战锤对决（20 秒竖屏）
+
+- **工具**：Seedance 2.5（@makeugc） · **时长**：20 秒
+- **作者**：@Zyvex_0x · [原帖](https://x.com/Zyvex_0x/status/2124154055186362562)
+- **按日归档**：[by-date/2026-11-22.md](../by-date/2026-11-22.md)
+- **概要**：20 秒 9:16 中世纪动作大片，5 个硬切镜头，三处慢动作，大规模实拍火焰与破坏。提示词较长，细节丰富。
+
+> FORMAT: 20 seconds, 9:16 vertical, photorealistic live-action medieval action blockbuster, 5 shots with hard cuts on action, fast brutal rhythm, three short slow-motion moments on the biggest hits, large-scale practical fire and destruction effects.
+> 
+> CINEMATIC QUALITY (mandatory, applies to every shot of this video):
+> Generate this video as real live-action footage from a top-budget feature film. It must be indistinguishable from a real camera shoot and never look AI-generated, CGI-plastic or animated. Shot on ARRI Alexa 65 with sharp high-end prime lenses, cinematography in the style of Greig Fraser: motivated natural light, soft realistic shadows, true-to-life exposure, deep but detailed blacks, no blown highlights. 24 fps with natural 180-degree shutter motion blur on all movement. Native high resolution with razor-sharp focus on the subject, crisp micro-contrast and high-frequency detail on every edge, skin pore and surface texture. Subtle organic film-like grain over the whole image, stable across frames. Natural, slightly muted real-world color grade with accurate skin tones. Keep this quality consistent from the first frame to the last, with no flicker, morphing, warping or texture shimmer.
+> 
+> CREATURE & LOOK QUALITY (applies to every shot):
+> Both gorillas must look like real living animals filmed on set, top-tier feature-film creature realism. Fur rendered strand by strand: coarse hairs with natural clumping, flyaways catching firelight, fur that reacts to every movement, wind and impact with correct weight and delay. Faces have deep wrinkles, pores, scars and fine hair on leathery skin, soft subsurface scattering in ears, lips and fingers. Eyes wet and alive, sharp catchlights, natural blinking. Readable facial performance: brow tension, bared teeth, flaring nostrils, heaving chest. Hands with leathery palms and knuckle creases gripping weapons with real pressure. Close-ups on long lenses with shallow depth of field and creamy bokeh, focus on the eyes. Air full of floating embers, smoke haze and ash catching the light. Muted earthy palette with deep shadows, warm amber firelight against cold blue night. No plastic skin, no waxy fur, no game-engine look.
+> 
+> REFERENCES: If photos are attached, they define the exact look of SIR BRUTUS, the BERSERKER and the courtyard. Keep them identical in every shot.
+> 
+> REALISM: Real gorilla anatomy and strength: massive shoulders, long arms, low wide stances, heavy weight shifts, knuckles touching the ground when they lunge. Every strike has four visible phases: wind-up, swing, one clear contact, consequence. Every impact transfers force: bodies slide, feet scrape and dig into cobblestones, stone cracks, wood splinters, metal dents and throws sparks, fur and cloak whip from the shock.
+> EFFECTS RULES: All effects look like real practical effects filmed on set. Fire is real burning tar and wood: thick orange flames, black smoke, flying embers, heat distortion, real moving firelight on fur, steel and stone. The burning hammer leaves a short trail of flame and sparks on every swing and never goes out. Sparks bounce and die on the wet ground. Debris falls with real weight. Water hitting fire turns into dense white steam with a loud hiss. Every effect comes from a visible physical cause.
+> SLOW MOTION RULES: Only three slow-motion moments, each about 1 second, ramping smoothly from real speed into slow motion just before contact and back to real speed right after: the first hammer impact on the shield (4.8s), the disarm (12.5s), the final shield strike (16.5s). In slow motion every spark, ember, water droplet, fur strand and splinter is sharp and visible.
+> 
+> CHARACTERS (both stay consistent in every shot):
+> - SIR BRUTUS: big muscular black-furred gorilla in polished but battle-scratched steel plate armor, OPEN-FACE steel helmet with a tall red feather plume, his whole gorilla face always fully visible. A round steel-rimmed wooden shield on his left arm, a longsword in a scabbard on his hip that he never draws. Fights calm, precise and defensive, using the shield as a weapon.
+> - BERSERKER: an even bigger scarred old silverback gorilla, bare chest and arms covered in thick fur, ragged black wolf-fur cloak, iron arm bracers, a huge two-handed iron war hammer with a long wooden handle, its head wrapped in tar-soaked rags. One white scar across his left eye. Fights wild, furious and with full power.
+> 
+> ENVIRONMENT: A medieval castle courtyard at night after a siege, fixed layout in every shot: wet cobblestone ground with puddles, a large iron fire brazier burning in the foreground left, a wooden cart in the foreground right, a stack of wooden wine barrels against the right wall, tall wooden scaffolding burning along the back wall held by thick wooden support posts, a long stone horse trough filled with water on the far left. Flickering warm orange firelight, cold blue moonlight from above, embers and ash drifting constantly, smoke haze.
+> 
+> TIMELINE:
+> SHOT 1 (0.0-3.5s), wide low angle on 35mm, camera near the ground behind puddles that reflect the fire, slow push-in:
+> 0.0-1.0s: The BERSERKER plunges the rag-wrapped head of his hammer into the burning brazier. It ignites with a roaring whoosh, flames climb up the rags, firelight explodes across his face, burning drops of tar fall and sizzle in a puddle, his scarred eye narrows.
+> 1.0-2.2s: He lifts the blazing hammer high with both hands and brings it down on the wooden cart. The cart explodes into a fireball of burning splinters and sparks, a wheel rolls away burning, splinters land and keep smoldering on the wet stones, the shockwave ruffles his cloak.
+> 2.2-3.5s: He points the hammer at SIR BRUTUS across the courtyard and roars: "Kneel!" SIR BRUTUS lowers his stance, raises the shield, steam from his breath, and answers quietly: "Never."
+> SHOT 2 (3.5-7.5s), handheld medium shot on 50mm from the side, both fighters full in frame from head to knees:
+> 3.5-4.5s: The BERSERKER charges, four heavy strides, puddles splashing, then raises the flaming hammer over his head with both arms fully extended. SIR BRUTUS plants his feet wide, left foot forward, bends his knees and lifts the shield above his head, angled slightly, braced with his shoulder and right hand on the rim.
+> 4.5-5.5s (slow motion): The hammer comes down. Single clear contact on the center of the shield. A ring-shaped shockwave of fire, sparks and puddle water blasts outward along the ground, the plume and fur whip back, burning rag fibers and embers spray off the hammer head, the shield dents inward and scorches black, the shock ripples visibly through Brutus's arms and armor plates.
+> 5.5-7.5s (real speed): SIR BRUTUS is driven down onto one knee and slides one meter back on the wet stones, cobblestones cracking under his knee. His teeth are clenched, veins visible under the fur of his forearm. He shoves the hammer off sideways with the shield, the hammer head scraping off the rim with sparks, and rises back to his feet.
+> SHOT 3 (7.5-11.0s), wide locked shot on 35mm showing both fighters full-body and the whole scaffolding behind them:
+> 7.5-8.5s: The BERSERKER pulls the hammer back over his right shoulder and swings it horizontally at head height with a trail of flame, his whole torso rotating, feet pivoting on the stones.
+> 8.5-9.3s: SIR BRUTUS ducks low under it, the flame passing inches over his plume. The hammer misses and smashes through a thick support post of the burning scaffolding behind him, wood exploding into burning chunks, the post snapping in two.
+> 9.3-11.0s: The scaffolding groans and starts collapsing in sections, burning beams crashing onto the cobblestones in bursts of embers, a wall of sparks rising behind them. In the same moment SIR BRUTUS springs up from the crouch and drives the steel rim of his shield upward into the BERSERKER's jaw. His head snaps back, spit and sweat fly, he stumbles two steps back, shaking his head, a burning beam crashing down between them a moment later.
+> SHOT 4 (11.0-15.0s), handheld medium close shot on 50mm, debris and embers still falling in the background:
+> 11.0-12.3s: The furious BERSERKER roars and swings the flaming hammer in a wide diagonal arc from high left to low right, stepping over the fallen burning beam, fire reflecting in his bared teeth.
+> 12.3-13.3s (slow motion): SIR BRUTUS steps inside the arc, catches the wooden handle with the edge of his shield, locks it against his armored forearm and twists his whole body. The hammer is ripped out of the BERSERKER's hands, flames spiraling around it, the BERSERKER's hands sliding off the handle and his body thrown off balance by his own momentum.
+> 13.3-15.0s (real speed): The flaming hammer flies across the courtyard and smashes into the wine barrels. They burst in a spray of dark wine, splinters and fire. Wine soaks the stones and catches small flickering flames around the barrels. The hammer lies there burning. The BERSERKER stares at his empty hands, then at SIR BRUTUS, nostrils flaring, rage building.
+> SHOT 5 (15.0-20.0s), low heroic angle on 35mm from behind SIR BRUTUS's shoulder, then the push-in finishes in front of him:
+> 15.0-16.3s: The BERSERKER beats his chest with both fists and charges bare-handed through falling embers, roaring. SIR BRUTUS plants his feet, turns his hips and draws the shield back over his right shoulder, holding it with both hands by the rim.
+> 16.3-17.3s (slow motion): He swings the shield in a full horizontal arc. Single clear contact on the side of the BERSERKER's head with a deep metallic boom. A dust and ember shockwave ripples outward, the BERSERKER's eyes roll, fur and skin on his face ripple from the impact, the shield rim bending slightly, sweat and water droplets frozen in the air.
+> 17.3-18.5s (real speed): The BERSERKER is knocked off his feet and falls backward into the stone horse trough. A huge wave of water splashes over the nearby fire and explodes into a dense white steam cloud with a loud hiss. Water keeps pouring over the trough edges. He lies in the trough dazed, conscious, arms hanging over the sides, not moving.
+> 18.5-20.0s: SIR BRUTUS stands among the flames and steam, beats his armored chest twice with his fist and lets out a powerful roar, as the last section of the scaffolding collapses behind him in a towering curtain of sparks. Steam and embers swirl around his silhouette, firelight flickers across his scorched shield and his face. Final frame: his face in close focus, breathing heavily, eyes calm. Hold until the end.
+> 
+> LIGHTING: Fire is always the motivated key light, flickering warm orange from the brazier, burning scaffolding and hammer. Cold blue moonlight is the rim light on fur and steel edges. Each explosion of fire briefly brightens faces and surroundings, then settles. Steam and smoke catch both lights and glow.
+> 
+> CAMERA: Shots 1 and 3 wide to show full bodies, space and the collapse. Shots 2 and 4 handheld, close to the action, camera reacting to impacts with a short real shake. Shot 5 low heroic angle. Cut on action only. Every contact is fully visible in frame, never hidden by a cut and never repeated from another angle.
+> 
+> AUDIO & DIALOGUE:
+> VOICE: Real human voice actors recorded in a studio, never synthetic, robotic or text-to-speech, with natural breath and imperfect real delivery, perfectly lip-synced to the gorilla mouths. All dialogue in English, only two lines: the BERSERKER (2.5s): "Kneel!" in a huge raw growling roar that echoes off the walls. SIR BRUTUS (3.0s): "Never." low, calm, deadly quiet. All other vocals are real primal gorilla roars, grunts of effort, chest beats and heavy breathing.
+> SOUND EFFECTS (mixed like a feature film in Dolby Atmos, real stone reverb): roaring whoosh of the hammer igniting, fireball explosion of the cart, splashing heavy footsteps, deep flaming whoosh on every swing, massive metallic clang with fire blast on the shield, cracking stone, groaning and snapping scaffolding, burning beams crashing, wrenching metal and wood on the disarm, barrels bursting, deep boom of the final shield strike, huge splash and violent steam hiss, crackling fires. In slow motion the sound drops into a low muffled rumble with a heartbeat, then slams back to full volume on the impact.
+> MUSIC (live orchestra, real musicians, epic action film score):
+> - 0.0-2.2s: low droning cellos and a single deep taiko hit on the cart explosion.
+> - 2.2-3.5s: music drops to silence under "Kneel!" and "Never."
+> - 3.5-4.5s: war drums and staccato strings explode with the charge.
+> - 4.5-5.5s: everything cuts to silence in slow motion, then a massive orchestral hit on the hammer impact.
+> - 5.5-11.0s: driving taiko, low brass and male choir, building with the scaffolding collapse.
+> - 11.0-15.0s: drums keep driving, a big brass stab exactly on the disarm at 12.5s, low strings under the BERSERKER's stare.
+> - 15.0-16.3s: drums accelerate with the final charge, choir rising.
+> - 16.3-17.3s: silence in slow motion, then the biggest choir and drum hit of the video on the final strike.
+> - 18.5-20.0s: a triumphant brass theme under Brutus's roar, fading into crackling fire.
+> Music never covers the dialogue or the key impacts.
+> 
+> CONTINUITY: The hammer burns from 1.0s until the end. The cart stays destroyed after 2.0s. The shield stays dented and scorched after 5.0s. The scaffolding keeps collapsing after 9.3s and fallen beams keep burning on the ground. After 13.5s the hammer lies burning by the smashed barrels and the BERSERKER is bare-handed. The BERSERKER stays in the trough after 17.5s. SIR BRUTUS keeps his open-face helmet, plume and shield the whole video and never draws the sword.
+> 
+> NEGATIVE CONSTRAINTS: No closed helmet, no hidden face, no human characters, no extra characters, no cartoon or animated look, no text, no subtitles, no logos. No blood, no gore. No extra limbs, no morphing, no weapon appearing or disappearing, no location change between shots, no repeated hits, no slow motion outside the three listed moments.
+
+### 零秒之战：冻结时间的导弹（15 秒）
+
+- **工具**：Wan 3.0（@ImagineArt_X） · **时长**：15 秒
+- **作者**：@DeCat2025 · [原帖](https://x.com/DeCat2025/status/2124281889724993985)
+- **按日归档**：[by-date/2026-11-22.md](../by-date/2026-11-22.md)
+- **概要**：飞行员在时间冻结中改写导弹轨道，击毁指挥泰坦；5 个分镜，附音频与限制。
+
+> Ultra-photorealistic Hollywood sci-fi action, premium live-action cinematography, enormous physical scale, intense combat and realistic destruction. A devastated futuristic battlefield at dusk. One special-forces pilot wears a distinctive matte-black armored time-displacement suit with thin cyan energy conduits. Directly ahead stands one enormous enemy command titan, an angular black mechanical war machine with a glowing red chest reactor and shoulder-mounted missile batteries.
+> 
+> SHOT 1 | 0–3s | LOW TRACKING ANGLE
+> The armored pilot charges through the broken remains of a concrete defensive barrier as the command titan unleashes a massive missile volley. Explosions rip across the battlefield. The pilot activates the suit with a sharp cyan energy flash just before the incoming missiles arrive.
+> 
+> SHOT 2 | 3–6s | HIGH THREE-QUARTER ANGLE
+> Time freezes abruptly. Hundreds of missiles hang motionless above the battlefield, their exhaust flames suspended in midair. Debris and shockwaves become perfectly still. The pilot alone moves through the frozen destruction, heading directly toward one large missile aimed at the destroyed barrier.
+> 
+> SHOT 3 | 6–9s | MISSILE-LEVEL SIDE ANGLE
+> The pilot reaches the suspended missile and clamps a magnetic steering device onto its guidance assembly. The device rotates the missile's nose toward the titan's exposed red chest reactor. Cyan electrical fractures spread through the frozen air as the unstable time field begins collapsing.
+> 
+> SHOT 4 | 9–12s | EXTREME LOW ANGLE
+> Time resumes violently. The redirected missile accelerates into the command titan's chest reactor. A massive explosion tears open its frontal armor. The titan recoils under the impact, its giant mechanical legs buckle, and its upper body crashes backward into the battlefield, sending a wall of dust and wreckage outward.
+> 
+> SHOT 5 | 12–15s | FIXED GROUND-LEVEL WIDE ANGLE
+> The pilot stands in the foreground facing the fallen command titan. The titan's shattered chest burns behind the pilot as its last red reactor light goes dark. Fragments finish falling by 13 seconds. Smoke drifts across the ruined battlefield. Hold this completed cinematic composition unchanged for the final two seconds.
+> 
+> AUDIO:
+> Deafening missile launches, heavy mechanical cannon fire, thunderous explosions, sharp cyan time-activation pulse, sudden complete silence during frozen time, violent return of battlefield sound, deep metal collapse, final low-frequency cinematic rumble. No dialogue or narration.
+> 
+> CONTINUITY:
+> Exactly one pilot and one enemy command titan. Maintain the pilot's matte-black armor and cyan suit lights. Maintain the titan's black angular design, red reactor and exact location. The missile the pilot redirects must be the same missile that strikes the titan. One continuous battlefield, consistent screen direction, physical cause and effect, realistic mass and momentum.
+> 
+> RESTRICTIONS:
+> No extra pilots or titans, no duplicated body parts, no teleporting objects, no character or vehicle redesign, no arbitrary camera drift, no zoom-out, no face close-ups, no graphic injuries, no recognizable celebrity faces or public-figure likenesses. No unfinished final action.
+> 
+> Keep proportions. Keep style and features. Ratio 16:9.
