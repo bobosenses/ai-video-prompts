@@ -1,6 +1,6 @@
 # 广告带货
 
-共 20 条。
+共 21 条。
 
 ## 2026-10-24（1）
 
@@ -1102,3 +1102,89 @@
 > 
 > CONTINUITY:
 > Maintain exact protagonist identity, outfit, car design, number 44, vehicle proportions and environment throughout. Every action must follow realistic physics. Smooth cinematic transitions, detailed macro photography and immersive cockpit cinematography. One continuous 30-second video.
+
+## 2026-11-23（1）
+
+### 迷你照片打印机开箱 UGC 广告（15 秒）
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@abs_crea8or · [原帖](https://x.com/abs_crea8or/status/2124417116870684882)
+- **按日归档**：[by-date/2026-11-23.md](../by-date/2026-11-23.md)
+- **概要**：手机拍摄质感的 15 秒开箱带货广告，分镜、台词和音效齐全。
+
+> Create a high-energy, realistic 15-second User Generated Content (UGC) product advertisement featuring a Senegalese man in his mid-to-late 20s unboxing and testing a premium mini photo printer.
+> 
+> The video should feel like authentic smartphone footage captured at home, not a traditional commercial. Use rapid jump cuts, satisfying ASMR sounds, natural reactions, realistic movements, and cinematic product close-ups.
+> 
+> PRODUCT: PRINTPOP MINI PHOTO PRINTER.
+> 
+> A premium pocket-sized wireless photo printer featuring a matte-sand-beige body with brushed rose-gold accents, a soft-touch rounded top lid, a single illuminated power button, a small LED battery indicator, a slim paper output slot, a USB-C charging port, a pack of 10 sticky-back photo paper sheets, and a soft zippered carrying pouch.
+> 
+> SHOT 1: THE ARRIVAL (0-2s)
+> 
+> [Medium shot, eye-level]
+> 
+> The man sits cross-legged on his living room floor with a small delivery box branded "PRINTPOP MINI" in front of him. He tears the sealing tape open in one satisfying motion.
+> 
+> SFX: Loud, crisp tape ripping sound.
+> 
+> SHOT 2: THE REVEAL (2-4s)
+> 
+> [Medium shot, slightly low angle]
+> 
+> He lifts the lid, pulls the printer from its carrying pouch, and reveals the matte-sand-beige body and rose-gold accents. He looks genuinely impressed.
+> 
+> Dialogue: "Okay, this finally came!"
+> 
+> SFX: Cardboard movement, pouch zipper opening, soft packaging rustling.
+> 
+> SHOT 3: THE CLOSE LOOK (4-7s)
+> 
+> [Full shot, clean jump cut]
+> 
+> He holds the PRINTPOP MINI up to the camera, runs his thumb along the rose-gold trim, and flips open the lid to load a sheet of photo paper. He taps the power button, which glows, and his phone shows a pairing pop-up he taps to connect.
+> 
+> Dialogue: "Look at this! It's tiny but looks so premium."
+> 
+> SFX: Lid clicking open, paper sliding in, soft button click, Bluetooth connection tone.
+> 
+> SHOT 4: THE PRINT TEST (7-11s)
+> 
+> [Close-up, 45-degree angle]
+> 
+> He selects a photo on his phone and taps print. The printer whirs softly as a vivid, sharp photo slides out of the slot. He peels the sticky backing, presses the print onto his notebook cover, and raises his eyebrows, clearly impressed by the color quality.
+> 
+> SFX: Soft printer whirring, paper sliding out, sticker backing peeling.
+> 
+> SHOT 5: THE FINAL EXPERIENCE (11-13s)
+> 
+> [Medium shot, eye-level]
+> 
+> He fans out a handful of freshly printed photos, holds one up beside his face, and smiles directly at the camera.
+> 
+> Dialogue: "Wait... I'm printing every memory now!"
+> 
+> SHOT 6: HERO PRODUCT SHOT (13-15s)
+> 
+> [Slow cinematic close-up]
+> 
+> The PRINTPOP MINI sits on a wooden coffee table beside its open box, carrying pouch, a stack of colorful prints, and a phone showing a photo gallery. Soft natural window light reflects across the matte-sand-beige body and rose-gold accents.
+> 
+> Final dialogue: "This is officially my new favourite upgrade."
+> 
+> VIDEO STYLE:
+> 
+> - Vertical 9:16 format.
+> - Total duration: 15 seconds.
+> - Ultra-realistic smartphone footage.
+> - Natural human movements and expressions.
+> - Fast-paced jump cuts.
+> - Crisp product details.
+> - Realistic button presses, LED glow, and photo printing.
+> - Authentic ASMR sound design.
+> - Natural indoor lighting.
+> - No artificial-looking CGI.
+> - Consistent product design across every shot.
+> - Accurate hand movements and realistic product interactions.
+> 
+> The final result should look like a genuine viral product-review video filmed by a real customer.

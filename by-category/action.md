@@ -1,6 +1,6 @@
 # 动作
 
-共 28 条。
+共 29 条。
 
 ## 2026-10-24（1）
 
@@ -1926,3 +1926,27 @@
 > No extra pilots or titans, no duplicated body parts, no teleporting objects, no character or vehicle redesign, no arbitrary camera drift, no zoom-out, no face close-ups, no graphic injuries, no recognizable celebrity faces or public-figure likenesses. No unfinished final action.
 > 
 > Keep proportions. Keep style and features. Ratio 16:9.
+
+## 2026-11-23（1）
+
+### ⭐ 盲眼宗师庭院以一敌四（20 秒）
+
+- **工具**：Seedance 2.5（Dreamina） · **时长**：20 秒
+- **作者**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2123854016589234383)
+- **按日归档**：[by-date/2026-11-23.md](../by-date/2026-11-23.md)
+- **概要**：赛博黑色美学的 20 秒一镜到底武术戏，慢动作与变速分段清晰。
+
+> Ultra-realistic martial-arts action scene with a premium cyber-noir time-bending aesthetic. Shot on ARRI Alexa 35 with anamorphic lenses. One seamless 20-second continuous shot combining slow-motion accents, smooth orbit moves, low-angle tracking and sudden speed ramps. High-contrast daylight in a clean stone courtyard, subtle dust in the air, elegant cloth movement, cinematic depth, no modern logos.
+> 
+> Central figure: elderly blind martial-arts master, thin but powerful build, white hair, lined face, no glasses, visibly blind pale eyes, calm expression, simple dark traditional clothing, walking cane in one hand. Opponents: four adult men in dark streetwear, aggressive body language, surrounding him from all sides. The old master remains completely composed and moves with impossible precision.
+> 
+> Open stone courtyard between modern concrete walls and old temple-like architecture, bright daylight, minimal clean background, strong shadows.
+> Photorealistic action, fluid choreography, precise martial-arts timing, visible blind eyes, stable character continuity, elegant speed ramps, readable combat geography, realistic body mechanics, subtle time-bending feel, no gore, normal proportions without stretch.
+> 
+> 0-5s: Low-angle medium-wide tracking - The elderly blind master stands alone at center, lightly leaning on his cane. Four men circle him. Close-up on his pale blind eyes, then on his hand loosening from the cane. One attacker rushes first.
+> 
+> 5-10s: Slow-motion orbit into speed ramp - Time seems to stretch. The old master tilts his head slightly, senses the movement, slips aside by inches, redirects the first attacker with a minimal hand motion, then uses the cane to sweep another man’s legs with effortless precision.
+> 
+> 10-15s: Dynamic handheld tracking - The remaining men attack together. The old master flows through them with shocking ease: one palm redirect, one elbow, one pivot, one spinning cane strike, one soft sidestep. Every move is clean, economical and devastatingly efficient. The attackers lose balance and crash into each other.
+> 
+> 15-20s: Hero push-in and final wide reveal - The final attacker lunges. The old master catches the motion instantly, stops him with two fingers to the chest, then sends him sliding backward with a controlled burst of force. Silence. All four men are down around him. He calmly lifts his cane, turns his blind eyes toward camera and says in English: “You rely on sight. I rely on truth.”
