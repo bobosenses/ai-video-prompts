@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 42 条。
+共 44 条。
 
 ## 2026-10-24（1）
 
@@ -1631,3 +1631,51 @@
 > AUDIO: All sound recorded by the camcorder's built in mic in a small carpeted room. Real human voices with breathy, uneven delivery, shouts that clip the cheap mic, panting, overlapping laughter. The woman has a warm natural American voice. The operator laughs loudly close to the mic. Padded sock steps, door whooshes, latch click, booming heavy steps, the rattling glass, a huge hollow wooden crash that briefly overloads the mic, the flat slam of the door on the floor, splinters tapping. No music, no narrator, no sound effects that sound like a cartoon.
 > 
 > KEEP: Five natural fingers on each hand. The door keeps the same size, color and three left hinges, and never reassembles after breaking. No blood or injury, everyone gets up or moves after falling. No extra people beyond the six described, no duplicates. No text, subtitles, timestamps, logos or camcorder UI. No cuts, no slow motion, no freeze frames, no light dimming. Real live-action footage filmed in real life. Not 3D, not CGI, not animation, not a render, not a video game, not cartoon, no plastic or glossy look.
+
+## 2026-11-23（2）
+
+### ⭐ 过山车假发倒带（30 秒一镜到底）
+
+- **工具**：Seedance 2.5（RunningHub） · **时长**：30 秒
+- **作者**：@ZDuo_MoreAi · [原帖](https://x.com/ZDuo_MoreAi/status/2123798521078014102)
+- **按日归档**：[by-date/2026-11-23.md](../by-date/2026-11-23.md)
+- **概要**：过山车上假发飞出、时间冻结再精准倒带的 30 秒一镜到底，分段时间轴写得很清楚。
+
+> Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
+> 0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
+> 5-9s: [Dynamic Tracking] The force of the turn rips the man's wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone's faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
+> 9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man's scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths "joder, otra vez". She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
+> 15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man's head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
+> 20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man's scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
+> 26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
+> Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+
+### 迈阿密警察拦下美人鱼低底盘车（20 秒执法记录仪）
+
+- **工具**：Seedance 2.5（@makeugc） · **时长**：20 秒
+- **作者**：@devgetsit · [原帖](https://x.com/devgetsit/status/2123808319135510744)
+- **按日归档**：[by-date/2026-11-23.md](../by-date/2026-11-23.md)
+- **概要**：9:16 执法记录仪视角的荒诞喜剧，角色与音效描述详细。
+
+> Realistic police body camera footage, vertical 9:16, 20 seconds: chest-mounted camera with a wide fisheye lens and barrel distortion, slightly washed-out colors, low-light digital noise, the image bouncing with the officer's steps and breathing, one continuous take, no cuts. Night traffic stop on a Miami street: red and blue police lights flash across everything, the officer's harsh flashlight beam lights the faces. Funny, played completely straight. No guns, no weapons drawn, no on-screen text, no logos.
+> 
+> The creatures: three real mermaids in a red vintage lowrider convertible, top down, whose cabin is filled to the brim with water. All three sit side by side on the front bench seat, in the water up to their chests. Their shimmering fish tails stick out of the car and slap the car body the whole video: the driver's tail over the driver's door, the passenger's tail over the passenger door, the middle one's tail over the back of the seat. All three are glamorous Miami women with hugely overfilled, giant, glossy duck lips, so swollen and stiff they can barely open their mouths, long fake lashes, heavy contour makeup, long stiletto acrylic nails. Three clearly different women, not twins, and they keep their seats the whole video:
+> DRIVER: platinum blonde with sleek wet hair, giant pink glossy duck lips, baby-blue tail.
+> MIDDLE: tanned Latina with long black wet hair, giant nude glossy duck lips, gold-and-bronze tail.
+> PASSENGER: pale redhead with wet copper curls, giant red glossy duck lips, emerald-green tail, sly.
+> 
+> Layout locked for the whole video: the car is stopped at the curb; the officer stands on the sidewalk at the passenger door, looking down into the open car. The camera on his chest is about half a meter from the PASSENGER's face, with the MIDDLE one and the DRIVER right behind her, all three faces big in the frame. The officer's flashlight is in his left hand; a wrapped fish sandwich sticks out of his shirt pocket at the bottom of the frame.
+> 
+> Hands: the officer has only his own two hands; each mermaid has only her own two hands; no extra hands appear. There is only one seashell and one sandwich in the whole video.
+> 
+> Important: they never laugh and never panic; they stay bored, glamorous and offended, like this happens every night. They speak slowly, slurred and muffled, barely moving their giant lips. All three are alive and moving every second, each doing something different: no one ever freezes or stares blankly while another acts. Never gross: no spitting, no gagging.
+> 
+> 0-3s: From the very first frame the flashlight hits all three faces, water sloshing in the cabin; the officer taps his flashlight on the top edge of the passenger door, clink clink; the PASSENGER slowly turns her face up to the camera, her giant red lips glistening, then her eyes drop to the sandwich in his pocket; the MIDDLE one shields her eyes from the flashlight with her nails; the DRIVER drums her nails on the wheel.
+> 3-6s: The officer says in a tired voice: "License and registration." The DRIVER leans across the other two and places a big pink seashell into his open right hand with her long nails; the MIDDLE one checks her lips in the rearview mirror; the PASSENGER's emerald tail slaps her door.
+> 6-9s: The camera tilts down to the seashell in his hand as he stares at it; at the same moment the PASSENGER's hand slides up and her nails pull the fish sandwich out of his shirt pocket.
+> 9-12s: The officer points the flashlight at the PASSENGER: she is calmly holding the sandwich between her giant red lips; the MIDDLE one blows a slow kiss straight at the camera; the DRIVER grips the wheel and revs the engine.
+> 12-15s: The PASSENGER's emerald tail swings up out of the water and slaps a big wave of water right at the camera; the lens is splashed with water drops, the officer stumbles back a step on the sidewalk, gasping.
+> 15-18s: Through the wet, dripping lens: the lowrider bounces hard on its hydraulics, water sloshing out over the doors, and peels away from the curb, three tails waving over the doors.
+> 18-20s: The officer stands soaked on the sidewalk in the flashing red and blue lights; the camera tilts down to the seashell still in his hand, then back up at the lowrider's taillights disappearing down the street, until the last second.
+> 
+> Sound: police radio chatter, the flashlight tapping metal, idling engine, water sloshing, the officer's tired voice and breathing, slurred muffled voices, a big splash, hydraulics squeaking, the engine roaring away, wind noise on the body camera mic. No music, no laughter.
