@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 12 条。
+共 13 条。
 
 ## 2026-10-24（1）
 
@@ -479,3 +479,55 @@
 > Audio: Soft emotional cinematic piano with gentle orchestral strings, natural mountain wind, subtle footsteps in snow, and peaceful lake ambience.
 > 
 > Ending: A beautiful cinematic fade-out.
+
+## 2026-11-24（1）
+
+### 懒散周日与猫咪（30 秒）
+
+- **工具**：Seedance 2.5（ElevenCreative） · **时长**：30 秒
+- **作者**：@Ciri_ai · [原帖](https://x.com/Ciri_ai/status/2124771659978813561)
+- **按日归档**：[by-date/2026-11-24.md](../by-date/2026-11-24.md)
+- **概要**：手持纪录片质感的 12 镜生活切片：赖床、购物、猫咪抢手机、门铃收尾，对白和同期声很细。
+
+> Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft late-morning window light with dust drifting in the sunbeams, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance. Total of 12 shots, 30 seconds.
+> 
+> The woman from <<<image_1>>>  is wearing a matching cotton pajama set: a scoop-neck sleeveless top and loose shorts in the same fabric and design. Barefoot, hair messy from sleep. It is a lazy Sunday and her bedroom is lived-in: tangled blanket, a half-drunk mug, clothes draped over a chair, a laundry basket by the wall. She wakes late, scrolls a mobile shopping page on a black smartphone, gets interrupted by her house cat, takes a call from a friend, starts tidying the room while chatting, and is finally interrupted by the doorbell as a late punchline.
+> 
+> Shot 1 (0–2s):
+> Close on her face half buried in the pillow, eyes barely open, morning light across her cheek. She fumbles for the phone on the mattress without looking. She mumbles in Korean: "아… 몇 시야, 지금." ("Ah... what time is it now."). Lips sync naturally. Camera low on the pillow, slightly out of focus, then settles.
+> 
+> Shot 2 (2–5s):
+> She rolls onto her stomach, bare feet swaying behind her, thumb scrolling a shopping page. She frowns, thinking. She mutters: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Low handheld camera glides along the mattress edge, bedding partially blurring the foreground.
+> 
+> Shot 3 (5–7s):
+> The house cat jumps onto the bed, compressing the blanket, and walks straight across her phone screen. Slight camera jolt from the impact, then a quick reframe to an over-the-shoulder view including her face, hands, phone and the cat's tail covering the screen.
+> 
+> Shot 4 (7–10s):
+> She pushes the cat's tail aside, then gives in and strokes it from forehead to shoulders. In a soft, teasing tone: "야, 비켜봐. 우리 애기 왔어?" ("Hey, move over. Did my baby come?"). The camera pushes in through the cat's blurred foreground toward her face and hand. The cat flops down on the phone.
+> 
+> Shot 5 (10–12s):
+> She lifts the cat off the phone, laughing quietly, and holds it up. The cat dangles with a flat, unimpressed expression. The camera tilts slightly and reframes late. She puts the cat down, and it immediately starts kneading the blanket.
+> 
+> Shot 6 (12–14s):
+> A friend's ringtone sounds. She glances at the screen, confirms the caller, swipes to answer and holds the phone to her ear. Camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the whole answering motion.
+> 
+> Shot 7 (14–17s):
+> Her friend begins talking through the phone. She sits up cross-legged against the headboard and responds first with confusion, then disbelief: "어, 왜? 진짜? 거짓말." ("Huh? Why? Really? You're kidding."). Immediately afterward she bursts into natural laughter. Close handheld side angle keeps her phone and profile on the same focal plane.
+> 
+> Shot 8 (17–20s):
+> Still laughing, she cradles the phone with her shoulder and starts tidying one-handed: gathers the half-drunk mug, tosses a shirt toward the laundry basket and misses. The cat watches. Camera follows at waist height with a slight lag, catching her bare feet on the floor.
+> 
+> Shot 9 (20–23s):
+> She drags the blanket straight, and the cat, still on it, slides along with it, offended. She laughs again and says to her friend: "잠깐만, 나 지금 방 치우는 중이야." ("Wait, I'm cleaning my room right now."). Camera over her shoulder, a quick whip reframe to the cat's face, then back to her.
+> 
+> Shot 10 (23–26s):
+> She plops back on the bed with the phone, the room now only half tidy. The friend says something funny, and she covers her mouth, wheezing with laughter, shoulders shaking. The cat curls up on the pillow beside her. Close, slightly shaky shot that drifts across her face and the cat's ear.
+> 
+> Shot 11 (26–28s):
+> A clear doorbell cuts through the laughter. Both she and the cat freeze and turn toward the bedroom door. She mouths, "아…" and realizes. The camera reacts a fraction too late, briefly turning toward the door before correcting back to her face.
+> 
+> Shot 12 (28–30s):
+> Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어. 아, 근데 나 아직 안 씻었다." ("Oh, my food's here. I'll hang up. Wait, I haven't even washed yet."). She ends the call with her thumb, scrambles off the bed, and pats down her messy hair while walking toward the door, the cat trotting behind her through the blankets. Camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+> 
+> Sound:
+> No music. Only raw production sound: bedding rustling, quiet breathing, a groggy morning exhale, finger taps and scrolls on the phone, the soft thud of the cat landing on the bed, one or two natural meows, faint purring, a single short incoming ringtone, call connection tone, the friend's voice faintly through the phone, the woman's Korean lines with accurate lip sync, genuine brief laughter, a mug clinking, a shirt thrown into a basket, one clear doorbell, the tap ending the call, bare footsteps and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.

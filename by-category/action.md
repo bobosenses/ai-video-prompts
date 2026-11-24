@@ -1,6 +1,6 @@
 # 动作
 
-共 29 条。
+共 30 条。
 
 ## 2026-10-24（1）
 
@@ -1950,3 +1950,53 @@
 > 10-15s: Dynamic handheld tracking - The remaining men attack together. The old master flows through them with shocking ease: one palm redirect, one elbow, one pivot, one spinning cane strike, one soft sidestep. Every move is clean, economical and devastatingly efficient. The attackers lose balance and crash into each other.
 > 
 > 15-20s: Hero push-in and final wide reveal - The final attacker lunges. The old master catches the motion instantly, stops him with two fingers to the chest, then sends him sliding backward with a controlled burst of force. Silence. All four men are down around him. He calmly lifts his cane, turns his blind eyes toward camera and says in English: “You rely on sight. I rely on truth.”
+
+## 2026-11-24（1）
+
+### 转学生以一敌三（30 秒）
+
+- **工具**：Seedance 2.5（ElevenCreative） · **时长**：30 秒
+- **作者**：@saniaspeaks_ · [原帖](https://x.com/saniaspeaks_/status/2124717446364065824)
+- **按日归档**：[by-date/2026-11-24.md](../by-date/2026-11-24.md)
+- **概要**：韩式校园动作短剧，教室到走廊的冲突和台词都按时间轴写好，人物设定比较完整。
+
+> THE TRANSFER STUDENT — KOREA
+> 
+> Create an exactly 30-second ultra-realistic live-action Korean school action drama featuring real actors, natural lighting and realistic martial arts choreography.
+> 
+> MAIN CHARACTERS — STRICT CONSISTENCY
+> 
+> - Transfer Student: A quiet 17-year-old Korean girl with shoulder-length straight black hair and soft bangs. She wears a white shirt, navy blazer, dark ribbon tie, navy pleated skirt, white socks and black shoes. She carries a black schoolbag.
+> - Victim: A shy 17-year-old Korean boy with short black hair, white shirt and navy trousers.
+> - Three Bullies: Three distinct Korean male students aged 17–18, wearing untidy white shirts, loosened ties and navy trousers.
+> - Teacher: A Korean female teacher in her early 30s.
+> 
+> Keep every character's face, hairstyle, clothing and appearance consistent throughout.
+> 
+> SCENE 1 — NEW TRANSFER STUDENT (0–6s)
+> 
+> Inside a modern Korean classroom, the teacher introduces the new girl. She enters with her black schoolbag, bows politely and says, "안녕하세요." Students watch curiously as she takes a seat near the window.
+> 
+> SCENE 2 — BULLYING (6–12s)
+> 
+> During lunch break, three bullies surround a shy boy in the school corridor. One pushes him, another steals his notebook, and the third blocks his way. The notebook falls to the floor as the boy bends to retrieve it.
+> 
+> SCENE 3 — INTERVENTION (12–17s)
+> 
+> The transfer student notices the bullying, approaches and picks up the notebook. She returns it to the boy and firmly says, "그만해!" The main bully laughs and pushes her shoulder. She steps back, maintains her balance and gives him a determined look.
+> 
+> SCENE 4 — MARTIAL ARTS REVEAL (17–25s)
+> 
+> The bully throws a punch. She dodges, blocks his next strike, redirects his arm and brings him down onto his knees. The second bully grabs her blazer, but she blocks his arm and pushes him backwards into the lockers. The third bully approaches but hesitates. She takes a defensive stance as all three stop advancing.
+> 
+> Show the complete choreography with realistic contact, balance, movement and momentum. No flying bodies, superhero moves or excessive violence.
+> 
+> SCENE 5 — FINAL TWIST (25–30s)
+> 
+> The bullies step back in disbelief. The victim stands up and asks, "너 누구야?" She calmly adjusts her blazer, picks up her schoolbag and replies, "그냥 전학생이야." She walks confidently down the corridor as the boy watches in amazement.
+> 
+> VISUAL STYLE: Photorealistic 4K live-action Korean action drama, authentic school locations, natural late-afternoon lighting, realistic skin, facial expressions, body movement and handheld cinematography. Use medium-wide shots to clearly show the fight.
+> 
+> AUDIO: Natural classroom ambience, Korean dialogue synchronized with lip movements, footsteps, notebook drop, locker sounds and realistic fight impacts. No narration or background music.
+> 
+> STRICT RULES: Preserve all character identities, uniforms, props and locations. Keep the exact scene order and show every important action. No scene skipping, face changes, duplicate characters, disappearing people, outfit changes, distorted hands, artificial transitions or cartoon effects.
