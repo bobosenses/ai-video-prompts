@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 29 条。
+共 30 条。
 
 ## 2026-10-24（1）
 
@@ -1944,3 +1944,105 @@
 > No duplicated machines, vehicles or limbs. No teleportation, sudden design changes, arbitrary transformation cuts, empty running, camera drift, zoom-out, graphic injuries, famous faces, recognizable actors or public-figure likenesses.
 > 
 > Keep proportions. Keep style and features. Ratio 16:9.
+
+## 2026-11-24（1）
+
+### 天桥断电 THE SKYBRIDGE（30 秒）
+
+- **工具**：Seedance 2.5（ElevenCreative） · **时长**：30 秒
+- **作者**：@ChillaiKalan__ · [原帖](https://x.com/ChillaiKalan__/status/2124520687234847213)
+- **按日归档**：[by-date/2026-11-24.md](../by-date/2026-11-24.md)
+- **概要**：暴雨夜玻璃天桥上的六镜动作惊悚，结尾留了「黑灯不是全部」的悬念，分镜和物理约束清楚。
+
+> Create a 30-second photorealistic Hollywood action-thriller sequence titled "THE SKYBRIDGE".
+> 
+> FORMAT:
+> Vertical 9:16, 4K, 60 FPS.
+> Exactly 30 seconds.
+> Six shots, exactly 5 seconds each.
+> Exactly five hard cinematic cuts.
+> 
+> CHARACTER LOCK:
+> Use @Image1 as the exact reference for BLACK ROSE.
+> Preserve her original face, facial proportions, natural skin texture, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots.
+> No beautification, no face changes, no outfit changes.
+> Her expression is calm, rebellious and controlled.
+> Her voice is low, confident and natural.
+> 
+> LOCATION:
+> A glass skybridge connecting two skyscrapers, hundreds of metres above a modern city at night.
+> Heavy rain strikes the glass walls.
+> Lightning illuminates the skyline.
+> The bridge has a polished reflective floor, steel support beams, emergency lights and a central maintenance hatch.
+> A frightened male engineer carries a small emergency access key.
+> 
+> EXACTLY THREE ATTACKERS:
+> Attacker 1: broad build, dark navy suit, positioned near the elevator entrance.
+> Attacker 2: athletic build, grey tactical shirt, positioned beside the central support beam.
+> Attacker 3: tall, black coat, positioned near the far exit.
+> Keep all appearances consistent.
+> 
+> SHOT 1 — 00:00–00:05
+> Start with a dramatic exterior aerial shot revealing the glass skybridge suspended between two skyscrapers.
+> The camera moves toward the glass and passes inside.
+> BLACK ROSE stands beside the engineer.
+> The city lights suddenly go dark.
+> Emergency red lighting activates.
+> Three men emerge from opposite ends of the bridge.
+> A deep electrical hum fills the space.
+> 
+> SHOT 2 — 00:05–00:10
+> Attacker 1 approaches and grabs for the engineer's access key.
+> BLACK ROSE steps between them, catches his reaching arm and performs a sharp wrist control followed by a compact shoulder throw.
+> He lands hard but safely on the padded floor section.
+> The engineer retreats behind a steel support beam.
+> Camera tracks low and close.
+> 
+> SHOT 3 — 00:10–00:15
+> Attacker 2 rushes forward.
+> BLACK ROSE pivots around a support beam, avoids his first strike and uses a fast Savate-style kick to disrupt his balance.
+> She follows with a controlled forearm strike.
+> He stumbles into the padded side wall and drops to one knee.
+> A 0.25-second micro slow-motion moment captures the impact, then immediately return to real-time.
+> The glass remains intact.
+> 
+> SHOT 4 — 00:15–00:20
+> Attacker 3 charges from the far exit.
+> BLACK ROSE moves laterally as he passes, catches his momentum and executes a Judo-style foot sweep.
+> He loses balance and slides across the floor, stopping safely before the glass wall.
+> Camera follows his movement with a controlled tracking shot.
+> Do not show the bridge breaking.
+> 
+> SHOT 5 — 00:20–00:25
+> The engineer reaches the maintenance hatch and inserts the emergency access key.
+> BLACK ROSE watches the three defeated attackers behind her.
+> A sudden vibration shakes the bridge.
+> She looks toward the far skyscraper.
+> A huge dark shape moves behind the clouds.
+> She says quietly:
+> "That wasn't the blackout."
+> 
+> SHOT 6 — 00:25–00:30
+> The camera pulls outside the skybridge.
+> Both skyscrapers are dark, except for one illuminated floor.
+> Through the glass, BLACK ROSE and the engineer look upward.
+> A second bridge, far above them, suddenly lights up.
+> A human silhouette stands inside it.
+> Cut to black.
+> 
+> ACTION PHYSICS:
+> Every movement must show contact, momentum, recoil and believable balance loss.
+> No teleportation, floating bodies or impossible acrobatics.
+> Exactly three attackers, never duplicated.
+> Preserve the skybridge geography and character positions.
+> No glass explosions or unrealistic structural damage.
+> 
+> AUDIO:
+> Heavy rain against glass, distant thunder, electrical hum, emergency alarms, footsteps, realistic clothing movement and non-graphic impact sounds.
+> Natural dialogue only.
+> No background music, no subtitles, no text overlays.
+> 
+> VISUAL STYLE:
+> Premium Hollywood sci-fi action thriller.
+> Photorealistic city lights, dramatic reflections, realistic rain, cinematic lens depth, controlled camera movement and high-contrast practical lighting.
+> No blood or gore.

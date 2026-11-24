@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 44 条。
+共 46 条。
 
 ## 2026-10-24（1）
 
@@ -1679,3 +1679,147 @@
 > 18-20s: The officer stands soaked on the sidewalk in the flashing red and blue lights; the camera tilts down to the seashell still in his hand, then back up at the lowrider's taillights disappearing down the street, until the last second.
 > 
 > Sound: police radio chatter, the flashlight tapping metal, idling engine, water sloshing, the officer's tired voice and breathing, slurred muffled voices, a big splash, hydraulics squeaking, the engine roaring away, wind noise on the body camera mic. No music, no laughter.
+
+## 2026-11-24（2）
+
+### ⭐ 沙漠土狼的糟糕计划（30 秒）
+
+- **工具**：Seedance 2.5（Higgsfield） · **时长**：30 秒
+- **作者**：@john_my07 · [原帖](https://x.com/john_my07/status/2124883061859061905)
+- **按日归档**：[by-date/2026-11-24.md](../by-date/2026-11-24.md)
+- **概要**：纪录片质感混搭卡通物理的 30 秒荒野喜剧，诱饵、投石机、沙坑到仙人掌果，分段时间轴和音效写得很完整。
+
+> DESERT MAYHEM | THE COYOTE'S TERRIBLE PLAN
+> 
+> Create an exactly 30-second ultra-photorealistic live-action wildlife comedy featuring an original desert coyote and a ridiculously fast roadrunner. The visuals should resemble authentic wildlife documentary footage mixed with exaggerated classic slapstick cartoon physics. Every gag must be visually clear, fast-paced, and entertaining.
+> 
+> FORMAT & VISUAL STYLE
+> 
+> 16:9 cinematic widescreen, 24fps, photorealistic animals, realistic fur and feathers, natural sunlight, rich warm desert colors, detailed environments, dynamic camera angles, believable shadows, and physically expressive character animation.
+> 
+> CHARACTERS
+> 
+> THE COYOTE: A scruffy grey-brown desert coyote with oversized amber eyes, expressive eyebrows, and hilarious facial reactions. Clever but hopelessly unlucky. Stands on his hind legs when operating equipment and constantly develops overconfident plans.
+> 
+> THE ROADRUNNER: A small elegant desert roadrunner with speckled brown feathers, a long tail, and a distinctive crest. Extremely fast, effortlessly confident, and completely unfazed by the coyote's traps.
+> 
+> LOCATION
+> 
+> A spectacular fictional American desert landscape featuring enormous red sandstone formations, winding dusty trails, dry bushes, isolated mesas, and a narrow mountain road beneath a bright blue sky.
+> 
+> SEQUENCE 1 — THE BAIT (0–7s)
+> 
+> Wide establishing shot of the desert. The coyote stands beside a freshly constructed wooden roadside food stand displaying a giant juicy watermelon. He rubs his paws together and hides behind a cactus.
+> 
+> A roadrunner appears in the distance and approaches at incredible speed.
+> 
+> Just as the bird reaches the watermelon, it casually grabs it without stopping, leaving the coyote staring in disbelief.
+> 
+> The coyote looks down at the empty stand, then slowly turns toward the camera with an offended expression.
+> 
+> Sound: Playful orchestral pizzicato, wooden stand creaking, rapid running whoosh, a cheeky bird chirp, and a comedic disappointed trombone.
+> 
+> SEQUENCE 2 — THE CATAPULT DISASTER (7–14s)
+> 
+> The frustrated coyote constructs an enormous homemade wooden catapult on a rocky hillside. He loads himself into its launching seat, pulls a rope, and prepares to launch across the road to intercept the roadrunner.
+> 
+> Extreme close-up of his confident grin.
+> 
+> He releases the mechanism.
+> 
+> The catapult launches him straight upward instead of forward. He disappears above the frame, followed by a brief silence.
+> 
+> Cut to a wide shot: he drops directly into a giant prickly desert bush, with only his legs sticking out.
+> 
+> Meanwhile, the roadrunner casually walks past in the background.
+> 
+> Sound: Wooden mechanism creaks, rope snap, powerful launch BOING, wind whistle, followed by a massive bush impact and tiny cactus rattles.
+> 
+> SEQUENCE 3 — THE SAND TRAP (14–22s)
+> 
+> The coyote emerges covered in cactus needles, furious but determined.
+> 
+> He sets up a cleverly disguised sand trap on a narrow dirt trail, covering a large pit with dry branches and sand. He hides behind a boulder and watches.
+> 
+> The roadrunner approaches, notices the suspicious ground, and effortlessly jumps over the trap.
+> 
+> The coyote jumps out excitedly to celebrate, but accidentally steps onto his own fragile covering.
+> 
+> The ground collapses beneath him. He disappears into the pit, leaving a cloud of dust and two paws sticking out.
+> 
+> The roadrunner pauses, tilts its head, and gives a smug little chirp.
+> 
+> Sound: Sneaky orchestral strings, sand brushing, quick bird footsteps, a springy jump whoosh, sudden cracking branches, deep dirt collapse, and a comic whistle.
+> 
+> SEQUENCE 4 — THE FINAL REVENGE (22–30s)
+> 
+> The dusty coyote climbs out of the pit and spots a huge round cactus fruit balanced on a steep rocky slope.
+> 
+> A wicked grin slowly spreads across his face.
+> 
+> He carefully positions himself behind the fruit and gives it a powerful push toward the dirt trail, expecting it to roll directly into the approaching roadrunner.
+> 
+> But the fruit hits a small rock, changes direction, and starts rolling straight back toward him.
+> 
+> The coyote's eyes widen.
+> 
+> Quick tracking shot as the enormous fruit barrels downhill, knocking him into a spectacular tumble through the dust.
+> 
+> Final wide cinematic shot: the coyote lies sprawled on the desert trail, covered in cactus spines, while the roadrunner calmly stands beside him, looks directly at the camera, gives its signature cheeky call, and vanishes in a cloud of dust.
+> 
+> End on a brief comedic freeze-frame.
+> 
+> Sound: Dramatic villain brass sting, rolling rumble, accelerating whoosh, several exaggerated impacts, a final deep THUD, sad trombone, and a cheeky bird call.
+> 
+> AUDIO & SOUND DESIGN
+> 
+> Use continuous energetic cartoon-style orchestral comedy music throughout, with pizzicato strings, playful brass, percussion, and perfectly timed musical pauses.
+> 
+> Layer crisp environmental sounds, desert wind, running footsteps, wooden creaks, spring-loaded mechanisms, exaggerated boings, slide whistles, deep impact thuds, and fast-motion whooshes.
+> 
+> No spoken dialogue, no narration, no subtitles, and no text overlays.
+> 
+> IMPORTANT CONSISTENCY RULES
+> 
+> - Maintain identical coyote and roadrunner appearances throughout all four sequences.
+> - Preserve realistic animal fur, feathers, anatomy, and natural desert lighting.
+> - Use exaggerated cartoon physics only for comedic impacts and reactions.
+> - Keep the roadrunner consistently calm, fast, and effortlessly successful.
+> - Make every action readable with clear cause-and-effect.
+> - Use dynamic cinematic editing with seamless continuity between shots.
+> - Avoid character morphing, duplicate animals, distorted anatomy, artificial CGI appearance, and unnecessary slow motion.
+> - Prioritize sharp, detailed visuals and expressive facial animation.
+
+### ⭐ 雨中首尔恋爱短片（30 秒）
+
+- **工具**：Seedance 2.5（media.io） · **时长**：30 秒
+- **作者**：@Hope_Ai01 · [原帖](https://x.com/Hope_Ai01/status/2124815013881991342)
+- **按日归档**：[by-date/2026-11-24.md](../by-date/2026-11-24.md)
+- **概要**：一把伞、咖啡店、秋日公园到夜色额头吻，四段情景把人物关系推进得很清楚，适合写实短剧。
+
+> Create a 30-second realistic romantic short film about two young adults falling in love.
+> 
+> Scene 1 (0–8 seconds):
+> A beautiful young Korean woman walks alone on a rainy Seoul street. A young Korean man notices her standing without an umbrella. He approaches her and offers to share his black umbrella. She smiles and walks beside him. Show realistic rain and natural walking movements.
+> 
+> Scene 2 (8–15 seconds):
+> The couple visits a small cozy coffee shop. They sit near the window, drink coffee and laugh together. The man looks at her with affection while she smiles shyly. Capture natural facial expressions and genuine chemistry.
+> 
+> Scene 3 (15–23 seconds):
+> The rain stops. They walk together through a beautiful park filled with autumn trees. The man gently holds her hand. She looks at him and smiles. Show beautiful sunlight passing through jthe trees.
+> 
+> Scene 4 (23–30 seconds):
+> The couple stands beneath glowing city lights at night. The woman hugs the man warmly. He smiles and gently kisses her forehead. Finish with a beautiful wide cinematic shot of the couple together.
+> 
+> VISUAL STYLE:
+> Photorealistic live-action romantic movie.
+> Professional cinematic camera work.
+> Natural human movements and expressions.
+> Beautiful realistic locations and lighting.
+> Consistent characters throughout the video.
+> Natural colors and realistic skin textures.
+> Smooth camera movements and seamless scene transitions.
+> Romantic background music.
+> Vertical 16:9 format.
+> 
+> Avoid animation, cartoon visuals, artificial faces, distorted hands and unrealistic movements. No slow motion.
