@@ -1,6 +1,6 @@
 # 动漫
 
-共 15 条。
+共 16 条。
 
 ## 2026-10-25（2）
 
@@ -1106,3 +1106,14 @@
 > 
 > SCENE 5 – THE INFERNO SPIRAL (19–24 seconds)
 > The Inferno Warrior unleashes an enormous circular fire vortex that expands around the battlefield. The Crystal Warrior emerges through the flames, surrounded by radiant purple crystalline spikes. Both charge toward each other. Their swords meet in a blinding explosion of violet light, golden sparks, and molten fire. The camera rapidly moves closer to capture the intensity of the impact.
+
+## 2026-11-25（1）
+
+### ⭐ 地铁车厢驱魔师的燃系作画（15 秒）
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@CharaspowerAI · [原帖](https://x.com/CharaspowerAI/status/2125197835620561115)
+- **按日归档**：[by-date/2026-11-25.md](../by-date/2026-11-25.md)
+- **概要**：高密度 sakuga 风格，激烈变向、环境编排、冲击帧与超自然收尾。
+
+> An adult black-haired exorcist with a curvy athletic physique, fitted white ceremonial uniform, red gloves and a paper talisman wrapped around one arm enters a subway station where every passenger suddenly freezes and turns toward her at once, shadow curses tear from their bodies and flood the platform, she tears the talisman loose, transforms it into a long red ribbon-blade and spins through the swarm, using pillars, train doors and overhead rails as anchors for impossible changes of direction while a massive faceless curse rises from the tunnel and swallows an incoming train whole; she lets herself be dragged toward its mouth, wraps the ribbon around its jaw, runs vertically across its face and drives both hands into a glowing seal hidden between its eyes, urban supernatural nightmare with fluorescent lights, tiled walls, stalled trains and black liquid shadows, dark contemporary anime, high-density sakuga, rapid close-up reaction shots, sharp perspective compression, strong anticipation before explosive movement, red-white graphic impact frames, sickly green fluorescent light mixed with crimson curse energy, smoke, paper fragments and black particles, ending with the curse collapsing inward like crushed paper and the frozen passengers instantly returning to normal as the exorcist calmly ties the ribbon back around her arm.

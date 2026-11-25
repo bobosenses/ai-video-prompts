@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 46 条。
+共 48 条。
 
 ## 2026-10-24（1）
 
@@ -1823,3 +1823,95 @@
 > Vertical 16:9 format.
 > 
 > Avoid animation, cartoon visuals, artificial faces, distorted hands and unrealistic movements. No slow motion.
+
+## 2026-11-25（2）
+
+### 巨型雪球撞上熔岩（15 秒）
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：15 秒
+- **作者**：@Sleaper_ · [原帖](https://x.com/Sleaper_/status/2125202973450006727)
+- **按日归档**：[by-date/2026-11-25.md](../by-date/2026-11-25.md)
+- **概要**：一镜到底的 15 秒物理奇观：雪球坠入熔岩的冰火碰撞。
+
+> Create a **15-second photorealistic video, 1080p, 60 fps**, in one continuous shot. A massive round snow boulder drops straight down from a hovering helicopter into a wide lava lake.
+> 
+> **The movement is a vertical free fall, exactly like dropping a heavy rock. The snow has no sideways momentum.**
+> 
+> **CAMERA AND ALIGNMENT**
+> 
+> Use a strict overhead view. The lens points vertically downward throughout the shot. The camera, snow boulder, and center of the lava lake are stacked along one vertical line.
+> 
+> The helicopter hovers motionless directly above the landing point. The camera descends vertically after the snow while maintaining the same horizontal position. Keep the center of the lava lake directly beneath the snow throughout the descent.
+> 
+> The crater expands outward around the center of the image as the camera approaches. There is no sideways scenery movement, horizon, orbit, or diagonal tracking.
+> 
+> **0–1 second — Drop straight down.**
+> 
+> A huge, approximately three-meter-wide sphere of compacted snow hangs beneath the helicopter in an external release sling. Its surface is rough, granular, and uneven. Part of the landing gear is visible at the edge of the opening frame.
+> 
+> Far below, a broad crater contains an exposed orange lava lake approximately 200 meters across.
+> 
+> The sling opens without swinging. The snow drops vertically from rest. Hold the camera briefly at its initial height so the increasing distance clearly establishes that the boulder is falling away from the helicopter.
+> 
+> **1–10 seconds — Vertical free fall.**
+> 
+> The camera accelerates straight downward after the snow, then follows approximately five to seven meters above it.
+> 
+> Keep the snow large and detailed in the foreground, occupying roughly one-third of the frame’s width. It falls heavily, with minimal rotation. Small loose crumbs separate from its surface.
+> 
+> The lava lake remains centered beneath it and grows rapidly larger. Its dark crust and glowing currents become increasingly detailed. Use a fixed focal length and continuous downward camera movement.
+> 
+> The snow follows the same vertical line for the entire fall. It does not glide, fly forward, swing, or correct its trajectory. The descent feels fast, heavy, and uninterrupted, with natural acceleration and motion blur.
+> 
+> **10–11 seconds — Direct impact.**
+> 
+> The camera begins slowing its downward movement while remaining directly above the snow. The boulder continues straight down, moving farther from the camera.
+> 
+> Show its underside striking the exposed molten surface at the exact point beneath its original release position.
+> 
+> **11–15 seconds — Steam and lava eruption.**
+> 
+> The impact displaces the lava outward. A powerful white steam plume erupts from the contact point, carrying thick orange lava sheets and heavy glowing droplets.
+> 
+> The snow disappears inside the blast. A circular wave spreads across the lava lake. Maintain the overhead view as steam expands toward the camera and molten fragments arc outward.
+> 
+> End during the eruption.
+> 
+> **AUDIO**
+> 
+> Helicopter rotors at the opening, fading as the camera descends. Strong rushing wind during the fall. A heavy impact followed by a powerful steam roar and molten splashes.
+> 
+> Natural daylight and realistic material textures. No cuts, slow motion, music, dialogue, captions, or logos.
+
+### ⭐ 粉色泡泡糖追逐纽约街头（30 秒）
+
+- **工具**：Seedance 2.5（CapCut） · **时长**：30 秒
+- **作者**：@AIwithSynthia · [原帖](https://x.com/AIwithSynthia/status/2125224171328479697)
+- **按日归档**：[by-date/2026-11-25.md](../by-date/2026-11-25.md)
+- **概要**：一镜到底的纽约街头追逐，巨型粉色泡泡糖泡泡脱离嘴巴后的混乱，含负面提示词。
+
+> Create a 30-second photorealistic cinematic one-take chase through a colorful, crowded New York street during a sunny afternoon. A stylish young adult woman with long blonde hair, wearing a pink leather jacket, white crop top, blue jeans, and white sneakers, blows a giant pink bubble gum bubble. The bubble suddenly detaches from her mouth and floats down the street.
+> 
+> The camera follows just 40 cm behind the floating bubble in one continuous uninterrupted shot.
+> 
+> ACTION:
+> 
+> - 0–5s: The woman blows an enormous pink bubble gum bubble. It suddenly detaches and floats away above the pavement.
+> 
+> - 5–10s: The bubble glides through a crowded outdoor café, passing between tables and narrowly avoiding people's heads.
+> 
+> - 10–15s: It floats through an open bakery window, passes over freshly baked pastries, and exits through the opposite window.
+> 
+> - 15–20s: The bubble squeezes through a narrow gap between two moving delivery scooters without popping.
+> 
+> - 20–25s: It floats into a busy shopping mall, circling around an escalator while surprised shoppers point at it.
+> 
+> - 25–30s: The bubble rises toward the mall's glass ceiling, suddenly expands to an enormous size, and gently bursts into thousands of tiny pink bubbles. The woman appears below, laughing and making a surprised expression toward the camera.
+> 
+> CAMERA: One continuous tracking shot, always approximately 40 cm behind the bubble. Smooth low-angle movement, realistic tracking, natural motion blur, no cuts or teleportation.
+> 
+> VISUALS: Photorealistic pink translucent bubble gum, realistic reflections and surface tension, colorful city storefronts, detailed pedestrians, natural sunlight, cinematic depth of field, realistic environments.
+> 
+> AUDIO: Bubble gum chewing, soft popping sounds, city traffic, café ambience, scooter engines, surprised pedestrian reactions, and thousands of tiny bubbles bursting. No added music.
+> 
+> NEGATIVE PROMPT: No cuts, distorted physics, duplicated people, disappearing objects, bubble changing colors, character morphing, cartoon visuals, animation, subtitles, logos, or watermarks.

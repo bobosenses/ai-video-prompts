@@ -1,6 +1,6 @@
 # 动作
 
-共 30 条。
+共 31 条。
 
 ## 2026-10-24（1）
 
@@ -2000,3 +2000,104 @@
 > AUDIO: Natural classroom ambience, Korean dialogue synchronized with lip movements, footsteps, notebook drop, locker sounds and realistic fight impacts. No narration or background music.
 > 
 > STRICT RULES: Preserve all character identities, uniforms, props and locations. Keep the exact scene order and show every important action. No scene skipping, face changes, duplicate characters, disappearing people, outfit changes, distorted hands, artificial transitions or cartoon effects.
+
+## 2026-11-25（1）
+
+### ⭐ 北欧战士大战战斗机器人并充电（30 秒）
+
+- **工具**：Seedance 2.5（makeugc） · **时长**：30 秒
+- **作者**：@SerJArt7trp · [原帖](https://x.com/SerJArt7trp/status/2125267236910772285)
+- **按日归档**：[by-date/2026-11-25.md](../by-date/2026-11-25.md)
+- **概要**：雪地废墟里维京人对战巨型机器人，结尾用动力模块给手机充电的反转喜剧，竖屏 9:16。
+
+> Create a 30-second cinematic, photorealistic video in vertical 9:16 format, at 24 frames per second.
+> 
+> STORY
+> 
+> A rugged Viking fights a massive combat robot among snow-covered ruins. After defeating the machine, he uses its power module to charge his phone. The audience should not anticipate the comedic reveal until the final seconds.
+> 
+> CHARACTERS
+> 
+> The Viking is the same character shown in the reference image. Preserve his exact face, build, beard, hairstyle, and clothing throughout the entire video. He moves with the confidence of an experienced fighter and keeps his facial expressions restrained. He holds a heavy battle axe in his right hand and a round wooden shield with a metal boss in his left. A light dusting of snow rests on his clothing and fur, and his breath is visible in the cold air.
+> 
+> The robot is a massive combat machine approximately three meters tall. Dark, weathered metal, heavily armored shoulders, exposed mechanical knee joints, and a red optical sensor. Its movements are powerful, with a clear sense of weight and momentum. A removable power module, approximately the size of a small power bank, sits beneath an armored cover on its upper back. A faint, cold blue glow is visible through the ventilation slots.
+> 
+> There is only one Viking and one robot in the scene.
+> 
+> LOCATION AND VISUAL STYLE
+> 
+> The snow-covered ruins of an ancient stone fortress: a destroyed gateway, broken walls, and a tall, cracked stone column. Dusk, cold air, and a few drifting snowflakes. Cool blue winter light mixes with faint, warm rays from the low sun.
+> 
+> The visual aesthetic of a high-budget adventure film, with an ARRI ALEXA 65 look, spherical cinema lenses, and natural motion blur. Detailed skin, fur, wood, metal, and snow. The robot must feel physically present in the real environment.
+> 
+> SCENE SEQUENCE
+> 
+> 0–4 seconds — The encounter.
+> 
+> A low camera tracks backward in front of the Viking as he walks through the ruined gateway. Suddenly, an enormous metal foot slams into the snow directly in front of him.
+> 
+> The camera tilts upward, revealing the robot at full height. Its red sensor turns toward the Viking. The Viking stops, tightens his grip on the axe, and raises his shield.
+> 
+> 4–8 seconds — The first strike.
+> 
+> The robot delivers a powerful punch. The Viking blocks it with his shield. The wood splits apart, splinters fly, and the impact forces him one step backward.
+> 
+> The Viking immediately discards the remains of the shield. The robot swings again, but he ducks beneath its metal arm and moves to the machine’s side.
+> 
+> Show the impact and the Viking’s reaction together in one clearly readable medium shot.
+> 
+> 8–12 seconds — The weak point.
+> 
+> With a short, powerful strike, the Viking drives his axe into the robot’s exposed knee mechanism. Sparks flash, accompanied by the crunch of the damaged joint.
+> 
+> He pulls the axe free. The machine’s leg buckles, and the robot drops heavily onto one knee, throwing up a cloud of snow. Its red sensor continues tracking the Viking—the fight is not over yet.
+> 
+> 12–16 seconds — The trap.
+> 
+> The Viking backs toward the cracked stone column. The robot punches sharply toward him.
+> 
+> At the last possible moment, the Viking dodges sideways. The metal fist smashes through the masonry and becomes briefly lodged in the rubble. Stone dust mixes with the snow.
+> 
+> The Viking immediately takes advantage of the opening.
+> 
+> 16–22 seconds — Shutdown.
+> 
+> Using the machine’s bent thigh as a step, the Viking climbs onto its back in one fluid movement. He wedges his axe beneath the armored cover and pries it off.
+> 
+> A brief close-up: his left hand grips the glowing power module and pulls it out of its socket.
+> 
+> The robot’s red sensor goes dark. The mechanical noise abruptly dies. The Viking jumps down onto the snow with the module in his left hand and the axe in his right. The powerless machine slumps heavily beside the ruined column.
+> 
+> The module in the Viking’s hand continues glowing blue.
+> 
+> 22–30 seconds — The real objective.
+> 
+> The Viking plants his axe in the snow beside him and calmly sits on the disabled robot’s body. He reaches inside his clothing and takes out a modern smartphone.
+> 
+> Close-up of the phone: a nearly empty red battery, 1% charge.
+> 
+> The Viking pulls a short, built-in cable out of the power module and connects it to the phone.
+> 
+> Hold a clear close-up for two seconds: the phone, connected cable, and glowing module must all be visible in the same frame. A lightning bolt symbol and a green charging indicator appear on the screen. The battery level must not instantly jump to 100%.
+> 
+> A short charging notification sounds.
+> 
+> Final close-up of his face: the Viking looks at the phone, then at the defeated robot, and gives a small, satisfied smirk. Hold this restrained expression until the end of the video.
+> 
+> CAMERA AND FIGHT CHOREOGRAPHY
+> 
+> Show the fight mainly through medium and wide shots so that both opponents’ movements, windups, impacts, and the consequences of each strike remain visible. The camera follows the action dynamically while maintaining clear spatial continuity.
+> 
+> Use cuts matched to movement. Reserve close-ups for extracting the power module, charging the phone, and the Viking’s final reaction. Movements should feel heavy and physically convincing, without acrobatic flips or prolonged slow motion.
+> 
+> Maintain the consequences of the fight: the broken shield stays broken, the robot’s damaged knee does not repair itself, and the removed armored cover does not reappear. The phone appears for the first time only after the Viking wins.
+> 
+> MUSIC AND SOUND
+> 
+> Energetic cinematic electronic music with deep bass and heavy drums. The rhythm intensifies during the fight. After the robot shuts down, the arrangement becomes quieter, leaving room for the comedic ending. The music continues until the end of the video.
+> 
+> Clearly audible sounds include footsteps in the snow, the Viking’s breathing, servomotors, the shield cracking, metal impacts, crumbling stone, electrical crackling, and the machine’s heavy collapse. Action sound effects must remain distinguishable above the music.
+> 
+> The phone’s charging notification is short and clearly audible.
+> 
+> No dialogue, voice-over, subtitles, or text overlays. The story must be fully understandable through action, sound, and facial expressions.
