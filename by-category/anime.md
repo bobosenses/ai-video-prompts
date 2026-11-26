@@ -1,6 +1,6 @@
 # 动漫
 
-共 16 条。
+共 17 条。
 
 ## 2026-10-25（2）
 
@@ -1117,3 +1117,46 @@
 - **概要**：高密度 sakuga 风格，激烈变向、环境编排、冲击帧与超自然收尾。
 
 > An adult black-haired exorcist with a curvy athletic physique, fitted white ceremonial uniform, red gloves and a paper talisman wrapped around one arm enters a subway station where every passenger suddenly freezes and turns toward her at once, shadow curses tear from their bodies and flood the platform, she tears the talisman loose, transforms it into a long red ribbon-blade and spins through the swarm, using pillars, train doors and overhead rails as anchors for impossible changes of direction while a massive faceless curse rises from the tunnel and swallows an incoming train whole; she lets herself be dragged toward its mouth, wraps the ribbon around its jaw, runs vertically across its face and drives both hands into a glowing seal hidden between its eyes, urban supernatural nightmare with fluorescent lights, tiled walls, stalled trains and black liquid shadows, dark contemporary anime, high-density sakuga, rapid close-up reaction shots, sharp perspective compression, strong anticipation before explosive movement, red-white graphic impact frames, sickly green fluorescent light mixed with crimson curse energy, smoke, paper fragments and black particles, ending with the curse collapsing inward like crushed paper and the frozen passengers instantly returning to normal as the exorcist calmly ties the ribbon back around her arm.
+
+## 2026-11-26（1）
+
+### ⭐ 纽约滑板与猫咪搭档（30 秒）
+
+- **工具**：MAGI-2（需上传女孩参考图） · **时长**：30 秒
+- **作者**：@AIwithSynthia · [原帖](https://x.com/AIwithSynthia/status/2125650088341246435)
+- **按日归档**：[by-date/2026-11-26.md](../by-date/2026-11-26.md)
+- **概要**：半写实动漫风格，女孩带着小橘猫高速滑板穿越纽约街头；需上传女孩参考图以锁定身份。
+
+> Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions throughout every shot.
+> 
+> She wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, a beige "Cool" cap, dark blue backpack, black digital watch and headphones around her neck.
+> 
+> Include the same cute small ginger-and-white fluffy cat with amber eyes, maintaining realistic house-cat proportions at the girl's shin/lower-calf height. Keep both characters visually consistent throughout the sequence.
+> 
+> Set the entire story across a vibrant, bustling New York City, featuring Times Square, Broadway, Manhattan skyscrapers, Brooklyn Bridge, yellow NYC taxis, subway entrances, brick buildings, street vendors, traffic lights, graffiti-covered walls and crowded sidewalks.
+> 
+> The girl aggressively skateboards through the streets of Manhattan at extreme speed while the cat races alongside her, naturally weaving between pedestrians, taxis and street obstacles without falling behind.
+> 
+> Use dynamic low ground-level chase-cam cinematography, fast tracking shots, aggressive whip-pans, punchy hard cuts, wheel-level close-ups and subtle handheld micro-shake.
+> 
+> She races through Times Square, dodging yellow taxis and crossing pedestrians. As she passes a busy street coffee cart, she reaches out and grabs a takeaway coffee without slowing down. She takes a quick sip while maintaining perfect balance on her skateboard, then casually flicks the empty cup into a nearby trash bin as she speeds away.
+> 
+> The cat follows closely, jumping over a small street obstacle and landing smoothly beside her.
+> 
+> She suddenly spots a graffiti-covered wall near a narrow alley. Without hesitation, she accelerates, rides up the wall and performs an explosive skateboard wall jump. The cat leaps beside her in perfect synchronization. Both land together and immediately continue at full speed.
+> 
+> Cut seamlessly to Brooklyn Bridge. The girl races along the pedestrian-side pathway, weaving past cyclists and tourists, with the Manhattan skyline and East River visible in the background. Use dramatic sweeping camera movements and dynamic aerial tracking shots.
+> 
+> She launches her skateboard over a series of street obstacles, performs a stylish mid-air kickflip, lands smoothly and continues toward the waterfront.
+> 
+> Transition into an industrial Brooklyn area featuring elevated subway tracks, steel bridges, warehouses, construction zones, rooftop structures and graffiti-covered tunnels.
+> 
+> She ollies onto a low industrial rail, grinds across it, crouches beneath a steel bridge and races alongside a passing subway train. The cat keeps pace beside her, jumping over obstacles with impressive agility.
+> 
+> As the subway train pulls away, she accelerates toward an elevated steel platform and launches into an enormous synchronized jump with the cat.
+> 
+> Final shot: Both characters leap from the elevated structure into a street-level parking area, performing a spectacular synchronized mid-air trick before landing smoothly. The girl continues riding forward while the cat runs beside her. End with a dramatic low-angle tracking shot revealing the New York skyline in the distance.
+> 
+> Maintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, expressive animation, cinematic New York lighting, dynamic anime speed lines and fluid movement.
+> 
+> Audio: Natural New York street ambience, skateboard wheels rolling, trucks grinding against rails, passing taxis, subway rumbling, city crowds and wind rushing during jumps. No background music.

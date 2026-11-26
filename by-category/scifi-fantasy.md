@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 31 条。
+共 32 条。
 
 ## 2026-10-24（1）
 
@@ -2098,3 +2098,19 @@
 > 
 > Sound effects only. Let the two empty clicks land in a gap in the gunfire. Give the storm a deep wind roar, the beetles a dry skitter, the torch a brief flare and each staff clash a distinct ring. End on sand pattering on stone. No BGM, dialogue or narration.
 > Bloodless fantasy combat, no gore. Clear silhouettes through the dust. No captions, logos, split screens or reference panels.
+
+## 2026-11-26（1）
+
+### 天空之门（15 秒）
+
+- **工具**：MAGI-2 · **时长**：15 秒
+- **作者**：@Naiknelofar788 · [原帖](https://x.com/Naiknelofar788/status/2125650981350428965)
+- **按日归档**：[by-date/2026-11-26.md](../by-date/2026-11-26.md)
+- **概要**：迷雾森林中的少女推开天空里的门，林间化作星系花园的 15 秒奇幻短片。
+
+> Create a breathtaking 15-second cinematic fantasy short film titled “THE DOOR IN THE SKY”. Aspect ratio16:9, one coherent protagonist and consistent appearance throughout, premium fantasy movie cinematography, photorealistic magical realism, atmospheric fog, volumetric lighting, elegant camera movement, emotional orchestral score, polished cinematic colour grading.
+> 
+> 0–4 seconds: Wide establishing shot of a beautiful young woman in an elegant flowing ivory dress walking alone through a mysterious misty forest at twilight. Gentle wind moves her hair and dress.
+> 4–8 seconds: Tiny golden lights begin appearing and circling her. The camera slowly pushes in as she notices an enormous glowing golden door floating above the trees.
+> 8–12 seconds: She reaches upward; the door opens with a soft burst of brilliant golden light. Thousands of sparkling stars and luminous particles pour out into the night.
+> 12–15 seconds: The forest transforms into a breathtaking galaxy garden with glowing flowers, floating stars and celestial light. She smiles in wonder as the camera pulls back to an epic wide shot. End on a magical cinematic reveal.

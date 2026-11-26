@@ -1,6 +1,6 @@
 # 广告带货
 
-共 21 条。
+共 22 条。
 
 ## 2026-10-24（1）
 
@@ -1188,3 +1188,100 @@
 > - Accurate hand movements and realistic product interactions.
 > 
 > The final result should look like a genuine viral product-review video filmed by a real customer.
+
+## 2026-11-26（1）
+
+### 圣诞橱窗购物时尚 Reel（30 秒）
+
+- **工具**：Kling 4.0 · **时长**：30 秒
+- **作者**：@SerJArt7trp · [原帖](https://x.com/SerJArt7trp/status/2125598621051564348)
+- **按日归档**：[by-date/2026-11-26.md](../by-date/2026-11-26.md)
+- **概要**：皮克斯风格 3D 圣诞时尚 Rec：女孩隔着橱窗幻想试穿，醒来手上已多了购物袋。
+
+> Generation Prompt
+> 
+> Create a 30-second Christmas fashion Reel for the project “Кстати, тренд!” (Kstati, Trend!), in vertical 9:16 format at 24 frames per second.
+> 
+> Visual style: high-quality Pixar-style 3D animation, with expressive facial animation, appealing characters, natural movement, detailed clothing textures, and cinematic lighting.
+> 
+> No dialogue, voiceover, titles, or subtitles. Tell the story through actions, expressions, and emotions.
+> 
+> Main Character
+> 
+> A 28-year-old woman with shoulder-length chestnut hair, large expressive brown eyes, and natural body proportions.
+> 
+> She wears a long cream wool coat, a soft beige scarf, a light knitted beanie, blue jeans, and insulated brown boots. A small crossbody bag completes her outfit.
+> 
+> Maintain the same face, hairstyle, and winter clothing throughout every real-world scene.
+> 
+> Location and Atmosphere
+> 
+> An outdoor pedestrian street in an outlet shopping village on a late winter evening. Small clothing, footwear, and accessory stores line both sides of the street.
+> 
+> A deep blue night sky and large, slowly falling snowflakes. Street lamps, store signs, and window displays emit a warm golden-yellow glow, reflecting on the snow-covered pavement.
+> 
+> Storefronts are decorated with evergreen garlands, golden fairy lights, red bows, and Christmas wreaths. A large decorated Christmas tree stands farther down the street. The window displays feature festive decorations. A few shoppers stroll peacefully with shopping bags.
+> 
+> The overall feeling is a cozy Christmas fairy tale.
+> 
+> 0–5 Seconds · Where Can She Find an Outfit?
+> 
+> Begin immediately with a medium shot of the woman standing in front of a brightly illuminated window displaying a festive dress.
+> 
+> She studies the dress with interest, then looks toward the shoe store across the street and along the row of other shop windows. She frowns slightly and exhales: there are plenty of options, but she does not know where to start or how to put a complete outfit together.
+> 
+> The camera tracks smoothly beside her. Individual snowflakes rest on her hair, beanie, and shoulders.
+> 
+> 5–10 Seconds · A Helper on Her Phone
+> 
+> She stops beneath a street lamp. Remembering the app, she smiles slightly and takes out her phone.
+> 
+> A close-up shows her finger opening “Кстати” (Kstati). Cut to an over-the-shoulder shot as she browses a complete festive outfit and its individual items, with the corresponding stores identified.
+> 
+> Use an actual screen recording of the app, composited onto the phone during editing. During generation, keep the display surface stable, without invented buttons or text.
+> 
+> She looks from her phone toward the relevant storefronts. Her expression changes: now she knows exactly where to go.
+> 
+> 10–14 Seconds · Imagining the Result
+> 
+> The camera moves closer to her pleased expression. Transition softly into a brief daydream.
+> 
+> The same woman appears in a full-body shot inside a cozy festive interior beside a Christmas tree. She wears:
+> 
+> A burgundy midi dress with soft draping.
+> Black boots with a sturdy heel.
+> A small black handbag with gold-tone hardware.
+> 
+> She turns slightly in front of a mirror, admires the complete outfit, and smiles.
+> 
+> Show this fantasy as a separate scene, outside the phone interface. Then return to the snowy street: she nods approvingly and puts her phone away.
+> 
+> 14–24 Seconds · Now She Knows What to Buy
+> 
+> Three short, sequential shopping moments:
+> 
+> 14–17 seconds. Inside a clothing store, she confidently selects the exact burgundy dress from her imagined outfit. Cut to a sales assistant handing her the first shopping bag.
+> 
+> 17–20 seconds. Inside a footwear store, she examines the selected black boots. Cut to her receiving the second shopping bag.
+> 
+> 20–24 seconds. Inside an accessory store, she picks up the small black handbag with gold-tone hardware. She smiles with satisfaction. Cut to her leaving with a third shopping bag.
+> 
+> Every purchased item must match the imagined festive outfit exactly in color, design, and material.
+> 
+> 24–30 Seconds · Everything Came Together
+> 
+> The woman walks along the outlet street again, wearing her original winter outfit and now carrying three shopping bags.
+> 
+> The camera tracks backward smoothly in front of her, showing her full body. She looks relaxed and happy, enjoying the decorated street.
+> 
+> Large snowflakes drift past the lens. Warm light from the windows illuminates her face, and the shopping bags sway gently with her steps.
+> 
+> For the final shot, the camera pulls back slightly and rises as she continues along the glowing Christmas street, with the large decorated tree ahead.
+> 
+> Sound and Continuity
+> 
+> Light festive instrumental music with bells, soft footsteps in the snow, rustling shopping bags, and subtle shop-door chimes. Sound continues through the final frame.
+> 
+> Shopping bags accumulate in sequence: none at first, then one, two, and finally three. The festive outfit appears only in her daydream; the purchased items remain inside the shopping bags in the final scene.
+> 
+> Avoid sudden changes to her face, clothing, or the number of objects. Prevent distorted hands and unnatural anatomy.

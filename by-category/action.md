@@ -1,6 +1,6 @@
 # 动作
 
-共 31 条。
+共 32 条。
 
 ## 2026-10-24（1）
 
@@ -2101,3 +2101,145 @@
 > The phone’s charging notification is short and clearly audible.
 > 
 > No dialogue, voice-over, subtitles, or text overlays. The story must be fully understandable through action, sound, and facial expressions.
+
+## 2026-11-26（1）
+
+### ⭐ 洗衣房以一敌三（30 秒）
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@Just_sharon7 · [原帖](https://x.com/Just_sharon7/status/2125641745387970762)
+- **按日归档**：[by-date/2026-11-26.md](../by-date/2026-11-26.md)
+- **概要**：首尔深夜自助洗衣店，看似无害的粉发女孩在洗衣机叮一声前干净利落地放倒三名混混，再若无其事叠起衣服。
+
+> STYLE: Ultra-realistic Korean action cinema, Hollywood-level fight choreography, explosive close-range combat, lightning-fast reflexes, realistic body physics, intense facial expressions, dynamic camera movements, dramatic blue-green fluorescent lighting, and powerful cinematic sound design.
+> CHARACTERS
+> FEMALE LEAD — YUNA (25 Years Old)
+> 
+> An extremely beautiful 25-year-old Korean woman with long, straight pastel pink hair, sharp facial features, cold expressive eyes, and a slim athletic physique. She wears an oversized black leather jacket, a fitted white crop top, dark grey cargo pants, black combat boots, and wireless headphones.
+> 
+> She appears innocent, relaxed, and unbothered, but is secretly a highly trained martial arts fighter. Her personality is fearless, composed, confident, and extremely dangerous.
+> 
+> THREE GANGSTERS
+> Gangster 1: Tall, muscular Korean man with blond hair, a black leather jacket, a silver chain, and an arrogant personality.
+> Gangster 2: Korean man with buzz-cut hair, a dark green bomber jacket, and an aggressive personality.
+> Gangster 3: Heavily built Korean man wearing a black hoodie, with tattooed arms and a violent temperament.
+> EMPLOYEE: A 21-year-old Korean man with an innocent appearance, wearing a blue uniform. He is nervous and physically intimidated by the gangsters.
+> LOCATION
+> It is 12:47 AM inside a 24-hour laundromat on a deserted street in Seoul. Heavy rain pours outside. Raindrops cover the large glass windows, reflecting colorful neon signs from the street.
+> 
+> The interior features rows of stainless steel washing machines, metallic laundry baskets, folding tables, plastic chairs, detergent bottles, and cold fluorescent ceiling lights.
+> 
+> The constant humming of washing machines blends with the sound of heavy rainfall, creating a quiet but atmospheric environment.
+> DETAILED 30-SECOND CINEMATIC VIDEO PROMPT
+> SHOT 01 — Midnight Trouble (0–3 Seconds)
+> The camera smoothly moves from the rain-soaked street through the laundromat's glass window, revealing its interior.
+> 
+> Yuna sits casually in front of a washing machine, listening to music through her wireless headphones. A laundry basket rests beside her.
+> 
+> Suddenly, three aggressive gangsters violently push open the entrance door. One grabs the young employee by his collar and slams him against the counter.
+> 
+> Gangster: "Empty the register. Now!"
+> 
+> The employee trembles in fear.
+> SHOT 02 — The Final Warning (3–6 Seconds)
+> The frightened employee attempts to step backward, but the blond gangster aggressively slaps him across the face.
+> 
+> Yuna slowly raises her eyes, removes her headphones, and places them inside her laundry basket.
+> 
+> The background music abruptly stops.
+> 
+> Yuna: "Let him go."
+> 
+> The blond gangster laughs arrogantly, approaches her, and violently kicks her laundry basket across the floor. Clean clothes scatter everywhere.
+> 
+> Gangster: "Or what?"
+> 
+> An extreme close-up captures Yuna's expression transforming from calm indifference into cold, dangerous determination.
+> SHOT 03 — First Impact (6–9 Seconds)
+> The blond gangster reaches forward to grab Yuna.
+> 
+> She instantly rises from her chair with lightning-fast reflexes. An explosive martial arts combination sends him stumbling backward into a stainless steel washing machine before collapsing onto the floor.
+> 
+> Capture the impact in dramatic 120 FPS slow motion. His silver chain swings through the air as the washing machine vibrates violently.
+> 
+> The camera immediately returns to normal speed.
+> SHOT 04 — Chaos Between Machines (9–13 Seconds)
+> The second gangster angrily grabs a metallic laundry basket and swings it toward Yuna.
+> 
+> She narrowly dodges the attack. The basket crashes against a washing machine, producing a deafening metallic sound.
+> 
+> Yuna unleashes a rapid series of powerful counterattacks, causing the gangster to lose his balance and crash onto a folding table.
+> 
+> Clothes, detergent bottles, and laundry accessories scatter through the air.
+> 
+> The camera performs a fast 180-degree orbit around the characters, capturing the explosive choreography and environmental destruction.
+> SHOT 05 — The Heavyweight (13–17 Seconds)
+> The third, heavily muscular gangster charges toward Yuna while screaming furiously.
+> 
+> Gangster: "You're dead!"
+> 
+> He attempts to overpower her and push her against the washing machines. Yuna maintains her balance as an intense close-range fight erupts.
+> 
+> Rapid punches, defensive blocks, narrow evasions, and explosive counterattacks create a brutal, fast-paced exchange.
+> 
+> Yuna narrowly avoids a powerful attack before sending the gangster crashing into a row of metallic chairs.
+> 
+> Use aggressive handheld tracking, rapid whip-pans, dramatic low-angle shots, and realistic impact vibrations.
+> SHOT 06 — Three Against One (17–22 Seconds)
+> The first two gangsters struggle back onto their feet. All three attackers surround Yuna in the narrow aisle between the washing machines.
+> 
+> Yuna calmly adjusts her leather jacket and looks at them with an unimpressed expression.
+> 
+> Yuna: "Seriously?"
+> 
+> All three gangsters attack simultaneously.
+> 
+> In one uninterrupted, high-speed cinematic tracking shot, Yuna dodges incoming attacks and performs explosive martial arts combinations with incredible speed and precision.
+> 
+> Metallic laundry baskets slide across the floor, chairs overturn, clothes scatter, and detergent powder bursts into the air beneath the fluorescent lights.
+> 
+> Every movement must demonstrate realistic physical weight, momentum, balance, and natural reactions. The attackers must not stand idle or wait for their turns.
+> SHOT 07 — The Final Spin (22–26 Seconds)
+> The blond gangster makes one final desperate attempt, charging toward Yuna with an enraged expression.
+> 
+> Yuna executes a powerful cinematic spinning kick.
+> 
+> Capture the decisive impact in dramatic 120 FPS slow motion, with her pastel pink hair and leather jacket moving naturally through the air.
+> 
+> The gangster crashes backward into a metallic laundry trolley, which rolls across the floor before stopping near the glass entrance.
+> 
+> All three gangsters lie defeated on the floor, groaning in pain.
+> 
+> Suddenly, the entire laundromat becomes silent.
+> 
+> Washing machine: "Beep. Beep. Beep."
+> 
+> An extreme close-up reveals the illuminated digital display:
+> 
+> CYCLE COMPLETE
+> SHOT 08 — Perfect Timing (26–30 Seconds)
+> Yuna's dangerous expression immediately returns to calm indifference.
+> 
+> She opens the washing machine, removes her freshly washed clothes, and begins folding them neatly on the table as though nothing happened.
+> 
+> The employee stares at her in complete disbelief.
+> 
+> Employee: "Who... are you?"
+> 
+> Yuna glances toward the washing machine with a subtle, confident smirk.
+> 
+> Yuna: "Perfect timing."
+> 
+> She puts her headphones back on, and her relaxing music resumes.
+> 
+> The camera slowly dollies backward, revealing the entire laundromat. Yuna peacefully folds her clothes in the foreground while all three defeated gangsters lie scattered across the floor in the background.
+> 
+> End naturally on this cinematic wide shot. No fade-out or black screen.
+> SOUND DESIGN
+> Deep cinematic bass and aggressive industrial percussion during combat.
+> Heavy, realistic punch and kick impact sounds.
+> Loud metallic collisions, sliding laundry baskets, overturned chairs, and vibrating washing machines.
+> Natural breathing, footsteps, shoe friction, and clothing movements.
+> Continuous rainfall and occasional thunder outside.
+> Sudden silence immediately before the washing machine's completion beep.
+> Relaxing lo-fi headphone music during the final scene, creating a humorous contrast with the destruction.
