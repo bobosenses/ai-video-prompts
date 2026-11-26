@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 48 条。
+共 49 条。
 
 ## 2026-10-24（1）
 
@@ -1915,3 +1915,42 @@
 > AUDIO: Bubble gum chewing, soft popping sounds, city traffic, café ambience, scooter engines, surprised pedestrian reactions, and thousands of tiny bubbles bursting. No added music.
 > 
 > NEGATIVE PROMPT: No cuts, distorted physics, duplicated people, disappearing objects, bubble changing colors, character morphing, cartoon visuals, animation, subtitles, logos, or watermarks.
+
+## 2026-11-26（1）
+
+### 猫咪相扑击败力士（20 秒）
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@arsalannazir07 · [原帖](https://x.com/arsalannazir07/status/2125503891068641585)
+- **按日归档**：[by-date/2026-11-26.md](../by-date/2026-11-26.md)
+- **概要**：业余手机视角的 20 秒恶搞短片：一只圆滚滚的猫在业余相扑赛里认真放倒力士，再若无其事舔爪子。
+
+> Ultra-realistic amateur smartphone footage, 20-second viral clip. Raw handheld phone camera, shaky framing, bad digital zoom, autofocus hunting, compression artifacts, crowd noise, laughter, echo, no cinematic stabilization. Feels like a random local event that became an internet legend.
+> 
+> Main subject: one enormous obese fluffy cat, extremely round, realistic fur, dead-serious expression, tiny mawashi-style belt for comedy.
+> Opponent: one real adult sumo wrestler, large build, fully consenting, playful but focused.
+> Referee and crowd remain secondary.
+> 
+> Small indoor novelty sumo event, circular dohyo ring, folding chairs, cheap overhead lights, spectators packed close, many people filming on phones.
+> 
+> 0-4s: The phone camera pushes through the crowd and reveals the absurd scene: a giant obese cat facing a real sumo wrestler in the ring.
+> 
+> FILMER in English: “No shot... is that cat doing sumo?!”
+> 
+> 4-8s: Close shaky zoom on the cat’s completely serious face. The cat does one tiny sumo stomp and a little paw shuffle like a real champion. The crowd instantly laughs.
+> 
+> FILMER: “BRO IS LOCKED IN!”
+> 
+> 8-13s: The referee starts the match. The sumo wrestler moves forward carefully. The cat suddenly side-steps with shocking confidence, turns, and gives one huge fluffy body-bump with perfect timing.
+> 
+> 13-17s: The wrestler loses balance, stumbles backward and steps out of the ring in disbelief. The crowd explodes screaming and laughing.
+> 
+> FILMER: “NO WAY! THE CAT JUST WON!”
+> 
+> 17-20s: The obese cat stays in the middle of the ring, expressionless, then slowly sits down and licks one paw like this happens every day.
+> 
+> FILMER: “He does this for a living.”
+> 
+> Hard cut.
+> 
+> Authentic amateur phone realism, clear sumo-ring staging, realistic obese cat anatomy and fur, playful exhibition only, no injury, huge crowd reaction, strong meme timing, no gore, no text, no logos.
