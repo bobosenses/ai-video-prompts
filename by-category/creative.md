@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 49 条。
+共 50 条。
 
 ## 2026-10-24（1）
 
@@ -1954,3 +1954,56 @@
 > Hard cut.
 > 
 > Authentic amateur phone realism, clear sumo-ring staging, realistic obese cat anatomy and fur, playful exhibition only, no injury, huge crowd reaction, strong meme timing, no gore, no text, no logos.
+
+## 2026-11-27（1）
+
+### ⭐ 走错航站楼（30 秒）
+
+- **工具**：MAGI-2 · **时长**：30 秒
+- **作者**：@Ciri_ai · [原帖](https://x.com/Ciri_ai/status/2125995165311770639)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：机场临时改登机口，一位拉着橘色行李箱的女孩上演三十秒赶飞机障碍赛，最后在酒店电梯镜前给自己一个胜利礼。
+
+> Create a 30-second cinematic, fast-paced travel-comedy sequence titled “THE WRONG TERMINAL”. One continuous story told through 30 quick, clearly readable beats.
+> 
+> MAIN CHARACTER: One stylish young adult woman traveler, early 20s, expressive and athletic, wearing a cobalt-blue oversized travel jacket over a white fitted top, charcoal cargo trousers, white sneakers, small silver hoop earrings, and carrying a bright orange hard-shell carry-on suitcase with a distinctive white luggage tag. Keep her face, hairstyle, body proportions and outfit perfectly consistent in every shot. No other character should resemble her.
+> 
+> STORY / 30 BEATS:
+> 1. Extreme close-up: airport departure app flashes a gate change on her phone; her confident smile vanishes.
+> 2. She looks up at an enormous terminal directory, eyes darting between arrows.
+> 3. Whip-pan to her orange suitcase as its wheels spin; she launches into a sprint.
+> 4. Low tracking shot: sneakers pound across a polished airport floor.
+> 5. Overhead shot: she weaves through a crowd with comic precision, suitcase trailing behind.
+> 6. A moving walkway carries her the wrong direction; she runs against it, barely progressing.
+> 7. Close-up: her hair lifts in the airflow; she gives the camera a determined, incredulous look.
+> 8. She steps off the walkway and nearly collides with a slow airport luggage trolley, swerving at the last second.
+> 9. Match cut: she rides an escalator two steps at a time, gripping the handrail and suitcase.
+> 10. At the upper level, she sees two identical corridor signs and hesitates.
+> 11. She chooses the left corridor; a quick push-in reveals a dead-end glass wall.
+> 12. She freezes, blinks, then pivots sharply and dashes back.
+> 13. A janitor's floor-polishing machine glides past; she sidesteps it in a playful near-miss.
+> 14. She spots a small airport shuttle train arriving beyond the glass.
+> 15. Side-tracking shot: she dashes through the doors as they begin to close, suitcase wheels rattling.
+> 16. Inside the shuttle, she catches her breath, then notices the suitcase tag has caught on the door handle.
+> 17. The doors open; she gently frees the tag and hops out.
+> 18. A wide reveal: the correct concourse stretches ahead, glowing with warm daylight.
+> 19. She checks the gate on her phone, then breaks into one final sprint.
+> 20. Long-lens tracking shot: she runs toward the gate while the boarding group is being called.
+> 21. The gate agent begins closing the stanchion; she raises her boarding pass high.
+> 22. Close-up: scanner flashes green; her shoulders drop in instant relief.
+> 23. She wheels the suitcase down the jet bridge, finally walking instead of running.
+> 24. Match cut to airplane cabin: she lifts the orange suitcase into the overhead bin with a satisfied little shove.
+> 25. She drops into the window seat and exhales, eyes closed.
+> 26. Cabin window close-up: aircraft taxiing past runway lights in soft evening glow.
+> 27. The plane lifts into a golden sunset; clouds glow peach and amber.
+> 28. A calm aerial view of the coastline and city lights far below.
+> 29. Cut to arrival: she steps into a beautiful modern hotel lobby at night, still in the same outfit, pulling the same suitcase.
+> 30. Final medium shot in the hotel elevator mirror: she gives herself a tiny exhausted victory salute, then leans her head against the wall with a relieved smile.
+> 
+> VISUAL DIRECTION: High-end photorealistic live-action cinematic travel commercial with a playful comedy tone. Energetic handheld tracking, low-angle wheel and foot inserts, overhead crowd geometry, whip pans, push-ins, rack focus, speed-ramped transitions, brief natural motion blur, polished reflections, convincing airport architecture, believable crowd movement, realistic suitcase physics. Build a clear arc from confusion and frantic momentum to relief and quiet satisfaction. Use seamless match cuts and visual continuity between locations.
+> 
+> EDITING & SOUND: 30 seconds total, approximately 30 crisp rhythmic visual beats, energetic percussion around 145 BPM. Native synchronized sound: phone notification, suitcase wheels rattling, footsteps, moving walkway hum, shuttle doors, scanner beep, jet bridge ambience, aircraft engine rumble, soft arrival ambience. No intelligible dialogue, no narration, no music lyrics.
+> 
+> TECHNICAL: 30 seconds, 16:9 widescreen, 1080p, 24fps cinematic motion, dynamic but readable pacing, consistent character identity and outfit, realistic anatomy and physics, coherent geography and continuity.
+> 
+> NEGATIVE: No subtitles, no captions, no readable generated signage, no legible text, no logos, no extra watermark, no duplicate protagonist, no face morphing, no outfit changes, no suitcase color changes, no distorted hands, no extra limbs, no flicker, no teleporting, no impossible movement, no abrupt unexplained location jumps, no low-detail backgrounds.
