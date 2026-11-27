@@ -1,6 +1,6 @@
 # 动漫
 
-共 17 条。
+共 18 条。
 
 ## 2026-10-25（2）
 
@@ -1160,3 +1160,37 @@
 > Maintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, expressive animation, cinematic New York lighting, dynamic anime speed lines and fluid movement.
 > 
 > Audio: Natural New York street ambience, skateboard wheels rolling, trucks grinding against rails, passing taxis, subway rumbling, city crowds and wind rushing during jumps. No background music.
+
+## 2026-11-27（1）
+
+### 三片雪花的冬天（15 秒）
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@churvikv · [原帖](https://x.com/churvikv/status/2126033604560261371)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：皮克斯风动画短片：欢乐、忧伤、好玩三片小雪花被旋风卷走，又手牵手掉进雪堆里。
+
+> 15-second animated video, one continuous camera shot with NO cuts, the camera smoothly follows the characters through the story so every moment flows into the next. Polished stylized 3D animation in the spirit of a Pixar short, light pastel palette (icy white, pale blue, soft gold, mint), soft daylight, no dark tones, smooth cinematic motion.
+> 
+> <Picture 1> is the storyboard, used ONLY for story order, poses and framing. <Picture 2> is the character identity board: character appearance must match it exactly. No numbers, no text, no panel borders in the video.
+> <Subject 1> SOLTSE from the top row of <Picture 2>: golden-white snowflake girl, joy, glowing sunny crystal rays, amber eyes, little crystal skirt.
+> <Subject 2> KHOLOD from the middle row of <Picture 2>: pale icy-blue snowflake boy, sadness, drooping icicle rays, big grey-blue eyes.
+> <Subject 3> VETER from the bottom row of <Picture 2>: mint-turquoise snowflake boy, fun, curly swirling gust-shaped rays, green eyes.
+> Faces stay round, soft and natural, never stretched, cheeks never puffed. Full bodies visible most of the time, wide and full-body framing.
+> [0-3s] VISUAL: wide shot of a sunny Snow Land; the three snowflakes dance on top of a snowdrift, each in their own style: Soltse twirls joyfully like a little ballerina with golden sparkles, Kholod sways slowly and shyly with a sad little shuffle, Veter breakdances and spins on his hand kicking up snow; behind them a big swirling whirlwind rises on the horizon, Kholod notices it first and freezes mid-dance in horror.
+> 
+> SOUNDS: soft wind chimes, happy giggles, a rising whoosh.
+> 
+> [3-5s] VISUAL: the whirlwind smoothly sweeps all three up; camera rises with them; Soltse laughs with arms wide, Kholod flails in panic, Veter cheers.
+> SOUNDS: whoosh, giggles, a tiny scared squeak.
+> [5-7s] VISUAL: camera circles around Soltse spinning like a joyful top, golden sparkles trailing from her rays, then glides past her to Kholod.
+> SOUNDS: playful twinkling, happy laughter.
+> [7-9.5s] VISUAL: Kholod clings to a thin icicle with arms and legs, swinging back and forth, sighing dramatically with a tragic face; Veter somersaults past him and playfully blows the whirlwind stronger.
+> SOUNDS: creaking ice, a long sad sigh, a cheeky "wheee!".
+> [9.5-11.5s] VISUAL: the thin icicle snaps with a crunch; Kholod flies off; Soltse and Veter grab his hands in mid-air and the three spin together as a laughing ring.
+> SOUNDS: crisp ice crack, gasp, joyful whoosh.
+> [11.5-13s] VISUAL: camera follows them down as they tumble head over heels into a big soft snowdrift; a burst of snow puffs up; only their little legs stick out and kick.
+> SOUNDS: soft "poof", muffled giggles.
+> [13-15s] VISUAL: they pop out of the snowdrift with little snow caps on their heads; Soltse and Veter laugh; Kholod blinks, then gives a tiny surprised smile; snowflakes drift down gently.
+> SOUNDS: snow crunch, warm laughter.
+> [MUSIC] light playful music box and celesta with soft pizzicato strings, bouncy and warm, ending on a gentle sparkling chord.

@@ -1,6 +1,6 @@
 # 广告带货
 
-共 22 条。
+共 23 条。
 
 ## 2026-10-24（1）
 
@@ -1285,3 +1285,28 @@
 > Shopping bags accumulate in sequence: none at first, then one, two, and finally three. The festive outfit appears only in her daydream; the purchased items remain inside the shopping bags in the final scene.
 > 
 > Avoid sudden changes to her face, clothing, or the number of objects. Prevent distorted hands and unnatural anatomy.
+
+## 2026-11-27（1）
+
+### 法棍广告（20 秒）
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@arsalannazir07 · [原帖](https://x.com/arsalannazir07/status/2125980743671435270)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：巴黎传统面包房的二十秒法棍广告：面粉爆炸、烤箱延时、掰开时碎屑飞溅，配上地道法语口播。
+
+> 20-second, 16:9, ultra-photorealistic 4K French baguette commercial. A charismatic middle-aged French baker with grey beard, glasses and white apron in a beautiful traditional Parisian bakery.
+> Explosive Hollywood blockbuster energy, lightning-fast editing, spectacular cinematography, dramatic golden lighting, extreme macro details and dynamic speed ramps.
+> 9 radically different camera shots, no repeated angles:
+> Flour explosion toward a ground-level macro lens.
+> Lightning-fast overhead dough kneading.
+> Extreme macro of stretching gluten.
+> High-speed diagonal tracking shot of baguette shaping.
+> Razor-sharp slow-motion dough scoring.
+> Inside-oven POV: raw baguette enters, oven door closes, realistic time-lapse of bread rising and turning golden entirely inside the closed oven.
+> Dramatic low-angle shot of the baker removing the golden baguette.
+> Baker smiles at camera and says naturally in French: "Ça, mes amis… c'est la vraie baguette française !" Perfect French lip-sync.
+> Epic slow-motion baguette break, crispy crumbs flying, airy crumb reveal, powerful CRUNCH sound, final golden baguette hero shot.
+> Creative match cuts, whip transitions, explosive pacing, realistic physics, authentic French craftsmanship, premium food advertising aesthetics.
+> Natural acting, no CGI look, no repeated compositions. Immersive synchronized sound effects.
+> no music, no subtitle

@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 13 条。
+共 14 条。
 
 ## 2026-10-24（1）
 
@@ -531,3 +531,128 @@
 > 
 > Sound:
 > No music. Only raw production sound: bedding rustling, quiet breathing, a groggy morning exhale, finger taps and scrolls on the phone, the soft thud of the cat landing on the bed, one or two natural meows, faint purring, a single short incoming ringtone, call connection tone, the friend's voice faintly through the phone, the woman's Korean lines with accurate lip sync, genuine brief laughter, a mug clinking, a shirt thrown into a basket, one clear doorbell, the tap ending the call, bare footsteps and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.
+
+## 2026-11-27（1）
+
+### 最后的告别（30 秒）
+
+- **工具**：MAGI-2 · **时长**：30 秒
+- **作者**：@AIwithSynthia · [原帖](https://x.com/AIwithSynthia/status/2126002009656766654)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：冬日火车站，六岁女孩送即将出国工作的父亲：拥抱、低语、列车没入雾中，三十秒写实情感短片。
+
+> Create a 30-second, 1080p ultra-realistic live-action emotional drama about a little girl saying goodbye to her father at a railway station as he prepares to leave for another country to work. Focus entirely on authentic human emotions, realistic facial expressions, natural tears, subtle gestures and heartbreaking silence. Make the scene feel like a real moment captured by a professional film crew. No melodrama or exaggerated acting.
+> 
+> MAIN CHARACTERS
+> 
+> A little girl, approximately 6 years old, with expressive brown eyes, naturally curly dark hair, wearing a yellow sweater, blue jeans and small white sneakers.
+> 
+> Her father, approximately 35 years old, with short black hair, a neatly trimmed beard, wearing a dark winter jacket, jeans and carrying a travel suitcase.
+> 
+> Maintain exact facial identity, clothing, hairstyle, body proportions and appearance throughout the entire video.
+> 
+> LOCATION
+> 
+> A realistic railway station on a cold winter morning. Light rain outside, mist surrounding the railway tracks, passengers waiting with luggage, station announcements echoing softly, a train standing on the platform.
+> 
+> SCENE
+> 
+> The father kneels down in front of his little daughter, holding both her tiny hands.
+> 
+> He gently tells her:
+> "Be a good girl, okay? Daddy will come back soon."
+> 
+> The little girl looks at him without saying anything.
+> 
+> She suddenly wraps both arms tightly around his neck.
+> 
+> Her father smiles gently, trying to hide his emotions.
+> 
+> The little girl whispers:
+> "Please don't go, Daddy."
+> 
+> His smile slowly disappears.
+> 
+> He closes his eyes and hugs her tighter.
+> 
+> Show a realistic close-up of his eyes becoming watery.
+> 
+> The train gives a departure announcement.
+> 
+> He slowly releases the hug and stands up.
+> 
+> The little girl grabs his jacket again.
+> 
+> "Daddy..."
+> 
+> Her voice breaks.
+> 
+> He turns back, kneels down once more and kisses her forehead.
+> 
+> He whispers:
+> "I love you more than anything."
+> 
+> She starts crying quietly.
+> 
+> He picks up his suitcase and walks toward the train.
+> 
+> The little girl remains standing, watching him.
+> 
+> Just before entering the train, he turns around one last time.
+> 
+> She raises her tiny hand and waves.
+> 
+> He waves back, struggling to smile through his tears.
+> 
+> The train slowly begins moving.
+> 
+> The little girl runs alongside the platform for a few steps, waving and crying.
+> 
+> Her mother gently holds her shoulders.
+> 
+> The final shot shows the little girl standing still as the train disappears into the mist.
+> 
+> CAMERA / VISUAL STYLE
+> 
+> Ultra-realistic cinematic live-action photography.
+> 
+> Natural handheld camera movements.
+> Emotional close-ups of facial expressions.
+> Realistic skin texture and imperfections.
+> Physically accurate tears and subtle trembling lips.
+> Natural winter lighting.
+> Shallow depth of field.
+> Authentic railway station atmosphere.
+> Smooth cinematic tracking shots.
+> 24fps, 1080p.
+> 
+> AUDIO
+> 
+> Authentic railway station ambience.
+> Soft train engine sounds.
+> Distant station announcements.
+> Footsteps and suitcase wheels.
+> Natural breathing and quiet sobbing.
+> Realistic dialogue with emotional pauses.
+> 
+> No background music.
+> No narration.
+> 
+> EMOTIONAL DIRECTION
+> 
+> Build the emotion gradually:
+> 
+> Warmth → Affection → Separation → Fear → Tears → Heartbreak → Final goodbye.
+> 
+> Make the audience feel the separation without relying on dramatic music or exaggerated performances.
+> 
+> CONTINUITY / REALISM
+> 
+> Preserve exact character identity throughout.
+> Maintain consistent clothing and hairstyles.
+> Realistic interaction between father and daughter.
+> Natural body movements and physical contact.
+> Consistent tears and facial expressions.
+> No sudden scene transitions.
+> No duplicated characters.
+> No unnatural animation.

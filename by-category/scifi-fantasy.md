@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 32 条。
+共 33 条。
 
 ## 2026-10-24（1）
 
@@ -2114,3 +2114,30 @@
 > 4–8 seconds: Tiny golden lights begin appearing and circling her. The camera slowly pushes in as she notices an enormous glowing golden door floating above the trees.
 > 8–12 seconds: She reaches upward; the door opens with a soft burst of brilliant golden light. Thousands of sparkling stars and luminous particles pour out into the night.
 > 12–15 seconds: The forest transforms into a breathtaking galaxy garden with glowing flowers, floating stars and celestial light. She smiles in wonder as the camera pulls back to an epic wide shot. End on a magical cinematic reveal.
+
+## 2026-11-27（1）
+
+### ⭐ 水晶大教堂（30 秒）
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@LudovicCreator · [原帖](https://x.com/LudovicCreator/status/2126028286048321611)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：雨林中的水晶大教堂在共鸣中向上碎裂，碎片升空、在林冠之上聚成一座旋转的彩绘玻璃光环。
+
+> [Global Setting] 30-second surreal sacred spectacle, 16:9, 4K, photoreal, rich elegant VFX. Deep in a lush tropical rainforest, an enormous cathedral made of translucent crystal rises through the giant trees: tall pointed glass arches, a long nave, stained-glass vaults in soft jewel colors, crystal vines hanging like chandeliers. Vines and moss climb its crystal pillars. Jungle mist drifts between the trees. Calm, sacred atmosphere. No people, no dialogue, no text on screen.
+> 
+> [0–2s] Wide shot from the forest floor. Golden sunlight pours through the glass arches, casting rainbow beams across the vines, ferns and moss. Mist drifts slowly. Total peace.
+> 
+> [2–7s] The cathedral begins to sing: a deep, pure resonance, like a giant crystal glass being played. The light inside the glass pulses gently with the sound. Thin glowing cracks start to spread from within the crystal pillars and arches.
+> 
+> [7–14s] The camera glides slowly forward through the nave. The stained-glass vaults crack in delicate patterns. Suspended crystal vines shatter like chandeliers. But instead of falling, thousands of glowing shards float upward and drift into slow orbit, turning gently in the air, catching the sunlight in prismatic flashes.
+> 
+> [14–22s] The camera rises up through the nave toward the collapsing canopy of glass and leaves. All around it, airborne shards, jungle mist and rainbow light swirl together. Fragments of stained glass pass close to the lens, casting moving colors across the frame. The structure dissolves gracefully, never violently.
+> 
+> [22–30s] The camera emerges above the jungle canopy into open sky. High above the trees, the thousands of glowing shards slowly gather into one immense ring of light, rotating gently in the sky like a suspended stained-glass halo. Rainbow beams fall from it onto the rainforest below, glowing through the mist. Hold on the turning crown of light.
+> 
+> [Camera] One continuous, slow, elegant movement: a wide shot, a glide through the nave, then a smooth vertical rise up through the canopy into the sky. No cuts, no shaky cam.
+> 
+> [Audio] Birdsong, dripping water, soft jungle ambience, then a deep pure crystal resonance growing into a choir-like harmony, delicate tinkling of cracking glass, a soft shimmering whoosh as shards rise, ending in a warm sustained harmonic chord.
+> 
+> [Consistency] Same cathedral, same rainforest, warm golden light. Shards always rise and float, never fall. Elegant, sacred, beautiful destruction.

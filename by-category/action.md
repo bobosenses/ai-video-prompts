@@ -1,6 +1,6 @@
 # 动作
 
-共 32 条。
+共 33 条。
 
 ## 2026-10-24（1）
 
@@ -2243,3 +2243,48 @@
 > Continuous rainfall and occasional thunder outside.
 > Sudden silence immediately before the washing machine's completion beep.
 > Relaxing lo-fi headphone music during the final scene, creating a humorous contrast with the destruction.
+
+## 2026-11-27（1）
+
+### 韩宫超自然对决（30 秒）
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@imMivra · [原帖](https://x.com/imMivra/status/2125968633046466875)
+- **按日归档**：[by-date/2026-11-27.md](../by-date/2026-11-27.md)
+- **概要**：月下雨夜的韩国宫殿庭院，黑衣女战士与巨型魔战士激烈对打，以金蓝冲击波收束。
+
+> KOREAN SUPERNATURAL ACTION BATTLE
+> 
+> Create a 30-second, 1080p ultra-realistic Hollywood-style Korean action battle.
+> 
+> MAIN CHARACTER:
+> A beautiful Korean woman in her early 20s with long flowing black hair, attractive facial features, and an athletic physique. She wears a stylish black mini skirt, fitted black combat top, silver accessories, protective arm guards, and black thigh-high boots. Maintain consistent facial identity and outfit throughout the video.
+> 
+> ENVIRONMENT:
+> An ancient Korean royal palace courtyard at night, illuminated by bright moonlight, golden lanterns, and vibrant turquoise, electric-blue, and golden lighting. Beautiful cinematic rain and reflections.
+> 
+> SCENE 1 (0–5 SECONDS):
+> A gigantic demon warrior in silver and bronze armor suddenly charges toward her with an enormous sword. She performs a fast sideways flip to dodge the attack. His sword smashes into the stone floor. She immediately counters with a powerful spinning kick.
+> 
+> SCENE 2 (5–12 SECONDS):
+> An intense martial arts battle begins. She performs incredible backflips, aerial spinning kicks, sliding dodges, rapid punches, and powerful jumping attacks. The demon continuously swings his sword. Dynamic camera tracking and cinematic slow motion.
+> 
+> SCENE 3 (12–18 SECONDS):
+> The demon releases a massive supernatural energy blast with blue lightning. She gets thrown backward and lands on one knee. Her eyes glow electric blue as golden and turquoise energy surrounds her body. Powerful winds move her hair.
+> 
+> SCENE 4 (18–25 SECONDS):
+> She suddenly disappears in a burst of blue and golden light. Multiple magical afterimages attack the demon from different directions. She appears above him and delivers an incredible aerial spinning kick, sending him crashing through a massive stone gate.
+> 
+> FINAL SCENE (25–30 SECONDS):
+> The demon struggles to stand. She appears instantly in front of him, delivers three lightning-fast strikes, followed by a devastating flying kick. A massive golden and turquoise shockwave erupts. The demon collapses as his sword falls to the ground.
+> 
+> She calmly walks away through the illuminated ruined palace courtyard as the camera pulls backward for an epic cinematic ending.
+> 
+> VISUAL STYLE:
+> AAA Hollywood action movie, ultra-photorealistic live action, realistic martial arts, breathtaking acrobatics, physically accurate movements, consistent characters, realistic rain, detailed environments, bright cinematic colors, spectacular explosions, magical energy, flying debris, dynamic camera movements, and professional slow motion.
+> 
+> AUDIO:
+> No music, narration, or subtitles. Only realistic rain, thunder, sword clashes, punches, kicks, footsteps, breathing, magical energy, and cinematic impact sounds.
+> 
+> IMPORTANT:
+> Maintain the same Korean woman's face, hairstyle, outfit, and appearance throughout. No cartoon effects, anime style, distorted anatomy, extra limbs, or unrealistic movements. Final output must look like a real Hollywood action movie in 1080p.
