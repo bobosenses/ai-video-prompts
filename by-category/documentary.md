@@ -1,6 +1,6 @@
 # 纪实公益
 
-共 14 条。
+共 15 条。
 
 ## 2026-10-24（1）
 
@@ -656,3 +656,61 @@
 > No sudden scene transitions.
 > No duplicated characters.
 > No unnatural animation.
+
+## 2026-11-28（1）
+
+### 三格旅行 Vlog（15 秒）
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@Just_Anika_Here · [原帖](https://x.com/Just_Anika_Here/status/2126167883650847104)
+- **按日归档**：[by-date/2026-11-28.md](../by-date/2026-11-28.md)
+- **概要**：根据参考图做成三格手持旅行 Vlog：夜城自拍、健身房与山顶风景，需上传三格参考图。
+
+> Create a 15-second ultra-realistic live-action travel vlog video from the provided reference image.
+> 
+> IMPORTANT: Preserve the exact three-panel vertical triptych composition from the reference image. Do not merge the panels, remove panels, change the people, or alter their identities, facial features, hairstyles, clothing, or environments. Each panel should behave like authentic handheld vlog footage captured spontaneously on a real camera.
+> 
+> **PANEL 1 — NIGHT CITY / MALE VLOGGER | 0–5 SEC**
+> 
+> The young man is walking through the crowded neon-lit city at night while holding the camera naturally at arm's length in selfie-vlog style. He looks into the lens, smiles naturally, briefly turns his head toward the busy street, then looks back at the camera.
+> 
+> Natural handheld camera movement with subtle arm movement, tiny framing imperfections, realistic walking motion, slight autofocus breathing, authentic background pedestrians moving independently. Neon signs and city lights remain realistic and slightly soft in the background.
+> 
+> He casually says:
+> “Okay, this place is actually insane.”
+> 
+> The delivery should sound spontaneous and conversational, not like an advertisement. Natural Korean-English vlog accent, relaxed breathing, realistic lip synchronization.
+> 
+> **PANEL 2 — GYM / FEMALE VLOGGER | 5–10 SEC**
+> 
+> The young woman is filming herself naturally inside the bright gym. She slightly adjusts the camera position while walking slowly, looks directly into the lens, smiles, then briefly glances toward the gym equipment behind her.
+> 
+> Her hair moves subtly with her movement. Natural blinking, breathing, small facial expressions and realistic body motion. Background people continue their own activities naturally. Daylight coming through the windows changes subtly as the camera moves.
+> 
+> She casually says:
+> “Wait… I actually love this place.”
+> 
+> The voice should feel like a real spontaneous travel/lifestyle vlog, soft and natural, with believable lip movement and no exaggerated acting.
+> 
+> **PANEL 3 — MOUNTAIN VIEW / MALE VLOGGER | 10–15 SEC**
+> 
+> The man is standing at the scenic mountain viewpoint, holding the camera in selfie mode. A gentle breeze moves his hair and shirt slightly. He smiles, briefly turns the camera toward the landscape as if showing the view to the audience, then brings it naturally back toward his face.
+> 
+> Realistic handheld movement, slight camera shake, natural sunlight, atmospheric depth, distant landscape remaining stable and photorealistic. He looks genuinely impressed rather than performing for the camera.
+> 
+> He says:
+> “Yeah… this was definitely worth the trip.”
+> 
+> Finish with him giving a small genuine smile while the camera naturally settles.
+> 
+> **OVERALL STYLE**
+> 
+> Photorealistic real-world travel vlog footage, authentic smartphone/mirrorless handheld camera behavior, natural human motion, realistic skin texture, realistic eye movement and blinking, subtle breathing, physically accurate lighting, natural environmental motion, believable crowd movement and background activity.
+> 
+> Make it feel like **someone actually filmed these moments during a trip**, not an AI-generated cinematic commercial.
+> 
+> Avoid excessive camera movement, dramatic transitions, slow motion, artificial lens flares, perfect stabilization, beauty filters, plastic skin, exaggerated facial expressions, unnatural gestures, overacting, warped hands, identity changes, clothing changes, background morphing, or surreal motion.
+> 
+> Keep the original REC overlay, battery indicator, framing lines, and 4K 60FPS / HD text visually consistent with the reference image throughout the video.
+> 
+> 3:4 or source aspect ratio preservation according to the input image. Continuous realistic motion throughout all 15 seconds.

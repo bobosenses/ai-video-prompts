@@ -1,6 +1,6 @@
 # 广告带货
 
-共 23 条。
+共 24 条。
 
 ## 2026-10-24（1）
 
@@ -1310,3 +1310,58 @@
 > Creative match cuts, whip transitions, explosive pacing, realistic physics, authentic French craftsmanship, premium food advertising aesthetics.
 > Natural acting, no CGI look, no repeated compositions. Immersive synchronized sound effects.
 > no music, no subtitle
+
+## 2026-11-28（1）
+
+### 吐司与草莓酱（20 秒）
+
+- **工具**：Seedance 2.5 · **时长**：20 秒
+- **作者**：@AizaAi12 · [原帖](https://x.com/AizaAi12/status/2126272914752471393)
+- **按日归档**：[by-date/2026-11-28.md](../by-date/2026-11-28.md)
+- **概要**：拟人吐司走进烤面包机，再与草莓酱罐完成一支二十秒食物广告，全程 ASMR、无对白。
+
+> Create a high-quality, ultra-realistic 3D animated food commercial in a vertical 9:16 format, featuring adorable anthropomorphic characters in a beautiful, warm kitchen environment.
+> 
+> VIDEO DURATION: 20 SECONDS
+> 
+> SCENE 1: TOASTING THE BREAD (0–10 SECONDS)
+> 
+> Shot 1 (0–3 seconds): A cute anthropomorphic slice of white bread with big sparkling eyes, rosy cheeks, tiny arms and legs, and a happy smile walks toward a shiny stainless-steel toaster on a wooden kitchen counter.
+> 
+> Shot 2 (3–6 seconds): The adorable bread character climbs into the toaster. The toaster begins heating, with a subtle glowing effect and realistic mechanical sounds.
+> 
+> Shot 3 (6–10 seconds): The toaster pops up, revealing a beautifully golden-brown toasted bread character. The toast looks excited and happy, raising its little arms with a big smile. Gentle steam rises from the warm toast.
+> 
+> SCENE 2: SPREADING STRAWBERRY JAM (10–20 SECONDS)
+> 
+> Shot 4 (10–13 seconds): A cute anthropomorphic strawberry jam jar with big expressive eyes, tiny arms and legs, and a red-and-white checkered lid approaches the toasted bread while holding a small spoon filled with glossy strawberry jam.
+> 
+> Shot 5 (13–16 seconds): A close-up macro shot shows a spoon slowly spreading thick, shiny, delicious strawberry jam over the golden toasted bread. The jam glistens beautifully, with realistic fruit texture and juicy strawberry pieces.
+> 
+> Shot 6 (16–20 seconds): The finished strawberry jam toast appears on a beautiful white plate. The toast has a cute smiling face and looks extremely happy. The strawberry jam jar stands beside it, smiling proudly. Fresh strawberries decorate the table.
+> 
+> VISUAL STYLE:
+> 
+> - Ultra-realistic 3D anthropomorphic food animation.
+> - Adorable cartoon-style facial expressions.
+> - Photorealistic food textures.
+> - Warm, cozy kitchen background.
+> - Cinematic lighting and soft depth of field.
+> - Beautiful golden-brown toasted bread.
+> - Glossy, rich red strawberry jam.
+> - Smooth and natural character movements.
+> - Professional food commercial quality.
+> 
+> AUDIO: ASMR ONLY — NO DIALOGUE, NO VOICEOVER, NO MUSIC.
+> 
+> Include satisfying natural sounds:
+> 
+> - Soft footsteps on the kitchen counter.
+> - Bread entering the toaster.
+> - Toaster clicking and popping.
+> - Gentle sizzling and crispy toast sounds.
+> - Jam spoon dipping into the jar.
+> - Thick jam spreading smoothly over toast.
+> - Subtle plate and spoon sounds.
+> 
+> IMPORTANT: Maintain consistent character designs throughout the video. Keep the bread and strawberry jam jar cute, expressive, and visually identical in every shot. Use smooth transitions, realistic physics, detailed textures, and professional cinematic animation.
