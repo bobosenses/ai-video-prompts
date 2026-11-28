@@ -1,6 +1,6 @@
 # 科幻奇幻
 
-共 33 条。
+共 34 条。
 
 ## 2026-10-24（1）
 
@@ -2141,3 +2141,36 @@
 > [Audio] Birdsong, dripping water, soft jungle ambience, then a deep pure crystal resonance growing into a choir-like harmony, delicate tinkling of cracking glass, a soft shimmering whoosh as shards rise, ending in a warm sustained harmonic chord.
 > 
 > [Consistency] Same cathedral, same rainforest, warm golden light. Shards always rise and float, never fall. Elegant, sacred, beautiful destruction.
+
+## 2026-11-28（1）
+
+### ⭐ 灵魂争夺战（30 秒）
+
+- **工具**：Seedance 2.5 · **时长**：30 秒
+- **作者**：@SerJArt7trp · [原帖](https://x.com/SerJArt7trp/status/2126229054269317547)
+- **按日归档**：[by-date/2026-11-28.md](../by-date/2026-11-28.md)
+- **概要**：昏迷男子的病床边，光明与恶魔为他的灵魂展开三十秒暗黑奇幻对决，以一声开灯和倒吸气收束。
+
+> Seedance 2.5 Prompt — “Battle for a Soul”
+> 
+> 30 seconds, vertical 9:16, 24 fps. Cinematic photorealism, dark fantasy. Set the entire scene around a single bed in a dim hospital room at night. No dialogue, voice-over, or captions.
+> 
+> 0–3s | The hospital room
+> The camera glides slowly along the bed toward a man’s face. His eyes are closed. One hand rests on top of the white sheet. Cold light from the window barely outlines his profile. To the right of his pillow, a bedside monitor shows an ECG trace and a heart rate of 30 BPM. A single beep sounds every two seconds. A shadow appears on the wall to the left of the bed. The camera comes to a stop. The shadow keeps moving.
+> 3–8s | The demon draws out the soul
+> The shadow peels away from the wall and straightens to its full height beside the bed. The demon is tall and gaunt, with long arms. Its face is barely visible. Black smoke drifts across its shoulders. It leans over the man, holds both hands just above his chest, then slowly raises them. A pale, translucent likeness of the patient rises from his body, following the demon’s hands. The soul hovers above the man, whose body lies motionless on the bed.
+> 8–11s | The angel appears
+> The demon draws the soul toward the dark wall. Directly opposite the demon, an angel appears in a brilliant flare. Its form is made entirely of light, its contours traced in luminous lines. Two immense wings spread wide, and a radiant halo hovers above its head. The angel’s light streams across the room toward the demon. The demon lunges first.
+> 
+> 11–21s | The battle in the hospital room
+> From the foot of the bed, the camera keeps both opponents in frame. The soul floats between them, directly above the patient. The demon strikes with its free hand. A wave of black energy rolls off its entire arm, thick as ink, its smoky edge trembling. The angel folds one wing over the soul. Pure white light flares at the point of impact and races from the base of the wing to the tips of its feathers.
+> The angel snaps its wing open and counters with a palm strike. A white flash hurls the demon against the wall. The loop of smoke around the soul’s wrist pulls taut. The demon surges back, gathering darkness in both hands. The camera pushes in as they clash. The angel meets the attack with open palms. For a split second, two waves hang suspended between them, brilliant white on the angel’s side and coal-black on the demon’s. The shock wave billows the curtain and sweeps a sheet of paper off the bedside table.
+> 21–24s | The angel prevails
+> The angel steps forward. White light breaks through the gaps between the demon’s fingers and spills onto the wall behind it. The demon’s silhouette breaks apart into wisps of black smoke. The loop around the soul’s wrist snaps. In the sudden silence, the angel catches the freed soul.
+> 
+> 24–27s | The soul returns
+> The camera lowers gently to pillow level. The angel eases the luminous figure back onto the patient’s body. For an instant, the features of the two faces align perfectly. The soul settles into the body. Beneath the angel’s palm, resting on the man’s chest, the last white spark fades.
+> 27–30s | The first breath
+> A light switch clicks. One by one, the overhead hospital lights come on. The patient is alone. Close on his face. His eyes open and he draws a sudden, deep breath. His chest rises beneath the sheet. His fingers tighten around the fabric. The last thing we hear is the steady beeping of the heart monitor.
+> Sound design
+> Begin with the hum of the ventilation system and the widely spaced beeps of the monitor. A low rumble accompanies the demon’s movements. Each wingbeat carries the rustle of heavy feathers. Deep orchestral bass builds through the fight, then cuts out the instant the demon dissolves. Let the click of the light switch and the sharp intake of breath come through clearly.

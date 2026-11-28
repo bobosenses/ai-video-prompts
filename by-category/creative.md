@@ -1,6 +1,6 @@
 # 创意趣味
 
-共 50 条。
+共 51 条。
 
 ## 2026-10-24（1）
 
@@ -2007,3 +2007,60 @@
 > TECHNICAL: 30 seconds, 16:9 widescreen, 1080p, 24fps cinematic motion, dynamic but readable pacing, consistent character identity and outfit, realistic anatomy and physics, coherent geography and continuity.
 > 
 > NEGATIVE: No subtitles, no captions, no readable generated signage, no legible text, no logos, no extra watermark, no duplicate protagonist, no face morphing, no outfit changes, no suitcase color changes, no distorted hands, no extra limbs, no flicker, no teleporting, no impossible movement, no abrupt unexplained location jumps, no low-detail backgrounds.
+
+## 2026-11-28（1）
+
+### ⭐ 黑五夜的快递员（15 秒）
+
+- **工具**：Seedance 2.5 · **时长**：15 秒
+- **作者**：@Primee32 · [原帖](https://x.com/Primee32/status/2126394066346668527)
+- **按日归档**：[by-date/2026-11-28.md](../by-date/2026-11-28.md)
+- **概要**：晚上八点，快递员推着两米高的纸箱塔爬上结霜门廊，额头顶住滑落的箱子——同一位奶奶的黑五订单还没结束。15 秒 3D 动画喜剧，需上传奶奶参考图。
+
+> FORMAT
+> 15-second native video, 9:16 vertical, 5 shots, real-time speed, no slow motion. 3D animated family-feature style: soft global illumination, warm rim light, stylized proportions with big expressive eyes and rounded shapes, rich detailed textures of knitwear, cardboard, wood, metal, frost and string lights. Cinematic animated short, smooth character animation with strong comedic timing and big readable action.
+> 
+> REFERENCES
+> Image 1 = GRANNY face reference. Image 2 = GRANNY full-body reference. Use both only for GRANNY's face, hair, glasses, earrings, outfit, handbag and cane. Not for background, lighting or pose.
+> Both references in reference mode, not first frame.
+> 
+> REALISM
+> Stylized 3D animation with grounded physics: real weight and momentum. The tower of boxes wobbles realistically, the hand truck tilts back and bumps up the steps one at a time. No superpowers, no magic, no glowing effects.
+> 
+> CHARACTERS
+> GRANNY (Images 1 and 2): about 80, tiny, 1.5 m tall, white hair in a tight bun, small round glasses, small pearl earrings, purple knitted cardigan over a white blouse with a collar, long grey skirt, black comfortable shoes, a small black handbag with a gold clasp on her left forearm, a carved wooden walking cane with a curved handle and a small four-foot base in her right hand. Calm, deadpan, a tiny knowing half-smile. Appears only from Shot 4.
+> COURIER: young man about 25, skinny, tired, messy dark hair sticking out from under his cap, plain orange winter jacket with no logo, plain dark grey cap with no logo, dark trousers, black work boots, grey gloves. Sweaty, red-cheeked, out of breath.
+> No other characters, no animals.
+> 
+> ENVIRONMENT
+> Quiet suburban street on the evening of Black Friday at dusk, sky fading from orange to deep blue, light frost on the grass and the path, breath vapour in the cold air. Neighbouring houses glowing with warm Christmas string lights, a lit-up snowman decoration on a neighbour's lawn.
+> GRANNY'S HOUSE: small cozy two-storey house with a wooden porch and 3 wooden steps. Two orange pumpkins left from Thanksgiving on the steps, a green wreath with a red bow on the red front door, a brass door knocker, a doorbell button on the right of the door frame, warm string lights along the porch roof, a porch light on, a doormat, a small potted fir tree with lights next to the door, frosted windows with warm light inside.
+> VAN: plain white delivery van with no logo and no text, parked at the curb behind the courier, its back doors open, the cargo space packed to the roof with cardboard boxes, a few boxes about to spill out. The van is visible in the background of Shots 1 and 5.
+> BOXES: a tower of 8 plain brown cardboard boxes of different sizes with blank white labels and brown tape, no text, stacked 2 m high on a two-wheel hand truck.
+> HALLWAY: behind the front door, a warm-lit hallway with a coat rack with coats and scarves, a framed picture, a patterned rug. In it stands the big dark grey TV box with no text and no logo on a low flat metal store cart.
+> FIXED GEOGRAPHY in Shots 4 and 5: front door and GRANNY on frame LEFT, COURIER on frame RIGHT on the porch, the van visible in the background on frame right behind him.
+> 
+> TIMELINE
+> 0.0-3.0 Shot 1, wide from the sidewalk: already in motion, the COURIER pushes the hand truck with the 2 m tower of boxes up the frosty garden path toward the porch, the tower wobbling over his head. Behind him at the curb the white van with its open back doors, packed with boxes.
+> 3.0-6.0 Shot 2, medium shot at the porch steps, low angle: he tilts the hand truck back and bumps it up the 3 steps between the pumpkins, one step at a time, grunting. On the last step the top box slides back off the stack toward him, he stops it with his forehead and slowly pushes it back into place with his head.
+> 6.0-8.5 Shot 3, medium shot on the porch: he unloads the boxes next to the front door, building a wall of boxes taller than himself. He steps back, wipes his forehead with his glove, takes a long relieved breath and reaches for the doorbell.
+> 8.5-11.0 Shot 4, medium shot of the doorway: before he touches the bell the door opens. GRANNY stands in the doorway, cane in her right hand, handbag on her left forearm. Behind her in the warm hallway the dark grey TV box on its cart. The COURIER freezes with his finger still raised.
+> 11.0-15.0 Shot 5, medium wide from the side of the porch, GRANNY on frame left, COURIER on frame right, the van in the background: GRANNY looks up at the wall of boxes, then at the COURIER, and taps his arm twice with the handle of her cane. She says her line. The COURIER slowly turns his head and looks over his shoulder at the van full of boxes behind him. Hard cut at 15.0.
+> 
+> CAMERA
+> Shot 1: wide, steady, slight follow. Shot 2: medium, low angle on the steps. Shot 3: medium, steady. Shot 4: medium, slow push-in on GRANNY in the doorway. Shot 5: medium wide, steady. Straight cuts only, no transitions, no zoom effects.
+> 
+> AUDIO & DIALOGUE
+> Quiet evening street, distant dog bark, wind, faint jingle of a neighbour's wind chime, crunch of frost under boots. Rattle of the hand truck wheels on the path, cardboard creaking, three heavy bumps on the steps, a soft thud of the box against his forehead. His heavy breathing. Door lock click and a creak as the door opens, warm indoor sound spilling out. Two soft taps of the cane. No music.
+> 7.6-8.3 COURIER (exhausted, to himself): "Done. Finally."
+> 12.0-13.1 GRANNY (deadpan): "That's the first wave, dear."
+> 
+> CONTINUITY
+> Exact event order: courier pushes the tower up the path, bumps up the steps, top box slides and he stops it with his forehead, unloads the wall of boxes, wipes his forehead, reaches for the bell, door opens before he rings, GRANNY appears, TV box seen behind her, she looks at the boxes and at him, two cane taps, her line, he looks back at the van. The 8 boxes stay as a wall next to the door after unloading. The pumpkins stay on the steps. The van stays at the curb with its back doors open, packed with boxes, from Shot 1 to the end. GRANNY keeps her glasses, earrings, handbag and cane. The COURIER keeps his cap and gloves on.
+> HARD MOMENTS:
+> Steps (3.0-6.0): the hand truck MUST bump up one step at a time. The tower MUST NOT fall apart. Only the top box slides and is stopped by his forehead.
+> Door (8.5-9.0): the door MUST open before his finger touches the bell.
+> Ending (11.0-15.0): GRANNY's face MUST be clearly visible. The van full of boxes MUST be visible in the background when he looks back.
+> 
+> NEGATIVE CONSTRAINTS
+> No text on screen, no subtitles, no captions, no readable text anywhere, no logos, no brand names on the van, jacket, cap, boxes, labels or TV box, no watermarks. No music. No slow motion. No extra characters. No boxes falling and breaking. No injury. No superpowers, no magic, no glowing effects. No duplicate granny, no second courier. No live-action look, no realistic humans.
